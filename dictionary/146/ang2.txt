@@ -1,0 +1,31 @@
+Certainly, SOAP can be overkill for many applications, and REST brings a simpler alternative.-przesada, nadmiar
+some ot these patterns were big time overkill-przesada, nadmiar
+media overkill - natarczywosc mediow
+without SOAP’s hefty XML namespaces-ogromny, mocny (tutaj obszerny)
+URL should identify a resource, not bark a command to the server-szczekac
+I try to avoid terms such as REST service, RESTful web service, and anything similar that incorrectly gives prominence to actions.-znaczenie/waga dzialaniom
+HTML isn’t the appropriate representation of the data. Representation is an important facet of REST.-reprezentacja jest waznym czynnikiem RESTa
+with some guy perched on a stool just like myself-z facetem siedzacym na stolku
+do make sure that other facets are taken into account first- aspekty
+Let’s dig deeper into each of these steps to see what makes ContentNegotiatingViewResolver tick.-Przyjrzyjmy się bliżej każdemu z tych kroków, aby zobaczyć, co wyróżnia ContentNegotiatingViewResolver.
+Specify a default content type to fall back to if a content type can’t be derived from the request.-okreslic domyslny typ do ktorego nalezy wrocic/cofnac jesli typ nie moze pochodzic/zostac wyprowadzonym z requestu
+there is some fallback mechanism-awaryjny
+When using message conversion, DispatcherServlet doesn’t bother with ferrying model data to a view.-dispatcher nie martwi sie przesylaniem/przewozeniem danych do widowku
+But there’s more to a response than the payload. There are headers and status codes that can also provide useful information about the response to the client. | the payload will be rendered into the response body just as if the method were annotated with @ResponseBody-odwzorowac
+they were forced to surrender-poddanie sie, kapitulowac
+As you may surmise, each call to path() builds on the previous calls-jak sie mozesz domyslec ... domyslec, przypuszczac
+All we can do is surmise what was said.-Możemy się domyślać, jak to było.
+But I did surmise that it should be possible.-Ale przypuszczam, że jest to możliwe.
+The three varieties of postForObject() have the following signatures-3 odmiany (w) maja nastepujace sygnatury 
+east=west transit entail bypassing the city centre-jechac, przewozic / objazd, pomijac
+Or a controller handler method can be annotated with @ResponseBody to completely bypass view resolution-calkowicie pominac vidok
+2nd November Timing/Programme/Venue-lokal, miejsce spotkania
+there is a lack of suitable venues in the town-lokal, miejsce spotkania
+boost revenues by increasing sales-podniesc dochody
+there has been drop in our revenue due to our competitors price dumping-wysypisko, wyrzucac, dumping cenowy
+i'm looking for suitable venue to host our annual conference-miejsce, miesce spotkan
+you can lean/rely on spring to handle this-mozesz polegac na springu ze to zalatwi
+it’s easy to see how this Java configuration parallels the XML equivalent.-latwo widziec jak java config odpowiada/podobienstwo xmlelowemu odpowiednikowi
+it is the same class or a base class thereof-jego, tego, ich
+as far i can see it doesn't have any redeeming features-o ile widze
+all these docker flags are the most daunting thing-zniechecajacy

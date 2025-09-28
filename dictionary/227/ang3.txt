@@ -1,0 +1,43 @@
+thus far, we have discussed returning optionals-jak dotad, do tej pory
+we have nothing in common-nie mamy nic wspólnego
+narrow down the data you're retrieving-zawęzić pobierane dane
+Python handles those gritty details behind the scenes-piaszczysty, zwirowaty
+behind the scene, under the hood-pod spodem (to dziala tak ze)
+first I try to do a reconnaissance/research or make decision based on my current knowledge-najpierw staram sie zrobic rekonesans albo na podstawie dotychczasowej wiedzy podejmuje decyzje
+recon, reconnaissance-rekonesans
+You'll have to do recon before you hit the safe.-Będziesz musiała zrobić rekonesans zanim otworzysz sejf.
+One might argue that Dexeter was overzealous. -> Oni mogą potwierdzić, że Dexeter był nadgorliwy.
+overzealous-nadgorliwy
+don't be overzealous (ouwezeles)-nie badz nadgorliwy
+if there are no clear contraindications, I'm in favour of the simplest or clearest solution-jesli nie ma wyraznych przeciwskazań jestem za najprostszym lub najbardziej czytelnym rozwiazaniem
+simply speaking, simply put, in simple terms-prosto mowiac
+ease of deployment-łatwość wdrożenia
+ease-latwosc, lagodzic
+technology heterogeneity (hetrodzenejetyi)-heterogeniczność technologii
+As a general rule of thumb, you should mock/stub all collaborator classes that do the following-ogolna/praktyczna zasada, niepisana zasada, oparta na praktyce
+According to the testing pyramid, as a rule of thumb, 70% of total tests should be pure unit tests-ogolna/praktyczna zasada, niepisana zasada, oparta na praktyce
+a good rule of thumb is to ask-dobrą zasadą jest pytać
+from my perspective, in my view-z mojej perspektywy
+lexus has been a total flop-leksus byl totalna klapa
+flip flops, sandals-klapki, sandaly
+despite the numerous marketing ploys, product eventually flopped and was pulled of the market-taktyka, produkt ostatecznie okazal sie klapa, klapnac; wycofac z rynku
+flop-klapa
+patykiuli-particularly(w)
+I don't have either-Ja też nie mam
+interim response-odpowiedź tymczasowa
+Be sure there will be Daft Punk playing in the interim-tymczasowo, chwilowo, w miedzyczasie
+These are good figures, but of course they can only ever be an interim stage.-Są to dobre dane liczbowe, ale taki stan rzeczy może być tylko przejściowy.
+I have been given the post of interim principal at this school.-Powierzono mi w tej szkole stanowisko tymczasowego dyrektora.
+interim, meantime-przejsciowy, tymczasowy, w miedzy czasie x2
+gunpowder-proch strzelniczy
+there are no infallible people-nie ma ludzi nieomylnych
+No cóż, niechętnie to mówię, ale Zelenka nie jest nieomylny.-Look, as much as I hate to say it, Zelenka's not infallible.
+Nobody is infallible, faultless.-nikt nie jest nieomylny
+infalebyl-infallible (w)
+nouticybyl-noticeable (w)
+this is the only viable solution-to jedyne realne rozwiązanie
+feasible, enforceable, viable-wykonalny
+one solutions is already mentioned. another nifty one would be to-jedno z rozwiązań zostało już wspomniane. kolejny bystry byłby
+a pretty nifty ordered list-lebski, swietny, kumaty
+i have more time to read this nifty book-lebski, swietny
+Optionals are not functional interfaces, instead it's a nifty utility to prevent NullPointerException-sprytny, lebski

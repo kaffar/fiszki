@@ -1,0 +1,21 @@
+using these stocks as collateral for buying more stocks-zabezpieczenie, dodatkowy
+improve code with no collateral damage at all.-dodatkowy, rownolegly, uboczny
+collateral demage, side effect, by=product-dodatkowy/uboczne zniszczenie, efect uboczny, produkt uboczny
+Tables 16 to 20 show the collateral for each public creditor.-Tabele 16 do 20 pokazują zabezpieczenie dla każdego z wierzycieli publicznoprawnych.
+collateral-dodatkowy, rownolegly, uboczny; zabezpieczenie
+this can cause great collateral damage to the type hierarchy-może to spowodować wielkie uszkodzenia uboczne w hierarchii typów
+ancestor of both classes-przodek obu klas
+boarding school-szkola z internatem
+tie, draw-remis
+But if we tie, I win.-Ale jeśli będzie remis, ja wygram.
+film is dubbed-film jest dubbingowany
+try on-przymierzyc
+this failure is quite disconcerting-ta awaria jest dość niepokojąca
+disconcerting-niepokojący, żenujące, w zakłopotanie
+changes are shown in boldface-zmiany pokazano pogrubioną czcionką
+capabilities around each of the boldfaced activities above-pogrobiony
+boldface-pogrubienie
+Brakuje nam personelu, mamy zaległości.-We're running short on staff today, there's a backlog.
+we are running short of supplies-konczy nam sie zaopatrzenie
+I'm running out of/short on ideas-koncza mi sie pomysly
+mixin-it's a type that a class can implement in addition to its “primary type,” to declare that it provides some optional behavior. An example is Comparable interface; "mixed in"

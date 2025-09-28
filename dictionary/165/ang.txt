@@ -1,0 +1,66 @@
+client resiliency/resilience patterns with Spring Cloud and Netflix Hystrix-elastycznosc/odpornosc wzroce
+service is performing poorly-usługa działa słabo
+Using the circuit breaker pattern to conserve microservice client resources-zachowac (zatrzymac), oszczedzic
+Now, I suggest you conserve your energies for tomorrow.-Proponuję zachować swoje siły na jutro.
+Let us stop wasting it; let us conserve this resource.-Przestańmy ją marnować; zacznijmy oszczędzać ten zasób.
+Visual warning shall be by continuous or intermittent signal.-Sygnał wzrokowy jest ciągły lub przerywany.
+The signal was intermittent, like Morse Code.-Sygnał był przerywany, jak alfabet Morsa.
+Degradation of a service can start out as intermittent and build momentum-degradacja serwisu moze rozpoczac sie w sposob okresowy/nieregulany/przerywany i zbudowac ped/impet/rozped
+JVM intermittently runs what is very aptly called a mark=and=sweep algorithm-JVM sporadycznie dziala cojest trafnie nazywane zaznacz i pozamiataj algorytm
+Pronto is intermittently accessible-przerywany
+I hope we can keep this momentum going.-Mam nadzieję, że możemy utrzymać to tempo.
+The degradation might occur only in small bursts. The first signs of failure might be a small group of users complaining about a problem, until suddenly the application container exhausts its thread pool and collapses completely.-Degradacja może nastąpić tylko w małych wybuchach/peknieciach. Pierwszymi oznakami niepowodzenia może być mała grupa użytkowników, którzy skarżą się na problem, aż nagle pojemnik aplikacji wyczerpuje swoją pulę wątków i całkowicie się zalamac/upadek.
+It used often in conjunction with the singleton pattern.-w polaczeniu z/w zwiazku z
+together, altogether-razem, zupelnie/calkowicie
+By the time we got him, he had abandoned his own identity altogether.-Kiedy go dorwaliśmy, całkowicie porzucił swoją tożsamość.
+The property tax is now abolished altogether.-Podatek od nieruchomości został całkowicie zniesiony/obalony.
+stain, strain-plama, napiecie/obciazenie
+strain a muscle-stres, napiecie, naciagnac miesien
+taking on new people would push fresh strain on our already overstretched budget-wziecie nowych ludzi spowowduje nerwowa sytuacje z budzetem
+strains on the health care system-obciazenie systemu
+my muscle was strained-moj miesien byl naciagniety
+emergency-nagly wypadek/sytuacja awaryjna
+The process has not been exactly straightforward.-Cały proces nie był wcale taki prosty.
+I'd prefer to be straightforward and proffer strictly a legal analysis.-Wolałabym, załatwić to w bezpośredni sposób podając tylko prawne analizy.
+proffer-propozycja, zaoferowac
+The calling application or service may degrade gracefully or, more likely, crash because of resource exhaustion.-Aplikacja lub usługa wywołująca może się pogrążać z gracją lub, bardziej prawdopodobne, ulec awarii z powodu wyczerpania zasobów.
+wrinkle, ripple-zmarszczka
+The bomb in downtown LA continues to have ripple effects.-Bomba, która wybuchła w śródmieściu LA, tworzy efekt domina.
+The waves ripple out like when you throw a stone into water.-Fala się rozchodzi kiedy wrzucisz kamień do wody.
+What’s insidious about problems caused by poorly performing remote services is that they’re not only difficult to detect, but can trigger a cascading effect that can ripple throughout an entire application ecosystem.-podstepny, fala/falowac
+insidious-podstepny, zdradziecki (od naznaczony)
+Without safeguards in place, a single poorly performing service can quickly take down multiple applications.-Bez zabezpieczeń/ochrony, jedna słaba usługa może szybko zlikwidować wiele aplikacji.
+client look up all of a service’s individual instances from a service discovery-wyszukac
+You should really look up the word "boring" in a dictionary.-Powinieneś naprawdę sprawdzić znaczenie słowa "nudny" w słowniku...
+If the calls take too long, the circuit breaker will intercede and kill the call.-Jeśli połączenia będą trwały zbyt długo, wyłącznik zainterweniuje i zabije połączenie.
+What kind of brother would I be if I didn't try to intercede?-Jakim byłbym bratem, gdybym nie próbował interweniować?
+St. Christopher, intercede for me.-Święty Krzysztofie, wstaw się za mną.
+return a list of recommendations tailored to that specific user-zwraca liste rekomndacji dostosowana/krawiec do specyficznego usera
+With a bulkhead design, a ship is divided into completely segregated and watertight compartments called bulkheads.-grodzie, statek jest podzielony na calkowicie oddzielne i wodoszczelne przedzialy zwanymi grodziami
+the application will fail fast and prevent resource exhaustion issues that normally shut down the entire application-zapobiega problemom z wyczerpaniem zasobów, które normalnie powodują zamknięcie całej aplikacji (wyczerpanie, wycienczenie, zmeczenie)
+exhaust emissions must meet government standards and the car has to be roadworthy-emisja spalin musi spelnic rzadowe standardy i samochod musi byc dopuszczony do ruchu
+exhaust emission limit-limit emisji spalin
+having identical conversations every day quickly gets wearing-podobne rozmowy kazdego dnia mecza (bocome exhausting)
+It can significantly lessen the risk of a tired operator or application engineer causing greater problems by having them intervene directly (restarting a failed service) in the restoration of the service.-to moze znaczaco zmniejszyc ryzyko zmeczonego operatora albo inzyniera powodujacego wieksze problemy poprzez bezposrednia intervencje w przywracaniu uslugi
+restoration-odbodowa, przywrocenie
+this implementation requires intimate knowledge of threads and thread management-intymny, bliski; ta implementacja wymaga intymnej znajomości wątków i zarządzania wątkami
+Inappropriate Intimacy: Don't Stand So Close To Me | Sometimes classes become far too intimate-intymnosc, bliskosc
+exact same method signature as the originating function-funkcja poczatkowa
+originating-pochodzacy
+originating application-zgłoszenie rozpoczynające proces
+to be on call, to be available for summoning time any time when one is needed-byc na wezwanie, wzywac, przywolywac
+Now, don't you think we tried everything before summoning you?-Nie sadzisz, ze zanim wezwalismy ciebie, sprobowalismy wszystkiego?
+Our business team decided that giving the customer’s older data was preferable to having the customer see an error or have the entire application crash.-jest lepsze/zaleca sie
+one service can saturate whole thread pool and cause resource exhaustion-jedna usługa może nasycić całą pulę wątków i spowodować wyczerpanie zasobów
+This can be a little obtuse, so let’s see a concrete example.-Może to być trochę nudne, więc zobaczmy konkretny przykład.
+obtuse=angled-rozwartokątny
+These capabilities, if used outside of Spring Cloud, can be complex and obtuse to set up.-Te mozliwosci, jesli sa uzywane poza Spring Cloud, moga byc skomplikowane i niepotrzebne w konfiguracji.
+degraded system calls so that the calls fail fast and prevent resource exhaustion.-degradacja, pogorszyc, powodowac degradacje
+Outright failures of a service (for example, the server crashes) are easy to detect and deal with.-w calosci; wyrazny, oczywisty; outright
+we cant use it outright because they have different interface-wprost, wrecz
+information ranges from poor to outright wrong-wrecz, wprost
+(requests per second at peak when the service is healthy * 99th percentile latency in seconds) + small amount of extra threads for overhead-(liczba żądań na sekundę w szczycie, gdy usługa jest zdrowa * 99. procent czasu oczekiwania w sekundach) + mała ilość dodatkowych wątków dla górnego poziomu
+overhead compartment/lockers-place to store hand baggage
+constant overhead-staly narzut
+adding more overhead for data injection-obciazenie, narzut
+cannot afford the overhead processing power-gorny, nad glowa

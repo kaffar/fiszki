@@ -1,0 +1,7 @@
+excessive, superfluous-nadmierny, zbedny
+There is less duplication and the comment has become superfluous.-zbedny
+get rid of ugly comment is superfluous (superflues)-byzbyc sie brzydkiego komentarza bo jest zbedny
+each entry will contain a superfluous reference to the map-nadmierny zbedny
+avoiding the extraneous else blocks along the way-nieistotny, zbedny
+extraneous-irrelevant or unrelated to the subject being dealt with
+each instance will have a hidden extraneous reference to its enclosing instance-zbedny, nieistotny

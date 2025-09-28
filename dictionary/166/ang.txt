@@ -1,0 +1,74 @@
+Capacity increases come in clumps and spikes and are rarely a smooth steady path.-wzrosty pojemnosci przychodza w skupiskach i skokach i zadka sa gladka stabilna sciezka
+I want to pull my hair out in clumps.-Chcę garściami wyrywać włosy z głowy.
+clumps-grudki, garscie, kepy
+load balancers tend to be centralized chokepoints within your application infrastructure-dlawic sie
+commercial load balancers also have restrictive licensing models geared toward a fixed capacity rather than a more variable model.-komercyjne load balancery mają również restrykcyjne modele licencjonowania nastawione na stałą moc, a nie na bardziej zmienny model.
+These four reasons aren’t a general indictment of load balancers-oskarzenie
+they were indicted for fraud-oskarzeni o oszustwo
+A load balancer can lock down inbound (ingress) and outbound (egress) port access to all the servers sitting behind it.-load balancer moze zablokowac wczodzace i wychodzace porty do serwerow znajdujacych sie za nimi
+Client lookup of service address-client wyszukje adres serwisu
+Eureka requires three consecutive heartbeat pings from the service spaced 10 seconds apart before it will say the service is ready for use.-3 kolejne uderzenia serca
+This work is done in preparation for having a service client look up a service from your Eureka registry.-praca jest wykonana w ramach przygotowan do
+I’ve included it in the application.yml for illustrative purposes.-zalaczylem to dla celow ilustracyjnych
+microservices can be started up and shut down at will.-microserwisy moga byc wlaczone i wylaczone do woli/dowolnie
+This warm up period throws developers off because they think that-ten okres rozgrzewki zmyla developerow poniewaz mysla ze
+I wrote a few convenience classes and methods-wygoda
+mismanaged application configuration is a fertile breeding ground for difficult to detect bugs and unplanned outages.-zle zarzadzana konfiguracja aplikacji jest podatnym gruntem dla trudnych do wykrycia błędów i nieplanowanych przestojów.
+I’ve experienced firsthand the dangers of not having a strategy for managing your application configuration data.-doswiadczylem z pierwszej reki niebezpieczenstw
+The company in question had more than 120 applications-firma ta, o ktorej mowa...
+it makes versioning your application configuration data a snap-sprawia, że tworzenie wersji danych aplikacji jest bardzo proste.
+it is doable, but it puts the onus of maintaining this environment on you.-jest to wykonalne, ale nakłada na ciebie obowiązek utrzymania tego środowiska
+Spring Cloud configuration requires an extra piece of middleware running (RabbitMQ).-oprogramowanie posrednie
+you can restart all the servers or containers to pick up the new property-podniesc, odebrac
+there was little leeway to meet new business requirements-swoboda, luz
+Compounding the challenges of using traditional waterfall methodologies-Łącząc wyzwania związane z tradycyjnymi metodologiami wodospadowymi
+But mixing up that HTML in Java code compounds the issue.-mieszanie htmla w kodzie komplikuje sprawe
+Yup, another day inside the Gavin Belson cult compound,prison compound, industrial compound-kompleks przemyslowy; blok wiezienny;
+Or do you make no payments at all, thereby incurring huge, compounding fees?-tym samym zaciagac ogromne zlozone oplaty
+compound issue-zlozony problem
+compound-zwiazek, zlozony
+Extremely high uptime requirements | This reduces overall downtime for applications and makes them more resistant to problems.-niezwykle wysokie wymagania czasu pracy, redukuje calkowity czas postoju i czyni je bardziej odporne na problemy
+This chapter provides you with the foundation you need to target and identify microservices in your business problem-podstawy
+It's really just a foundation type that underpins the entire system, as everything else inherits from it.-fundament;podpierac, podbudowac
+they are the foundations from which fancier fakes evolve-fundament, podstawa / bardziej wyszukane
+The watchwords for the DevOps engineer are consistency and repeatability in every environment.-haslo (przewodnie), dewiza
+By the time the chapter concludes, you'll have-Zanim skończy się rozdział, otrzymasz
+we are going to conclude-konczymy
+Please conclude your survey.-prosze podsumowac/zakonczyc ankiete
+Each chapter concludes with at least 20 Review Questions-konczyc, wyciagac wniosek
+The job of the architect is to provide the scaffolding against which developers will build their code so that all the pieces of the application fit together.-rusztowania
+Builders make changes to buildings by first putting up scaffolding to make their work easier and safer.-rusztowania
+the architect breaks the business problem into chunks that represent discrete domains of activity.-architekt rozbija problem biznesowy na kawalki reprezentujące samodzielny/osobny/odrebny domeny aktywności.
+brainteaser-trudny do rozwiazania problem, zagwozdka, lamiglowka
+And you oughtn't tease me so, clara.-A ty nie powinnam mi tak dokuczac, Claro. (dokuczac, draznic)
+serves as teaser-zagwozdka, zwiastun
+The presence of two discrete data domains is a good indication that multiple microservices are at play.-Obecność dwóch dyskretnych domen danych jest dobrą wskazówką, że wiele mikroserwisów jest w grze.
+Breaking apart a business domain is an art form rather than a black and white science. -Rozbicie domeny biznesowej to raczej forma sztuki niż czarno biała nauka.
+Your goal is to tease apart the existing monolithic application into a set of services.-Twoim celem jest rozdzielenie istniejącej monolitycznej aplikacji na zestaw usług.
+they do their day=to=day work.-oni robia swoja codzinna prace
+procurement position-zamownie (pozycja zamowienia), zaopatrzenie
+A microservice that’s too coarse or fine grained will have a number of telltale attributes that we’ll discuss shortly.-Mikroserwis, który jest zbyt gruboziarnisty lub drobnoziarnisty, będzie miał wiele charakterystycznych cech, które omówimy wkrótce.
+It’s better to start broad with your microservice and refactor to smaller services-jest lepiej zaczac szerzej z twoim microservisem
+If a microservice is too coarse grained, you’ll likely see the following:-prawdopodobnie zobaczysz
+subvert the intention of the architecture.-obalić zamiar architektury.
+server/container sprawl-rozrastanie się serwera / kontenera
+with messy, sprawling, unruly code-zabalaganiony, rozlegly, niesforny kod
+sprawl-rozwalac sie, rozlesc sie
+One common pattern is to prepend all endpoints with a version number.-poprzedzac
+an overly diverse array of business rules.-nadmiernie różnorodny zestaw reguł biznesowych.
+Your microservices will invariably take on too much responsibility-Twoje mikrousługi niezmiennie przyjmą na siebie zbyt dużą odpowiedzialność
+Oftentimes you’ll have relationship between resources-czesto
+Establish your versioning scheme early and stick to it. It’s extremely difficult to retrofit versioning to URLS-Ustal wcześnie swój system wersjonowania i trzymaj się go. Bardzo trudno jest zmodernizować wersję do URLS
+good microservice design doesn’t eschew segregating the service into well defined layers.-dobry design mikroserwisów nie wyklucza segregacji usługi na dobrze zdefiniowane warstwy.
+And don't use the word eschew.-I nie używaj słowa "powstrzymywać".
+eschew-wystrzegać się (czegoś); unikać (czegoś); rezygnować (z czegoś)
+ailing service instances are taken down.-schorowane instancje serwisow sa usuwane
+ailing-dolegliwosc, choroba
+pragmatic-oparty na faktach. czlowiek pragmatyczny kieruje sie faktami i zdrowym rozsadkiem w przeciwienstwie do ludzi kierujacych sie uczuciami
+pragmatic approach-oparty na przekonaniu, że podejmowane działania mają przynosić korzyść; działający zgodnie z takim przekonaniem;oparty na logicznym związku rzeczy, na przyczynowych związkach wydarzeń
+dogmat-twierdzenie przyjmowane za pewne i prawdziwe jedynie na mocy autorytetu osoby, która je wygłasza
+dogmatic-bezkrytyczny wobec tez jakiejś doktryny, wymaganie od uczących się bezkrytycznego przyjmowania przekazywanej wiedzy
+suburb, suburban commuter-przedmiescie, podmiejski dojezdzajacy
+uptown girl-przedmiescia, centrum
+outskirts-peryferia, obrzeza
+prohibit, forbid, disallow, ban-zakazac

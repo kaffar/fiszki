@@ -1,0 +1,25 @@
+her speech seemed completely off the cuff-bez przygotowania
+lengthy-przydlugi
+tentatively on monday-wstepnie
+rural areas-wiejski
+This is fundamentally different from SVN, wherein the working copy is committed to the central repository-przy czym, w ktorym
+deferring integration until they’re at a convenient break point.-odroczyc
+entirely divergent design philosophies-rozbiezne
+the latter can make it hard to see what’s actually going on in your repository-ten ostatni moze sprawic...
+Pronto is intermittently accessible-przerywany
+unplanned Network Outage-przerwa
+so that you never have to worry about irreparably breaking your code base-nieodwracalnie
+Put another way: this obliterates all uncommitted change-innymi slowy:wymazuje, zaciera
+After publishing a commit, you have to assume that other developers are reliant upon it-zalezny
+giving you a clean slate to work with-czyste konto
+Git provides its history=rewriting commands under the disclaimer that using them may result in lost content;disclaim-zrzec sie
+we have a forked project history-rozdwojony
+one person tends to dominate and drone on endlessly on topics no one is interested-rozprawiac, opowiadac o czyms
+we often hold meetings first thing in the morning-czesto meetingi sa pierwsze rano
+squeeze balls, little gizmos-pilki do ugniatania, male gadzety
+toys which are tactile help to engage whole person-namacalny, dotykowy
+great stress reliever-uwalniacz od stresu
+diffuse anxiety and hostility-rozpraszac niepokoj i wrogosc
+toys are our visual aids-pomoce
+we always receive an agenda ahead of time/beforehand/in advance-wczesniej x3
+responsible parties-odpowiedzialne strony

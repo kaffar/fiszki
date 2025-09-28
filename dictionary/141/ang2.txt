@@ -1,0 +1,22 @@
+﻿placeholder-zastepczy, wypelniac,  cos co trzeba zastapic
+Digressing a bit from the subject of properties, Environment also offers some methods for checking which profiles are active-robiac dygresje troche z tematu wlasciwosci
+Essentially, it evaluates to the circumference/circuit of the circle defined in the circle bean.-zasadniczo to ewaluuje do obwodu okregu
+#{scoreboard.score > 1000 ? "Winner!" : "Loser"}-ternary operator
+tinkering with open source projects-majstrowac przy
+There will be more opportunities to tinker with SpEL throughout this book-bedzie wiecej okazji zeby majstrowac przy SpEL w przeciagu tej ksiazki
+But each module also requires similar ancillary functionality, such as security and transaction management.-pomocniczy/dodatkowy; kazdy modul wymaga podobnych pomocniczych/dodatkowych funkcjonalnosci, takich jak bezpieczenstwo i tranzakcje zarzadzanie
+In this case, the aspect’s advice will be woven into all beans;weave-w tym przypadku, aspekt's advice bedzie tkany we wszystkie beany
+You cannot take a selective, circumstantial or expedient approach to them.-Nie można ich traktować w sposób wybiórczy, warunkowy lub doraźny.
+Exceptions are typically considered less disruptive and thus more acceptable, disruption-uciazliwy;zaklocenie
+In his state this treatment is most expedient-właściwy, odpowiedni do okoliczności, wskazany; W jego stanie ta kuracja jest najbardziej wskazana
+thus we get what we want-w ten sposob, dlatego, a zatem
+thus the expedient hack solution was often chosen over the properly designed solution-celowy
+enrich experiences with the power of connected intelligence.-wzbogacic
+sends the request on its merry way to the chosen controller-wesoly
+any attempt would certainly be contrived.-wymyslony, wydumany
+but that was done in haste just so you could exercise your controllers in a web browser.-to bylo zrobione w pospiechu zebys mogl tylko cwiczyc kontrollery w przegladace
+clock chime-kukulka
+Many web applications give the user an opportunity to chime in and send data back to the server.-dac uzytkownikowi okazje do zadzwonienia i wyslania danych spowrotem na serwer
+The one on the left has a slight squint.-Ta z lewej ma małego zeza.
+If you squint really hard so hard that you can’t see the annotations-mrozyc oczy, zez
+Humans poke about on the website in their web browser, reading whatever content the server sends to the browser.-przegladac cos niedbale, niesystematycznie

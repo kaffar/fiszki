@@ -1,0 +1,39 @@
+editor gives some puzzling and ugly results-edytor daje pewne zagadkowe i brzydkie rezultaty
+Several attempts have been made over the years to supplant JSP as the dominant view technology for Java applications.-wypierac, zastapic
+Thymeleaf templates can go places JSPs dare not tread.-thymeleaf idzie w miejsca jsp nie smie kroczyc
+we’ll get to those in due time-wrocimy do nich we wlasciwym czasie
+handful of features-garsc funkcji
+The new request is devoid of any model data in its attributes-pozbawiony czegos
+Spring security: in a large simplification it is based on aspects-w duzym uproszczeniu to jest oparte na aspektach
+I broke my breastbone and bruised ribs, I had operation of sinuses-zlamalem mostek i potluklem rzebra, Mialem operacje zatok
+I can confirm that I would like Pearson Frank to represent me solely in relation to vacancy: UBS 156213BR-wolne stanowisko, miejsce, etat
+My consent/agreement is valid only 2 months starting from now.-moja zgoda jest wazna tylko 2 miesiace
+Well, most of the cultural spread that goes on is not brilliant, new, out of the box thinking.-nie jest genialnym, nowym, nieszablonowym myśleniem.
+tackle it in novel ways-zajac sie w nowatorski sposob/borykac sie
+i'd never tackled anything like that-borykac sie/zajac sie
+in spite of the aforementioned precautions-wyzej wymieniony
+for the position identified by the aforementioned code/label. -wyzej wynieniony
+we wanted to predict if a dwelling is a house or an apartment-mieszkanie
+It's one of many older dwellings demolished-mieszkanie
+dweller-mieszkaniec
+dwell   dwelt   dwelt-mieszkac
+So rather than dwell on the topic any further, ...-zamiest mieszkac w temacie dalej
+cliche-banal, frazes
+dubious-watpliwy
+I see he's taking a new tack.-Widzę, że obiera nowy kurs.
+it’s tacked on to the redirect automatically as a query parameter.-powiazany z redictem automatycznie jako parametr zapytania
+emergency-nagly wypadek
+you know the drill-znasz zasady, drill, musztra
+If you’ve ordered a pizza before, you probably know the drill.-jesli zamowiles pizze, prawdopodobnie znasz zasady
+As discussed, in line with our internal quality procedures-zgodnie z naszymi wewnetrznymi procedurami
+The process of ordering a pizza boils down to a simple flow.-proces zamawiania pizzy sprowadza sie do prostego flowu
+Love is the greatest flaw of humans-milosc to najwieksza wada/skaza ludzi
+Before we get busy writing flows, let’s look at flow data, the remaining member of the web flow triad.-web flow traid
+how the user is granted those authorities = authorisation-w jaki sposob uzytkownik ma nadane uprawnienia
+if the passwords are stored in plain text, they’re subject to the prying eyes of a hacker.-one sa tematem wscibskich oczu hakerow
+it’s important to configure the most specific request path patterns first and the least specific ones (such as anyRequest())-najbardziej specyficzne i najmniej konkretne
+hinder your performance-utrudniac
+we see television characters enabling unhindered access to their apartments and homes.-widzimy postacie telewizyjne umozliwiajace bez przeszkod, swobodny dostep do mieszkan i domow
+ancillary, auxiliary-pomocniczy x2
+it was done in haste/in a hurry-w pospiechu x2
+deprived, dovoid of sth-pozbawiony czegos

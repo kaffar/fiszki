@@ -1,0 +1,42 @@
+hook; she hooked her arm around her opponent's neck and held him down to the ground-zaginac, owijac wokol
+synonymous; the singer's name became synonymous with scandal-synonimiczny, rownoznaczny
+Don't rummage in my bag, man. -> Nie grzeb w mojej torbie, człowieku.
+rummage-grzebać; szperać; szukać; przetrząsać
+if you’d rather that spring not rummage through your classpath looking for any-jesli wolicie aby; szperac w
+rummage; he rummaged through the drawers, trying to find the keys-grzebac, przeszukiwac
+inescapable; he had to confront the inescapable fact that he would have to sell the company-nieunikniony, nieodparty
+concomitant; the move to a foreign country and other concomitant changes depressed her a lot-towarzyszacy, wspolwystepujacy
+inhuman; suddenly we heard some inhuman noise-nieludzki
+void performEncore();-wykonaj bis
+void; his eyes were void of all emotion and he did not seem to even notice me-pozbawiony
+attempting to manage the resulting configuration manually is intractable-trudny, trudny do rozwiazania
+managing configuration manually is intractable-trudny, trudny do rozwiazania
+intractable; the problem of crime in the city seemed intractable-trudny, nieustepliwy, nieugiety
+sketchy; the details of the plan remain sketchy-wyrywkowy, pobiezny, niedokladny
+deluge; we've been deluged with complaints concerning the article-zalewac, zasypywac
+deluge; the deluge of abuse in this company was finally stopped by some legal actions-zalew, lawina
+avalanche-lawina
+arduous-żmudny, ciezki
+' Our journey across the Alps was quite arduous. -> Nasza podróż poprzez Alpy była ciężka.
+arduous; they worked their arduous way up the mining valley-zmudny, ciezki
+particularly auspicious in my running into Vernon-szczegolnie pomyslny
+auspicious; her first album went platinum, which was an auspicious beginning to her solo career-pomyslny, dobrze wrozacy
+apex-wierzcholek, szczyt
+apex; at that time he was at the apex of his career, earning 50000$ a month-szczyt
+we will get a lot of leverage by implementing that instead of home grown iterator-dzwignia, wplyw, wykorzystac
+there’s a considerable amount of power behind them that you can leverage-jest znaczna ilosc energii ktora mozesz wykorzystac
+use microservices to leverage architecture-dzwignia, wplyw, wykorzystac, przewaga
+The solution was not only simple but also elegant, since you leveraged the polymorphism to avoid coupling to concrete node classes.-wykorzystales polimorfizm zeby uniknac przywiazania do konkretnej klasy
+advantage, leverage-przewaga
+leverage the tools in your Java IDE-wplyw, wykorzystac
+and that you and other developers can leverage in future projects.-wykorzystywac, wplyw
+You don't have any leverage. -> Posłuchaj. Nie masz na mnie żadnego wpływu.
+lever; he used the device to lever the boxes with oranges-podwazac, podnosic
+quirks and features; quirky-dziwactwa i funkcje; dziwaczny
+they're quirky-dziwaczny
+quirky indie movie-dziwaczny film niezależny
+it's the quirkiness-dziwacznosc, ekscentrycznosc
+quirk; you'll have to get used to his quirks, like washing his hands every ten minutes-dziwactwo, dziwny nawyk
+Easy. I just have to figure out a reversal spell.-Spokojnie, muszę wymyśleć zaklęcie odwracające.
+Allows reversal (undo) of operations.-odwrocenie operacji
+reversal; we are witnessing a reversal of traditional roles within marriage-odwrocenie, zwrot

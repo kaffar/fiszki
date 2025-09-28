@@ -1,0 +1,132 @@
+questionable design-watpliwy, dyskusyjny, sporny
+in order to account for all cases-w celu rozliczenia wszystkich przypadków
+framework is tireless-niestrudzony
+it's an collective/joint/common achievement-to wspolne osiagniecie
+good grasp of-dobra znajomosc czegos
+and now Mr Korwin Mikke, the floor is yours-oddaje Panu glos
+Take measures to enforce spatial planning.-Podjęcie działań w celu egzekwowania przepisów w zakresie planowania przestrzennego.; egzekwoac!
+strengthen/reinforce/entrench position-wzmocnic pozycje
+objectives/goals/resolutions-cele/cele/postanowienia
+stress/highlight/emphasize-podkreslic
+and you gave it credence (you evidently gave them credence)-dac wiare
+extra, additional complexity-dodatkowa zlozonosc
+Lastly, we've been looking-na koniec; wreszcie
+Revenge from the grave-zemsta zza grobu
+triage-selekcja rannych
+it pisses me off-wkurza mnie to
+i will inform you no later than the end of the day/shift-powiadomie cie nie pozniej niz koniec dnia
+I foresee the defects will be closed tomorrow at the latest-najpozniej jutro
+I've just recalled myself that; I've just remembered that/ about-wlasnie sobie przypomnialem
+at last, at least, the least-w koncu, przynajmniej, najmniej
+to ensure/assure/quarantee consistency-zeby zapewnic spojnosc
+Luckily, the contract ensures our exeption from liability in such cases-na szczescie umowa zapewnia nam zwolnienie z odpowiedzialnosci w takich przypadkach
+ensure, insure, assure-zapewnic; ubezpieczac,zabezpieczyc; gwarantowac
+when use immutable object you are ensured/assured/guaranteed-kiedy uzywasz immutable jestes zapewniony
+but I don’t see a compelling need to do this with the existing modules-zniewalajacy, nieodparty
+your passion is compelling-zniewalajacy, zmuszajacy
+compelling-niezaprzeczalne (zalety) + zniewalajacy, zmuszajacy
+draw your own conclusions-wyciagnij wlasne wnioski
+variations, varieties, various-odmiany, roznice; odmiany; rozny
+variations in slang and colloquial expressions, countless varieties of English, language vary from country to country-różnice w slangu i wyrażeniach potocznych, niezliczone odmiany języka angielskiego, języki różnią się w zależności od kraju
+there are many variations of the proxy pattern and they typically revolve around the control access-obracac sie, krecic sie; zwykle
+purely personal preference-czysto osobiste preferencje
+verbosity-gadatliwosc, wielomownosc
+survivor, survival-niedobitek, przetrwanie
+which is arguably really helpful for survivor; The when: block is arguably the most important part of a Spock test-prawdopodobnie, niewatpliwie
+arguably inspired by the success of Spring-prawdopodobnie, niewatpliwie, bezspornie (pozornie watpliwie ale to blad!)
+By ditching all of the things that Groovy doesn’t need, ContactController is shorter and arguably easier to read.-pozbyc sie, porzucic
+propel, repel/repulse, repellent/repulsive-napedzac; odpychac; odpychajacy
+by virtue of that we have to accept her obnoxious visits.-z tego powodu musimy zaakceptować jej nieprzyjemne wizyty.
+rogue planet-samotna planeta; lobuz
+Rocky gives up the title to avenge Apollo's death-Rocky rezygnuje z tytułu dla pomszczenia śmierci Apolla
+Note also that Spock has an automatic safeguard against Groovy asserts that aren't really asserts-zabezpieczenie/ochrona
+Without safeguards in place, a single poorly performing service can quickly take down multiple applications.-Bez zabezpieczeń/ochrony, jedna słaba usługa może szybko zlikwidować wiele aplikacji.
+depending on the situation, it might improve or worsen the expressiveness of a Spock test-w zależności od sytuacji może to poprawić lub pogorszyć ekspresyjność testu Spocka
+people have been encouraged/urged to-namawiac
+Resist the urge to skip refactoring.-oprzyj sie pokusie
+bourgeois (burzla) class-klasa burzuazyjna
+incline, urge-nachylac, nachylenie, sklaniac sie; zachecac, pragnienie, chec
+contact me on the above (ebaf) telephone number as a matter of urgency-skontaktuj sie na powyzszy numer w trybie pilnym
+the crowd was surging into the hall/surge-wzbierac, naplywac
+Your surgery resulted in a memory lapse.-Wynikiem twojej operacji są zaniki pamięci.
+the spokesman urged ministers to stick with the current scheme-rzecznik wezwał ministrów, by trzymali się obecnego schematu
+urge-wezwac, zachecac, naklaniac as a verb
+And what did your esteemed chief want so urgently?-Czego twój ceniony przełożony tak pilnie potrzebuje?
+For simplicity, I still urge you to use the Java convention-Dla uproszczenia nadal zachęcam do korzystania z konwencji Java
+deduce the expected behavior of the code-wydedukowac, wnioskowac
+Use common sense when you structure Spock tests.-Używaj zdrowego rozsądku podczas tworzenia testów Spocka.
+sanity/insanity-zdrowy rozsadek, zdrowie psychiczne/obled
+always favor using an auto=spec, as it helps keep your tests sane for future changes; This logic seems sane-rozsadny, przy zdrowych zmyslach
+Of course, withing reason, but generally we should omit static/module functions, global variables and so on.-w granicach rozsadku
+Energy consumption is still rising up/keeps growing especially in the cities. Therefore, it became reasonable to produce energy directly in cities.-zuzycie energii nadal rosnie/ciagle rosnie szczegolnie w miastach. Dlatego stalo sie rozsadne produkowac energie bezposrednio w miastach
+Sensible error handling-rozsadna obsluga bledo
+when fallback can be another Hystrix protected call, static data or a sane empty value-rozsadna pusta wartosc
+sane-rozsadny, trzezwo myslacy
+pragmatic-oparty na faktach. czlowiek pragmatyczny kieruje sie faktami i zdrowym rozsadkiem w przeciwienstwie do ludzi kierujacych sie uczuciami
+where possible and withing reason people should be made to clear up their own mess-rozsadnie
+i'm prepared to work overtime but within reason-z rozsadkiem
+If offers a complete portfolio of techniques adaptable to your situation-Jeśli oferuje kompletny zestaw technik dostosowanych do twojej sytuacji
+Given the sheer size of the portfolio it is manually not possible to update these one by one-biorac pod uwage sam rozmiar porfela nie jest mozliwe updatowac jeden po drugim
+portfolio-teczka akcji, portfel
+the trend for companies was to build portfolio with diverse investments-teczka
+conglomerate-zlepek, company with a diverse portfolio of businesses, organisation comprising several companies
+in sequence, sequentially, one by one, in turn-po kolei
+You’ll examine the details of all these techniques in turn in the rest of the chapter. | Each then: block will be evaluated in turn.-po kolei
+Instructing Spock stubs with canned responses-pusszkowany
+canned apples shelf life can be slightly lengthen-trwalosc puszkowanych jablek moze byc lekko wydluzona
+The combination of Spock tests and Serenity is a perfect match, as Spock describes its tests in full English text and complements Serenity well.-idealne polaczenie; uzupelnia
+you are dummy-manekin, atrapa, glupiutki
+dumbbell lunges-hantle pchniecie, wypad
+dump;damp;dumb-wysypisko, wyrzucac, zwalac; wilgoc, wilgotny; glupi
+barbell-sztanga
+forte, a person's strong point, a thing in which person excels-mocna strona, rzeczy w ktorej osoba sie wyroznia
+chinese is not really my forte. Dear.-chinski nie jest do końca moją mocną stroną...
+acting wasn't tommy's forte-mocna strona
+warhead-glowica bojowa
+chinks in the armour-szczeliny w zbroi
+i don't endorse it-nie popieram tego
+rally-wiec, zjazd, rajd
+He was once arguing during some rally that disabled kids should not be studying together with those 'normal' ones-Podczas pewnego wiecu kłócił się, że niepełnosprawne dzieci nie powinny się uczyć razem z tymi "normalnymi"
+postal, postage-pocztowy; oplata pocztowa, znaczek (stamp)
+movie franchise-franczyza, koncesja
+lunar-ksiezycowy
+New Year's Eve-sylwester
+Go easy on the wine/fun, hon.-Nie przesadzaj z winem, kotku.
+We have to go all the way. You need to go all the way.-Musimy iść na całość.
+testament, testimony/will-swiadectwo; testament
+permanent,constant;  recurrent/recurring,repetitive,repeating-stale x2/powtarzajce sie x3
+it's stressful but it is not at all repetitive-powtarzajacy sie
+Writing mindless repetitive testing code is a guaranteed heartache. Don't do it.-bezmyslne powtarzanie kodu
+boring and repetitive process-nudny i powtarzajacy sie proces
+our company serves both businesses and individual professionals-nasza firma sluzy/obsluguje zarowno firmy jak i indywidualnych klientow
+potential exception in retrieving individual/singular deals are ignored-pojedynczy
+client look up all of a service’s individual instances from a service discovery-wyszukac
+headhunt-look for qualified individuals for specific job
+These noble individuals have selflessly given in the pursuit of community and open source excellence. -bezinteresownie;dazenie, poscig;doskonalosc
+it cant be solely individual endeavour-to nie moga byc jedynie indywidualne starania
+bargain for collective or individual advantage-count on, expect
+price is negotiated individually-cena jest ustalana indiwidualnie
+individualistic cultures, collectivist cultures-indiwidualne, zbiorowe kultury
+where: block, which defines the individual scenarios-jednostka, osoba, indywidualny
+According to the testing pyramid, as a rule of thumb, 70% of total tests should be pure unit tests-ogolna/praktyczna zasada, niepisana zasada, oparta na praktyce
+That could account for the thumb.-To mogło mieć wpływ na kciuk.
+As a general rule of thumb, you should mock/stub all collaborator classes that do the following-ogolna/praktyczna zasada, niepisana zasada, oparta na praktyce
+outstretched thumb-rozpoztarty kciuk
+connecting a thumb and forefinger into circle-palec wskazujacy
+Spock is compatible with the SonarQube quality dashboard out of the box.; takes it for granted-w standardzie; przyjąć za rzecz oczywistą
+Well, most of the cultural spread that goes on is not brilliant, new, out of the box thinking.-nie jest genialnym, nowym, nieszablonowym myśleniem.
+provide methods beyond what comes out of the box.-dostarczy metody ponad to co przychodzi w standardzie
+out of the box thinking-niestandardowe, nieszablonowe myslenie
+It works out of the box with no extra configuration-dziala odrazu bez dodatkowej konfiguracji
+provide methods beyond what comes out of the box.-dostarczy metody ponad to co przychodzi w standardzie
+improve application performance by avoiding the database altogether if the data needed is readily available-dane sa latwo, szybko, chetnie dostepne
+and make them readily testable.-latwo, szybko, chetnie
+page is readily accessed-latwo, chetnie
+and make them readily testable.-latwo, szybko
+shuttle-wahadlowiec, statek, lodka
+Among other things, we wanted to understand how they were reading us-miedzy innymi
+1 & 2 = present & future, if I have I will buy, if I had I would buy; 3 = past, if I had had, I would have bought-conditionals
+maximum compatible with the predecessor / with the original-maksymalnie zgodny z poprzednikiem/z pierwowzorem
+maximum compliance with the requirements-maksymalnie zgodny z wymaganiami
+thorough-dokladny, gruntowny
+dashboard, pin board, signboard, blackboard-deska rozdzielcza, korkowa, ogloszen, na krede

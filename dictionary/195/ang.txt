@@ -1,0 +1,113 @@
+team should be independent, autonomous and self=sustaining-zespół powinien być niezależny, autonomiczny i samowystarczalny
+flex; flex one's muscles-zginać, giąć, wyginać; pokazywać swoją siłę, prężyć mięśnie
+in our opinion, it’s still preferable to use a reputable vpn than-naszym zdaniem nadal lepiej jest używać renomowanego/szanowanego VPN niż
+it’s not advisable to tether for long=term use as it can quickly drain your mobile data allowance-nie jest wskazane stosowanie go do długotrwałego użytkowania, ponieważ może szybko obniżyć limit danych mobilnych
+I'm absolutely at the end of my tether.-Znalazłem się w sytuacji bez wyjścia.
+tether-lina, peta, uwiez
+tethering is the act of sharing your phone’s internet connection with another device (not the act of tying an animal to a post...).-tethering to czynność udostępniania połączenia internetowego telefonu z innym urządzeniem (nie jest to czynność wiązania zwierzęcia do postu ...).
+a selection of wifi hacking tools sold online. some are covert, making them easy to carry around or hide. some look no different to normal routers.-wybór narzędzi do hakowania przez internet sprzedawanych online. niektóre są ukryte, dzięki czemu łatwo je nosić lub ukrywać. niektóre nie różnią się od zwykłych routerów.
+covert-tajny
+programming ability to covert data from object type-ukryty, tajny
+There's too much oversight for a covert program.-Zbyt wiele tu niedopatrzeń jak na tajny program.
+criminals can use readily available tools to create wi=fi hotspots to which your device automatically connects-szybko, latwo, chetnie; latwo dostepne narzedzia
+shred and securely destroy unnecessary personal data-szczep, zniszczyc
+we had a love devout without a shred of doubt-pobozny
+shred documents-niszczyc dokumenty
+some occasional misuses of internal data structures-niewlasciwe uzycie
+can also misuse public wifi to install malware on your device and take over your webcam-naduzywac/niewlasciwie uzywac wifi zeby zainstalowac zlosliwe oprogramowanie
+functional programming streams are prevalent throughout the exam and appear in questions on many topics-rozpowszechniony
+identity theft is the most prevalent form of cybercrime.-najpowszechniejsza forma cyber przestepczosci
+code requiring remedial attention promptly-kod wymagajacy naprawczej uwagi niezwlocznie
+if you think you may have become a victim of identity theft, take immediate remedial action.-podejmij natychmiastowe działania zaradcze.
+purport; purportedly-utrzymywać, twierdzić; podobno, rzekomo
+livelihood; earn a livelihood-środki egzystencji, utrzymanie (to earn a livelihood = zarabiać na życie); zarabiać na życie
+it affected me. it affected my livelihood-dotknęło mnie to. wpłynęło to na moje życie/utrzymanie
+identity theft is a modern scourge.-kradzież tożsamości to współczesna plaga.
+scourge-plaga; zmora; utrapienie
+vary, differentiate, distinguish between-rozroznic miedzy
+fingerprint readers and facial recognition cameras, that take away the hassle of having to manually type in passphrases-czytniki linii papilarnych i kamery do rozpoznawania twarzy, które eliminują konieczność ręcznego wpisywania fraz
+you should go through with little hassle-z malymi klopotami
+you might say that one way to circumvent all that hassle from this issue is to make the method static-można powiedzieć, że jedynym sposobem na obejście wszystkich kłopotów z tego problemu jest uczynienie tej metody statyczną
+hassle, hustle-klopot; pospiech, gwar, klopot
+You can't refute facts, evidences-obalac, odpierac(zarzuty)
+which means i will have them at my disposal as well-co oznacza, że mam je również do dyspozycji
+to protect yourself from being implicated in an insider attack-chronić się przed byciem uwikłanym w atak z wykorzystaniem informacji poufnych
+imply; implicate-sugerowac; wplatac, wrobic
+The risk of insider trading by withdrawing a bid should be mitigated.-Należy ograniczyć ryzyko "wykorzystywania/wynoszenie informacji wewnętrznych/poufnych" poprzez wycofanie oferty.
+insider-pracownik dopuszczony do tajemnic służbowych
+to launch a scam that leads to financial gain-uruchomić oszustwo, które prowadzi do zysku finansowego
+integrated tests ara scam-przekret, oszustwo
+I bought sth online and then discovered it was a scam-oszustwo, przekret
+fraud, cheat, scam-oszustwo x3
+disgruntled-niezadowolony; rozczarowany; gderliwy
+a disgruntled employee wanting to cause harm-niezadowolony pracownik, który chce wyrządzić krzywdę
+employee has either fallen out with their employer, been demoted, or is facing the prospect of losing their job-pracownik albo poklocil sie swoim pracodawcą, został zdegradowany lub stoi przed perspektywą utraty pracy
+fall out with somebody-poróżnić się z kimś; pokłócić się z kimś
+seek recognition or notoriety amongst their peers-szukać uznania lub rozgłosu wśród swoich rówieśników
+Teenagers are renowned for enjoying lengthy lie-slawa, slynny
+world renowned hotel-swiatowej slawy,slawny, renomowany
+trawl public social media accounts to get the information they need-trawlowac
+fraudsters are not normally as technically proficient as state=sponsored hackers-Oszuści zwykle nie są tak sprawni technicznie jak hakerzy sponsorowani przez państwo
+bleak-ponury, posepny
+offbeat-niecodzienny
+poignant-wzruszający (moving, touching)
+insight button-przycisk wglądu
+Gaining application insight with the Actuator-wglad
+would you give as insight into the current situation-wglad w obecna sytuacje
+you can find yourself making snap decisions without stopping to fully consider their impact.-możesz podejmować szybkie decyzje bez zatrzymywania się, aby w pełni rozważyć ich wpływ.
+This series of photos provides a snapshot of part of this social change.-migawka
+With a RedisTemplate in place, it’s a snap to configure a RedisCacheManager, as shown next.-z redisem to bardzo proste
+I didn't mean to snap at you-warknac na kogos, pstryknac, trzasnac
+it makes versioning your application configuration data a snap-sprawia, że tworzenie wersji danych aplikacji jest bardzo proste.
+Spring essentially lets you assemble your code together like a set of Lego bricks that snap together.-Spring zasadniczo pozwala ci zestawić kod razem jak zestaw klocków Lego, które łączą się ze sobą.
+snappy language-zwawy jezyk
+to learn a little more about the technology that underpins the concepts being covered.-aby dowiedzieć się trochę więcej o technologii, która leży u podstaw omawianych koncepcji.
+It's really just a foundation type that underpins the entire system, as everything else inherits from it.-fundament;podpierac, podbudowac
+we find dipping in and out at your pace allows you-odnajdujemy zanurzenie i wyjście w twoim tempie
+extra dip of ice cream for me-zanurzyc, chyba galka lodow
+But you have just dipped your toe into the Spring Data pool-zanurzyles pales w basenie/zbiorniku
+some of us are at our best in bustling coffee shops mid=morning; others, sat at home in a comfy chair-niektórzy z nas najlepiej radzą sobie w tętniących życiem kawiarniach rano; inni siedzieli w domu na wygodnym krześle
+reformed criminals-zreformowani przestępcy
+what are you accountable for at work?-za co odpowiadasz w pracy?
+get an indication of its legitimacy-uzyskać wskazanie jego zasadności
+legitimacy-prawowitosc, legalnosc
+there were several signs the fake email was illegitimate-było kilka znaków, że fałszywy email był nielegalny
+illegitimate-nieślubny; z nieprawego łoża; nielegalny
+in an attempt to steal your banking details (how devious).-przebiegly
+A highly immersive online city builder strategy game. -> Bardzo wciągająca gra online budowniczy miasta strategii.
+immersive-wciagajacy
+cybsafe is an immersive online learning experience-cybsafe to wciągające doświadczenie online
+brimming with confidence!-pełen zaufania!
+brimming-przepelniony, przepelniony po brzegi
+reasonably confident-rozsądnie pewny siebie
+somewhat confident-nieco pewny siebie
+only slightly confident-tylko trochę pewny siebie
+not at all confident-wcale nie pewny siebie
+i often have to disregard cyber security practices in order to get my work done.-często muszę lekceważyć praktyki bezpieczeństwa cybernetycznego, aby moja praca została wykonana.
+disregard them totally-lekcewazyc, ignorowac
+In fact, disregarding the SQL String and the line where the statement is created, they’re identical.-w rzeczywistosci, pomijajac/lekcewazyc
+an auction house legally selling ivory has its website defaced.-dom aukcyjny legalnie sprzedający kość słoniową ma swoją stronę internetową zniszczoną.
+it was defaced by a man called-bezczescic,niszczyc
+accountancy firm-firma księgowa
+fill in the blanks-wypełnij puste miejsca
+bad luck, misfortune; unlucky, unfortunate-pech; pechowy
+I'm unlucky today-mam dzisiaj pecha
+How does it affect the system? what are the symptoms of it?-jak to sie objawia w systemie? jakie sa objawy tego?
+obstacle, hurdle, impediment-przeszkoda
+disturbs-przeszkadzacze
+give us insight, overview-daj nam wgląd, przegląd
+ingest vs digest-polknac, spozyc; trawic, strawic
+So the victim just needs to ingest it?-Więc ofiara musi to połknąć?
+ingest large amount of data-połknąc, spozyc
+ingest and process large amount of data-spozyc/polknac i przetworzyc duza ilosc danych
+whatever I'd ingested was already close to operating at full tilt.-cokolwiek spozylem, bylo juz blisko do pracy z pelnym pedem
+shameless-bezwstydny
+it is used to give threads a chance to exit cleanly, as opposed to thread.stop() that is more like shooting the thread with an assault rifle-w przeciwienstwie do; karabin szturmowy
+We're launching a full scale assault on Planet Z.-Odpalamy pełny atak na Planetę Z.
+I'll charge you for the assault on Agent Sunhill.-Jesteś oskarżony o napad na oficer Sunhill
+assault-atak, napad
+thread interruption is a gentle way to nudge a thread.-szturchnac, kuksaniec
+interruption in java is not pre=emptive. put another way both threads have to cooperate in order to process the interrupt properly.-przerwanie w java nie jest wyprzedzające. Inaczej mówiąc, oba wątki muszą współpracować, aby prawidłowo przetworzyć przerwanie.
+pre=emptive-z wyprzedzeniem, wyprzedzajacy, prewencyjny
+Tight coupling yields brittle, hard to change code.-kruchy
+yield-jako rzeczownik: plon, wydobycie, zysk; jako czasowni: przyniesc, dac

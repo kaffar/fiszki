@@ -1,0 +1,18 @@
+entities mimicking tables-imitowac, udawac
+bulk delete do not cascade to related entities irrespective of cascade settings-niezaleznie, bez wzgledu na
+this causes bloated table structure(about table per class hierarchy)-nadety, rozdety
+call has been diverted-skierowany, przekierowany
+it updated database directly, bypassing optimistic locking check-bypass
+single table per class hierarchy, this causes bloated table structure-nadety
+he didnt get away with the crime-nie uniknal kary
+police gathered some evidence against him-zbierac dowody
+trial an accuessed-sadzic oskarzonego
+court of law-sad
+dzery-jury(wymowa)
+kapita panishment-kara smierci
+life imprisonment-kara dozywocia
+release sb on bail-zwolnic za kaucja
+pickpocket-kieszonkowiec
+to feel about/to speak one's mind (She's not afraid to speak her mind)-sadzic o
+frankly speaking-szczerze mowiac
+as a matter of fact-w zasadzie

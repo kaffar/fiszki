@@ -1,0 +1,41 @@
+we have extensively used hashmap-intensywnie używamy hashmapy
+Local gurus inspect each code change extensively before it enters production status-dokladnie, obszernie
+search extensively-szukac na szeroka skale
+separate shards of memory-odlamki pamieci
+shard-odlamek, kawalek
+i.e. divides the data into shards-dzieli dane na kawalki
+concurrenthashmap uses a database shards logic-kawalki, fragmenty
+Do you remember/associate/recongnize that word?-czy kojarzysz to slowo?
+retailers were selected more judiciously-rozwaznie
+judicious-rozsadny
+a discount, a concession-znizka x2
+a transport concession for students-ulga na komunikacje dla studentow
+tax discount due to copyright concession-znizka podatkow w zwiazku ze znizka praw autorskich
+making concessions-ustepstwa
+what concession or compromise-ustepstwo
+make concession;make allowance for sb-zrobic ustepstwo;potraktowac kogos ulgowo, byc wyrozumialym dla kogos
+interruption in java is not pre=emptive-przerwa w java nie ma charakteru wyprzedzającego
+be moving to the new breed of distributed version control systems, such as git-przejść na nowy rodzaj rozproszonych systemów kontroli wersji, takich jak git
+breed bred bred-hodować
+greyhound is a dog breed-hart to rasa psow
+will often be a breeding ground for defects. Irrational actions breed trouble-pozywka, rasa, hodowac, ziemia hodowlana
+mismanaged application configuration is a fertile breeding ground for difficult to detect bugs and unplanned outages.-zle zarzadzana konfiguracja aplikacji jest podatnym gruntem dla trudnych do wykrycia błędów i nieplanowanych przestojów.
+breed-rasa, hodowac
+hashtable is inherently unordered, inherent-wrodzony, z natury, nieodlaczny
+risk inherent to their job-nieodlaczny, zwiazany
+the stake is high so the inherent risk as well-stawka jest duza podobnie jak ryzyko
+Since the state of an immutable object never changes, they are inherently thread safe/inherent-wrodzony, nieodlaczny, tutaj z natury
+there is nothing inherently wrong with this-wrodzony, z natury, nieodlaczny
+(git, hg) is inherently better than centralized version control (like svn)-wrodzony, z natury, nieodlaczny
+by virtue of that we have to accept her obnoxious visits.-z tego powodu musimy zaakceptować jej nieprzyjemne wizyty.
+obnoxious-nieprzyjemny, odpychajacy, obrzydliwy
+his one great virtue-cnota
+The fields in the entity are automatically made persistable "by virtue of their existence" in the entity-z racji swojego istnienia, cnota, zaleta
+most of necessary virtues-cnoty
+virtue-cnota, zaleta
+it tends to remind me of those obnoxious commercials on tv-przypomina mi te ohydne reklamy w telewizji
+so, discounting the ridiculous strawman use case-więc pomijając absurdalny przypadek użycia stracha na wroble
+aj daat it-I doubt it (w)
+limp vs limb-kulec, kulawy, bezwladny; konczyna
+her limbs gloss=varnish-konczyny, polyskujacy lakier
+brain is more resilient than we think-elastyczny, odporny

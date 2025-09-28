@@ -1,0 +1,38 @@
+What's that supposed to mean "on the face of it"? -> Co znaczy "na pierwszy rzut oka"?
+on the face of it, one exception concerns extensibility-na pierwszy rzut oka jeden wyjątek dotyczy rozszerzalności
+Even many of EJB’s most rabid detractors would concede that MDBs were an elegant way of handling messages-nawet najbardziej wsciekli/zaciekli krytycy przyznaliby/ustapic ze MDB byly eleganckim sposobem obslugi wiadomosci
+this strategy expanded the market to thousands of retailers, detracting from the brand's essence of exclusivity-rozszerzac, umniejszac
+subtract vs detract-odjąć vs umniejszyć
+that would detract from the primary material in this item-umniejszac
+array indices-indeksy tablicowe
+this technique works, but it is fraught with problems-ta technika działa, ale jest pełna problemów
+adding new methods to existing interfaces is fraught with risk-dodawanie nowych metod do istniejących interfejsów jest obarczone ryzykiem
+fraught-spiety, napiety, pelen czegos
+life cycle (annual, perennial, or biennial)-cykl życia (roczny, wieloletni lub dwuletni)
+in preference to-zamias
+This life follows you and It clings to you...-przylegac, lgnie do ciebie
+cling-przylegać do
+some programmers who use enums in preference to int constants still cling to the use of bit fields-niektórzy programiści używający wyliczeń zamiast stałych int nadal trzymają się pól bitowych
+we did that primarily using extract method-przedewszsystkim, glownie
+if the elements of an enumerated type are used primarily in sets-glownie, przedewszystkim
+there is no standard term for an ensemble consisting of eleven musicians-nie ma standardowego terminu dla zespołu składającego się z jedenastu muzyków
+Each feign client is part of an ensemble of components that work together-zespol, komplet, stroj
+I didn't have time to put a full ensemble together.-nie miałem czasu, by położyć pełny zespół razem
+ensemble, resemble, reminiscent-zespol, przypominajacy x2
+pluto, erstwhile planet-niegdysiejsza planeta
+star cant withstand its own gravity-wytrzymac
+withstand-wytrzymac
+in addition to rectifying the deficiencies of int enums-oprócz korygowania braków enumow
+deficiency-niedobor
+appearances are deceiving-pozory mylą
+the normal use of generics, exemplified by the collections-dawac przyklad
+it would wreak havoc with the internals of a favorites object-siałoby spustoszenie w wewnętrznych elementach ulubionego obiektu
+changes wrought (wreak wrought or wreaked) by printing-zmiany spowodowane drukiem
+wreak-pomscic, dokonac zemsty, zniszczenia, wyrzadzic
+havoc-spustoszenie, zamieszanie
+the implementation of favorites is surprisingly tiny. here it is, in its entirety-tutaj jest w całości
+The entirety of a resource’s URI should be treated opaquely by basic network=based intermediaries such as HTTP caches.-calosc powinna byc traktowana niewprost
+Not all sequences need to be loaded in their entirety in advance-w calosci z wyprzedzeniem
+entirety-calosc
+you might have erred in determining that it was safe-mogłeś pomylić się stwierdzając, że jest to bezpieczne
+erred-błędny, polelnil blad

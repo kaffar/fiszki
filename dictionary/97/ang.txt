@@ -1,0 +1,20 @@
+notable, notably-godny uwagi, znaczny; zwlaszcza, szczegolnie
+stars don't twinkle-migotac
+This riddle is driving me crazy-zagadka, podziurawiony
+there is only a handful-garstka
+very small and faint star-slaby, zemdlec
+dummy-manekin, atrapa
+entirety-calosc
+scarecrow-strach na wroble; krow, wrona
+allowing it to scale naturally over the course of the project lifespan-w ciagu okresu zycia projektu
+you might be inclined to reuse the parent Pet class-sklonny
+although they could conceivably be much more complex.-choc nie wykluczone moga byc, wyobrazalny, pojac
+The creational patterns simply apply a level of indirection to object creation by creating the object in some other class-niebezposredni
+therefore, the singleton class is effectively final.-skutecznie
+It used often in conjunction with the singleton pattern.-w polaczeniu z
+Oftentimes, builder objects are used once and then discarded-czesto
+building better and more powerful software applications cannot be overstated.-zawyzony
+Given the prevalence of lambda expressions throughout Java 8-powszechne wystepowanie
+if you tilt your head to the side-przechylic
+large metal crate-paczka, skrzynia
+we are moving our elephant to a new and larger enclosure in our zoo-zagroda, ogrodzenie

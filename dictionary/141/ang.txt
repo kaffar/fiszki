@@ -1,0 +1,22 @@
+﻿Development tools get overburdened-narzedzia sa zbyt przeciazone
+Communication between teams is biased by layer experience (or lack thereof)-komunikacja miedzy zespolami jest uprzedzona przez warstwowe doswiadczeni (lub jego brak)
+It shall immediately inform the Commission thereof, stating its reasons.-Informuje ono niezwłocznie o tym fakcie Komisję, wraz z podaniem własnej argumentacji.
+Data sharding can be applied to microservices as needed-W razie potrzeby może być zastosowane szyfrowanie danych
+Microservices are no silver bullet, but may be the best way forward for-micorserwisy nie sa zlotym srodkiem ale moga  byc najlepsza droga ku temu
+arguably inspired by the success of Spring-prawdopodobnie, niewatpliwie
+we have been embarked -rozpoczac cos, przedsiewziac; zaladowanie, zaokretowanie
+A DamselRescuingKnight can only embark on RescueDamselQuests.-rozpoczac, przedsiewziac
+DamselRescuingKnight; RescueDamselQuest-rycerz ratujacy niewiasty/panny/panienki; misja ratowania niewiasty
+Spring has several other tricks up its sleeve for more advanced bean wiring.-spring ma kilka innych trikow w rekawie na bardzie zaawansowane wiazanie beanow
+tests are not inferior and are not disposable-testy nie sa gorsze i nie sa jednorazowe, pozbywalne, do dyspozycji
+I have no (inferiority) complexes regarding my english-nie mam kompleksow mniejszosci na tle mojego ang
+those services are based on an arguably architecturally inferior contract-te serwisy sa oparte na prawdopodobnie, niewatpliwie architektonicznie gorszym kontraktcie
+Of course, this dessert=eating example is contrived to illustrate how autowiring can run into trouble with ambiguity-oczywiscie, ten przyklad jest wymyslony/wydumany zeby zilustrowac jak autowiring moze wpasc w klopoty z dwuznacznoscia
+The code is basically/generally/essentially/substantially finished but at first it has to be tested on the lab with data most proximate to the real/client data.-zasadniczo
+Good timing is essential when working to a deadline-Dobre rozplanowanie czasu jest konieczne jezeli gonia cie terminy
+Essentially, you’re declaring your “favorite” bean.-zasadniczo deklarujesz twoja ulubiona fasolke
+This poses a new ambiguity issue.-to stanowi/stwarza nowy dwuznaczny problem
+optimize performance alongside overall company performance-jak rowniez, obok
+@Qualifier can also be used alongside the @Bean annotation-qualifier moze byc rowniez uzyty obok/jak rowniez bean annotacja
+it’s a good practice to use a trait or descriptive term for the bean-cecha; to dobra praktyka uzywac ceche albo opisowy termin dla beana
+Tarballs produced by the new build plan have versioning aligned with respective release branch (don’t be fooled by the build numbers :) ).-archiwum tar produkowane przez nowy build plan maja versjonowanie zgodne z odpowiadajacym release branchem (nie badz zmylony przez build numbers)

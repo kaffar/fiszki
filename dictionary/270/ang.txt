@@ -1,0 +1,42 @@
+in compliance with plan-zgodny z planem
+maximum compliance with the requirements-maksymalnie zgodny z wymaganiami
+in compliance with the law-z zachowaniem zasad prawa
+should be compatible with, consistent with, in compliance with, in accordance with, in line with-powinien byc zgodny z x5
+adjust, comply, adhere, inline to | inline with, compliant, coherent | adherence, compliance-dostosowac, zgodny, zgodnoscshor
+ask for information about your shortcomings-braki, niedociagniecia
+one of the shortcomings of crud-jedna z wad crud
+and was designed to solve some of maven’s shortcomings-wada, niedociagniecie
+like great glass dome filled with wonder-szklana kopula wypelniona cudami
+dome-kopula
+do the trick, it will not do the trick-zalatwic sprawe
+it is evident that we cannot rely only on environment variables-jest oczywiste, że nie możemy polegać tylko na zmiennych środowiskowych
+evident, evidently, evidence-oczywisty, widocznie, dowód
+proof, evidence-dowod
+impose a solution-narzucic rozwiazanie
+I do not want to impose my proposal as the only one right/legitimate-nie chce narzucac mojej propozycji jako jedynej slusznej
+impose limit-nakladac, narzucac
+impose/enforce a solution-narzucic rozwiazanie
+we have only scratched the surface with the volumes-tylko dotknelismy temat objetosci
+If you truly want a list that you can add or remove items from, you can coerce one by passing the range object into a new list object-zmusic
+simple way to coerce those sequences-zmusic
+Java coerces the lambda into a RowMapper-zmuszac
+coerce-zmusic
+you must manually convert or coerce the value into the right type-musisz ręcznie przekonwertować lub wymusić wartość na właściwy typ
+This land is held on perpetual lease-ta ziemia jest w wieczystej dzierzawie
+perpetual-wieczny, wieczysty, nieustanny
+door handle-klamka
+this ticket is meant to be perpetual and not change statuses during the initial build-ten ticket ma być wieczny i nie zmieniać statusów
+navigate to the config centre menu-przejść do menu centrum konfiguracyjnego
+inform client of their request's overarching result-nadrzędny wynik wniosku
+overarching approach-podejscie nadrzedne
+The overarching aim is to-Nadrzędnym celem jest
+whilst introducing an overarching control structure that will ensure the proper sign=off and promotion of changes-wprowadzając jednocześnie nadrzędną strukturę kontroli, która zapewni właściwe zatwierdzanie i promowanie zmian
+concrete the entrance-zabetonowac wejscie
+this architectural style prescribe certain application structure-przepisac, zalecic, okreslic
+evolved beyond the realm of it-wyelowuowal poza krolestwo
+realm-królestwo, sfera, dziedzina
+a pretty nifty ordered list-lebski, swietny, kumaty
+i have more time to read this nifty book-lebski, swietny
+one solutions is already mentioned. another nifty one would be to-jedno z rozwiązań zostało już wspomniane. kolejny bystry byłby
+Optionals are not functional interfaces, instead it's a nifty utility to prevent NullPointerException-sprytny, lebski
+git repo is a nifty little addition to the volume types-lebski, sprytny, swietny

@@ -1,0 +1,98 @@
+Setting this value too small could mean, the instance may be taken out of traffic because of temporary network glitches-Ustawienie zbyt małej wartości może oznaczać, że instancja może zostać usunięta z ruchu z powodu tymczasowych awarii sieci
+Anything like that ring a bell?-Czy coś z tego brzmi znajomo?
+raut-route(w)
+It was, like, the worst fight/argument/row/quarrel we ever had.-To była najgorsza kłótnia, jaką mieliśmy.
+In your usual quarrelsome way, you've hit a very important but somewhat subtle point.-klotliwy
+And I will get you that paperwork/formalities as fast as I can.-Załatwimy te formalności jak najszybciej się da.
+specifically, exactly, namely-konkretnie
+right now I'm ready and eager to work on another tasks-teraz jestem gotowy i chętny do pracy nad kolejnymi zadaniami
+Our sensors can gather a great deal of data from orbit.-Nasze czujniki mogą zebrać całkiem sporo informacji z orbity.
+But other than that, he's fine.-Ale oprócz tego, czuje się dobrze.
+apart from that/aside from that/besides (not that)-oprocz tego
+blouse, sweatshirt-bluza x2
+I'll take this as a compliment, Thank you for the compliment-potraktuje to jako komplement, Dziękuję za komplement
+The answer is not clear cut, and depends on the isolation level of the transaction-to nie takie wyrazne, jednoznaczne
+Sorry, I digress. digression-Przepraszam, to była taka mała dygresja | dygresja
+You wonder how that is possible.-Ktoś może zastanawiać się, jak to możliwe.
+Stay focused and improve productivity. Easily block any distracting or harmful website. Stop procrastination once and for all!-Zatrzymać zwlekanie raz na zawsze!
+We should not accept continued procrastination: the technological solutions already exist.-Nie możemy zaakceptować ciągłego zwlekania: rozwiązania technologiczne już istnieją.
+such as Dev, Test, Stage, Prod, and the like- i tym podobne
+so we can talk afterwards-więc możemy porozmawiać później
+accumulate, collect, gather, raise-zebrac x4
+heap, stack, pile-kupa, stos, stos
+we have far fewer processes running there-mamy tam o wiele mniej procesów
+if we have a look at this-jeśli przyjrzymy sie temu
+first and foremost-po pierwsze primo
+Colonel O'Neill is first and foremost my superior officer.-Pułkownik jest dla mnie przede wszystkim dowódcą.
+this is obviously a big ticket item-to oczywiscie duzy issue
+Let’s spin up an Ubuntu container with the following command-Zakręćmy pojemnikiem Ubuntu za pomocą następującego polecenia
+Unfortunately we have no chairman for today kittens. Hence cancelling the meeting.-Niestety nie mamy przewodniczącego dzisiejszych kociąt. Dlatego anulowanie spotkania.
+scrawling on it with a black marker pen-bazgrac
+Let's see, that's stagger, stagger, crawl, crawl... No, that's crawl, crawl.-Zatoczyć się, zatoczyć, pełznąć, pełznąć, nie pełznąć, pełznąć, tak...
+You let him crawl inside your head and make a nest.-Pozwoliłeś mu wpełznąć do swojej głowy i uwić gniazdo.
+ffforogli-discuss it thoroughly(w)
+team quest-poszukiwanie,zadanie zespolowe / dazenie
+The ad hoc mechanism for possible financial assistance for Greece serves the immediate need.-Doraźny mechanizm ewentualnej pomocy finansowej dla Grecji służy zaspokojeniu potrzeb natychmiastowych.
+bespoke software development-tworzenie oprogramowania na zamówienie/na miare/ad hoc
+We dont have to wonder how the final message will look like. There should and is test which verifies it-Nie musimy się zastanawiać, jak będzie wyglądała ostateczna wiadomość. Powinien i jest test, który go weryfikuje
+The community is vibrant and contributes to development in different ways, such as opening issues, adding the code, and discussing the framework-zywy, pelen zycia, dynamiczny
+The core container is the basis of the whole Spring ecosystem and comprehends four components core, beans, context, and expression language.-Podstawowy pojemnik jest podstawą całego ekosystemu Wiosennego i obejmuje cztery składniki
+An acclaimed Netflix project, this project provides a circuit breaker pattern implementation.-Ten projekt, będący uznanym projektem Netflix, zapewnia implementację wzoru wyłącznika.
+His first book was written by a brand new, Critically acclaimed children's author.-Jego pierwsz książka napisana była, przez całkiem nowego, budzącego uznanie pisarza.
+Jim was acclaimed, loved, and, above all, trusted.-Jim był podziwiany, kochany, i przede wszystkim godzien zaufania.
+Dad's book has been acclaimed as a bestseller in the international market-Książka taty została okrzyknięta bestsellerem na rynku międzynarodowym
+acclaimed-uznany, doceniony
+ephemeral-ulotny, krotkotrwaly
+Fashion is ephemeral, dangerous and unfair.-Moda jest ulotna, niebezpieczna i okrutna.
+Listen, you said you wanted to do this alone because feelings are ephemeral.-Słuchaj, powiedziałaś, że chcesz być sama, bo uczucia są ulotne.
+Wha'ts in the news at the moment?-Co słychać w wiadomościach?
+Back when that monk album was all the rage.-Wtedy album tego mnicha był na topie.
+UK's Secret Intelligence Service-Tajna służba wywiadowcza Wielkiej Brytanii
+Russian dissident and intelligence officer-oficer wywiadu (człowiek przeciwstawiający się panującej władzy lub ideologii, represjonowany z tego powodu)
+tea laced with a radioactive substance-nasaczony, zmieszany
+Bishop's Mill pub-pub mlyn biskupa
+The woman slumped on a shopping centre bench alongside her father-Kobieta osunęła się na ławkę centrum handlowego obok swojego ojca
+Public health officials are calling on food sellers and manufacturers to cut callories in their products-Urzędnicy zdrowia publicznego wzywają sprzedawców żywności i producentów do cięcia kalorii w swoich produktach
+According to recent figures more than a third of children were obese or overweight-Według najnowszych danych ponad jedna trzecia dzieci była otyła lub miała nadwagę
+daily guidelines-codzienne wytyczne/wskazowki
+None of these guidelines applies to the present case.-Żadne z postanowień powyższych wytycznych nie ma zastosowania w przedmiotowej sprawie.
+reduce portion sizing/dose/serving-zmniejszyć rozmiar porcji
+midday and evening meals-posiłki w południe i wieczorem
+waste consultancy estimates official figures are overestimated/overstated-szacunki dotyczące odpadów odpadowych oficjalne dane liczbowe są zawyżone
+adopt sort of deposit and return schemes on packages-przyjąć rodzaj schematów wpłat i zwrotów na opakowaniach
+deposit-kaucja, wplata, wadium, zlozyc
+the spokesman urged ministers to stick with the current scheme-rzecznik wezwał ministrów, by trzymali się obecnego schematu
+urge-wezwac, zachecac, naklaniac as a verb
+people have been encouraged/urged to-namawiac
+Resist the urge to skip refactoring.-oprzyj sie pokusie
+incline, urge-nachylac, nachylenie, sklaniac sie; zachecac, pragnienie, chec
+contact me on the above (ebaf) telephone number as a matter of urgency-skontaktuj sie na powyzszy numer w trybie pilnym
+the crowd was surging into the hall/surge-wzbierac, naplywac
+Resist the urge to skip refactoring.-oprzyj sie pokusie
+headline, header-naglowek
+I thank all of you on behalf of the police force.-Dziękuję Wam wszystkim w imieniu wydziału policji.
+When I woke up... a paramedic was standing over me.-Kiedy się obudziłem... sanitariusz stał nade mną.
+expression, phrase-wyrazenie, zdanie, connection of several words
+He's basically in a deep catatonic state.-Właściwie jest w stanie głębokiej śpiączki. W spiaczce (coma),unconcious, in bad condition
+coma, comma-spiaczka, przecinek
+high treason-zdrada stanu
+His treason will not be forgotten nor forgiven.-Jego zdrada nie będzie zapomniana ani wybaczona.
+treason, treasure-zdrada, skarb
+poison in the vents of the car-trucizna w otworach wentylacyjnych w samochodzie
+slash spendings-ciac wydatki
+he is not you supervisor, he is your peer-on nie jest twoim przełożonym, on jest twoim rówieśnikiem/na rownej pozycji
+keep a check on sth-check regularly
+They can't enforce laws that don't exist.-Nie mogą egzekwować prawa, które nie istnieje.
+No, sir, you should enforce the law.-Nie, powinien pan egzekwować prawo.
+enforce actions-egzekwowac, narzucac, wymuszac
+I'm hearing an irritating, piercing voice in the back of my head. It's still in the back of our heads-Słyszę irytujący, przenikliwy głos z tyłu mojej głowy.
+dispute claims that they are ferocious-spierac sie, sprzeczac/ brutalny, dziki
+resolve disputes-rozwiazac spory
+It is not a Slovak=Hungarian dispute.-To nie jest spór między Słowacją a Węgrami.
+dispute, undisputed-discussion, disagree | bezdyskusyjny
+dispose a bottle-wyrzucić butelkę
+mugging, mugger-rabunek, rabus
+pickpocketing-kradziez kieszkonkowa
+drug trafficing-przemyt narkotykow
+Injured driver's in stable condition at Desert Palm.-Ranny kierowca jest w stabilnym stanie w szpitalu Desert Palm.
+without further/farther ado (edu)-without furher delay

@@ -1,0 +1,10 @@
+advocate-popierac, zalecac, byc zwolennikiem
+Gradle has to face the entrenched Maven supporters and convince them that the switch offers compelling advantages.-Gradle musi zmierzyć się z zakorzenionymi zwolennikami Maven i przekonać ich, że zmiana ta ma niezaprzeczalne zalety.
+both techniques for eliminating the generic array creation have their adherents-mają swoich zwolenników
+adherent-zwolennik, przylegajacy
+proponent-zwolennik
+backer-sponsor, zwolennik
+supporter, follower, backer, proponent-zwolennik
+I'm in favour of/I'm supporter of-jestem zwolennikiem
+advocate-popierac, byc zwolennikiem
+this idea has gained as many supporters as opponents-ten pomysl zyskal tyle samo zwolennikow co przeciwnikow

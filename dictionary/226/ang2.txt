@@ -1,0 +1,44 @@
+My orders still stand.-Moje rozkazy są nadal aktualne.
+still stands, still valid, still open-nadal aktualne?
+we have an appointment for Saturday, we are settled at 8, are we still on...-jestesmy umowieni na sobote na 8
+But we're still on for our slumber party.-Ale my jesteśmy wciąż umówieni na nasze pidżama party.
+You still on for chess this Thursday?-Jesteśmy nadal umówieni na szachy w czwartek?
+and i find this a pretty cool thing-i uważam to za całkiem fajną rzecz
+The whole chassis weighs less than James May.-Całe podwozie waży mniej niż James May.
+We have found the chassis and engine number of the trucks.-Znaleźliśmy podwozie i numery silnika ciężarówek.
+chassis (szasi)-podwozie (w)
+I'm doing it as a courtesy-robie to grzecznosciowo, w ramach uprzejmosci
+garrage should supply you with courtesy car free of charge-serwis powinien dostarczyc samochod zastepczy za darmo
+courtesy (kertezi)-kurtuazja, uprzejmosc, grzecznosc
+yet need to preclude interference among concurrent threads-wykluczyc zakloceanie miedzy obecnymi watkami
+preclude, exclude, rule out,eschew-wykluczyc x4
+the javabeans pattern precludes the possibility of making a class immutable-wyklucza możliwość uczynienia klasy niezmienną
+discipline does not preclude thought-dyscyplina nie wyklucza myslenia
+this is ordinarily too costly-jest to zazwyczaj zbyt kosztowne
+ordinarily (ordinaryli)-zazwyczaj; zwykle
+a school of fish, a murder of crows, an army of ants, a swarm of bees, a flock of sheep, a herd of cattle, a flotilla of ships, a constellation of stars, a circle of friends-grupa ryb, krokow, mrowek, pszczol, owiec, bydla, statkow, gwiazd, przyjaciol (wazne liczba poj/mnoga)
+cattle-bydlo
+ten commandments-dziesięć przykazań
+i'm looking for suitable venue to host our annual conference-miejsce, miesce spotkan
+suitable, eligible, proper-odpowiedni, nadajacy sie
+be down on sth,be hostile,be averse to-byc wrogim, przeciwnym
+averse-niechetny, przeciwny
+averse; averted-niechetny, przeciwny; uniknac, zapobiegac, odwracac
+averse vs adverse-niechetny, przeciwny vs niekorzystny
+morrison overcomes adversity and wins; adverse-Morisson pokonuje przeciwnosci i wygrywa; niekorzystny
+adverse impact on the performance-niekorzystny wpływ na wydajność
+Then maybe you could wipe that scowl off your face. -> Więc może mógłbyś zdjąć z twarzy ten grymas.
+scowl-groźne spojrzenie, grymas
+scowling-krzywic sie
+The sage acts by doing nothing. -> Mędrzec działa, nie robiąc nic.
+sage-mędrzec; mądry; rozsądny; rozważny
+said sagely-powiedział mądrze
+Get yourself together, Pull yourself together-ogarnij sie
+Why don't you just help yourself and embrace it? -> Pomóż sobie i przyznaj to.
+empower yourself-wzmocnij sie
+tools that would allow me to maintain the nimble and empowering spirit of the tools that I was used to-zwinny, bystry | wzmacniac, uprawniac
+empower grantee to create index-upowaznic
+empower client to do sth-upowaznic klienta do zrobienia czegos
+authorise, empower-upowaznic
+overpower vs empower-obezwladnic, pokonac vs upowaznic
+empower women to certain professions-upowaznic kobiety do pewnych zawodow

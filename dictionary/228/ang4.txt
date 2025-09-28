@@ -1,0 +1,44 @@
+derivatives classes-klasy pochodne
+derivative-pochodny
+derived languages-pochodne jezyki
+analyzing the code is expensive-analizowanie kodu jest kosztowne
+rival company-konkurencyjna firma
+proxy substitutes the orginal object-proxy zastępuje obiekt początkowy
+outbound-wychodzacy
+outbound/inbound fligt-odlot/lot powrotny
+A load balancer can lock down inbound (ingress) and outbound (egress) port access to all the servers sitting behind it.-load balancer moze zablokowac wczodzace i wychodzace porty do serwerow znajdujacych sie za nimi
+in this case the outbound and reply queues-w tym przypadku kolejki wychodzące i kolejki odpowiedzi
+must undergo some internal audit/checking/inspection-musi przejsc wewnetrzny audyt
+permission is required in advance-potrzebne jest pozwolenie z gory
+impede, hinder, hamper, inhibit, obstruct-utrudniac
+hinder your performance-utrudniac
+hamper refactoring-utrudniac refactoring
+how you ever been impeded by bad code-utrudniac
+they obstruct sightlines. they block the views of some older landmarks-zaslaniac, utrudniac
+their size usually inhibits good hierarchy design-hamowac, utrudniac
+more difficult access to newer technologies-utrudniony dostep do nowszych technologii
+career development, professional development-rozwoj zawodowy
+presza-pressure (w)
+czo-chore (w)
+application outages, downtime of the application-przerwy w działaniu aplikacji, przestój aplikacji
+cell outage compensation-awaria, przerwa/odszkodowanie
+outage-awaria, przestoj, przerwa w dzialaniu
+environment outage-awaria srodowiska
+downtime-time during which a person or machine is not working
+Extremely high uptime requirements | This reduces overall downtime for applications and makes them more resistant to problems.-niezwykle wysokie wymagania czasu pracy, redukuje calkowity czas postoju i czyni je bardziej odporne na problemy
+On the other there's a set of anxieties about us having any more downtime, you know-przestoj
+busily, laboriously-pracowicie
+she writes laboriously in longhand at the dining room-ona pisze pracowicie/mozolnie odrecznie w pokoju
+One way is to narrow the change footprint-slad (stopy)
+increases memory footprint-zwiększa powierzchnię pamięci
+newbie-nowicjusz, zoltodziob
+apprenticeship, internship-praktyki zawodowe
+tutor, coach, mentor of professional practice-opiekun praktyk zawodowych
+cost is unlikely to be noticeable in practice-w praktyce jest mało prawdopodobne, aby koszt był zauważalny
+but even in the heyday of swing and awt, this facility was little used in practice-nawet w szczycie, ten obiekt był mało wykorzystywany w praktyce
+our system must synchronize with it regularly-nasz system musi sie z nim regularnie synchronizowac
+regularly, on a regular basis, periodically-regularnie
+it revolves around risk and finance domain-obraca się wokół dziedziny ryzyka i finansów
+We did it with a hammer; with, using, by-za pomoca
+it was done thanks to hard work; thanks to, bacause of-dzieki temu
+hajrarki-hierarchy(w)

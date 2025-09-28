@@ -1,0 +1,32 @@
+in practice it generally boils down to the same thing-sprowadzac sie
+we have variety of those (w werajeti)- roznorodnosc (w)
+equivalence of the hashcode as well-rownowaznosc
+piece, peace-kawalek, pokoj
+that's really strict (o tranzakcji)-scisly, surowy
+that's a little harsh-trudny, szorstki
+embedded datasource-zawarty, wbudowany, osadzony
+uniformly-jednolicie
+managing on our behalf-w naszym imieniu
+let me magnify that a bit-zwiekszyc
+working with properietary api directly-wlasnosciowy, zastrzezony, firmowy
+serves as teaser-zagwozdka, zwiastun
+do not throw dregs, leaves into the kitchen sink-nie wrzucac fusy z kawy, resztki do zmywka
+yummy pastries made by our colleagues with charity fund raising-pyszne wypieki/ciasta, zdobywanie pieniedzy na charytatywnosc/podwyzka, podniesc
+the exam is fond of carving up a single statement and identifying the pieces with a comment-kroic, rzezbic, tutaj wyciac
+This time we have all three parts of the stream pipeline.-rurociag
+In Java 8, Oracle completely revamped how we work with dates and times.-reorganizowac, zmodernizowac
+is eligible for-kwalifikuje sie, nadaje sie
+This is scarcely a hardship given that it is bad practice to reassign-rzadki, ledwo, trudnosc, To ledwie trudnosc zwazywszy ze przypiswyanie to zla praktyka
+Number crunching-chrupanie
+Since null checks are kinda cumbersome and painful-nieporeczny, uciazliwy
+this eclipse version has been outfitted with development tools-wyposazony
+facilitate-ulatwiac
+demystify spring boot-wyjasniac
+underneath the hood-pod maska
+We can use arbitrary interfaces as lambda expressions as long as the interface only contains one abstract method.-dowolny, losowy
+Optionals are not functional interfaces, instead it's a nifty utility to prevent NullPointerException-sprytny, lebski
+LocalDate represents a distinct date, e.g. 2014.03.11-rozny, wyrazny
+distinct,distinction, distinctive, distinclty-rozny, wyrazny/roznica, wyroznienie/wyrozniajacy/wyraznie
+A naive approach would be to execute the operations horizontally one after another-naiwny
+map will be called as few as possible-metoda bedzie wolana tak malo jak mozliwe
+Backed by short and simple code samples you'll learn how to use default interface methods-poparty, wspierany przez

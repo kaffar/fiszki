@@ -1,0 +1,40 @@
+jest jakies przeciwskazanie do tego?-is there any contraindication to this?
+contradiction; contraindication-sprzecznosc; przeciwskazanie
+most of the development time spend will be tied to the prerequisite = event generation-warunek wstepny
+may not be that intrusive if aspects are used-może nie być tak nachalny, jeśli zostaną użyte aspekty
+intrusive-natretny, nachalny
+I want to be supportive, not intrusive. -> Nie chcę być wścibski, lecz pomocny.
+folks rack up excess minutes by talking too much-nibijac, nazbierac
+luggage rack-polka na bagaz
+rack-stojak, wieszak, stelaz, polka
+when a client reaches its quota, the broker will start throttling the client’s requests-gdy klient osiągnie limit, broker rozpocznie ograniczanie żądań klienta
+which makes the compression futile-co czyni kompresję daremną
+All attempts to reconcile the two managers were futile-wszystkie proby pogodzienia 2 managerow okazaly sie bezowocne/daremne
+As the futile attempts by the police to catch the notorious Taxi Killer-daremne proby
+but the workload may be skewed-ale obciążenie pracą może być wypaczone
+skew-krzywy, wypacyc
+If you shoot him, you may skew the results. -> Jeśli go postrzelisz, możesz wypaczyć wyniki.
+sticky-lepki
+it makes it a good fit for use-dzięki temu nadaje się do użycia
+upper bound-górna granica
+boundary conditions and edge cases-warunki brzegowe i przypadki brzegowe
+bind bound bound-przywiazywac
+object not bound by any restriction-obiekt nie ograniczony żadnymi ograniczeniami
+she was bound to contact the police-ona musiala/byla zmuszona skontaktowac sie z policja
+bounded stack-ograniczony stos
+bummer-porazka, pech
+That's a bummer, but easily remedied. -> A to pech, ale łatwo temu zaradzimy.
+it is also remnant of jap-to także pozostałość po Japonii
+remnants-pozostalosci, resztki
+Note the remnants of skin tissue and blood under the fingernails. -> Zwróć uwagę na pozostałości tkanki skóry i krew pod paznokciami.
+abandon the plan-porzucic plan
+turnover is quite high-obrót jest dość wysoki
+staff turnover-the ratio of the number of workers that had to be replaced in a given time period to the average number of workers
+turnout vs turnover-frekwencja/obrot vs obrót/rotacja
+turnover, amount of money passing through the business-obrot w biznesie
+America was called after British merchant-kupiec, handlarz
+merchandiser, traider-handlarz
+application outages, downtime of the application-przerwy w działaniu aplikacji, przestój aplikacji
+cell outage compensation-awaria, przerwa/odszkodowanie
+outage-awaria, przestoj, przerwa w dzialaniu
+environment outage-awaria srodowiska

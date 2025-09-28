@@ -1,0 +1,101 @@
+battle hardened microservice capabilities from premier cloud companies like Netflix and Consul.-Bitewne wzmocnione możliwości mikroserwisowe wiodących firm cloudowych, takich jak Netflix i Consul.
+These capabilities, if used outside of Spring Cloud, can be complex and obtuse to set up.-Te możliwości, jeśli są używane poza Spring Cloud, mogą być skomplikowane i niepotrzebne w konfiguracji.
+they’ve experienced solid revenue growth on platforming their core product from a monolithic on=premise=based application-Doświadczyli oni znacznego wzrostu przychodów z monolitycznej aplikacji na terenie lokalu
+basic premise of the book was a crock of shit.-podstawowe zalozenie ksiazki to kupa gowna
+football pitch on the premises-tereny
+Today I was supposed to send an email about moving the release used emulators to Nokia premises based on wiki-lokal, miejsce, teren
+escort sb of the premises-wyprowadzic kogos z terenu lokalu
+I submit that is a faulty premise.-Twierdzę, że to błędne założenie/przeslanka/przypuszczenie
+rent the premises-wynająć lokal
+precedent for approval-precedens do zatwierdzenia
+they don't affect overall functionality-nie wpływają one na ogólną funkcjonalność
+Her vigilance has kept you both alive.-Jej czujność zachowała was obie przy życiu.
+But overall, your body is in good proportion.-Ale wogóle, Twoje ciało ma dobre proporcje.
+This will result in overall cost savings for many businesses.-Spowoduje to ogólny spadek kosztów dla wielu przedsiębiorstw.
+the document fields will have the same names as their Java property counterparts. / equivalent-odpowiednik x2
+counterparty-kontrahent, strona
+Nigel Nesbitt, my British counterpart.-Nigel Nesbitt, mój brytyjski odpowiednik.
+there was little leeway to meet new business requirements-swoboda,luz
+I think he deserves some leeway.-Myślę, że należy mu się trochę luzu.
+Just some leeway to check it out.-Trochę luzu, żeby to sprawdzić.
+folds of the brain-fałdy muzgu
+spinal cord-rdzen kregowy
+despite many advances in modern science-pomimo wielu postępów we współczesnej nauce
+down=market-relating to cheaper sector of the market
+It's all downhill when you turn 40-po 40stce jest trudniej
+extracts from the text/article-wyciagi/wycinki z tekstu
+it's purely down to you-to zalezy wylacznie od ciebie
+penniless, destitute-bez grosza, bez srodkow do zycia
+be down on sth,be hostile,be averse to-byc wrogim, przeciwnym
+Stewards looks down in the mouth-unhappy
+downtime-time during which a person or machine is not working
+misfortune, bad luck, misery-nieszczescie
+we gave the owners down payment to stop them selling the house-zaliczka
+moderate drinking doesn't impact health-umiarkowane picie nie wpływa na zdrowie
+according to popular culture and quizzes-według popularnej kultury i quizów
+brain is more resilient than we think-elastyczny, odporny
+leisure activities makes happy-zajęcia rekreacyjne sprawiają radość
+miserable-nieszczesliwy, zalosny
+down in the dumps-feeling miserable or unhappy
+tests are not inferior and are not disposable-testy nie sa gorsze i nie sa jednorazowe, pozbywalne, do dyspozycji
+I never said you were inferior-Nie mówiłam, że jesteś gorszy.
+And stop talking like you're inferior.-I przestań mówić ze mną jak jakiś podwładny.
+inferior-nizszy, podwladny, gorszy
+draw meaningful conclusions-wyciągnąć sensowne wnioski
+leak, leakage-wyciekac, wyciek
+Not quite. I am Hercule Poirot, the famous Belgian sleuth.-Niezupełnie, jestem Hercule Poirot, słynny belgijski detektyw, szpieg, tropic, pies policyjny
+retain information orally, visually or by listening-zachować informacje ustnie, wizualnie lub przez słuchanie
+students revised their assessed learning styles-studenci przejrzeli (powtarzac, poprawiac) swoje ocenione (oszacowac) style uczenia
+trying to debug where a problem is occurring can be maddening-próba debugowania, gdzie występuje problem, może być denerwująca (rozwcieczac, doprowadzac do szalu)
+Manage the propagation of the correlation ID to outbound service calls-wychodzace wywolania
+This is an extremely laborious task, especially if the services in question have different transaction volumes-Jest to niezwykle pracochłonne zadanie, zwłaszcza jeśli dane usługi mają różne wielkości transakcji
+Zipkin is an invaluable tool for identifying performance issues in a microservices architecture-Zipkin jest bezcennym, nieocenionym narzedziem
+Because every query might be different, you often end up with a large proliferation of custom scripts for querying data from your logs.-rozrost, rozprzestrzenianie sie
+Prolong the recovery of a down service process because the developer needs to back up the logs residing on a server. If a server hosting a service crashes completely, the logs are usually lost.-Przedłużyć proces przywracania usługi, ponieważ programista musi wykonać kopię zapasową dzienników znajdujących się na serwerze. Jeśli serwer obsługujący usługę ulega awarii, dzienniki są zwykle tracone.
+Open source Commercial Typically implemented on premise-realizowane na terenie/w lokalu
+to have some degree of cognitive impairment-mieć pewien stopień upośledzenia poznawczego
+impair, impairment-zaburzac, oslabiac, uposledzac
+latest breakthrough is another stride forward in finding out how-Ostatni przełom to kolejny krok naprzód w odkrywaniu jak
+stride  strode  stridden-kroczyc
+these findings are of considerable practical relevance-odkrycia te mają istotne praktyczne znaczenie
+onset of dementia-poczatek (wystapienie, pojawienie sie)
+the recent research sought to answer the question-ostatnie badania szukaly/dazyly odpowiedzi na pytanie
+how to memorize/remember new words?-jak zapamietac nowe slowa
+and the other way round,and vice versa, conversely-i odwrotnie/na odwrot
+brainwave, brainchild, idea-pomysl
+This evening's charity was his brainchild.-To spotkanie charytatywne było jego pomysłem.
+serves as teaser-zagwozdka, zwiastun
+brainteaser-trudny do rozwiazania problem, zagwozdka, lamiglowka
+And you oughtn't tease me so, clara.-A ty nie powinnaś mi tak dokuczać, Claro. (dokuczac, draznic)
+brain drain-drenaż mózgów (odpływ osób inteligentnych i wykształconych z kraju)
+proximate-najblizszy, bliski, bezposredni
+Kindly provide all your support to Susan (she will be chasing some of you for approval)-Uprzejmie proszę o wsparcie dla Susan (ona będzie ścigać niektórych z was do zatwierdzenia)
+signed=off FRD (with incorporated comments from dev leader)-podpisane FRD (z włączonymi komentarzami od lidera dev)
+incorporate in my active vocabulary/start using this expression-wlaczyc do aktywnego uzycia
+The module incorporates many-wcielac
+Immediate recall of all base personnel.-Niezwłoczne odwołanie personelu z pełnienia swoich funkcji we wszystkich bazach.
+@Repository is most likely redundant here-@Repository jest najprawdopodobniej nadmiarowy tutaj
+I have to recall today's Kittens-musze odwolac 
+In conclusion, Parliament recalls the discussion on collective redress.-Podsumowujac, Parlament przypomina dyskusja na temat roszczen zbiorowych.
+reminds, resembles, recall-przypomina
+As you'll recall from chapter 15-jak sobie przypomnisz z rozdzialu 15
+To understand the AMQP messaging model, it may help to briefly recall the JMS messaging model-przypomniec, zwrocic (do fabryki)
+cheers, bye-czesc, na zdrowie, owacje
+overhead compartment/lockers-place to store hand baggage
+compartment-przedzial
+permission, clearance, approval-pozwolenie
+if i was in full=time job, my parents would give me an allowance-kieszonkowe, dodatek
+make concession;make allowance for sb-zrobic ustepstwo;potraktowac kogos ulgowo, byc wyrozumialym dla kogos
+Daily allowances & meal reimbursement-dodatek, dieta kieszonkowe/ zwrot kosztow
+if i was in full=time job, my parents would give me an allowance-kieszonkowe, dodatek
+vigilance-czujnosc
+sanctions compliance-przestrzeganie sankcji
+accountability of data-	odpowiedzialność; obowiązek zdania sprawy (np. opinii publicznej, przełożonemu)
+compliance-dostosowac, zgodny, zgodnosc
+compliance-zgodnosc
+in compliance with plan-zgodny z planem
+Yamini/Pawer = clutching at straws a tad but my profile should allow me sufficient to view Loan Closure?-chwytac sie wszelkich sposobow odrobine; sprzeglo, sloma/slomka
+to clutch at straws-chwytac sie wszelkich sposobow
+This looks a tad more comfortable.-Ten mi wygląda na nieco bardziej wygodny.
+Stress levels are a tad elevated right now.-Właśnie nieco wzrósł mi poziom stresu.
+I did have this up until last week so wanting to rule out something silly as having a read only profile for LC-Mialem to aż do zeszłego tygodnia, więc chciałbym wykluczyć coś głupiego jak mając profil tylko do odczytu dla LC

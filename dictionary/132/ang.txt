@@ -1,0 +1,25 @@
+﻿they have been jointly named...-wspolnie
+team make a joint decision-wspolna decyzja
+joint account in a bank-wspolne konto
+Let's discuss what is the current status of the development and what is ahead.-co jest przed nami, przed siebie
+stay ahead of the competition-wyprzedzac konkurencje 
+four months ahead of schedule-4 miesiace przed terminem
+the entire codebase is now one little step ahead of where it was-kod bazowy jest o krok do przodu
+a whole banch of stuff ahead of us-cala masa rzeczy przed nami
+Master of Engineering (M.Eng.), Master of Science (M.Sc.)-magister inzynier
+principal-glowny, podstawowy, najwazniejszy, dyrektor
+principal objective of the company is to improve-podstawowy cel firmy ot
+This looks like rudimentary software issue-podstawowy, elementarny, pierwotny
+fortran has a really rudimentary type system-primitywny
+No problem, but if I could be even more niggling, there are more of the little typos in this document.-czepiac sie, wynajdywac bledy, zajmowac sie drobiazgami
+blame-winic
+transition with single line hanging on new page-przejscie z pojedyncza linia wiszaca na nowej stronie
+The above example does not specify GET vs. PUT, POST, and so forth-i tak dalej
+and you didn't have to deal with configuring any plumbing or infrastructure.-instalacja wodno=kanalizacyjna
+do we have all the important/interested people at the meeting?-czy mamy wszystkie wazne/zainteresowane osoby na meetingu
+data interference is established on high level-zaklocenia, wtracanie danych jest ustalone na wysokim poziomie
+interdependent/interdependency code-wspolzalezny kod
+this is inline with-to jest zgodne z
+there were always problems, which in certain cases took 9=12 months to iron out-zawsze byly problemy ktore zajmowaly kilka miesiecy na rozprasowanie
+This was an eye=opener for me and based on this I would like to propose the following-otwieracz oczu
+down in the dumps-feeling miserable or unhappy

@@ -1,0 +1,77 @@
+plausible-bardziej wiarygodny, mniej prawdopodobny
+avoid the reflex to provide public constructors without first-unikaj odruchu dostarczania publicznych konstruktorow
+reflex-odruch, odbicie
+arguably-prowdopodobnie, niewatpliwie, bezspornie
+arguably this can be blessing-zapewne może to być błogosławieństwo
+dispense a gumball-rozdawac, pozbyc sie kulke
+dispense-zrezygnowac, pozbyc sie, obyc sie bez, rozdawac
+dispense with him-zrezygnowac z niego
+cache object intances and dispense them repeatedly-buforuj intencje obiektu i rozdawaj je wielokrotnie
+these have to be repeatedly and painstakingly tested, each and every one.-mozolnie; kazdy jeden
+clarity and simplicity are of paramount importance-jasność i prostota mają najwazniejsze znaczenie
+paramount-najwyzszy; najważniejszy; na pierwszym miejscu; glowny
+you can easly plot your own course through the book-w książce możesz łatwo zaplanować własny kurs
+prepare building plot for the new mall-przygotowac plac budowy pod centrum handlowe
+you are good at passing on the office gossips-jesteś dobry w przekazywaniu plotek biurowych
+i saw the building plot and i have a favourable impression of its location-dzialka budowlana
+doom=mongers-people who spread catastrophic visions and disasters; podzegac, panikowac, plotkowac
+plot of land-dzialka
+word of mouth-plotka
+hoarding advertisement-plot, parkan, billboard
+yacking-gadac, plotkowac
+plot-dzialka, spisek, fabula, intryga, plan
+The calling application or service may degrade gracefully or, more likely, crash because of resource exhaustion.-Aplikacja lub usługa wywołująca może się pogrążać z gracją lub, bardziej prawdopodobne, ulec awarii z powodu wyczerpania zasobów.
+disgrace, grace-hanba; wdziek, łaska
+grace under high pressure-wdziek
+presiding over this years-przewodniczyc przez te lata
+preside-przewodniczyc
+ardor-zapal
+my ardor has cooled-moj zapal ostygl
+code will be pleasant, elegant and graceful-kod będzie przyjemny, elegancki i pełen wdzięku
+customary-zwyczajowy; będący w zwyczaju 
+it is customary in 6 Minute English for me to ask you a quiz question-zwyczajowy
+bum-włóczęga, menel, żul
+library is built upon and extends selenium-biblioteka jest zbudowana na i rozszerza selen
+fickle-kapryśny, zmienny, niestały
+automated tests tend to be more fickle-zautomatyzowane testy bywają bardziej zmienne/niestale
+your mileage with a modern javascript-Twój przebieg z nowoczesnym javascript
+it is virtually impossible-jest to praktycznie niemożliwe
+they took on four new employees on short contracts in order to take up the slack-zatrudnili 4 nowych ludzi zeby przejeli/nadrobili zaleglosci
+Sales figures for this month have been rather slack-sprzedarz byla luzna/leniwa
+slack-martwy sezon, niemrawy
+jug slack organization-luzny
+there is certain amount of slack in the system-istnieje pewien luz w systemie
+slack off-obijac sie
+So it's cool if we slack off at work. -> Fajnie że możesz sie obijać w pracy
+programmer excuse for legitimately slacking off-wymówka programisty na legalne obijanie sie
+As a general rule of thumb, you should mock/stub all collaborator classes that do the following-ogolna/praktyczna zasada, niepisana zasada, oparta na praktyce
+According to the testing pyramid, as a rule of thumb, 70% of total tests should be pure unit tests-ogolna/praktyczna zasada, niepisana zasada, oparta na praktyce
+a good rule of thumb is to ask-dobrą zasadą jest pytać
+conveniently identified by an id-wygodnie identyfikowane przez identyfikator
+approach to data access comes in handy in applications, such as reporting applications-podejscie dostepu danych jest przydatne w aplikacjach; przydatny, poreczny, pod reka
+That form of send() comes in handy when you want to programmatically choose a destination-przydaje sie, poreczny, pod reka
+comes in handy-przydaje sie
+This Spock annotation comes in handy and does two things-przydaje sie, poreczny, pod reka
+css comes in handy when-css przydaje się, gdy
+lady was held a captive by a neighbouring wicked baron-Pani została uwięziona przez sąsiadującego złego barona
+neighbouring span notation-sąsiednia notacja zakresu
+The functions that span multiple points of an application are called cross=cutting concerns-funkcje ktore obejmuja/rozciagac sie wiele punktow aplikacji sa nazywane przekrojowe/tnacy na ukos troski
+Therefore, __del__() can be executed in a predictable manner, even when multiple objects are deleted within a short span-dlatego del moze byc wykonane w przewidywalny sposob nawet kiedy wiele obiektow jest usuwanych w krotka rozpietosc/okres
+the span of control of a junior manager should not exceed 3 subordinates-zakres kontroli mlodszego kierownika nie powinien przekroczyc 3 podwladnych
+tests with lots of test data that spans multiple input variables-test data that obejmuja/rozciagac sie wiele danych wejsciowych
+An integration test spans multiple Java classes and examines the communication among them-Test integracji obejmuje wiele klas Java i analizuje/bada komunikację między nimi
+vastly improved usability-znacznie poprawiona użyteczność
+I had, as the arbiter, to forfeit him. -> Musiałem, jako sędzia, poddać go.
+I can, but you forfeit your pay. -> Mogę, ale stracisz swoją zapłatę.
+forfeit-stracic, walkower, grzywna
+counterfeit vs forfeit-podrobic vs poddac, stracic
+test waits five seconds before declaring forfeit-test czeka pięć sekund przed ogłoszeniem walkoweru
+type ahead list-wpisz listę z wyprzedzeniem
+although you can write your own page objects from the ground up-chociaż możesz pisać własne obiekty strony od podstaw
+depart/departure time-data wyjazdu/odlotu
+the term exception will be used to refer to any such departure from the norm.-odlot, wyjscie
+the preceding snippet shows-poprzedni fragment/skrawek pokazuje
+it's unwise to-to jest niemadre/nierozsądnex
+fluent api is a boon to readability and expressiveness-płynne API jest dobrodziejstwem dla czytelności i ekspresji
+boon-dobrodziejstwo, dar
+baboon-pawian

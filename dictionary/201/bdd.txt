@@ -1,0 +1,99 @@
+the main novelty here is the use of a table-główną nowością jest użycie tablicy
+the biggest novelty is the agreement-nowosc
+Understanding the implications of agile methodologies on operations-Zrozumienie wpływu zwinnych metodologii na operacje
+there is hidden implication/imply-sugerowac, pociagnac za soba
+draw conclusions about the implications-wyciągać wnioski na temat skutków
+implications-wplyw, skutki
+what are you implying-co sugerujesz
+imply; implicate-sugerowac, implikowac, pociagac za soba; wplatac, wrobic
+to protect yourself from being implicated in an insider attack-chronić się przed byciem uwikłanym w atak z wykorzystaniem informacji poufnych
+This is an indispensable step towards national reconciliation. -> Jest to niezbędny krok w kierunku narodowego pojednania.
+indispensable-niezbedny
+you can refine this scenario as follows-udoskonalac
+you can further refine the helper methods-możesz dalej udoskonalić metody pomocnicze
+refine-oczyscic, rafinowac
+refinement-udoskonalenie, uscislenie
+I have noticed that subtlety is not your forte. -> Zauważyłam, że subtelność nie jest twoją mocną stroną.
+There are a number of subtleties to Java that you may not encounter even when working with Java for years.-subtelnosci
+subtleties-subtelnosci, niuanse
+it reduces the risk creep-to zmniejsza ryzyko zakradniecia sie ryzyka
+modifying code provides all sorts of opportunities for problems to creep in-skradac sie
+creep in-skradac sie, pelzac
+creep	crept	crept-skradać się
+revenue-dochod
+itinerary-plan podrozy
+and in the whirlwind of day=to=day activity they can easily forget to...-w wirze codziennych prac, moga latwo zapomnie o...
+whirlwind-traba powietrzna
+define the requirements completely upfront-zdefiniowac wymagania calkowicie z gory
+cliques create silos-isolated, doesn't talk with others outside
+siloed development approach-w izolacji
+teams are often offsite of offshore-zespoly sa czesto poza siedziba albo za granica
+progressively clarify and understand the requirements-stopniowo wyjasniac i rozumiec wymagania
+miedzy innymi-inter alia, among other things
+accurately, precisely, concretely, specifically, less ambiguously describe sth-dokladnie cos opisac
+This can be a little obtuse, so let’s see a concrete example.-Może to być trochę nudne, więc zobaczmy konkretny przykład.
+The solution was not only simple but also elegant, since you leveraged the polymorphism to avoid coupling to concrete node classes.-wykorzystales polimorfizm zeby uniknac przywiazania do konkretnej klasy
+concrete examples-konkretne przykłady
+understand code base and introduce the changes-podstawa kodu
+it makes this task a great deal easier-sprawia, że zadanie to jest znacznie łatwiejsze
+hinder your performance-utrudniac
+management deliberate hinders any changes-zarzad celowo utrudnia wszekie zmiany
+dissuasive process-odstraszajacy, zniechecajacy
+they might come in handy one day-mogą się przydać pewnego dnia
+comes in handy-przydaje sie
+handy-poreczny
+This Spock annotation comes in handy and does two things-przydaje sie, poreczny, pod reka
+new staff is not versed in the design of the system.-biegly, zorientowany w czyms
+team well versed in design patterns-dobrze zorientowany
+not well versed in the technologies-niezbyt dobrze zorientowany w technologiach
+classified ad-ogloszenie drobne albo tematyczne; tajny, poufny
+acceptance criteria, criterion to pass-kryterium do przejscia
+terminus-stacja/przystanek koncowy
+none of the shortlisted books were worthy of the prize.-zakwalifikowany;godny
+The high electoral turnout is particularly worthy of note.-Szczególne uznanie wzbudza wysoka frekwencja wyborcza.
+Nie jest godnym spadkobiercą szacownego rodu Akashi.-He is no worthy heir to the noble Akashi clan.
+worthy goal-godny cel
+BAU-business as usual/maintenance
+streamlined shape, streamlining back=end of the business-oplywowy, usprawnic
+advent of single warehouse will give us opportunity to streamline this area-pojawienie, nadejscie / usprawnic
+streamline the process-usprawnic process
+ambiguities, confusion, uncertainties-niejasnosci
+international and domestic flights-loty międzynarodowe i krajowe
+gross domestic product is the measure of the size of the country's economy-produkt krajowy brutto jest miara gospodarki danego kraju
+spending less time on domestic chores-domowe obowiazki
+domestic appliance-urzadzenie gospodarstwa domowego
+domestic servant-sluzacy
+I was so nervous about flying that i left my bag in the departure lounge-poczekalnia na odloty
+lounge around-wloczyc sie, obijac sie
+lounge-hol
+as far as I could see it didnt have any other redeeming features.-zbawcze funkcje
+redeem mortgage-splacic hipoteke
+redeem-odkupic, ocalic, wybawic
+inform client of their request's overarching result-nadrzędny wynik wniosku
+overarching approach-podejscie nadrzedne
+flesh out the minimum set of features-uzupelnic/uksztaltowac minimalny zestaw funkcjia
+slipping in  new feature unnoticed-wsunac niezauwazenie nowa funkcje
+tenant, landlord-lokator/najemca; wynajmujacy
+sifting through stories to find the high value ones-przeglądając/przesiewac storiesy, aby znaleźć te wartościowe
+it's not as straightforward and linear process-liniowy proces
+in a nutshell; in short-w skrocie
+cordless electric drill; hammer drill-akumulatorowa wiertarka elektryczna; wiertarka udarowa
+mansory-dwor
+masonry-kamieniarstwo, mur
+power outlets-gniazdka elektryczne
+EU chose to subsidize Poland's agriculture-dotowac polskie rolnictwo
+subsidy, grants, subsidies-dotacja(e)
+it should be intimately familiar-to powinno byc dobrze znane; intymnie, blisko
+steps in the midst of what might seem like a large or involved refactoring.-w srodku, po srodku
+in the midst of iteration-w trakcie iteracji
+feature gets sidetracked-funkcja zostaje odsunięta na bok
+relegate-usunąć, usuwać kogoś karnie, np. ucznia ze szkoły
+i prefer(prifer) brick=and=mortar book shops/retailer-wole ceglane sklepy i detalistow
+Spring essentially lets you assemble your code together like a set of Lego bricks that snap together.-Spring zasadniczo pozwala ci zestawić kod razem jak zestaw klocków Lego, które łączą się ze sobą.
+(GRUFFLY) Pick up the brick! -> "Podnieś tę cegłę!".
+that means the bricks and mortar that it has been built with-cegly i zaprawa/mozdziez
+traditional brick and mortar bank-cegla i zaprawa
+online or brick and mortar purchase-online lub tradycyjny zakup
+you are a high flyer-osoba ktora ma szanse odniesc sukces
+flyer-ulotka
+versatile-wszechstronny

@@ -1,0 +1,28 @@
+should be used in preference to a custom-należy używać zamiast niestandardowego
+humongous;   goshthisclassnameishumongous-olbrzymi, wielgachny
+lambdas are by far the best way to represent small function objects-lambdy są zdecydowanie najlepszym sposobem do reprezentowania
+which will greatly increase their verbosity-co znacznie zwiększy ich gadatliwość
+verbosity-gadatliwosc, wielomownosc
+Direct instruments must be used to punish speech that incites to hatred.-Środki bezpośrednie powinny być wykorzystywane do celów karania osób nawołujących do nienawiści.
+it foster hatred for the usa-nienawisc
+to a first approximation, this item says-przyblizenie
+in a sense, this item is the inverse of item 22-w pewnym sensie, ten item jest odwrotnoscia itema 22
+indicate that instances are eligible for processing-wskazuje, że wystąpienia kwalifikują się do przetworzenia
+this assertion is incorrect-to twierdzenie jest nieprawidłowe (o zdaniu)
+elect-wybrac
+when you elect to override a method-kiedy zdecydujesz się zastąpić metodę
+you will immediately realize what you did wrong, slap yourself on the forehead-uderzysz się w czoło
+(Sound of slap)-klaps
+unfortunately, our hapless programmer failed to override equals-nieszczesny
+large class of nefarious bugs-duża klasa niecnych błędów
+nefarious-nikczemny, niegodziwy
+but it clearly demonstrates the superiority of annotations over naming patterns-ale wyraźnie pokazuje wyższość adnotacji nad wzorami
+method glosses over this fact-metoda przeskakuje nad tym faktem
+her glossy lipstick didn't match her dress-blyszczaca szminka nie pasowala do jej sukienki
+gloss business card-polysk, wizytowka
+her limbs gloss=varnish-konczyny, polyskujacy lakier
+mouthful-lyk, kes
+I suppose I could try a little mouthful. -> Sądzę, że mogę spróbować mały kęs.
+Please take me in one mouthful. -> Proszę, pozwól mi na jeden kęs.
+admittedly, it would be extreme to advise you to check every email-Trzeba przyznać, że sprawdzanie każdego emaila byłoby ekstremalne
+uruchom metody refleksyjnie-ze za pomoca refleksji

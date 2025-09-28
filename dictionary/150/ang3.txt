@@ -1,0 +1,30 @@
+We've just got time to recap some of the vocabulary-podsumowac
+recap and conclusion-podsumowanie i wnioski
+Now it's time for the recap-podsumowanie
+i've misspelled (misspell) the command-napisac z bledem
+rest was created as part of doctoral dissertation of sb-rozprawa, doktorat
+swamp of pox-bagno ospy
+the changes are implied from ...-zmiany pochodza, sa skutkiem...
+Any disclaimer shall be published together with the application or the registration-zrzeczenie sie, oswiadczenie
+comes in handy-przydaje sie
+handy-poreczny
+handful of features-garsc funkcji
+Spring Data MongoDB seized the opportunity to fill that gap with a handful of annotations-skorzystal z okazji zeby wypelnic luke z garsci annotacji
+We all feel the churn as new technologies and approaches appear suddenly on the scene-rezygnacja, odejscie
+One example of this churn is the rapid adoption by many organizations of building applications using microservices.-jednym z przykladow takiej rezygnacji/odejscia...
+continuous integration pipeline-ciagly proces integracji
+in the pipeline-w procesie wytworczym
+This time we have all three parts of the stream pipeline.-rurociag
+suddenly your applications become more scalable and, with forethought, more resilient-aplikacja staje sie bardziej skalowalna i z przezornosia/planowaniem bardziej skalowalna
+That bull had malice and forethought.-byk mial zlosliwosc/zla wole i przemyslenie
+insight into the current situation-wglad w obecna sytuacje
+Gaining application insight with the Actuator-wglad
+Because I abridged the output, there are dozens of other beans not shown that you’d otherwise see in the JSON produced from the /beans endpoint.-poniewaz skracac/ograniczac output, tam sa tuziny innych beanow
+build character and sprout hair on your chest-buduj charakter i kielkuj wlosy na klacie
+Wherever they go, hope will sprout.-Gdziekolwiek pójdą, nadzieja będzie kiełkować.
+Most of this book had already been written by the time Spring Boot came along. So I slid it in at the only place I could without shuffling the entire book: at the end.-Większość tej książki została już napisana przed nadejściem Spring Boot. Więc wsunąłem go w jedyne miejsce, w którym mogłem bez przetasowania całej książki: na końcu.
+executable uber JAR file-mega
+Manhattan into a playground for the uber rich-Manhattanu w plac zabaw dla mega bogaczy
+page more aesthetically pleasing to a user-strona bardziej estetyczna dla użytkownika/ przyjemny
+According to Spring’s critics, Spring is all about configuration. Certainly there’s an XML file or Java configuration class we’ve overlooked.-przeoczyc
+There's just some things you can't overlook.-Pewnych rzeczy nie da się przeoczyć.

@@ -1,0 +1,21 @@
+avoiding the extraneous else blocks along the way-zbedny
+Sparse Is Better Than Dense-nieliczny, rzadki
+The key to this apparent discrepancy is that whitespace is a valuable resource and should be distributed responsibly-widoczny, oczywisty;rozbieznosc,sprzecznosc;odpowiedzialnie
+AFAIK-As Far As I Know 
+principle is one of the most vague in the entire collection.-niejasny, mglisty
+Readability is random acts of kindness sprinkled throughout your code.-posypac (np. cukrem), zraszac
+this principle is about the conviction with which we must pursue it-przekonanie
+one ugly chunk of code to undermine all that hard work.-podkopac, oslabic
+The reality is a bit more complicated, though, and merits some discussion-wartosc, zasluga, zaslugiwac
+so you may have to accept subpar performance-ponizej normy, ponizej przecietnej
+The guidance provided by this line of the Zen of Python is quite simple-kierownictwo
+there’s much more beneath the surface-pod powierzchnia
+An act or condition of ignorant or imprudent deviation from a code of behavior-nierozwane odchylenie od kodeksu zachowan
+Exceptions are typically considered less disruptive and thus more acceptable, disruption-uciazliwy;zaklocenie
+the term exception will be used to refer to any such departure from the norm.-odlot, wyjscie
+and there’s a complementary principle to deal with that situation.-uzupelniajacy
+It’s tempting to play the odds in this situation-szanse (chyba miec nadzieje na)
+which could inadvertently cause other parts of the application to think...-niechcacy
+Python itself seems to violate this rule sometimes, most notably in its dictionary implementation-zwlaszcza, szczegolnie
+Although That Way May Not Be Obvious at First Unless You’re Dutch-holenderski
+This is a nod to the homeland of Python’s-uklon w strone ojczyzny

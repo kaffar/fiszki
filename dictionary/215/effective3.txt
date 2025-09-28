@@ -1,0 +1,41 @@
+we need to further refine the comparison-musimy dopracować porównanie
+refine-oczyscic, rafinowac
+you can refine this scenario as follows-udoskonalac
+refinement-udoskonalenie, uscislenie
+in java 8, the comparator interface was outfitted with a set of comparator construction methods-wyposazony w
+i don't pay to much attention to the outfits, frankly-nie przywiazuje zbyt wiele uwagi do ubran, szczerze mowiac
+outfit vs equipment-stroj vs sprzet
+a format outfit is required-oficjalny stroj
+all needed equipment such as outfits,...-stroj
+this eclipse version has been outfitted with development tools-wyposazony
+equality test-test równości
+equity, equality, parity-kapital wlasny; rownosc x2
+lets go over the provisions of the compareto contract-przejrzyjmy postanowienia umowy z porównaniem
+abolition of provisions-uchylenie przepisów
+provisions-postanowienia, przepisy
+dont be put off by the mathematical nature of this contract-nie zniechęcaj się matematycznym charakterem tej umowy
+put on, put off/take off-ubrac, sciagnac
+Dont put off til tomorrow what you can do today.-nie odkladaj na jutro to co mozesz zrobic jutro
+put off-odlozyc na pozniej, zrazac
+notable exception to this rule is arrays-godnym uwagi wyjątkiem od tej reguły są tablice
+They are notable for the long filaments from their fins.-wlokna
+notable, notably-godny uwagi, znaczny; zwlaszcza, szczegolnie
+the standard withstood a few notable attempts of replacing it-standard przetrwał kilka godnych uwagi prób zastąpienia go
+otherwise, you are usually better off providing an alternative means of object copying-w przeciwnym razie zwykle lepiej jest zapewnić alternatywny sposób kopiowania obiektów
+remainder omitted-pozostała czesc pominięta
+system sends a reminder email to a customer whenever an invoice isn’t settled on time-faktura nie jest uregulowana na czas
+It serves as a blatant reminder-krzykliwy, huczny
+it would merely encourage wasteful copying-zachęcałoby to tylko do marnotrawstwa kopiowania
+merely-jedynie, zaledwie
+extralinguistic-pozalingwistyczny
+superclasses must obey a complex, unenforceable, thinly documented protocol-nadklasy muszą przestrzegać złożonego, niewykonalnego, słabo udokumentowanego protokołu
+unenforceable-niewykonalny, nie do wykonania
+because variables would seem to come from thin air-chuty, tutaj rzadkie powietrze
+thin-cienki, chudy
+so it pays to understand it-wiec oplaca sie to zrozumiec
+aesthetically pleasing format-estetyczny format
+page more aesthetically pleasing to a user-strona bardziej estetyczna dla użytkownika/ przyjemny
+There's no pleasing our teacher-zadowolic
+returns a brief description of this potion.-zwraca krótki opis tej mikstury.
+youll break their code and data, and they will yowl-oni będą krzyczeć
+yowl-wyc, jeczec

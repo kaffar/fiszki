@@ -1,0 +1,35 @@
+real life example-przyklad z zycia
+hooks are methods that do nothing or default behaviour in the abstract class, but may be overridden in the subclass-hook, nadpisac
+there are lots of ways, take your pick-jest wiele sposobow, wez swoj wybor
+bottleneck-waskie gardlo
+this process is pretty straightforward-bezposredni
+we will get a lot of leverage by implementing that instead of home grown iterator-dzwignia, wplyw, wykorzystac
+hashtable is inherently unordered, inherent-wrodzony, z natury, nieodlaczny
+modifying code provides all sorts of opportunities for problems to creep in-skradac sie
+chefs decided that they want to be able to alternate their lunch menu items-alternatywny, zmieniac sie
+they scrambled it up as a joke (scrambled eggs)-zrobili rozsypanke z kodu
+how would you design this new wrinkle-zagwozdka, problem, zmarszczka
+weave the most advanced technologies into the very fabric of a store-utkac najnowsze technologie w szczegolna tkanine sklepu
+no lines, no checkouts, no registers-brak kolejek, brak kas, brak rejestrow
+describe what the new idea entails-co pociaga za soba nowy pomysl
+virtual reality department store-dom handlowy
+to buy, to purchase-kupic x2
+a shop, a store-skep x2
+changing room, fitting room-przebieralnia x2
+to gueue, to line up-stawac w kolejce x2
+a chemist's, a pharmacy-apteka x2
+a discount, a concession-znizka x2
+do you envisage the disappearance of physical shops in the near future?-przewidujesz/wyobrazasz sobie znickniecie fizycznych sklepow w przyszlosci?
+virtual reality-faktyczny, prawdziwy/wirtualny
+biedronka is the biggest Polish retailer-sprzedawca detaliczny
+revamp its brand to make it more attractive-reorganizowac, modernizowac
+binoculars, glasses-lornetka, okulary
+Ann spends money like water. Her husband put a limit on her credit card-wydawac kase, zalozyc limit na karte kredytowa
+we went on a massive shopping spree at the weekend-szalenstwo zakupow
+i really like this jumper, could you put it on hold for me for a couple of hours?-bluza sweter, mozesz odlozyc na kilka godzin?
+shop assistant-sprzedawca
+I got a Christmas bonus so I went and splashed out on a new coat-wydac kase
+could you wrap the present please-zawinac present
+I don't usually shop around for things-chodzic po sklepach, rozgladac sie
+my fiance is a bit of a shopaholic-zakupoholik
+The store is about to close. Please proceed to the checkout-sklep bedzie zamkniety, prosze udac sie do kasy

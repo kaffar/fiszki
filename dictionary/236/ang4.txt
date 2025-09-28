@@ -1,0 +1,31 @@
+it tries to shoehorn the rest paradigm into the old model-próbuje wsadzić resztę paradygmatu do starego modelu
+shoehorn-łyżka do butów
+payload marshalling-zestawienie ładunku
+Python handles those gritty details behind the scenes-piaszczysty, zwirowaty
+behind the scenes-za kulisami
+@-at
+With this consistency, you’ll be speaking a new language in no time.-Z tą konsekwencją będziesz mówić w nowym języku w krótkim czasie.
+make it ready for you in no time-blyskawicznie
+We'll take the town by storm, like the Bronte sisters; take by storm -> Weźmiemy miasto szturmem.
+mongo shell will suffice-mongo bedzie wystarczajace
+dispatching event-wydarzenie wysyłające
+Your card will be dispatched in approximately 7=10 working days. ,dispatch-zostanie wyslana; wysylka
+replace them with polimorfizm dispatch-wysylka
+polimorphic dispatch-wysylka
+polimorphicly dispatch to a appropriate method-wyslac
+﻿dispatcher-Spring przemieszcza żądania pomiędzy serwletem dyspozytora (ang. dispatcher servlet)
+dispatcher (dispatcher servlet)-dyspozytor
+it lays the groundwork for the library-stanowi podstawę dla biblioteki
+we need to lay the groundwork-musimy położyć podwaliny, podstawy, prace przygotowawcze
+groundwork-podstawy
+atm dispenses cash-bankomat wydaje gotówkę
+what an isolation type entails-co pociąga za sobą typ izolacji
+thump vs thud-lomot x2
+thump thump thump thump-uderzenie, walic, heartbeat
+Both factors will make for a fairly even thump, thump, thump rhythm.-dosc rowne
+thud-walic, lomot
+thuds of slugs hitting-huk uderzeń ślimaków
+You need to be the kind of person who other people want to be stranded with on an uninhabited island-opuszczony, porzucony; bezludny, niezamiszkaly
+aggregate is conceptual whole-agregat jest konceptualną całością
+class has an API that's too cumbersome to use on its own. Fortunately, Spring provides MimeMessageHelper to lend a hand.-klasa ma API ktore jest zbyt nieporeczne do uzycia samemu. Naszczescie Spring dostarczac klase zeby podac pomocna dlon
+unwieldy, cumbersome-nieporeczny, niewygodny

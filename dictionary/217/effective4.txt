@@ -1,0 +1,40 @@
+it sounds like the odds are stacked against you-brzmi to tak, jakby szanse zostały postawione przeciwko tobie
+the stream specification places stringent requirements on these function objects-surowe wymagania
+this sounds kind of stringent, doesnt it?-surowy, rygorystyczny, przekonujacy
+stringent argument-argument przekonywający
+arrays because the data itself is stored contiguously in memory-przechowane w sposob ciagly w pamieci
+do not parallelize stream pipelines indiscriminately-nie zrównoleglaj potoków strumieniowych bez rozróżnienia
+indiscriminately-bez rozrozniania, masowo, bezkrytycznie
+this innocuous looking pipeline-ten niewinnie wyglądający rurociąg
+Consider, for example, the seemingly innocuous function-pozornie nizlosliwa funkcja
+innocuous-niewinny; nieszkodliwy
+among mainstream languages, java has always been at the forefront of providing facilities to ease the task of concurrent programming-wśród języków głównego nurtu, java zawsze była na czele, oferując udogodnienia ułatwiające wspolbiezne programowanie
+forcibly-sila, pod przymusem
+i stopped it forcibly after half an hour-zatrzymałem to siłą po pół godzinie
+blatant, glaring-krzykliwy, huczny
+method that returns all of the (contiguous) sublists of an input list-ciagly
+equal sized heap regions, each a contiguous range of virtual memory-przylegly, ciagly
+the memory for stack needs not to be contiguous-pamięć stosu nie musi być ciągła
+contiguous-przylegly, zwarty, sasiedni, ciagly
+those users will be justifiably upset-ci użytkownicy będą w uzasadniony sposób zdenerwowani
+there were stringent performance requirements-surowe wymagania performancowe
+inserting the delimiter between adjacent elements-wstawianie separatora między sąsiednimi elementami
+The duplicates do not need to be adjacent to be removed-przylegac
+adjacent-sasiedni, przylegly
+the object produced by a collector is typically a collection (which accounts for the name collector)-która odpowiada za nazwę kolektora
+for starters, you can-na początek możesz
+it’s iterative code masquerading as streams code-iteracyjny kod podszywajacy sie pod kod strumieniowy
+builds a frequency table of the words in a text file-buduje tabelę częstotliwości słów w pliku tekstowym
+Took me a minute to get the hang of the application-zalapac, pojac cos
+master, get the hang of sth, grasp-zrozumiec cos, opanowac
+if you’re new to streams, it can be difficult to get the hang of them.-jeśli nie znasz streamów, ich zrozumienie może być trudne.
+resonate-rezonowac echem
+something that really resonates with you-rezonowac echem
+invert method-odwracac metode
+invert-odwracac
+a better workaround is to invert the mapping when you need access to the earlier stage value-lepszym obejsciem jest odwrocenie
+unfeasible, unworkable, unforceable-niewykonalny x3
+all of the calls that comprise a pipeline-wszystkie połączenia składające się na potok
+great britain is comprised of-skladac sie z
+component is comprised of many classes-komponent sklada sie z wielu klas
+comprise-skladac sie z, obejmowac, zawierac

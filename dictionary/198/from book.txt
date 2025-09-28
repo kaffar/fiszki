@@ -1,0 +1,66 @@
+space shuttle-wahadlowiec kosmiczny
+primary-glowny, podstawowy
+kindergarten, prelim, primary school, junior high, high school, studies-przedszkole, zerowka, podstawowka, gimnazjum, liceum, studia
+sustainability is primary value of software-zrownowazony rozwoj, trwalosc
+my primary concern is-moim glownym zmartwieniem jest
+When a method diverges from its primary purpose-roznic sie
+understand the whole requirement at a glance-zrozumieć cały wymóg na pierwszy rzut oka
+most optional arguments aren't obvious at a glance/at first glance-argumenty nie sa oczywiste na pierwszy rzut oka
+while his glance is averted.-odwracac
+I won't even glance at her.-Nie chcę nawet na nią spojrzeć. | rzucic okiem, spojrzenie, spojrzec
+One glance and everything is revealed.-Jedno spojrzenie i wszystko jest dla ciebie odkryte.
+I glanced at the piece of paper in front of him-Spojrzałem na kartkę przed nim
+At first glance-na pierwszy rzut oka
+concrete examples-konkretne przykłady
+Groovy has embraced the convention=over=configuration concept-Groovy przyjął koncepcję konwergencji i konfiguracji; uscisk, objac
+a Gherkin primer-elementarz; podklad, grunt; splonka, detonator
+I'll indicate any differences as we come across them-Wskaze wszelkie różnice, gdy je napotkamy
+business goals underlying the project-cele biznesowe leżące u podstaw projektu
+discover ways to delight clients-odkryć sposoby na zadowolenie klientów
+superior, superb, supreme-przelozony, wyzszy, lepszy; wspanialy, znakomity; najwyzszy
+deliver technically superior design-dostarczyć technicznie lepszy projekt
+do you envisage the disappearance of physical shops in the near future?-przewidujesz/wyobrazasz sobie znickniecie fizycznych sklepow w przyszlosci?
+envisage the solution-przewidzieć rozwiązanie
+the problem with this approach is twofold/manifold-problem z tym podejsciem jest dwojaki/wieloraki
+they are effectively binding the development team to a particular solution-skutecznie wiążą zespół programistów z konkretnym rozwiązaniem
+The upfront architectural design considered the few use cases-poczatkowy
+a little bit of upfront planning is a good thing-planowanie z gory
+heavy upfront specification-ciężka specyfikacja z góry; z gory
+nail down all the requirements once and for all-wytropić (błąd, przyczynę); dojść do (błędu, przyczyny); raz na zawsze
+Stay focused and improve productivity. Easily block any distracting or harmful website. Stop procrastination once and for all!-Zatrzymać zwlekanie raz na zawsze!
+I will finish it once and for all-Zakończę to raz na zawsze
+Workout guide can help you reap the most out of time you spend in gym. -> Podręcznik trening może pomóc czerpać jak najwięcej czasu spędzać na siłowni.
+reap technical or economic benefits-czerpac korzysci; czerpac, zbierac
+ubiquitous language to define requirements unambiguously-wszechobecny język do jednoznacznego definiowania wymagań
+It draws on Agile and lean practices-Opiera się na praktykach Agile i lean
+Instead, you can lean on Spring to handle the-mozesz polegac na springu zeby zalatwic to
+lean-szczuply
+lean leant leant-opierac
+you can lean/rely on spring to handle this-mozesz polegac na springu ze to zalatwi
+I want to stay nice and lean and tight.-Chcę nadal być miły i szczupły i wąski.
+lean	leant	leant-opierac
+prescriptive requirements-nakazowe wymagania
+dealing with uncertainty-radzenie sobie z niepewnością
+allow you to focus on the problem at hand, there need to be some trade=offs along the way-pod reka, w zasiegu reki, kompromisy
+That means that help is at hand. -> To znaczy, że pomoc jest blisko.
+Not when there's a far more humane remedy at hand. -> Nie kiedy jest znacznie bardziej humanitarny środek pod ręką.
+Spock allows you to write your own extensions to cater to your specific needs.-zaspokajac konktrente potrzeby
+cater to -adjust, follow, obey
+there are always new business requirements to cater to-zawsze są nowe wymagania biznesowe do zaspokojenia
+stakeholders can be coaxed into revealing the goals-interesariuszy mozna naklonic/namowic do ujawnienia celi
+It's hard to even coax her out to eat. -> Trudno namówić ją nawet do jedzenia.
+coax-naklaniac, namawiac
+My brother unknowingly offended one of them. -> Mój brat nieświadomie obraził jednego z nich.
+existing feature can be broke unknowingly-istniejąca funkcja może zostać złamana nieświadomie
+stories abounding of drivers making frantic appeals for guidance-obfitowac, goraczkowe odwolania o pomoc
+software development is human factors abound-rozwój oprogramowania obfituje w czynniki ludzkie
+project needs to be aligned with business goals-projekt musi być dostosowany/zgodny do celów biznesowych
+it's very aligned with our philosophy-to jest bardzo zgodne z nasza filozofia
+Tarballs produced by the new build plan have versioning aligned with respective release branch (don’t be fooled by the build numbers :) ).-archiwum tar produkowane przez nowy build plan maja versjonowanie zgodne z odpowiadajacym release branchem (nie badz zmylony przez build numbers)
+on average 45% features are never used-średnio 45% funkcji nigdy nie jest używanych
+chapter is a viable use of JPA-wykonalny, realny
+it seems to be the only viable solution to our financial problem-wykonalny
+won't have a viable option to use- wykonalny
+feasible, viable-wykonalne, realne
+viable-wykonalny, realny, rentowny, oplacalny
+that makes the project viable-to sprawia, że projekt jest opłacalny

@@ -1,0 +1,40 @@
+pivotal-kluczowy, przelomowy
+That was a very pivotal time in my life. -> To był bardzo kluczowy okres w moim życiu.
+First: It is not a pivotal project in your career. -> Po pierwsze: to nie jest kluczowy projekt w twojej karierze.
+You have to be ready to pivot and move in an entirely new direction. -> Musisz być gotowy na obrót i ruch w całkiem nowym kierunku.
+some models have outside mirrors that are hinged. the hinge allows the mirror to pivot forward and rearward to resist damage-Niektóre modele są wyposażone w lusterka zewnętrzne na zawiasach. zawias umożliwia obracanie lusterka do przodu i do tyłu w celu uniknięcia uszkodzenia.
+The entirety of a resource’s URI should be treated opaquely by basic network=based intermediaries such as HTTP caches.-calosc powinna byc traktowana niewprost
+the implementation of favorites is surprisingly tiny. here it is, in its entirety-tutaj jest w całości
+Not all sequences need to be loaded in their entirety in advance-w calosci z wyprzedzeniem
+entirety-calosc
+in its entirety-w całości
+aggregate is loaded and saved in its entirety-agregat jest wczytywany i zapisywany w całości
+domain driven design there is a heavy focus on behaviors, normally coinciding with use cases-w projektowaniu zorientowanym na domenę kładzie się duży nacisk na zachowania, zwykle pokrywające się z przypadkami użycia
+By default it’s cacheManager, which coincides with the declared at the end of listing-pokrywa sie, zbiega sie
+What a coincidence!-co za zbieg okolicznosci
+What an amazing coincidence!-co za niesamowity zbieg okolicznosci
+coincidence?-przypadek?
+it is by no means coincidence-to nie jest w zadnym razie przypadek
+Coincidentally, B is also the name of a class. It isn’t a coincidence. It’s an evil trick.-przypadkowo, zbieg okolicznosci
+mastering the subtle cues of body language-wskazowki
+provide visual cue that they are links-wskazowka, znak, sygnal
+strong visual cue to the programmer that an exception is unchecked-wskazowka
+cue-znak, sygnal, wskazowka
+it is a cue that they should be putting data in that field but one can do even better-to jest wskazowka
+occasionally there exist funny examples of language in english-czasami zdarzają się zabawne przykłady języka w języku angielskim
+i've also occasionally longed for the anonimity of the city life-tesknic
+the cache should occasionally be cleansed of entries that have fallen into disuse-pamięć podręczna powinna od czasu do czasu zostać wyczyszczona z wpisów, które przestały być używane
+occasionally, you may be tempted to write degenerate classes-czasami możesz mieć ochotę pisać zwyrodniałe klasy
+occasionally you may see-czasami możesz to zobaczyć
+every once in a while, occasionally, from time to time, every now and then, once in awhile-raz na jakis czas
+many examples of such applications can be cited-można przytoczyć wiele przykładów takich zastosowań
+analysts still cite Gucci as an example-analitycy ciagle cytuja Gucci'ego jako przyklad
+analysts still cite Gucci as example-cytowac
+the domain had become a glorified abstraction of the data model-domena stała się uwielbianą abstrakcją modelu danych
+glorify-gloryfikować, chwalić, uwielbiać
+vertically scaling becomes prohibitively expensive very quickly-skalowanie pionowe bardzo szybko staje się nieopłacalne
+is prohibitively expensive-jest wyjątkowo drogi
+prohibitively-niedopuszczalnie, niewspolmiernie
+Trying to use objects at very low levels of granularity is nice, but the overhead may be prohibitive.-narzut może być wygórowany/zaporowy/zakazujacy
+cost of the copy would be prohibitive-koszt moze byc wygórowany/zaporowy/zakazujacy
+prohibitive-wygorowany, zaporowy

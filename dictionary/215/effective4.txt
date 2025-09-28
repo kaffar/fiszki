@@ -1,0 +1,43 @@
+the thread example flunks this test-przykład wątku oblewa ten test
+flunk-oblać (np. egzamin)
+state that is not conducive to string representation-stan, który nie sprzyja reprezentacji łańcucha
+place that was very conducive to work.-sprzyjac pracy
+conducive-sprzyjajacy
+at-w. @
+our phonenumber class does not merit this treatment-nasza klasa numerów telefonów nie zasługuje na to traktowanie
+The reality is a bit more complicated, though, and merits some discussion-wartosc, zasluga, zaslugiwac
+Special merit to the workers of section 23. -> Szczególna w tym zasługa pracowników sekcji 23.
+they run more slowly because they entail array creation-działają wolniej, ponieważ pociągają za sobą tworzenie tablicy
+describe what the new idea entails-co pociaga za soba nowy pomysl
+east=west transit entail bypassing the city centre-jechac, przewozic / objazd, pomijac
+reform will entail huge expenditures-pociagnie za soba
+bona fide-prawdziwy, rzetelny, niepodrobiony
+if you have a bona fide need for hash functions-prawdziwy, rzetelny, niepodrobiony
+they are not state of the art-nie są najnowocześniejsze
+state of the art encryption technology-najnowoczesniejszy
+state of the art-najnowocześniejszy; supernowoczesny
+dispersing unequal phone numbers into different hash buckets-rozpraszanie nierównomiernych numerów telefonów
+With a high number of geographically dispersed services-Z dużą liczbą geograficznie rozproszonych usług
+disperse-rozproszyc, rozejsc sie
+Gather your belongings and disperse in an orderly fashion.-Proszę zebrać swoje rzeczy i spokojnie się rozejść.
+whose ownership is dispersed among the general -rozproszony
+on par with those in the java platform libraries-na równi z bibliotekami platformy Java
+set aside money to spend on particular things-odkladac pieniadze
+on par-na równi
+31 is odd prime number-31 jest nieparzystą liczbą pierwszą
+luckily its not too hard to achieve a fair approximation-na szczęście nie jest zbyt trudno osiągnąć uczciwe przybliżenie
+distribute collection objects uniformly across all int values-równomiernie rozmieszczaj obiekty kolekcji we wszystkich wartościach int
+work with either class uniformly, thereby removing duplicated client code.-jednolicie
+uniformly-jednolicie
+hash tables degenerate to linked lists-tabele skrótów degenerują się do połączonych list
+its atrocious because it ensures that every object has the same hash code-jest to okropne
+atrocious-okropny, straszny
+provisional-tymczasowy
+provisional budget-tymczasowy
+preserves all five provisions of the equals contract-zachowuje wszystkie pięć postanowień umowy równości
+production line stoppage equates to lost production-zatrzymanie linii produkcyjnej oznacza zatrzymanie produkcji
+production line stoppages equate to lost money for each minute of stoppage-zatrzymanie, przerwa lini produkcyjnej rowna sie utracie pieniedzy dla kazdej minut postoju
+equate, equator-rownac sie/rownanie/rownik
+a lot of jobs equates to ruin-byc rownoznacznym
+equate-rownac sie, oznaczac, byc rownowaznym
+file class shouldnt attempt to equate symbolic links referring to the same file-rownac sie, oznaczac, byc rownowaznym

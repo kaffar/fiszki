@@ -1,0 +1,42 @@
+pleasantry; They exchanged pleasantries and departed-uprzejma uwaga, zartobliwa uwaga; Wymienili uprzejmości i odeszli
+we exchanged opening pleasantries-uprzejmosci, grzecznosci
+code will be pleasant, elegant and graceful-kod będzie przyjemny, elegancki i pełen wdzięku
+heedless; He decided to do it, heedless of the risk-niezwazajacy, nieostrozny
+faltering; She gave a speech with a faltering voice-zalamujacy sie, drzacy
+protagonists faltered-chwiac sie, wahac
+falter; The development of our country's economy is faltering-opadac, slabnac
+falter-wahać się, słabnąć
+soundness; I was suprised by the soundness of that young man's reasoning-trafnosc, roztropnosc
+sound argument-rozsądny argument
+cacophony-noisy mix of loud sounds
+soundscape- is a mix of sounds heard in a particular location
+When talking about the rationale behind this approach; rationality, soundness-racjonalnosc
+develop content that is technically sound-solidny, pewny, mocny
+this sounds kind of stringent, doesnt it?-surowy, przekonujacy
+sounding/hooting/tooting your horn is prohibited except in emergencies-trabienie jest zabronione
+to hear them sounding horns-zeby sluchac jak trabia
+propound; Charles Darwin propounded the theory of natural selection-przedkladac, wysuwac
+bumble; She was so shocked that she just bumbled something about going home-belkotac
+biased, subjective-subiektywny
+i was biased by old database-zasugerowalem sie stara baza
+Do you think news reporting in your country is objective or biased?-czy myslisz ze wiadomosci w twoim kraju sa obiektywne czy stronnicze?
+I’m by no means trying to create a Python bias to this book-w zadnym razie nie staram sie; przychylnosc/stronniczosc
+this paper is bias towards/in favour of that party-ta gazeta wspiera ta partie
+I'm by no means trying to create a Python bias to this book-w zadnym razie nie staram sie; przychylnosc/stronniczosc
+Communication between teams is biased by layer experience (or lack thereof)-komunikacja miedzy zespolami jest uprzedzona przez warstwowe doswiadczeni (lub jego brak)
+feel the incline of priority-nachylenie, sklonny do
+patients are more apt to be involved with decision making process regarding his or her treatment-sklonny, trafny
+he is inclined to make personal calls at work-sklonny do
+incline, inlination-nachylenie, sklonny; nachylenie, sklonnosc
+jestem sklonny do, jestem za-I'm inclined to, I'm in favour of
+you might be inclined to reuse the parent Pet class-sklonny
+leaning; Better not joke about politics, who knows what her political leanings are-sympatia, sklonnosc inklinacja
+misconstrue; She misconstrued my remarks, I didn't mean to be nasty-opacznie rozumiec
+gruff; What are you waiting for? she said to me in a really gruff voice-szorstki, nieprzyjemny
+gruffly-szorstko
+succinctly; Try shortening the report by writing it more succinctly-zwiezle; Spróbuj skrócić raport, pisząc go bardziej zwięźle
+succinct code-zwiezly kod
+in stand=ups people are more concise-zwiezly
+compedious; It's not the whole book, just its compedious version-krotki, streszczony, zwiezly
+in stand=ups people are more concise-zwiezly
+for the sake of conciseness, we are implementing only a simple web application-dla zachowania zwięzłości

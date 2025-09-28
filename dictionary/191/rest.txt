@@ -1,0 +1,28 @@
+crisis was avert-unikac, zapobiegac, odwracac
+elation-zachwyt; entuzjazm; przejęcie; uniesienie
+keep up with sth-byc z czyms na biezaco, nadazac
+near ubiquitous adoption of json syntax-prawie wszechobecne zaadoptowanie skladni jsona
+ubiquitous-wszechobecny
+The entirety of a resource’s URI should be treated opaquely by basic network=based intermediaries such as HTTP caches.-calosc powinna byc traktowana niewprost
+nieprzezroczysty; nieprzejrzysty -> opaque
+mastering the subtle cues of body language-wskazowki
+provide visual cue that they are links-wskazowka, znak, sygnal
+A REST API is composed of four distinct resource archetypes: document, collection, store, and controller.-pierwowzor, prototyp
+akin-pokrewny, zblizony
+A document resource is a singular concept that is akin to an object instance or database record.-pokrewny, zblizony
+Melissa had been akin to a force of nature.-zblizony, podobny
+variation or derivative of the resource-odmiana/roznica lub pochodna zasobu
+there are many variations of the proxy pattern and they typically revolve around the control access-obracac sie, krecic sie; zwykle
+variations in slang and colloquial expressions, countless varieties of English, language vary from country to country-różnice w slangu i wyrażeniach potocznych, niezliczone odmiany języka angielskiego, języki różnią się w zależności od kraju
+variations, varieties, various-odmiany, roznice; odmiany; rozny
+derivatives classes-klasy pochodne
+music is derivative-muzyka jest pochodna
+put must be used to update mutable resource-zmienne zasoby
+mutual, mutable-wspolny; zmienny/niestaly
+niezmienny; stały -> immutable
+POST is analogous to posting a new message on a bulletin board-POST jest analogiczny do zamieszczania nowej wiadomości na tablicy ogłoszeń
+use POST along with...-użyj POST wraz z ...
+this use case resembles the fairly common concept of-ten przypadek użycia przypomina dość powszechną koncepcję
+Globalisation, however, affects all human activity to a greater or lesser extent.-Lecz globalizacja ma mniejszy lub większy wpływ na wszystkie działania człowieka.
+distort intent by using lesser action-zniekształcić intencję za pomocą mniejszej akcji
+inform client of their request's overarching result-nadrzędny wynik wniosku

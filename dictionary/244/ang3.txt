@@ -1,0 +1,41 @@
+look for output for the web service, prepended with your app name-poprzedzonych nazwą aplikacji
+One common pattern is to prepend all endpoints with a version number.-poprzedzac
+To further complicate things, assume also that the credit card processor wants the current date prepended to the token for logistical reasons. | Because the basket also prepends the token with the date-dodac na poczatek, dodac prefix, poprzedzac
+One common pattern is to prepend all endpoints with a version number. (append)-dodac na poczatek, dodac prefix, poprzedzac
+this makes it harder for hackers to eavesdrop on the connection-utrudnia to hakerom podsłuchiwanie połączenia
+eavesdrop-podsłuchiwać
+cackle vs croak-rechot vs rechot
+ron croaked-Ron wychrypiał
+infidelity-niewierność
+downstream-w dół rzeki
+Look, he probably just floated downstream. -> Słuchaj, pewnie po prostu płynął w dół rzeki.
+have contingency plan-miec plan awaryjny (ewentualnosc)
+have contingency plan/it works as fallback mechanism-awaryjny x2
+develop contingency plan-opracowac plan awaryjny
+to have any contingency for it-miec na to jakis plan awaryjny
+fiddle with all the nonsense associated with getting a new project set up-bawic sie z
+so we fiddled around quite a bit-wiec troche pogrzebalismy
+Oracle has a tendency to fiddle with the length of the exam-bawic sie z czyms bezmyslnie
+fiddle around, play around-bawic sie czyms
+fickle, feeble, fiddle-kapryśny, zmienny, niestały; slaby, kiepski; bawic sie
+acknowledged-podziekowac, potwierdzac, przyjmowac wiadomosc
+i acknowledge my failure by writing a comment-uznaje moja porazke
+He never acknowledges his mistakes-on nigdy nie przyjmuje do wiadomosci swoich bledow
+no acknowledgement whatsover is required-potwierdzenie nie jest wymagane
+power outage-brak prądu
+outage-awaria, przestoj, przerwa w dzialaniu
+environment outage-awaria srodowiska
+cartwheel-koło wozu
+i made a resolution to floss-podjąłem decyzję o nitkowaniu
+fudge-krówka; ciągutka (rodzaj cukierka)
+we already fudged our resolutions-już sfałszowaliśmy nasze postanowienia
+she just resent me-po prostu czuje do mnie urazę
+resent-gniewac sie, obrazac, byc zlym na kogos za cos
+resentment-niechec, uraza
+they were resented-uburzyc sie, obrazic
+snot-smark
+rectify some childhood disappointment-naprawić rozczarowanie z dzieciństwa
+rectify-sprostowac, naprawic
+to rectify the lack of standards around OAuth2 tokens, new standard is emerging-Aby poprawić brak standardów związanych z tokenami
+rectify data-naprawic, poprawic, sprostowac blad
+in addition to rectifying the deficiencies of int enums-oprócz korygowania braków enumow

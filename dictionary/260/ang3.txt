@@ -1,0 +1,25 @@
+current, present, up=to=date-aktualny
+importance of bug; significance, validity-waznosc buga (last one = czy nadal aktualny)
+The next item is certainly also tremendously important and topical. -> Następny punkt bez wątpienia jest także bardzo ważny i aktualny.
+topical-aktualny, dotyczacy aktualnych tematow
+use the following assessment tests to gauge your current level of skill in java-skorzystaj z poniższych testów sprawdzających, aby ocenić swój aktualny poziom umiejętności posługiwania się językiem java
+fraction-ulamek
+the most deceptive part about this-najbardziej zwodniczą częścią tego
+Microservices in the cloud seem deceptively simple.-Mikrousługa w chmurze wydają się pozornie proste.(zwodniczo albo zaskakujaco)
+But, appearances can be deceptive, sir. -> Ale pozory mogą mylić, proszę pana.
+deceptively-zwodniczo
+server will spin up and will be dismantled-serwer zostanie uruchomiony i zostanie zdemontowany
+overdraft-debet
+reject the transaction as we dont offer (yet) overdrafts-odrzucić transakcję, ponieważ nie oferujemy (jeszcze) debetów
+handcrafted-ręcznie robione
+punchline-puenta
+And you know what the punchline is? -> A wiesz, jaka jest puenta?
+transaction amount must not be null-kwota transakcji nie może być zerowa
+settlement-money paid to the victim of an injustice
+settlement-osada; ugoda
+at once, at a time, at the same time-na raz
+promptly, instantly, at once-natychmiast, odrazu
+at once, immediately-od razu, natychmiast
+when the office friendships become entrenched, they can recreate the cliquey atmosphere-kiedy zawiazuja sie przyjaznie w biurze
+entrench, entrenched/reinforced-ukorzenic, wzmacniac/ umocniony, wzmocniony
+Gradle has to face the entrenched Maven supporters and convince them that the switch offers compelling advantages.-Gradle musi zmierzyć się z zakorzenionymi zwolennikami Maven i przekonać ich, że zmiana ta ma niezaprzeczalne zalety.

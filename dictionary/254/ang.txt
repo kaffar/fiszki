@@ -1,0 +1,41 @@
+3.5 years spent together-3,5 roku spedzone razem
+after completing the preceding steps-po wykonaniu poprzednich kroków
+fallout-skutki, konsekwencje, reperkusje
+Let them dig and deal with the fallout.-Pokopiemy i uporamy się ze skutkami
+consequences, implications, ramifications, fallout-konsekwencje
+in accordance with the principle that one diagram might express things better than a thousand words-zgodnie z zasadą, że jeden diagram może wyrazić coś lepiej niż tysiąc słów
+broadcast, send broadcast events-transmisja, transmitowac, nadawac
+sanity checks-kontrole poprawności działania
+restrain yourself to only one sanity check-ograniczyc sie do jedneto testu kontroli poprawnosci
+sanity/insanity-zdrowy rozsadek, zdrowie psychiczne/obled
+requests dispatched between different microservices-żądania przesyłane pomiędzy różnymi mikroserwisami
+dispatcher (dispatcher servlet)-dyspozytor
+Your card will be dispatched in approximately 7=10 working days. ,dispatch-zostanie wyslana; wysylka
+polimorphic dispatch-wysylka
+unwaning popularity of their solutions in the it world-Niesłabnąca popularność
+others often see our application just through the prism of those metrics-widziec przez pryzmat
+it's good to have some spare/additional/extra tasks-dobrze jest miec jakis zapas taskow
+And what did your esteemed chief want so urgently?-Czego twój ceniony przełożony tak pilnie potrzebuje?
+it will result in excessive contention-spowoduje nadmierną rywalizację
+Licit cultivation would add to illicit cultivation, not replace it.-Legalna produkcja istniałaby obok nielegalnej, natomiast nie zastąpiłaby jej.
+practice of offering money in order to gain an illicit advantage-praktyka oferowania pieniędzy w celu uzyskania nielegalnej przewagi
+elicit vs illicit-wywolac, uzyskac vs nielegalny
+gain illicit access to the other client’s data-nielegalny
+not allowed, not permitted-niedozwolony
+local campaigners asked the goverment to hold an inquiry-dzialacz; zapytanie, sledztwo
+write an answer to an inquiry about your products-napisz odpowiedz na zapytanie
+inquiry-zapytanie, sledztwo
+inquity-sledztwo, dochodzenie, zapytanie
+send a request/question to your superior-wyslac zapytanie do przelozonego
+pass on/away-umierac
+handover, pass on, relay-przekazac
+colour is kind of faint-slaby, zemdlec
+very small and faint star-slaby, zemdlec
+faint, black out, pass out-zemdlec x3
+swoon-omdlenie, zemdlec
+corresponding to-odpowiadajacy
+please preemptively clean them up or open a Jira on the owner to fix it;preventive-prevencyjnie;prewencyjny
+preemptive(ly)-prewencyjny, zapobiegawczy
+pre=emptive-z wyprzedzeniem, wyprzedzajacy, prewencyjny
+dissuade-odwiesc
+i'm not trying to dissuade you from using spring cloud-Nie próbuję cię odwieść od używania Spring Cloud

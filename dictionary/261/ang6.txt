@@ -1,0 +1,23 @@
+carnage-rzez, masakra
+in its entirety-w całości
+clearinghouse-izba rozrachunkowa
+it acts solely as a message clearinghouse-działa wyłącznie jako punkt wymiany informacji/izba rozliczeniowa komunikatów
+all the transaction records to funnel into a single flow-wszystkie rekordy transakcji są przekazywane do jednego flow, lejek
+intrusion detection-wykrywania włamań
+art of intrusion-wtargniecie, wlamanie
+it inadvertently spawned an entire new industry in computing-nieumyślnie zapoczątkował całą nową gałąź przemysłu komputerowego
+session data may be inadvertently lost.-niechcacy
+which could inadvertently cause other parts of the application to think...-niechcacy
+inadvertently-nieumyślnie; niechcący; nieświadomie
+inadvertently break test by adding unexpected data into the database-przypadkowo, nieumyslnie, niechcacy
+this prevents you from inadvertently changing its contents-chroni cie przed przypadkowa zmiana
+unintentionally, inadvertently, by accident-niechcacy
+if you start a java program the operating system spawns a new process which runs in parallel to other programs-ikra, zrodzic sie
+spawn, spark-ikra, zrodzic sie; iskra, wywolac
+it has spawned a plethora of tools-to zrodzilo mnóstwo narzędzi
+In multiprocessing, processes are spawned by creating a Process object-ikra, zrodzic sie
+draft, outline, sketch, drawing-szkic
+mam tylko czesciowa wiedze-I only have partial knowledge
+card debrief-strzeszcznie, omowienie, sprawozdanie z kart
+We're going to need a safe house to debrief Tatjana. -> Potrzebujemy bezpiecznego domu, by przesłuchać Tatjanę.
+debrief, debriefing-zdac sprawozdanie, przesluchac; odprawa

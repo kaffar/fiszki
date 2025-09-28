@@ -1,0 +1,53 @@
+call the service to invalidate its cache-wywołaj usługę, aby unieważnić jego pamięć podręczną
+invalidate cached data and evict it from the cache-uniewaznic zcachowane dane i usunac je z cacha
+invalidate-uniewaznic
+jotted down the criteria-zapisane kryteria
+expand your mental model-rozwiń swój model myslowy (umyslowy, psychiczny)
+flush out an incorrect assumption-splukac, spuscic
+toilet doesnt flush-toaleta nie splukuje
+In future we have to learn how to hedge against currency fluctuations-w przyszlosci musmy nauczyc sie zabezpieczac przed wahaniami kursow. zabezpieczac przed/zywoplot
+hedgehog-jez (zywoplot, wieprz)
+cousing, brother in law-kuzyn, szwagier
+rules are less clear=cut than initially thought-zasady są mniej wyraźne niż początkowo sądzono (jasny, oczywisty, jednoznaczny)
+put on, put off/take off-ubrac, sciagnac
+Dont put off til tomorrow what you can do today.-nie odkladaj na jutro to co mozesz zrobic jutro | odkladac na inny termin
+put off-odlozyc na pozniej, zrazac
+putting off decisions-odkladanie decyzji
+opt for a more expensive ticket-zdecydowac sie, wybrac
+Microsoft has been around longer-Microsoft istnieje już dłużej
+exercise vigorously-cwiczyc energicznie
+but that was done in haste just so you could exercise your controllers in a web browser.-to bylo zrobione w pospiechu zebys mogl tylko cwiczyc kontrollery w przegladace
+superb form of exercise-wspanialy, znakomity
+You know, you can overdo those exercises.-Wiesz, nie możesz przesadzać z tymi ćwiczeniami.
+unfettered exercise-nieskrepowane cwiczenia
+irretrievably, happily dependent on the everyday exercise-bezpowrotnie, nieodwracalnie
+exercise the option-skorzystac z mozliwosci
+but by then it's too late to take advantage of your knowledge-ale do tego czasu jest już za późno, aby skorzystać z twojej wiedzy
+allow you to focus on the problem at hand, there need to be some trade=offs along the way-pod reka, w zasiegu reki, kompromisy
+avoiding the extraneous else blocks along the way-nieistotny
+Gradually cutover to new behavior, testing along the way-odetnij
+along the way, you learned about the following-po drodze/w trakcie dowiedziałeś się o następujących rzeczach
+extraneous-irrelevant or unrelated to the subject being dealt with
+irrespective of the direction-niezaleznie od kierunku
+bulk delete do not cascade to related entities irrespective of cascade settings-niezaleznie, bez wzgledu na
+respective, irrespective-odpowiedni; niezaleznie od
+irrespective vs notwithstanding-niezaleznie od, bez wzgledu na; pomimo
+fundrising vs crowdfunding-zbieranie funduszy x2 (2 finansowanie spolecznosciowe)
+fabulous vs glamorous-bajeczny, fantastyczny, wspanialy x2
+incesantly-nieustannie
+I think we should call it a day, Valerie.|Want to call it a day, John?-Myślę że powinniśmy skończyć na dzisiaj, Valerie.|Chcesz skończyć na dzisiaj, John?
+once other checks are done we can call it a day-gdy inne checkin zostana zrobione mozemy skonczyc na dzisiaj
+stumble, trip over the step-potknac sie x2
+concede, give way, step aside-ustapic
+you must give way at a give=way sign. On a roundabout traffic from your right has the right of way-ustapic pierwszenstwo
+give way-ustapic
+Even many of EJB’s most rabid detractors would concede that MDBs were an elegant way of handling messages-nawet najbardziej wsciekli/zaciekli krytycy przyznaliby/ustapic ze MDB byly eleganckim sposobem obslugi wiadomosci
+Jeremy, sometimes it takes more guts to concede. -> Jeremy, czasem trzeba mieć jaja, by ustąpić.
+it is not an imminent risk-to nie jest bezpośrednie ryzyko
+imminent-nieuchronny, bliski, nieuchronny, nieunikniony
+I have reason to believe an attack is imminent. -> Uważam, że atak jest nieunikniony.
+prospective deals-potencjalny, przewidywany, spodziewany
+prospective candidates should be at least 25-potencjalny
+prospective appreciation in value of the house-przewidywany wzrost wartosci
+Both prospective and retrospective effectiveness must be assessed. -> Ocenie podlega zarówno efektywność prospektywna, jak i retrospektywna.
+prospective, perspective-spodziewany, perspektywa

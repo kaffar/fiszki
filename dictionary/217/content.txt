@@ -1,0 +1,20 @@
+it will result in excessive contention-spowoduje nadmierną rywalizację
+this class maintains a set of variables internally to reduce contention over threads-rywalizacja, konkurencja
+It also tries to reduce the contention on the task queue, so can be really good in heavily loaded environments.-twierdzenie, spor, tutaj rywalizacja
+But as for your contention there are no bugs, I disagree.-Ale co do twojego sporu, że nie ma robali, nie zgadzam się.
+bone of contention-kość niezgody
+contention-twierdzenie, spor, rywalizacja, konkurencja
+list of content-spis tresci
+Our boss is not content with this quarter results-nasz szef nie jest zadowolony z kwartalnych wynikow
+content, contend,....-zadowolony,zawartosc | twierdzic(claim), walczyc, zmagac sie
+pecify a default content type to fall back to if a content type can’t be derived from the request.-okreslic domyslny typ do ktorego nalezy wrocic/cofnac jesli typ nie moze pochodzic/zostac wyprowadzonym z requestu
+Small peek on 16 SP4 tentative content -zerkac na niepewny/probny/sondujacy kontent
+she managed to sleep contentedly-z zadowoleniem
+they aren't contented-nie są zadowoleni
+The most common use for peek() is to output the contents of the stream-zerkac
+there are few contenders-jest kilka pretendentow
+he contends that bears do not care....-twierdzic(claim), walczyc, zmagac sie
+Some of the data centric among you may even contend that data is the-twierdzic ze
+he contends that bears do not care....-twierdzic, walczyc, claim
+this pipeline has to contend with both of these issues-rurociagi musza borykać się z obydwoma tymi problemami
+contend-walczyc, rywalizowac, twierdzic

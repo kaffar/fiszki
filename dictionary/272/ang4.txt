@@ -1,0 +1,42 @@
+If the service becomes unavailable, the client is effectively crippled.-kaleki, uposledzony
+they are effectively binding the development team to a particular solution-skutecznie wiążą zespół programistów z konkretnym rozwiązaniem
+work that cannot be ... effectively accomplished offline-as
+therefore, the singleton class is effectively final.-skutecznie
+a special offer a bargain-znizka, okazja ale bez znizki
+price is not on special but still it is a bargain-cena nie ma znizka ale wciaz jest to okazja
+bargain-okazja, targowac sie
+bargain for collective or individual advantage-okazja dla korzyści zbiorowej lub indywidualnej; targowac sie
+once=in=a=lifetime opportunity-jedyna okazja w zyciu
+bargain or money pit-okazja czy pułapka na pieniądze
+whichever one you take-ktorykolwiek wezmiesz
+no mater which...-nie wazne ktory
+firecracker-petarda
+fireworks-fajerwerki
+puzzle about, over sth-probowac cos rozwiklac
+it puzzles me-zadziwia mnie, lamie glowe
+crossword, jigsaw puzzle-krzyżówka, układanka
+rely, relay-polegac (na kims), przekazywac (wiadomosci)
+relay those messages between producers and consumers-przekazywac wiadomosci
+handover, pass on, relay-przekazac
+however in the interest of elf and safety we shall also accept relay teams-jednak w interesie elfa i bezpieczeństwa akceptujemy również zespoły sztafetowe
+relay-sztafeta
+relay appointment service-przekazywanie spotkań
+But before you can send and receive messages, you need a message broker ready to relay those messages between producers and consumers.-potrzebujesz brokera wiadomości gotowego do przekazywania tych wiadomości między producentami a konsumentami (przekazac, przekaznik)
+incoherent riddles-niespójne zagadki
+real world code that is riddled with technical debt-podziurawiony, najezony (cale slowo z ed)
+This riddle is driving me crazy-zagadka, podziurawiony
+adjust, comply, adhere, inline to | inline with, compliant, coherent | adherence, compliance-dostosowac, zgodny, zgodnosc
+key factors in a coherent marketing-spojny
+casual-swobodny, przypadkowy
+Computer games (casual player); casualty-swobodny, przypadkowy, dorywczy/ranny
+is an arbitrary client name, which is used to create a Ribbon load balancer-przypadkowy
+that will allow a casual reader to intuit the kind of program they live inside-swobodny, tymczasowy, przypadkowy
+arbitrary-arbitralny, dowolny, przypadkowy, samowolny
+stochastic algorithm-przypadkowy, losowy
+random, casual, arbitrary-przypadkowy
+overlook, oversight-przeoczyc, przeoczenie
+flutter-trzepotanie, trzepot
+flatter vs flutter-schlebiac vs trzepotanie, trzepot
+OEM-Original Equipment Manufacturer,producent oryginalnego sprzętu
+probabtion, trial period-okres probny
+imply; implicate-sugerowac, implikowac, pociagac za soba; wplatac, wrobic

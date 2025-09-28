@@ -1,0 +1,44 @@
+my neighbour mows the grass, the lawnmower is noisy-sasiad kosi trawe, kosiarka jest glosno
+preferably during low load hours-najlepiej w godzinach niskiego obciazenia
+do something according to coding art-zrobic cos zgodnie ze sztuka
+objects can contain arbitrary amount of any data-losowy, dowolny
+Understand, none of this was arbitrary.-Zrozum, to nie było przypadkowe.
+reactive programming streams are instead designed to have some arbitrary input source-zaprojektowane by miec dowolne zrodlo wejsciowe
+swell swelled swollen-spuchnac
+ingest vs digest-polknac, spozyc; trawic, strawic
+swallow-polknac
+And that purpose is testing your skills and nerve right up to the limit. -> A tym celem jest test twoich umiejętności i nerwów do granic możliwości.
+carer card is chargeable irrespective-karta opiekuna jest płatna niezależnie od
+irrespective of the direction-niezaleznie od kierunku
+bulk delete do not cascade to related entities irrespective of cascade settings-niezaleznie, bez wzgledu na
+respective, irrespective-odpowiedni; niezaleznie od
+irrespective vs notwithstanding-niezaleznie od, bez wzgledu na; pomimo
+irrespective-bez względu, niezaleznie
+Posłucham twojej rady, i zignoruję to. -> I'll take your advice and just ignore it.
+Pomyślałem, że chociaż raz posłucham twojej rady. -> I thought I'd follow your advice for once.
+at once, at a time, at the same time-na raz
+one at a time-jeden na raz
+suboptimal code-nieoptymalny kod
+inefficient-nieoptymalny
+in inefficient way-w nieoptymalny sposob
+thuggish cronies-bandyccy kolesie
+thug-zbir, bandyta
+Features in grey all pertain to root algorithms.-odnosic sie, dotyczyc
+please pertain to a backlog JIRA if this is was a new requirement-dotyczyc, odnosic sie
+The employees map is filled with a mapping of employee names to the Employee objects to which they pertain.-dotyczyc, odnosic sie
+how those principles pertain the tests-odnosic sie, dotyczyc
+this applies to you as well-to dotyczy rowniez ciebie
+This principle also applies to/concerns this-ta zasada dotyczy rowniez tego
+Any disclaimer shall be published together with the application or the registration-zrzeczenie sie, oswiadczenie
+disclaimer-zastrzezenie, wyparcie sie odpowiedzialnosci
+big disclaimer-duże zastrzeżenie
+disclaim-zrzec sie
+can someone disclaim if without redis are we actually able to perform any tests?-czy ktoś może zdradzić/powiedziec/zastrzec, czy bez redisa jesteśmy w stanie przeprowadzić jakiekolwiek testy?
+Eventually they decided to abondon the search for the village and just hike back to the town-Ostatecznie zdecydowali się opuścić poszukiwania wioski i po prostu wrócić do miasta/wedrowac
+hikers and skiers-wędrowcy i narciarze
+hike-wycieczka, wędrówka, wedrowac
+selflessness-bezinteresownosc
+selfless act-beinteresowny czyn
+These noble individuals have selflessly given in the pursuit of community and open source excellence. -bezinteresownie;dazenie, poscig;doskonalosc
+stopped virtual machine can be started again but likely on a different host-prawdopodobnie
+I'm not try to cast a blame-Nie próbuję rzucać winy

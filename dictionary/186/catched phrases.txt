@@ -1,0 +1,73 @@
+The functions that span multiple points of an application are called cross=cutting concerns-funkcje ktore obejmuja/rozciagac sie wiele punktow aplikacji sa nazywane przekrojowe/tnacy na ukos troski
+Afterwards, I was actively involved in the implementation-Nastepnie, bylem aktywnie zaangazowany w implementacje
+this groovy test should be moved to corresponding package in core module-odpowiedni
+disprove; oversight-obalic; niedopatrzenie/a, przeoczenie/a
+ferde-further(w)
+douchebag-dupek
+Hexagonal Architecture espouses common themes-Sześciokątna architektura łączy wspólne tematy; poslubic
+tested in isolation from its eventual run-ewentualny, ostateczny, koncowy
+to help clarify overly complex code-nadmiernie zlozony kod
+bad decisions aren't blatantly obvious-razaco, ewidentnie
+Not all languages (notably: Python & Ruby) have explicit Interfaces-zwlaszcza, szczegolnie, glownie
+you might say that one way to circumvent all that hassle from this issue is to make the method static-można powiedzieć, że jedynym sposobem na obejście wszystkich kłopotów z tego problemu jest uczynienie tej metody statyczną
+there might be a dangling, useless reference to an object-dyndac, wymachiwac
+I want to give you a heads=up at the beginning-poinformowac, uprzedzic, ostrzec na wstepie
+we can put sth off and switch to sth urgent-mozemy cos odlozyc na pozniej i przelaczyc sie na cos pilniejszego
+grooming meeting-przygotowac, uwodzic, pan mlody
+He was grooming you to carry on his work.-Przygotowywał cię do kontynuowania jego pracy.
+stakeholder-interesariusz, partner, zaangazowana strona
+put on hold-zawiesic, odlozyc na pozniej
+when it comes to-jesli chodzi o
+i rather won't tell anything new besides what was already told-raczej nie powiem nic nowego poza tym, co już powiedziano
+bargain for collective or individual advantage-okazja dla korzyści zbiorowej lub indywidualnej; targowac sie
+i hear an echo (ekou)-slysze echo
+in terms of, regarding-pod wzgledem
+with regards to, in regard to-z pozdrowieniami dla, w odniesieniu do
+but you know-przecież wiesz
+to parameterize the functionality-zparametryzowac funkcjonalnosc
+application outages, downtime of the application-przerwy w działaniu aplikacji, przestój aplikacji
+mismanaged application configuration is a fertile breeding ground for difficult to detect bugs and unplanned outages.-zle zarzadzana konfiguracja aplikacji jest podatnym gruntem dla trudnych do wykrycia błędów i nieplanowanych przestojów.
+cell outage compensation-awaria, przerwa/odszkodowanie
+selective/smoke/sanity/a few chosen tests-wybiorcze testy
+substitute-podstawic
+Harry drop a bombshell at Christmas this year-give information that changes the whole situation, drastically and unexpectable
+president dropped a bombshell-prezydent wydal sensacje
+it was extraordinary secure lapse-to był nadzwyczajny, bezpieczny upadek
+lapse-pomylka, uplyw, stracic waznosc
+Your surgery resulted in a memory lapse.-Wynikiem twojej operacji są zaniki pamięci.
+It's a momentary lapse in the market.-To tylko tymczasowy spadek na rynku.
+Every subsequent call to tryAcquire() elapses the maximum wait timeout of one second-kazdy kolejny call uplywa max time
+If he doesn't reach on time, his admission will lapse.-Jeśli on nie dotrze na czas, jego przyjęcie przepadnie.
+Neither can afford a lapse in concentration.-Żaden nie może pozwolić sobie na pomylki w koncentracji.
+Now tell him who let our insurance lapse.-Teraz mu powiedz, kto pozwolił, żeby nasze ubezpieczenie wygasło.
+hassle-klopot
+you should go through with little hassle-z malymi klopotami
+There's no easy way out there's no shortcut home-Nie ma łatwego wyjścia, nie ma skrótu do domu
+We're not indestructible-Nie jesteśmy niezniszczalni
+There's no easy way out givin' in can't be wrong-poddanie sie
+I don't want to pacify you I don't want to drag you down-uspokajac
+Baby, baby we can shed this skin-możemy zrzucić tę skórę
+shed ones image-pozbyc sie wizerunku; szopa
+An illustrative example may shed some light on this concept.-dobry przyklad moze rzucic troche swiatla na ta koncepcje
+shed    shed    shed-gubic,szopa
+checked for, inspected for-sprawdzic pod katem
+i presume that the issue will be found-Zakładam, że problem zostanie znaleziony
+make common/unify code and its usage-uwspolnic kod, uzycie/ujednolicic
+as part of the task-w ramach pracy nad zadaniem
+ideally, perfectly-idealnie
+revolutionary (idea)-rewolucyjny
+it is not sql but it has some similarities-nie jest to sql, ale ma pewne podobieństwa
+i have not precise figures here but...-nie mam tu dokładnych liczb, ale ...
+it works pretty well in opposite/contrast to/as opposed to sth...-w przeciwienstwie do
+for the moment there is not much things there...-na razie niewiele tam jest ...
+breakdown vs breakthrough :D-zalamanie, awaria, struktura podzial;przelom, odkrycie
+downturn;breakdown;breakthrough-zalamanie, spadek;zalamanie, awaria, struktura podzial;przelom, odkrycie
+The following table provides a breakdown of this book's exam coverage-zalamanie, tutaj struktura
+He had a breakdown after my mother died. emotional breakdown-Miał załamanie po tym jak umarła moja matka.
+A breakdown on the second program, fix it at once.-Awaria na programie drugim, natychmiast naprawić.
+delicious pastry-pyszne ciasto
+Yesterday besides meetings i was doing...-Wczoraj oprócz spotkań robiłem ...
+furthermore i did...-ponadto zrobiłem...
+I will finish it once and for all-Zakończę to raz na zawsze
+meanwhile vs meantime-tymczasem x2
+so it appears that your copyright catchphrase must be modified, doesn't it?-wiec wydaje sie ze,... prawo autorskie; powiedzonko, haslo, motto

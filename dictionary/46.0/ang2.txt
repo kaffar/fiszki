@@ -1,0 +1,23 @@
+it introduces many of noteworthy features-godny uwagi, istotny
+There are emerging conventions about the content and formatting, emergency-pojawic sie/pojawienie sie, sytuacja awaryjna
+For brevity, it should not explicitly state the object’s name or type-dla zwiezlosci
+tuples and sequences-krotki
+clashes with a user’s global variables-zderzenie, konflikt
+objects can contain arbitrary amount of any data-losowy, dowolny
+classes partake of the dynamic nature of Python-brac udzial
+it is the same class or a base class thereof-jego, tego, ich
+The use of iterators pervades and unifies Python-przenikac, przesiakac
+Some simple generators can be coded succinctly as expressions using a syntax similar to list comprehensions but with parentheses instead of brackets-zwiezle;listowy;nawiasy
+reserved-powsciagliwy
+absent=minded-roztargniony
+conceited-zarozumialy
+stubborn,obstinate-uparty
+burn, scald-oparzenie
+this job is an attractive prospect-atrakcyjna perspektywa
+because of economical budget we will have to lay some people off
+stock exchange-gielda
+some skills can be taught only by hands0=on training-niektorych umiejetnosc mozna uczyc tylko przez praktyke
+he is serving an apprenticeship as a plumber; apprentice-praktyka;uczen
+tom has a great aptitude for maths-talent do matematyki
+he has impressive dossier, we should hire him-akta(osobowe)
+how are you getting on with the project?-jak idzie projekt?

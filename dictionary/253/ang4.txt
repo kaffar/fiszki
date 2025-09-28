@@ -1,0 +1,44 @@
+We're going to need a safe house to debrief Tatjana. -> Potrzebujemy bezpiecznego domu, by przesłuchać Tatjanę.
+debrief, debriefing-zdac sprawozdanie, przesluchac; odprawa
+whimper-chlipać (o dziecku); płakać
+whimper of pain-jęk bólu
+beckon-kiwać palcem (na kogoś)
+beckon-kusic, skinac
+The undiscovered country does not beckon me. -> "Nieodkryte kraje nie kuszą mnie."
+he beckoned him into the room-Zaprosił/skinal go do pokoju.
+reckon-uwazac, myslec o kims, liczyc na
+I reckon you could take care of that-liczyc na, myslec, sadzic
+I also have plenty of legacy code to reckon with-liczyc sie z
+you reckon it's more complicated than that, don't you-uwazasz ze to bardziej skomplikowane
+attorney reckoned that-policzyc
+i reckon she realised there are still rules to apply to everyone-sadze/licze ze zdala sobie sprawe ze nadal sa reguly ktore obowiazuja wszystkich
+This travesty will all be over with by morning. -> Ta parodia skończy się przed rankiem.
+remorse-wyrzuty sumienia
+amusement-rozrywka, zabawa
+amusement park-park rozrywki
+time depends on the number of objects-czas zalezny od liczby obiektow
+full extent of my wrath-pełny zakres mojego gniewu
+you flinch when you look at me-wzdrygasz się, gdy na mnie patrzysz
+flinched-drgnac, wzdrygnac sie
+He hardly flinched at all when he lost a finger or two. -> Ledwo co drgnął, gdy stracił palca albo dwa.
+flinch at the sight of him-wzdrygnąć się na jego widok
+I like that I revolt you. -> Podoba mi się, że budzę w tobie odrazę.
+revolt-bunt
+hackers are often seen as inquisitive meddlers-ciekawski ; wscibski czlowiek
+tend the garden-pielęgnować ogród
+often we will end up amidst things that are not managed by jvm-wsrod
+amidst-wsrod, posrod
+she nodded fervently-Skinęła gorliwie głową
+fervently-gorąco; żarliwie; gorliwie
+said fervently-powiedział żarliwie
+i need a rundown of your clients-Potrzebuję podsumowania twoich klientów
+he lived in a rundown cottage-mieszkał w zapuszczonym domku
+daybreak-swit
+derelict house-opuszczony dom
+ivy-bluszcz
+ivyl-evil (w)
+real world code that is riddled with technical debt-podziurawiony, najezony (cale slowo z ed)
+This riddle is driving me crazy-zagadka, podziurawiony
+When you pass the time, there will be a riddle. -> Po zabicia czasu, nie będzie zagadką.
+puzzle, riddle, brain teaser-zagadka, lamiglowka
+incoherent riddles-niespójne zagadki

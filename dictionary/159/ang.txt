@@ -1,0 +1,59 @@
+serious repercussions/ramifications/consequences-powazne konsekwencje
+defeat, loss-przegrana
+proverb, quote, saying-przyslowie (cytat, powiedzenie)
+patient-cierpliwy pacjent
+mandatory, obligatory, compulsory school-obowiazkowa szkola
+Tables 16 to 20 show the collateral for each public creditor.-Tabele 16 do 20 pokazują zabezpieczenie dla każdego z wierzycieli publicznoprawnych.
+compulsory drug test, compulsive overeating-obowiazkowy test, przymusowe/nalogowe objadanie sie
+she gave non=committal answer-wymijajacy, niezobowiazujaca odpowiedz
+proximate non neighbours-najblizszych nie sasiadow; najblizszy, bliski, bezposredni
+Java 8 is scheduled for January 2019 for for non=commercial use-niekomercyjne uzycie
+tentative-niepewny, probny
+tentatively on monday-wstepnie na poniedzialek
+awkwardness and tentativeness crept in-niezrecznosc i wahanie sie wkradly
+Small peek on 16 SP4 tentative content -zerkac na niepewny/probny/sondujacy kontent
+the next version is now just around the corner with a tentative release date of September 21st-niepewny, wstepny release date
+The cardinality of an interaction describes how often a method call is expected.-licznosc
+Cardinality 0... n or 1... n means that more than one piece of the same type of data may be provided.-Kardynalność 0... n lub 1... n oznacza, że może być dostarczona więcej niż jedna informacja tego samego typu.
+no later than friday, at the latest on/until friday-najpozniej do piatku
+incorrectly, badly, improperly, wrongly-niepoprawnie cos zrobic
+Conversely, mocking frameworks like EasyMock and JMock are strict by default-przeciwnie/i odwrotnie mokujac...
+prominent, outstanding, distinguished-wybitny x3
+prominent, outstanding, remarkable-wybitny x3
+standing out, outstanding-wyrozniac sie, wybitny
+outstanding, astounding-wybitny/zadziwiajacy
+What makes it stand out from the crowd is its beautiful and highly expressive specification language.-co powoduje ze wyroznia sie z tlumu jest jest piekny i ekspresyjny/wyrazisty jezyk
+an old bachelor's diary-pamietnik starego kawalera
+Lenient vs. Strict Mocking Frameworks-lagodny, poblazliwy vs scisly/surowy mocking frameworks
+The Java world has no shortage of popular and mature mocking frameworks: JMock, EasyMock, Mockito, to name just a few.-java nie ma niedoborow w mockach, zeby wynic tylko kilka
+drawback, setback, shortage-wada, niepowodzenie, niedobor
+there is a shortage of teachers-niedobor
+shortage of water-niedobor wody
+lorry drivers strike led to supply shortages-niedobor w zaopatrzeniu
+the mock’s type is inferred from the variable type-typ jest wywnioskowany
+Expects a feature method to complete abruptly. -nagle, gwaltownie
+Exercising the same code multiple times-wykonac/cwiczyc ten sam kod wiele razy
+Simply put, we’ll be able to use the Flow class, which encloses the primary building blocks for building reactive stream processing logic.-mowiac najproscie, klasa ktora zawira/zalaczyc  podstawowe bloki reactive stream
+Please enclose a document confirming the disappearance.-Należy załączyć dokument potwierdzający, że dana osoba zaginęła.
+indeks studenta-student's index
+the dinner that cooks itself-obiad, który sam gotuje
+Here are some clothes, and toiletries and stuff.-Masz tu ubrania i przybory toaletowe (np na podroz)
+Dear. Can I have a mineral water with ice and lemon?-Mogę prosić mineralną z lodem i cytryną?
+don't leave me high and dry-na pastwe losu, na lodzie
+black and blue-with a lot of bruises
+sisters are like chalk and cheese-completely different, jak woda i ogien
+this is my bread and butter-to moj chleb powszedni
+thunder and lightening-dzwiek i swiatlo
+It's the worst bed and breakfast we've ever been to!-To jest najgorszy pensjonat jakie kiedykolwiek byłem!/nocleg ze sniadaniem
+You know the place backwards and forwards-Znasz to miejsce na wylot
+Teach him to use a knife and fork.-Nauczy go używać noża i widelca.
+I need some peace and quiet today.-Potrzebuję ciszy i spokoju.
+I'm sick and tired of hearing you complain-i'm fed up
+I didn't buy much, just a few bits and pieces-small things
+He visits us now and again, perhaps twice a year-ocasionally
+He is unemployed and down and out-without a home or money
+Every relationship needs a bit of give and take-compromise
+We've had our ups and downs, but now we get on really well-mielismy nasze wzloty i upadki, ale teraz idzie nam dobrze
+Despite flying through a storm we arrived safe and quite-pomimo lotu przez burze dotarlismy cali i bezpieczni
+Have you ever had to make a speech or give a talk or presentation in front of a lot of people?-Czy kiedykolwiek musiałeś przemówić lub przedłożyć wykład lub prezentację przed wieloma ludźmi?
+dutch=speaking part of Belgium-holenderskojęzyczna (niemiecko) część Belgii

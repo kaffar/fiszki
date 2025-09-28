@@ -1,0 +1,42 @@
+by embracing the pull model for solving such a problem-poprzez przyjęcie modelu pull
+Groovy has embraced the convention=over=configuration concept-Groovy przyjął koncepcję konwergencji i konfiguracji; uscisk, objac
+at first glance, this was wondrous-na pierwszy rzut oka, to było cudowne
+wondrous-cudowny
+here, we are going to oversee solutions proposed by rxjava-nadzorować
+A factory typically has a foreman who oversees the work.-przewodniczacy, majster
+oversee floor movement-nadzorowac
+oversee-nadzorowac
+admittedly, it would be extreme to advise you to check every email-Trzeba przyznać, że sprawdzanie każdego emaila byłoby ekstremalne
+admittedly-co prawda, wprawdzie
+admittedly, there is nothing wrong with-co prawda, nie ma nic złego w
+active involvement lead to the appearance of the viral library called rxandroid-wirusowy
+star cant withstand its own gravity-wytrzymac
+withstand-wytrzymac
+to withstand all of that enormous load-aby wytrzymać cały ten ogromny ciężar
+boast-przechwalac sie
+rxjava helped them to build the reactive system that boasted a 37% share of internet traffic in north america-który miał 37% udziału
+augmentation,alteration-powiekszenia, zmiana
+The INSERT statement can be augmented with a number of clauses-zwiekszac
+augment the functinality-zwiększyć funkcjonalność
+our augmented rxseeemitter-nasz rozszerzony rxseeemitter
+onwards-poczawszy, dalej
+Please provide final statement for current release and onward-dalej, naprzod
+onward, onwards-dalej, naprzod; poczawszy, dalej
+tomcat 5 onward supports nio in its connector component-tomcat 5 i nowsze obsługują
+let's explore the server=side stack of spring webflux to understand how it complements the traditional web stack-uzupelniac
+complement your application form-uzupelniac
+complement-uzupelniac, dopelniac
+customize an object’s teardown-dostosowac rozbiorke obiektu
+teardown code-rozebrac
+marble-marmur
+marble diagrams-marmurowe diagramy
+countdown latches are single=use barriers-zatrzaski odliczające są barierami jednorazowego użytku
+latch-zatrzask, zasuwa
+external signal is propagated by countdawnlatch-zatrzask, zasuwa
+let's consider the case where a subscriber is the only party interested in the events-jest jedyną stroną zainteresowaną wydarzeniami
+Health contributes to productivity, employment and consequently to economic growth.-w konsekwencji, w rezultacie
+consequently, it is prohibited for it to call onnext() after oncomplete() or onerror()-w konsekwencji, w rezultacie
+allowing it to scale naturally over the course of the project lifespan-w ciagu okresu zycia projektu
+lifespan of a light bulb/product/people-dlugosc zycia zarowki
+singleton lifespan-dlugosc zycia
+our component may communicate with real hardware and reduce hardware lifespan at the same time-dlugosc zycia

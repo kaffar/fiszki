@@ -1,0 +1,31 @@
+You could call your boss’s cell phone but it’s not necessary to interrupt him for a mere status report.-to nie jest konieczne zeby przerywac dla zwyklego statusu
+Even if the remote method doesn’t return anything to the client, the client is put on hold until the service is done.-zawiesic, odlozyc na pulpit
+When a teller finishes helping a customer, the teller calls for the next person in line.-kasjer wzywa kolejna osobe z kolejki
+good teller can serve 20 custumers per hour-kasjer
+ATM, automated teller machine, cash mashine-bankomat
+If the service becomes unavailable, the client is effectively crippled.-kaleki, uposledzony
+If these constraints are a concern for you, you may want to consider how asynchronous communication addresses them.-jesli te ograniczenia sa wazne dla ciebie, mozesz rozwazyc asynchroniczna komunikacje
+The implication is that clients aren’t resilient to changes in network topology.-odporny na zmiany
+design that is resilient to change and flexible to new functionality-elastyczny, tutaj odporny
+proprietary framework to interact with the database-wlasnosciowy, zastrzezony, firmowy
+Before JMS, each message broker had a proprietary API, making an application’s messaging code less portable between brokers. But with JMS, all compliant implementations can be worked with via a common interface in much the same way that JDBC has given database operations a common interface-wlasnosciowy, zastrzezony, firmowy
+But before you can send and receive messages, you need a message broker ready to relay those messages between producers and consumers.-potrzebujesz brokera wiadomości gotowego do przekazywania tych wiadomości między producentami a konsumentami (przekazac, przekaznik)
+As you’ll see, JMS demands that you also (figuratively) fuel the mail carrier’s truck.-w przenosni (zatankowac ciezarowke poczty
+JmsTemplate attends to that for you by catching each exception and rethrowing an appropriate unchecked subclass of JmsException.-uczeszczac, brac udzial, zajac sie
+attendance and punctuality-obecnosc i punktualnosc
+presence and attendance, absence-obecnosc x2, nieobecnosc
+I must attend the treaty signing.-Muszę wziąć udział w podpisaniu traktatu | uczeszczac, brac udzial, zajac sie
+bind bound bound, she was bound| bound, bounded stack-przywiazywac, zmuszac | ograniczac
+That form of send() comes in handy when you want to programmatically choose a destination-przydaje sie, poreczny, pod reka
+And besides, it's more fun anyway.-oprocz tego, jest wiecej zabawy
+besides, beside that-oprocz, obok (blednie)
+The work is not glamorous, but at least I was working in one of the most beautiful places on Earth-praca nie jest urocza/bajeczna ale przynajmniej pracuje w jednym z najpiekniejszych miejsc na ziemi
+Everyday after work, I’d head over to the local post office to see if I had any mail.-Każdego dnia po pracy chodziłem do miejscowego urzędu pocztowego, żeby sprawdzić, czy mam jakąś pocztę.
+I walk up and ask the man sitting on the stool behind the counter if I had received any mail.-podchodze i pytam pana siedzacego na stolku za lada czy otrzymalem jakies listy
+One of the highlights of the EJB 2 specification was the inclusion of the messagedriven bean-podkreslic, glowna atrakcja / bylo wlaczenie, wprowadzenie beanow
+Even many of EJB’s most rabid detractors would concede that MDBs were an elegant way of handling messages-nawet najbardziej wsciekli/zaciekli krytycy przyznaliby/ustapic ze MDB byly eleganckim sposobem obslugi wiadomosci
+Brom had to concede his rival another victory.-Brom musiał przyznać swemu rywalowi kolejne zwycięstwo.
+I wish to concede... but not the election.-Chciałabym ustąpić... ale nie z wyborów.
+Sure you don't want to concede?-Na pewno nie chcesz się poddać?
+reminds, resembles, recall-przypomina
+As you’ll recall from chapter 15-jak sobie przypomnisz z rozdzialu 15

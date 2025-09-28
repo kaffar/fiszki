@@ -1,0 +1,7 @@
+they require browser specific tweaks-wymagają drobnych poprawek dla specyficznych przegladarek
+tweaking the recipe-uszczypnac, podkrecac, podrasowac
+we would support them and tweak algorithms or fix issues on short notice-Moglibysmy ich wspierac i poprawiac algorytmy lub rozwiazac problemy w krotkim czasie.
+tweaking the recipe-uszczypnac, podkrecac, podrasowac przepis
+there is always sth to fix and tweak-uszczypnac, tutaj: podrasowac, podrecic
+You must make one small tweak to the SpringTemplateEngine bean, however.-ulepszyc, podrasowac
+always something to fix and tweak-dostosowac, uszczypnac

@@ -1,0 +1,13 @@
+The Java Persistence specification gave a complete overhaul to entity beans.-remont
+mapping was completely left to the vendor’s discretion.-dyskrekcja, swoboda, uznanie
+Expert Group foresaw the need for this-przewidziec cos
+whenever the persistence context deems it necessary to update the database.-uznac za konieczne
+pomegranate-granat owoc
+come to think of it-kiedy sobie o tym pomysle
+strive-walczyc, usilowac, make great efforts to achieve or obtain something.
+that will allow a casual reader to intuit the kind of program they live inside-swobodny, tymczasowy, przypadkowy
+this strongly mitigates the problem of having to remember the ordering of the arguments-lagodzic problem
+In either case they are devious and damaging-przebiegly, szkodliwy
+Consider, for example, the seemingly innocuous function-pozornie nizlosliwa funkcja
+session data may be inadvertently lost.-niechcacy
+implicitly, explicitly???????????????????

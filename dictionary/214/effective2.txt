@@ -1,0 +1,38 @@
+below is a simple room class demonstrating the facility. lets assume that rooms must be cleaned before they are reclaimed-klasa pokoju pokazująca ten obiekt. pokoje muszą zostać oczyszczone przed ich odzyskaniem
+the garbage collector reclaims the underlying memory and reuses it for future object-GC odzyskuje
+a second legitimate use of cleaners-drugie uzasadnione użycie środków czyszczących
+And you're prepared to recognize our legitimate succession, I take it.-Jestes przygotowany by uznac nasze prawowite nastepstwo?
+skipping that cell was legitimate-prawowity, sluszny
+such attacks can have dire consequences-takie ataki mogą mieć tragiczne konsekwencje
+dire-straszny, tragiczny
+once the malformed object has been recorded-po zarejestrowaniu zniekształconego obiektu
+malformed-zniekształcony
+this is primarily because finalizers inhibit efficient garbage collection-finalizers hamuja efektywne zbieranie smieci
+inhibit-hamowac
+dont be seduced by the methods system.gc-nie daj sie uwiesc
+grinding halt-zatrzymanie szlifowania
+update persistent state-zaktualizuj stan trwały
+providing a finalizer for a class can arbitrarily delay reclamation of its instances-dowolnie opóźnić odzyskanie instancji
+objects can contain arbitrary amount of any data-losowy, dowolny
+Understand, none of this was arbitrary.-Zrozum, to nie było przypadkowe.
+tardy finalization is not just a theoretical problem-opóźniona finalizacja to nie tylko problem teoretyczny
+tardy-leniwy, spozniony, niechetny
+execution may likewise vary-wykonanie może się również różnić
+promptness-szybkość
+One day you will be fired for your incurable tardiness-Pewnego dnia zostaniesz zwolniony za swoje nieuleczalne spoznialstwo
+At least he could apoligise for his tardiness-mogl chociaz przeprosic za swoje spoznienie
+tardiness-spoznienie, opoznienie
+it can take arbitrarily long-może to zająć dowolnie długo
+one shortcoming of finalizers and cleaners is-jedna z wad jest
+the quality control revealed the shortcomings in the production process-niedociagniecia, braki
+shortcomings of current test frameworks-braki, niedociagniecia
+garbage collector reclaims the storage associated with an object-Garbage Collector odzyskuje pamięć związaną z obiektem
+the cache should occasionally be cleansed of entries that have fallen into disuse-pamięć podręczna powinna od czasu do czasu zostać wyczyszczona z wpisów, które przestały być używane
+stung-ukaszony
+when programmers are first stung by this problem-kiedy programiści zostają po raz pierwszy dotknięci tym problemem
+loosely speaking-swobodnie rozmawiać
+as a counterargument for this thesis could be that the knowledge should be propagated evenly within the team-kontrargument dla tej tezy moglby byc ze wiedza powinna byc rozpropagowana rowno w zespolu
+counterargument, counterpoint-kontrargument
+the counterpoint to this-kontrargument
+unworkable in a concurrent setting-niewykonalne w równoczesnym otoczeniu
+there is, however, a simple idiom to ensure noninstantiability-istnieje jednak prosty idiom, aby zapewnić brak możliwości uruchomienia

@@ -1,0 +1,40 @@
+dont be edgy-nie denerwuj się
+After she had waited half an hour for someone to mend the TV, she bacame edgy/i'm on the mend-kiedy czekala na kogos do naprawic, cerowac tv, ons stala sie poddenerwowany, zirytowany
+i feel edgy-poddenerwowany, zirytowany
+And my swagger is just hiding how completely terrified I am. -> Moje kozaczenie tylko ukrywa, jaka jestem przerażona.
+You can see it in the eye and the swagger. -> Można to zobaczyć w ich oczach i dumnym kroku.
+swagger-kroczyc dumnie, przechwalac sie
+These capabilities, if used outside of Spring Cloud, can be complex and obtuse to set up.-Te możliwości, jeśli są używane poza Spring Cloud, mogą być skomplikowane i niepotrzebne w konfiguracji.
+This can be a little obtuse, so let’s see a concrete example.-Może to być trochę nudne, więc zobaczmy konkretny przykład.
+obtuse=angled-rozwartokątny
+obtuse to set up, this can be a little obtuse-niepotrzebne w konfiguracji; to moze byc troche nudne
+This background information is tossed out, and never makes it into our long=term memory-Te informacje podstawowe są odrzucane i nigdy nie wchodzą do naszej pamięci długoterminowej
+candidates are expected to have some background information about the company-podstawowe informacje
+background information-podstawowe informacje
+we have been accustomed to relational databases-jesteśmy przyzwyczajeni do relacyjnych baz danych
+you'll grow accustomed to introducing code changes in small steps-przyzwyczaic sie
+this test covers the thorny subject of link relations in rest-drazliwa kwestia
+thorny-drazliwy, ciernisty
+it's a thorny issue and i'm not sure the best way to bring it up-drazliwa kwestia, poruszyc
+i'm absolutely livid-jestem absolutnie wściekły
+livid-wsciekly
+vivid vs livid-zywy, jaskrawy vs wsciekly
+we crave beauty-pragniemy piękna
+'four big things' that Chinese families would crave.-pragnac, pozadac
+craven-tchorz
+crave sth (m5)-bardzo czegos pragnac
+Thanks for the heads up-dzieki za informacje
+Next time, give me a heads up. -> Następnym razem, daj mi znać.
+heads up-info, dac znac
+If you truly want a list that you can add or remove items from, you can coerce one by passing the range object into a new list object-zmusic
+simple way to coerce those sequences-zmusic
+Java coerces the lambda into a RowMapper-zmuszac
+coerce-zmusic
+concretely via hypertext-konkretnie poprzez hipertekst
+handle errors in a sensible way-radzić sobie z błędami w rozsądny sposób
+fallback-awaryjny (mechanism, option, plan
+Our sample does not use a specific caching library so our cache store is the simple fallback that uses ConcurrentHashMap-kreacja zastepcza/rezerwowy
+@restcontroller is a shorthand-skrot
+sort of shorthand which reinforces prejudices-skrot wzmacniajacy uprzedzenia
+Coverage (usually a shorthand term for statement coverage)-'skrotowe okreslenie'
+Remember that String::length is shorthand for the lambda-skrot, skrotowe okreslenie

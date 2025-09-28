@@ -1,0 +1,99 @@
+spelling and pronunciation-pisownia i wymowa
+taxi, cab-taksowka
+return ticket, round trip-bilet powrotny, w obie strony
+main road, highway-droga glowna, autostrada
+motorway, freeway-autostrada
+subway, underpass-przejscie podziemne, tunel
+pavement, sidewalk-chodnik
+car park, parking lot-parking
+secondary school, high school-szkola srednia, liceum
+term, semester-period in a college year
+university, college-studia
+autumn,fall-jesien
+fortning-two weeks
+tap, faucet-kran
+rubbish, garbage, trash-smieci
+dustbin, trashcan; Put that garbage in the dustbin/trashcan-kosz na smieci
+wardrobe, closet-szfa schowek
+ground floor, first floor-pierwsze pietro
+toilet (gents, ladies), bathroom (men's, ladies' room)-toaleta dla mezczyzn, kobiet
+biscuits, cookies-ciastka
+sweets, candy-slodycze
+trousers, pants-spodnie, majtki
+waistcoat, vest-kamizelka
+vest, undershirt-podkoszulka
+trainers, sneakers; My trainers are in the wardrobe/closet-adidasy
+cross out the incorrect answer-przekreśl nieprawidłową odpowiedź
+stand/wait in line, gueue-stack w kolejce
+drapes, curtains-zaslony
+collect call, reverse charge-rozmowa na koszt odbiorcy
+attorney, lawyer, barrister, solicitor-adwokat
+check, bill (in a restaurant), excuse me, could we have the check(pay) bill please?-rachunek
+I'ts really noisy, there are trucks going past all the time-Naprawdę głośno, przez cały czas przejeżdżają ciężarówki
+I got a puncture/flat tire when I was cycling to work yesterday-zlapalek kapcia gdy jechalem rowerem do pracy
+My dad works as a janitor/caretaker at the local school-moj tata pracuje jako dozorca w szkole
+buy five this/cans of peaches-puszka brzoskwini
+I need to get this bag repaired because the zip's (zipper) broken-zamek sie zepsul
+Can you go and put this letter in the mailbox/postbox for me?-czy mozesz wrzucic ten list do skrzynki
+I'm sure I had a twenty dollar bill/not/banknote in my pocket, where is it now?-mialem dwudziesto dolarowy banknot w kieszeni
+I would like a new (gas)cooker, stove, oven, but I can't really afford it-chcialbym nowa kuchenke x2, piekarnik
+windscreen, windshield-przednia szyba
+variations in slang and colloquial expressions, countless varieties of English, language vary from country to country-różnice w slangu i wyrażeniach potocznych, niezliczone odmiany języka angielskiego, języki różnią się w zależności od kraju
+centre, center-centrum
+I have a triaditional outlook on life-Mam triadyczne spojrzenie na życie
+dossier-dokumentacja, akta
+I really dont like how American spelling is becoming so commonplace-Naprawdę nie podoba mi się, jak amerykańska pisownia staje się tak powszechna
+The medieval torture and execution of women, even pregnant women, and children is commonplace.-Średniowieczne tortury i egzekucje kobiet, nawet kobiet w ciąży i dzieci, są na porządku dziennym/powszechny.
+I think we should stick to the rules-Myślę, że powinniśmy trzymać się zasad
+There are so many Americans and Britons today for whom English is a second language-Dziś jest tak wielu Amerykanów i Brytyjczyków, dla których angielski jest drugim językiem
+Looks like your hunch paid off.-Wygląda na to, że twoje przeczucie się opłaciło.
+diner-restauracja (gorsza), jadlodajnia
+soda, fizzy drink-napoj gazowany (sweet)
+cellphone, mobile-telefon komorkowy
+zipcode, post code-kod pocztowy
+vary, differentiate, distinguish between-rozroznic miedzy
+when it comes to an education-jesli chodzi o edukacje
+In Poland we try to eradicate this problem (different accent)-wyeliminowac, zlikwidowac
+By doing so, they were able to rapidly eradicate the threat.-Dzięki temu udało im się szybko wyeliminować zagrożenie.
+far further the furthest, further=figurative, e.g. not further questions, farther=physical distance-further, father
+figurative-symboliczny, przenosny
+Are you being literal or figurative? Are you being literal or figurative?-Dosłownie czy w przenośni? Mówisz dosłownie czy w przenośni?
+As you'll see, JMS demands that you also (figuratively) fuel the mail carrier's truck.-w przenosni (zatankowac ciezarowke poczty
+Today's Russia is reminiscent in some ways of the old USSR.-Dzisiejsza Rosja pod pewnymi względami przypomina stary ZSRR.
+mathematics is taught with methods reminiscent of 1950s-przypomina, przypominajacy
+When Julie walked into room, you could have cut atmosphere with a knife-Kiedy Julie weszła do pokoju, można było wyciąć atmosferę nożem
+sun, sand and relaxation-relaks
+there often comes a point where avoidance is no longer an option-często pojawia się moment, w którym unikanie nie jest już opcją
+one side accuses the other of doing sth-jedna strona oskarża drugą o robienie czegoś
+how to best utilize our software.- jak najlepiej wykorzystywać nasze oprogramowanie.
+government supported, backed up, endorsed-poparty przez rzad
+One of these is the needle in the proverbial haystack.-To jak igła w stogu siana.
+foreman-brygadzista, kierownik, majster
+computers blamed for record number of job losses-komputery winione za rekordową liczbę utraconych miejsc pracy
+so many buzwords-popularne slowo, slowo klucz
+Gentle is the buzzword for today, okay?-Delikatność to słowo klucz na dzisiaj, OK?
+To krajowy konkurs na historyczne wypracowanie.-It's a national competition for historical writing.
+competition, contest-Konkurs (Mocart)
+Voucher for innovations-Bon na innowacje
+and these are the reasonable defaults-to sa rozsądne wartości domyślne
+use microservices to leverage architecture-dzwignia, wplyw, wykorzystac, przewaga
+Adding credence to this, IBM, Yelp, Hotels.com and many others have adopted these technologies for their own systems. -wiara, wiarygodnosc
+You evidently gave them credence.-Najwyraźniej dałeś im wiarę.
+it's easy to deploy Netflix OSS on Heroku while adhering to the principles of the Twelve Factor app-z zachowaniem zasad, przy jednoczesnym przestrzeganiu zasad
+be inline with, current adherence to-zgodny, zgnodnosc
+this method name doesn't adhere to Spring's naming convention-przestrzegac, przylegac
+One of the problems introduced by microservices is the large volume of services that must invoke other services in the system.-wielkosc, pojemnosc, ilosc
+Total volume in vial equals 1.5 ml.-Całkowita objętość w fiolce wynosi 1, 5 ml.
+attempting to manage the resulting configuration manually is intractable-trudny, trudny do rozwiazania
+Next, create a Heroku account, then download and install the Heroku toolbelt.-pas narzedziowy
+Having an open circuit stops cascading failures and allows overwhelmed or failing services time to heal. -przytloczony
+he fallback can be another Hystrix protected call, static data or a sane empty value-rozsadna pusta wartosc
+sane-rozsadny, trzezwo myslacy
+The dashboard is a Christmas tree and the car has stopped.-Deska rozdzielcza to choinka, a samochód zgasł.
+turbine aggregates statistics from many hystrics dashboards-deska rozdzielcza
+is an arbitrary client name, which is used to create a Ribbon load balancer-przypadkowy
+Understand, none of this was arbitrary.-Zrozum, to nie było przypadkowe.
+objects can contain arbitrary amount of any data-losowy, dowolny
+BigDecimal is for arbitrary=precision fixed=point numbers-BigDecimal jest dla dowolnej precyzji liczb
+Each feign client is part of an ensemble of components that work together-zespol, komplet, stroj
+I didn't have time to put a full ensemble together.-nie miałem czasu, by położyć pełny zespół razem

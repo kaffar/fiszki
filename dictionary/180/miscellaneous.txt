@@ -1,0 +1,52 @@
+I don't know what's your view on this matter, but I don't like when there are some unnecessary data in tests that aren't really tested. -Nie wiem, jaki jest twój punkt widzenia w tej sprawie, ale nie podoba mi się, gdy...
+The plan was to demo it to BAs at first, so that any mismatches with FRD could be spotted quickly and fixed before delivering to SIT-Plan polegał na tym, aby najpierw przeprowadzić demo do BA, aby wszelkie niedopasowania z FRD można było szybko wykryć i naprawić przed dostarczeniem do SIT
+In order to evaluate your eligibility and the amount of reimbursement of the costs of social benefits in 2019, you are obliged to submit an average income statement.-kwalifikowalnosc;wysokości zwrotu kosztów świadczeń socjalnych;jesteś zobowiązany złożyć zeznanie o srednim dochodzie
+in general it might be counter=intuitive for the client-na ogół może to być dla klienta sprzeczne z intuicją
+overdue, outstanding reviews-zalegle reviewsy
+the code was made under the guidance of Adam and I did not want to interfere-kod powstawal pod przewodnictwem Adam i ja nie chcialem sie wtracac
+I am not an expert in Push Manager area and I need your guidance in investigation of following Jira-porady, wskazowki, kierownictwo
+stories abounding of drivers making frantic appeals for guidance-obfitowac, goraczkowe odwolania o pomoc
+for their guidance and support during my tenure at Nokia and my managers-podczas kadencji
+through your encouragement and guidance I have been able to excel at the projects offered to me-udalo mi sie doskonalic
+The guidance provided by this line of the Zen of Python is quite simple-kierownictwo
+I leave it to your creative invention-zostawiam to twojej inwencji tworczej
+morrison overcomes adversity and wins-morrison pokonuje przeciwności i wygrywa
+competences-kompetencje
+Thanks for your reply-dziekuje za odpowiedz
+I will reply your email straight away I come back home-odpowiem na twojego maila jak tylko wroce do domu
+it's already 13:10, we moved smoothly to the next meeting which is..., i propose to stay here, the people concerned about the topic please stay so Jacek, Tomek I would like you to stay, the rest of the team may leave as you are not directly involved. Thank you for the meeting and have a nice day-jest juz 13:10, przechodzimy gladko do nastepnego spotkania ktorym jest... Proponuje zostac tutaj, osoby zainteresowane prosze zostac, wiec Jacek, Tomek chcialbym zebyscie zostali. reszta zespolu moze odejsc jesli nie sa bezposrednio zaangazowane. 
+As far I'm concerned-jesli o mnie chodzi
+as far sth (our bad situation) is concerned-biorac pod uwage
+The microservice should never be concerned about the mechanics of how this-Mikroserwis nigdy nie powinien być zaniepokojony mechaniką tego, jak to się dziejehappens
+corollary-(naturalne) nastepstwo, wynik
+release is delayed/behind the schedule-release jest opozniony
+disclose compromising information-ujawnic kompromitujace informacje
+contrary, antonym, the opposite-przeciwienstwo
+conflicting, contradictory information/data-sprzeczne informacje (liczba poj)
+that sounds very contradictory-to brzmi sprzecznie
+sustainable, sustain conversation/head injury-trwaly, zrownowazony, stabilny | podtrzymac, poniesc
+settle invoice on time-uregulowac fakture na czas
+Good timing is essential when working to a deadline-Dobre rozplanowanie czasu jest konieczne jezeli gonia cie terminy
+i have to arrange some errands, some private stuff, it involves going to several places during the working hours so it's better to take day off-musze zalatwic jakies sprawy, wiaze sie to z lazeniem po kilku miejscach wiec lepiej jest wziasc dzien wolny
+i'm buying a flat so i have to visit a bank and a notary that day-kupuje mieszkanie wiec musze odwiedzic bank i notariusza tego dnia
+I am buying a flat for a loan, I have 50% of my own contribution-kupuje mieszkanie na kredyt, mam 50% wkladu wlasnego
+packet, bundle, bulk, parcel | package | crate-paczka | pakiet | paczka, skrzynia
+promptly, instantly, at once-natychmiast, odrazu
+in sequence, sequentially, one by one, in turn-po kolei
+requests along with their arguments and responses-ruquestt wraz z argumentami i odpowiedziami
+put off-odlozyc na pozniej, zrazac
+Dont put off till tomorrow what you can do today.-nie odkladaj na jutro to co mozesz zrobic jutro
+With great grief I am forced to announce that the demo will be postponed. Apologises for any inconvenience caused.-z wielkim smutkiem jestem zmuszony oglosic ze demo bedzie przelozone. przeprosiny za niedogodnosc spowodowana
+reward, rewarding-nagroda, satysfakcjonujacy
+every team member should have similar knowledge, experience, familiarity, acquaintance-znajomosc
+advocacy, endorsement, support, backing-poparcie
+Generally, 'parentheses' refers to round brackets ( ) and 'brackets' to square brackets [ ]-nawiasy
+receipt, recipe, bill, prescription-paragon, przepis, rachunek, recepta
+overflowed, overloaded, conjested, overly blown database-przepelniona baza
+could you write it down on the chat? i just wrote it down on the chat-czy moglbys to zapisac na chacie?
+comprehension-ulatwienie, zrozumienie
+comprehensive election audition, comprehend, comprehension-kompleksowy, wszechstronny, zrozumiec, zrozumienie
+distinct,distinction, distinctive, distinclty-osobny, odrebny, rozny, wyrazny/roznica, wyroznienie/wyrozniajacy/wyraznie
+There is no definite update from RDNET team.-okreslony, konkretny, stanowczy
+See Jenkins: The Definitive Guide by John Ferguson Smart-okreslony, pewny ale tez ostateczny
+definitely-zdecydowanie, napewno

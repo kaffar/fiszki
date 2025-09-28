@@ -1,0 +1,40 @@
+find a booth that Vernon was happy with.-stoisko (w barze)
+visit our virtual booths-stoisko, budka, stolik, kabina
+can think of it as a swiss army knife for kafka operations-szwajcarski scyzoryk
+which makes it a good fit for a small example of a unit test-co sprawia ze dobrze pasuje do
+be mindful of the available network bandwidth and throttle replication using quotas if needed-zwracać uwagę na dostępną przepustowość sieci i replikację przepustnicy, w razie potrzeby z zastosowaniem kwot/limitow
+But I am also mindful we have a shortage of teachers today. -> Ale jestem też świadomy tego, że mamy dzisiaj mało nauczycieli.
+mindful-swiadomy
+throttle -przepustnica
+at full tilt; At full throttle/speed-na pełnym gazie
+quotas-limity
+Monday's quotations-notowania
+A sales person gets a bonus only when they sell more than their quota.-norma, udzial
+I have to say that the proposal concerning the buying back of quotas leaves me more perplexed (perplex)-Muszę powiedzieć, że wniosek dotyczący wykupu kwot wprawia mnie w zakłopotanie. (kwoty i wprawiac w zaklopotanie)
+data distributed across many services-dane rozproszone w wielu usługach
+you can easly infer what the program does / type is infer(ed) from-wywnioskowac z
+type inference-wnioskowanie typu
+tests are not inferior and are not disposable-testy nie sa gorsze i nie sa jednorazowe, pozbywalne, do dyspozycji
+infer vs interfere-wnioskowac; zaklocac
+eventually, finally-docelowo
+aggravation, deterioration-pogorszenie
+leader election-wybory lidera
+at times, however, you ...-czasami jednak ...
+failover-praca awaryjna
+protection with automatic server failover. -> zabezpieczenie z automatycznym pracy awaryjnej serwera
+let's see failover happening-zobaczmy, jak działa tryb failover
+disaster recovery failover scenario-praca awaryjna
+funky-modny, odjechany
+frisky-rozbrykany, swawolny, napalony
+Have you ever waded through a mess so grave that it took weeks to do what should have taken hours?-brnac, przedzierac sie, syf tak ciezki
+Revenge from the grave-zemsta zza grobu
+gravel-zwir
+is in grave danger-jest w poważnym niebezpieczeństwie
+bribery strengthens/weaknesses our moral stature-Przekupstwo wzmacnia naszą postawę moralną
+large stature - wysoki wzrost/postura, postawa, wzrost
+he was known for his relentless stance-bezwgledny, nieustepliwy
+What is our official stance on that?-Co to jest nasze oficjalne stanowisko na ten temat?
+way of thinking, attitude, mindset, stance-sposob, myslenia, nastawienie
+experts pointing out the fallacies and gaps in Jenkins’ stance-mit, blad; stanowisko
+He doesn't hide his fascist stance.-faszystowskie stanowisko
+go through, pass, undergo-przejsc

@@ -1,0 +1,71 @@
+bespoke software development-tworzenie oprogramowania na zamówienie/na miare/ad hoc
+bespoke, behold-na miare, na zamowienie, ad hoc
+which he says is due to not being a bespoke broadcasting centre-na miare, made specially for the needs of the customer
+preface, foreword-przedmowa
+I know I am not alone in this regard-Wiem, że nie jestem sam w tym zakresie/wzgledzie
+mailing lists and the like-i tym podobne
+It’s now an implied and inseparable part of my process for making software-Jest to nieodłączna i nieodłączna część mojego procesu tworzenia oprogramowania | sugerowac, pociagnac za soba, byc skutkiem, pochodzic
+Big E” Enterprise Java held no allure for me-wabic, necic, urok
+Yes, you do have that deadly allure.-Tak, ma pani morderczy wdzięk.
+tools that would allow me to maintain the nimble and empowering spirit of the tools that I was used to-zwinny, bystry | wzmacniac, uprawniac
+expressed in a superior manner in Spock-wyrazone w lepszy sposob
+Spock’s key tenet is that you don’t write tests for yourself-doktryna, zasada
+expressing tests in a contorted “natural” language and using barbaric regular expressions-wykrzywiony; barbarzynski
+though there’s also plenty for long=time Spock aficionados-milosnicy, wielbiciele
+seamlessly interoperates with Java-płynnie/bezproblemowo współpracuje z Javą
+in particular-w szczegolnosci
+articulate results to the managers-wyraznie wymawiac
+be articulate and positive about-elokwentny
+learly articulating the value-jasno przedstawiajac wartosc
+Groovy testing framework wasn’t of much interest to me at that time. I moved along-nie bylem wtedy zbytnio zainteresowany groovim. Ruszylem dalej
+Then it dawned on me-Wówczas mnie olśniło
+rediscover the joys of unit testing! accompany us on our journey-Odkryj na nowo radość z testowania jednostkowego! towarzysz nam w naszej podróży (akompaniament)
+technologies come and go at a frenetic pace-technologie przychodzą i odchodzą w szalonym tempie; goraczkowy
+develop content that is technically sound-solidny, pewny, mocny
+collective effort-wspólny/zbiorowy wysiłek
+I owe a lot to-Wiele zawdzięczam
+proofreading-korekta
+read the manuscript at various stages of its development and provided invaluable feedback-rekopis, na roznych etapach jego rozwoju, dostarczyl nieoceniony feedback
+Daley who graciously offered to write the forward to my book-laskawie, wspanialomyslnie
+this book will help to strengthen its position in the Java ecosystem-wzmocnic pozycje
+seasoned java developer that mastered the basics-doświadczony programista Java, który opanował podstawy
+Your colleague is a seasoned developer and has clearly marked the three phases by using the empty lines-Twój kolega jest doświadczonym/zaprawiony programistą i wyraźnie zaznaczył trzy fazy, używając pustych linii
+ROADMAP-harmonogram, plan dzialania, mapa drogowa
+We look at the objectives of Spock, its major features against the competition-Spoglądamy na cele Spocka, jego główne cechy przeciwne konkurencji
+One of the great strengths of Spock is its expressive syntax with regard to parameterized tests-w odniesieniu do sparametryzowanych testow
+The running theme here is that-Tematem przewodnim jest to; temat, motyw
+Manning’s commitment to our readers is to provide a venue where a meaningful dialog between individual readers and between readers and the author can take place-zaangazowanie; miejsce; znaczacy dialog
+lest his interest stray-'zeby nie' jego zainteresowanie zbladzilo
+Similarly, in TDD, you don't want to stray too far from the Green Bar, stray, stray dog-oddalac sie, bezpanski, zblakany
+He works daily with Java and has a soft spot for code quality and build pipelines.-Pracuje codziennie z Javą i ma słabość do jakości kodu i budowania potoków.
+At a time when it is hard to tell one computer book from another-W czasie, gdy trudno jest odróżnić jedną książkę komputerową od innej
+Local gurus inspect each code change extensively before it enters production status-dokladnie, obszernie
+strive strove strive-dazyc do czegos, usilowac
+There’s a third approach, and that’s the one you should strive for-dazyc
+The framework is tireless, meticulous, and precise.-skrupulatny, drobiazgowy, dokladny
+When I first came upon Spock, I thought that it would be the JUnit alternative-Kiedy po raz pierwszy natknąłem się na Spocka, pomyślałem, że będzie to alternatywa JUnit
+we don't go through all that code in gory detail here-krwawe, brutalne
+all other collaborating classes (collaborators) are simple puppets with preprogrammed input and output-kukiełka, lalka, marionetka
+president is like a puppet-kukielka
+it’s time to delve into code!-czas zagłębić się w kod!
+You want me to delve.-Mam się dalej w to zagłębiać?
+The following examples should whet your appetite-Poniższe przykłady powinny zaostrzyć apetyt
+if you’re already familiar with BDD, you’ll already grasp the when/then pattern of feature testing.-zrozumiec, pojac, uchwycic
+beyond one's grasp-nieosiagalny
+good grasp of-dobra znajomosc czegos
+may be enough to entice you to rewrite all your JUnit tests in Spock-naklonic, zachecic
+enticed-zwabiony/kusic
+entice-kusic, zwabiac
+entice,temp-kusic x2
+It is by working together that we can change the mindset of this corrupt government.-sposob myslenia, nastawienie
+get completely out of the Java mindset-sposob myslenia, nastawienie
+way of thinking, attitude, mindset, stance-sposob, myslenia, nastawienie
+Groovy has embraced the convention=over=configuration concept-Groovy przyjął koncepcję konwergencji i konfiguracji; uscisk, objac
+intertia-bezwladnosc, bezczynnosc
+when the office friendships become entrenched, they can recreate the cliquey atmosphere-kiedy zawiazuja sie przyjaznie w biurze
+entrench, entrenched/reinforced-ukorzenic, wzmacniac/ umocniony, wzmocniony
+Gradle has to face the entrenched Maven supporters and convince them that the switch offers compelling advantages.-Gradle musi zmierzyć się z zakorzenionymi zwolennikami Maven i przekonać ich, że zmiana ta ma niezaprzeczalne zalety.
+trial period-okres probny
+cryptic method names that don’t describe what’s being tested-tajemniczy, zagadkowy
+it lags behind in some areas-w niektórych obszarach pozostaje w tyle; opoznienie
+cool Groovy tricks that dazzle you-oslepiac, olsniewac

@@ -1,0 +1,35 @@
+This is desired behaviour and it works by design.-to jest celowe zachowanie i dziala zgodnie z planem
+Source cell is deliberately added to group of neighbors and takes part in kpi calculations.-source cella jest cellow dodana do grupy i bierze udzial w obliczeniach
+Computer games (casual player); casualty-swobodny, przypadkowy, dorywczy/ranny
+if you start a java program the operating system spawns a new process which runs in parallel to other programs-ikra, zrodzic sie
+Every subsequent call to tryAcquire() elapses the maximum wait timeout of one second-kazdy kolejny call uplywa max time
+precluding Fury from facing the IBF's mandatory challenger-wykluczac
+distributed db-rozproszona baza
+good manners-dobre maniery
+your manners and behaviour are so impeccable-twoje maniery sa nieskazitelne
+Compilation errors are fixed in a timely manner. -w odpowiednim czasie
+in a manner of speaking yes, but...- w pewnym sensie, ze tak sie wyraze
+since the manner in which the name field is accessed has changed-sposob
+AtomicLong can be used to consecutively add values to a number-kolejno
+The drawback of LongAdder is higher memory consumption-wada
+this class maintains a set of variables internally to reduce contention over threads-rywalizacja, konkurencja
+There's a plethora of different languages out there-nadmiar, mnostwo
+with a clumsy frameset for navigation-niezdarny
+if choose sth, we wind up with better algorithm-skonczyc
+remarkable-nadzwyczajny, wspanialy
+let's stipulate that for some definition..-zastrzec, przewidywac
+no disrespect-z calym szacunkiem
+feel the incline of priority-nachylenie, sklonny do
+accident was setback to her career-niepowodzenie
+I’ve got my share of problems just like everyone.-akcja, udzial, czesc
+Identify the aspects that vary. This is what varies.-roznic sie
+so you decide to take that off the menu-wyrzucic z menu
+here is the code we plucked out of the previous method;pluck-wyrwac; buchnac, ukrasc
+thin/thick crust, tasty sauce-cienkie/grube ciasto
+we have corralled creation of objects;corral-zagroda dla bydla; dziedziniec
+your rise will more than offset the cost of this book-roznowazyc
+fellow developers-kolega, kumpel
+impress the execs in the room-zaimponowac kierownikom
+pizza stashes ingredients factory-schowek, gromadzic, ukryc
+Please provide final statement for current release and onward-dalej, naprzod
+let's pose that; pose a real challange-zalozmy ze; rzucic wyzwanie

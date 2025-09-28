@@ -1,0 +1,27 @@
+One way Spring helps you insulate your data access tier from the rest of your application-odizolowac data access tier od reszty aplikacji
+significantly speed up your unit tests and rule out the chance of a test failure due to inconsistent data-znacznie przyspieszyc testy i wykluczyc szanse failujacego testu z powodu niespojnych danych
+rule out subject you are not interested-wykluczyc temat ktory cie nie interesuje
+Instead, you can lean on Spring to handle the-mozesz polegac na springu zeby zalatwic to
+lean-szczuply
+lean    leant   leant-opierac
+Spring removes the tedium of data access from your persistence code. tedious-spring usuwa nude; nudny
+I would have listed them all, but I didn’t want JDBC to get an inferiority complex.-nie chcialem zeby JDBC dostalo kompleks mniejszosci
+Because we strive for Good Things, we turn to Spring.-poniewaz dozymy do dobrego, obracamy sie do springa
+strive strove strive-dazyc do czegos, usilowac
+In fact, we strive for design that, in the words of Saul Bass-w rzeczywistosci, staramy sie zaprojektowac
+Always takes up a challenge and strives for success-Zawsze podejmuje wyzwanie i dazy do sukcesu
+strive  strove  striven-dazyc do czegos, usilowac
+improve application performance by avoiding the database altogether if the data needed is readily available-dane sa latwo, szybko, chetnie dostepne
+and make them readily testable.-latwo, szybko, chetnie
+create objects on the fly-w locie, bez przygotowania
+automatically generating repository implementations on the fly at runtime.-w locie bez przygotowanie podczas czasu wykonania
+Relational databases have been the workhorse of enterprise applications-kon pociagowy, wol
+Spring takes the stance that many exceptions are the result of problems that can’t be addressed in a catch block-spring przyjmuje postawe/stanowisko 
+What is our official stance on that?-Co to jest nasze oficjalne stanowisko na ten temat?
+This mirrors a powerful design pattern: the template method pattern.-to odzwierciedla potezny wzorzec projektowy: metode szablonowa
+rethrow them as platformagnostic exceptions.-exception niezalezny od platformy
+agnostics-niepewny, niezdecydowany; osoba niezdecydowana w jakies kwestii, watpiaca w istnienie prawidlowej odpowiedzi w jakims temacie;
+The carrier is responsible for driving the process-przewoznik, nosnik
+By the way, when will 3rd and 4th carrier tests commence again?-rozpoczac
+undelivered goods can be withheld by the carrier-wstrzymac, zatrzymac
+Spring separates the fixed and variable parts of the data access process into two distinct classes-spring odziela stale i zmienne czesci procesu dostepu do danych na dwie odrebne/osobne klasy

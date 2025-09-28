@@ -1,0 +1,9 @@
+this class maintains a set of variables internally to reduce contention over threads-rywalizacja, konkurencja
+It also tries to reduce the contention on the task queue, so can be really good in heavily loaded environments.-twierdzenie, spor, tutaj rywalizacja
+But as for your contention there are no bugs, I disagree.-Ale co do twojego sporu, że nie ma robali, nie zgadzam się.
+bone of contention-kość niezgody
+contention-twierdzenie, spor, rywalizacja, konkurencja
+It also tries to reduce the contention on the task queue, so can be really good in heavily loaded environments.-twierdzenie, spor, tutaj rywalizacja/konkurencja
+it will result in excessive contention-spowoduje nadmierną rywalizację
+there is no contention between threads-nie ma rywalizacji miedzy watkami
+competition, rivalry, contest, contention-rywalizacja

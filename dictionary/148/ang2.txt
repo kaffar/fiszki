@@ -1,0 +1,34 @@
+The channel has the double duty of relaying messages and determining how those messages will be routed-kanal ma podwojny obowiazek przekazywania wiadomosci i okreslania jak te wiadomosci beda kierowane
+you can configure a fanout exchange and several queues like this-obciazalnosc wyjsciowa/rozchodzic sie promieniscie
+We have a payload to deliver-ladunek
+That’s easy enough for String values but can get more complicated when the message payload is a complex object-ladunek wiadomosci
+Spring AMQP offers message driven POJO support that’s reminiscent of the same feature in Spring JMS-przypomina, przypominajacy ficzer
+This plurality of characteristics of the oceans is a decisive factor-mnogosc cech oceanow jest kluczowym czynnikiem
+In case you’re wondering, yes: the queue names attribute name indicates plurality.-w przypadku gdybys sie zastanawial: tak nazwy kolejek wskazuja mnogosc, roznorodnosc
+To understand the AMQP messaging model, it may help to briefly recall the JMS messaging model-przypomniec, zwrocic (do fabryki)
+Instead, AMQP introduces a new level of indirection between the producer and any queues-nowy poziom posrednictwa pomiedzy producentem i kolejkami
+a refund and a exchange-zwrot kasy, wymiana towaru
+stock exchange-gielda papierow wartosciowych
+exchange-wymiana
+WebSocket is a protocol providing full duplex communication across a single socket.-podwojna komunikacja przez pojedynczy socket
+recent polls showed that-ankiedy, badania
+polling the server for updates.  (poll)-odpytywanie serwer o aktualizacje
+STOMP frames are comprised of a command, one or more headers, and a payload-Ramki STOMP składają się z polecenia, jednego lub więcej nagłówków i ładunku
+At the very least, you might create a static HTML page-Przynajmniej możesz utworzyć statyczną stronę HTML
+This signifies that handleShout() should handle any messages-to oznacza ze motoda powinna obslugiwac dowolne wiadomosci
+A recourse to violence is not what I expected of him.-Nie spodziewałam się po nim uciekania się do przemocy. 
+In such desperate situation, our only choice might be a recourse to our neighbours.-W takiej ciężkiej sytuacji naszym jedynym wyborem może być zwrócenie się do naszych sąsiadów.
+We should consider a recourse for help to the police.-Powinniśmy rozważyć zwrócenie się o pomoc do policji.
+Aside from being logged by Spring, the exception could be lost with no recourse or opportunity to recover.-bez ucikania sie/zwracania sie do
+It’s no secret that email has become a common form of communication, displacing many traditional means of communication such as postal mail, telephone calls, face to face communication-zastapujac wiele tradycyjnych srodkow komunikacji poczta, telefony, komunikacja twarza w twarz
+class has an API that’s too cumbersome to use on its own. Fortunately, Spring provides MimeMessageHelper to lend a hand.-zbyt nieporeczny do uzycia jako samego, dlatego spring dostarcza cos zeby podac pomocna dlon
+Since null checks are kinda cumbersome and painful-nieporeczny, uciazliwy
+But mixing up that HTML in Java code compounds the issue.-mieszanie htmla w kodzie komplikuje sprawe
+Yup, another day inside the Gavin Belson cult compound,prison compound, industrial compound-kompleks przemyslowy; blok wiezienny;
+Or do you make no payments at all, thereby incurring huge, compounding fees?-tym samym zaciagac ogromne zlozone oplaty
+compound issue-zlozony problem
+it’s confined to values of attribute-jest ograniczony do wartosci
+confined spaces-ograniczone przestrzenie
+she seems confined and self assured in her abilities-pewny siebie x2
+confine (confined to single cell)-ograniczac
+@Autowired | Now you can wire the Velocity engine into SpitterEmailServiceImpl-podlaczyc, polaczyc

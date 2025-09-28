@@ -1,0 +1,26 @@
+is like learning to drive a car by looking at its blueprints-plany
+You don’t need to know how "an internal combustion engine" fits together if all you want to do is pick up the groceries-silnik spalinowy, odebrac artykuly spozywcze
+This book uses some novel conventions for showing schema examples;novelty-nowatorski;nowosc
+I’m by no means trying to create a Python bias to this book-w zadnym razie nie staram sie; przychylnosc/stronniczosc
+I hope this book will be useful to programmers of all stripes-programisci wszelkiej masci
+Valid examples are in green, with a checkmark. Invalid examples are in red, with a cross.-haczyk, krzyzyk
+the same concept could be represented in myriad ways-na wiele sposobow, ogromna liczba
+When writing computer programs of even moderate complexity-programy o umiarkowanym stopniu zlozonosci;lagodzic, oslabiac
+underestimate, overestimate-lekcewazyc, przeceniac
+partially-czesciowo
+keep it on hold-zawiesic
+moon exerts (egzerts) on a kilogram of water-wywierac
+force of gravity diminishes with distance-zmniejszac
+depicts state as an oval-przedstawia stan jako owal
+turnstile-bramka kolowrot
+fare is too low-oplata jest zbyt niska
+merciful-milosierny
+deal with exigency-nagla potrzeba, koniecznosc
+use sledge hammer-mlot kowalski obureczny
+enumerate every transition-wyliczac kazde przejscie
+modyfying and maintaining system like this can be confounding, confusing-mylacy x2
+it's like being caught in a maze of twisted little passages-labirynt zawilych korytarzy, przejsc
+Lots of long dingy passages-duzo obskurnych korytarzy
+what is the biggest offender-przestepca, sprawca
+rhino was killed in its enclosure-zagroda, ogrodzenie
+escaping from cruel captivity-ucieczka z okrutnej niewoli

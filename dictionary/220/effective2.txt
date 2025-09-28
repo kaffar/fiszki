@@ -1,0 +1,21 @@
+this chapter is devoted to the nuts and bolts of the language-podstawowe fakty
+html is permissible in documentation comments, permitted-dozwolone
+the definitive guide to writing doc comments-ostateczny przewodnik po pisaniu komentarzy do dokumentów
+html markup, tag-znacznik HTML
+he fell out-on wypadl
+saliva-slina
+it numbs her nose-odrętwia jej nos
+Breathe you in till my face numb, Numbs me like novocain-zdretwialy; odretwia mnie jak nowokaina
+numbly-tepo
+implode-wybuchać do wewnątrz
+gory experiment-krwawy eksperyment
+in the next chapter we will get into gory details-krwawy, brutalny
+first period that is followed by a space, tab, or line terminator-pierwszy kropka, po której następuje spacja, tabulator lub terminator linii
+thus far, we have discussed returning optionals-jak dotad, do tej pory
+is prohibitively expensive-jest wyjątkowo drogi
+prohibitively-niedopuszczalnie, niewspolmiernie
+reading the value out of the optional requires an extra indirection-odczytanie wartości opcjonalnej wymaga dodatkowej pośredniczości
+which may be viewed as a safety valve-zawór bezpieczeństwa
+valve-zawor, kranik, wentyl
+allows the user to ignore this eventuality-pozwala użytkownikowi zignorować tę ewentualność
+studies have shown that it is counterproductive-badania wykazały, że przynosi efekt przeciwny do zamierzonego

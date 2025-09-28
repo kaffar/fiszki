@@ -1,0 +1,91 @@
+beyond one's grasp-nieosiagalny
+provide methods beyond what comes out of the box.-dostarczy metody ponad to co przychodzi w standardzie
+beyond reproach-bez zarzutu | wyrzut, zarzut, wymowka
+vast obscurity beyond the city-ciemnosc
+with contingency time / additional, extra, spare, backup-z zapasem czasu
+witty-dowcipny
+dump;damp;dumb-wysypisko, wyrzucac, zwalac; wilgoc, wilgotny; glupi
+lose, loose-stracic, luzny
+tailor-krawiec
+apprenticeship, internship, practice-praktyka, staz, praktyka
+intern, trainee, apprentice-stazysta, stazysta, praktykant
+merely, hardly, scarcly, barly-ledwo
+scarce, scanty, scant-rzadki, ubogi, skapy
+Trying to use objects at very low levels of granularity is nice, but the overhead may be prohibitive.-narzut może być wygórowany/zaporowy/zakazujacy
+Identify shareable state (intrinsic) and non=shareable state (extrinsic)-wewnetrzny, zewnetrzny
+Each particle is represented by an object that contains plenty of data. At some point, when the carnage on screen reaches its climax, newly created particles no longer fit into remaining RAM, and the program crashes.-Kazda czastka reprezentowana jest przez obiekt ktory zawiera duzo danych. W pewnym momencie, kiedy rzez na ekranie osiaga swoj punkt kulminacyjny, nowo stworzone czostki nie pasuja dluzej do pozostalego RAMu i program sie wysypuje
+On a closer inspection of the Particle class, you may notice that color and sprite data consumes the most memory in each object.-Przy bliższym przyjrzeniu się klasie Particle można zauważyć, że dane koloru i ikonki zużywają najwięcej pamięci w każdym obiekcie.
+we will animate a sprite of mario bross-krasnoludek
+leaf/loaf-lisc/bochenek
+Can be an overkill if a state machine has only a few states or rarely changes.-Może być przesadą, jeśli maszyna stanów ma tylko kilka stanów lub rzadko się zmienia.
+so it appears that your copyright catchphrase must be modified, doesn't it?-wiec wydaje sie ze,... prawo autorskie; powiedzonko, haslo, motto
+nah, don't give me credit-nie dawaj mi uznania
+don't be so modest/humble-nie badz taki skromny
+in my arrogant opinion, moim aroganckim zdaniem-IMAO
+Bridge is designed up=front to let the abstraction and the implementation vary independently. Adapter is retrofitted to make unrelated classes work together.-Most jest zaprojektowany z gory by pozwolic abstrakcji i implementacji byc nie zaleznymi. Adapter jest modernizowany by niepowiazane klasy pracowaly razem
+I must admit that I haven't used or revised this pattern recently. What I can dig up from mind right now is the notion/concept-Musze przyznac ze nie uzywalem i nie powtarzalem w ostatnim czasie tego wzorca. To co moge wygrzebac z pamieci to pojecie
+clue, tip, hint, advice-wskazowka
+in this particular/concrete/specific example-w tym konkretnym przykladzie
+szczegolny-particula, specific, special
+peculiar-dziwny, osobliwy
+It's peculiarly strong and stiff.-Poza tym jest on dziwnie mocny i sztywny.
+What is the best way to get round the city?-Jaki jest najlepszy sposób na poruszanie się po mieście?
+what/which kind-unlimited choice/limited choice
+What was the last live event you went to?-Jaka była ostatnia impreza na żywo, na którą pojechałeś?
+What does she look like? What is she like?-jak ona wyglada? jaka ona jest (z charakteru)?
+character-personality, character, nature, temper, attitude
+cello, cellist-wiolonczela, wiolonczelistka
+violin, violinist-skrzypce, skrzypek
+kłaje-choir (w)
+conductor-a person who directs an orchiestra
+high pitched voice-wysoki glos
+pitching tent-rzucac,ciskac;rozbijac namiot
+I have an idea I'd love to pitch you, if you have time.-bajerowac
+Now, Richard, when you pitched me Pied Piper you said it was gonna be, "the Google of music."; to pitch sb a story-bajerowac, wstawiac glodne kawalki
+out of tune, mean singing or playing notes that are at the wrong pitch-roztrojony; nuty; boisko, podzialka
+Wait for your pitch, sweetie.-Poczekaj na swÃ³j rzut, kotku.
+product should pitch its difference-prezentowac, zachwalac
+pitch black-czarny jak smola
+football pitch on the premises-tereny
+high pitch voice-glos o wysokim tonie
+pitch a tent-rozbic namiot
+keep the politics off the pitch.-boisko
+high=pitched-piskliwy
+idea pitch-boisko do pomyslow
+this song has incomprehensible lyrics-niepojete, niezrozumiale teksty
+The music is so moving-muzyka jest wzruszajaca
+rywym-rhythm (w)
+I don't know what it's called but I recognize the tune-Nie wiem, jak się nazywa, ale rozpoznaję melodię
+He's always blowing his trumpet- He tells everyone how wonderful he is
+The others ran away, leaving him to face the music.- He got punished for what they had all done
+When I heard the news music to my ears-It was exaclty what I wanted to hear
+physical work-praca fizyczna
+provide remarkably accurate personality predictions-zapewniają niezwykle dokładne prognozy osobowości
+remarkable, remarkably-niezwykly, zadziwiajacy, wybitny
+prominent, outstanding, remarkable-wybitny x3
+remarkable seizure;conceal-zlapanie;ukryc
+remarkable is that more people than-godne zaznaczenia
+personality clues are conveyed in the music's tempo-wskazówki osobowości są przekazywane w tempie muzyki
+conveyor belt-przenosnik tasmowy
+this memo conveys all the basic information on the issue-ta notatka przekazuje wszystkie podstawowe informacje o sprawie
+upbeat and simple music-optymistyczna i prosta muzyka
+compared to other genres-w porównaniu do innych gatunków
+avoid to make it unnecessarily complex-unikać, aby było to niepotrzebnie skomplikowane
+complex and reflective music-złożona i refleksyjna muzyka
+intense and rebelious music-intensywna i buntownicza muzyka
+is it good question when you are getting to know each other-czy to dobre pytanie, gdy się poznajecie?
+Which categories do you fit into best?-do ktorej kategorii najlepiej pasujesz?
+A person who does voluntary work in the community-Osoba, która wykonuje wolontariat w społeczności
+express involuntary actions-przedstawic mimowolne dzialania
+participation in the program is voluntary-dobrowolny, ochotniczy, nieodplatny
+careless vs carefree-niedbaly, beztroski
+brag about, show off, boast-chwalic sie
+She's far too modest, so I'll boast for her.-Jest zbyt skromna, więc muszę chwalić się za nią.
+devote, sacrifice-poswiecac sie
+Is this certificate well recognized and valued by companies-czy ten certyfikat jest dobrze rozpoznawany i ceniony przez firmy
+valued, prized, esteemed-ceniony
+And what did your esteemed chief want so urgently?-Czego twój ceniony przełożony tak pilnie potrzebuje?
+cliche-banal, frazes
+resiliency vs reliability-elastycznosc, odpornosc vs rzetelnosc, niezawodnosc
+on the horizon, in sight-na horyzoncie
+running, executing, performing on server-serwis wykonujacy sie na serwerze

@@ -1,0 +1,37 @@
+Refactoring To Facilitate Faking-w celu ulatwienia
+The problem really boils down to creating and referring to the correct instances of collaborators-problem sprowadza sie do 
+we just need to ascertain that they pass Shipper the right data-musimy tylko ustalic ze
+straightforward-bezposredni
+are sorely tempted to use globals or singletons in cases where only one object should exist-bardzo, bolesnie / obolaly, bol
+take a whole slew of collaborator arguments-cale mnostwo
+This technique can be introduced piecemeal-fragmentarycznie
+The code will feature a reusable ExchangeRateService-udostepniac, dostarczac
+how you ever been impeded by bad code-utrudniac
+impeccable prepared food-nienaganny, bez zarzutu
+fireplace-kominek
+round trip fares from 400$-podroz w obie strony oplaty zaczynja sie od 400$
+Attention: This fake is bare=minimum-gole minimum
+make a deposit-dokonac wplaty
+these have to be repeatedly and painstakingly tested, each and every one.-mozolnie; kazdy jeden
+No sweat, dude-nie ma sprawy stary
+The ubiquitous calls to assertXXXSequence are indeed duplicated-wszechobecne
+to conform/adjust to the awkward collaborator's exact interface-dostosowac sie
+Try each of Mockito's knobs and handles one at a time in the beginning-pokretla i uchwyty
+If you don't, woe be to you-biada tobie
+Okay, okay, lay off already.-zwolnic
+Let's give it a whirl.-wir
+A lot of the complexity comes from this very feature.-z samego tylko tego elemenu
+Writing mindless repetitive testing code is a guaranteed heartache. Don't do it.-bezmyslne powtarzanie kodu
+Small peek on 16 SP4 tentative content -zerkac na niepewny/probny/sondujacy kontent
+that's a shame-wstyd
+tolerate drift in the meaning of your names-dryf
+so it's not at all inconvenient-nie jest wogole niewygodne
+recap and conclusion-podsumowanie i wnioski
+now at last we can-teraz wreszcie mozemy
+landmarks-punkty orientacyjne
+they will be completeley bewildered-zdezorientowany, oszolomiony
+they will come productive in short order- w krotkim czasie
+miniscule-malutki
+but abstraction levels are fuzzy-zamazany
+provides simplified methods-uproszczone metody
+Due to EdenNET’s code obfuscation-zaciemnienie

@@ -1,0 +1,36 @@
+﻿It should also facilitate/simplify/make easier testing different/specific scenarios.-ulatwiac
+Readability is random acts of kindness sprinkled throughout your code.-posypac (np. cukrem), zraszac
+If you sprinkle your code with type annotations, mypy can type check your code and find common bugs-posypac (np. cukrem), zraszac
+run them using any Python VM with basically no runtime overhead-obciazenie, narzut
+Prime number sieve with generators-sito, przesiac
+generate kpi on the fly-w locie, bez przygotowania
+propagation delay-rozchodzenie sie, rozprzestrzenianie e, rozchodzenie e fal radiowych;
+big bulk of the work-hurtowo, duza ilosc
+type checking is bolted on to python-zaryglowany, sruby
+I've already started bringing the idea into life and created implementation draft-wprowadzic pomysl w zycie
+Of course, withing reason, but generally we should omit static/module functions, global variables and so on.-w granicach rozsadku
+Of course, this flexibility comes at a price. linux-Oczywiscie, elastycznosc ma swoja cene. 
+velvet soft moisture-aksamitna wilgoc
+allow you to focus on the problem at hand, there need to be some trade=offs along the way-pod reka, w zasiegu reki, kompromisy
+a pretty nifty ordered list-lebski, swietny, kumaty
+i have more time to read this nifty book-lebski, swietny
+flock of ducks-stado kaczek
+we are just about to take a look at whole new model- wlasnie przyjrzymy sie nowym modelom
+some ot these patterns were big time overkill-przesada, nadmiar
+media overkill - natarczywosc mediow
+this code is just an outline-zarys
+outline the problem-opisac problem
+the prevailing adaptation is model 2-dominujacy, panujacy
+prevail-panowac, dominowac, zwyciezac
+peanut butter-maslo orzechowe, orzech ziemny
+A succession of new animal welfare measures is being introduced.-Wprowadzany jest caly szereg nowych srodkow dotyczacych dobrostanu zwierzat.
+It has been a trying day in a long succession of many. Apologies.-To byc ciezki dzien, a wiele ich jeszcze czeka.
+And you're prepared to recognize our legitimate succession, I take it.-Jestes przygotowany by uznac nasze prawowite nastepstwo?
+at some point it ceases to exist-w pewnym momencie przestaje istniec
+succession of strategies used to ...-seria (in... z rzedu)
+boost revenues by increasing sales-podniesc dochody
+there is no sales revenue to offset costs-nie ma przychodow ze sprzedazy ktore rownowaza koszty
+Without it, our people will perish in less than one generation.-(umierac, ginac) Bez tego, nasi ludzie zginą w przeciągu następnego pokolenia.
+But she may perish with the shame of having such a mother.-(umierac, ginac)Może umrze ze wstydu, że ma taka matkę?
+prune empty directory chains from file list-usun puste katalogi z listy plikow, przycinac
+skipping that cell was legitimate-prawowity, sluszny

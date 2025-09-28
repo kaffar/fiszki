@@ -1,0 +1,30 @@
+burnt out bulb-spalona zarowka
+weigh (ways), weight-wazyc, waga
+You will never set foot on a pitch up.-Już nigdy nie wejdziesz na żadne boisko.
+Wait for your pitch, sweetie.-Poczekaj na swój rzut, kotku.
+I have an idea I'd love to pitch you, if you have time.-bajerowac
+Now, Richard, when you pitched me Pied Piper you said it was gonna be, "the Google of music."; to pitch sb a story-bajerowac, wstawiac glodne kawalki
+out of tune, mean singing or playing notes that are at the wrong pitch-roztrojony; nuty; boisko, podzialka
+product should pitch its difference-prezentowac, zachwalac
+distinctive black cabs (cabbies) is no mean feat-wyrozniajace sie czarne taksowki (taksowkarze) to nie lada wyczyn (an impressive achievement)
+distinct, distinctiveness-rozny, wyrazisty, odrebny, osobny/odrebnosc
+water down-rozcienczac, not as good as it used to be
+pitch black-czarny jak smola
+prospective customer-potencjalny klient
+idea is compromised/we compromised them-reach compromise/trade off
+inglend-england (w)
+we haven't paid the electricity bill yet-nie zaplacilismy jeszcze za prad
+I bought sth online and then discovered it was a scam-oszustwo, przekret
+my parents went to the seaside for the weekend-rodzice wybrali sie nad morze
+at the seaside, on the beach-na brzegu
+What a coincidence!-co za zbieg okolicznosci
+I mean don't short change them, okay?-W sensie ja ich nie robiłem w wała.
+I know you got the nerve to short change old ladies.-Wiem, że potrafisz nie wydać staruszkom całej reszty.
+I've been/gone to Japan | I've been in Japan for 3 years-Bylem w Japoni | Jestem w Japonii od 3 lat
+we'll have to ditch this car.-musimy się pozbyć tego samochodu.
+those services are based on an arguably architecturally inferior contract-te serwisy sa oparte na prawdopodobnie, niewatpliwie architektonicznie gorszym kontraktcie
+With the web starter’s dependencies also being added transitively to the classpath-przejsciowo, posrednio
+Spring Boot is arguably the most exciting thing to happen to Spring-Spring Boot to prawdopodobnie najbardziej ekscytująca rzecz, jaka może się przydarzyć Springowi
+For the sake of brevity, I won’t bother showing you what this list of dependencies would look like in a Maven pom.xml file-Ze względu na zwięzłość, nie będę zawracał ci głowy pokazują...
+Spring Boot’s web and JDBC starters replaced several of the finergrained (fine grained) dependencies.-starter zastapil kilka drobnoziarnistych zaleznosci
+Sensible error handling-rozsadna obsluga bledow

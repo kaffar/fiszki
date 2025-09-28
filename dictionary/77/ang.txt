@@ -1,0 +1,33 @@
+agnostics-niepewny, niezdecydowany; osoba niezdecydowana w jakiejœ kwestii, w¹tpi¹ca w istnienie prawid³owej odpowiedzi w jakimœ temacie;
+thats upside of open source-zaleta korzystania z
+jug slack organization-luzny
+google vows to appeal-slubowoac, przysiegac sie odwolac
+diverse-roznorodny
+probation at my company is 3 months-okres probny
+Maybe a pitch for raising the excellence of your team?-boisko
+Or maybe a sidetrack into some weird new managerial theory coming out of Japan?-boczny tor
+hear how popular objections are debunked-sprzeciwy sa zdemaskowane, obalone
+thump thump thump thump-uderzenie, walic, heartbeat
+When you start practicing TDD, the green step will likely feel the most erratic and unpredictable.-nieregularny
+you'll grow accustomed to introducing code changes in small steps-przyzwyczaic sie
+Both factors will make for a fairly even thump, thump, thump rhythm.-dosc rowne
+extra dip of ice cream for me-zanurzyc, chyba galka lodow
+to indicate the prevalence of their use in TDD?-powszechne wystepowanie
+ode written without frequent, diligent refactoring will soon spiral into one of these popular states-staranny refactoring, wymknac sie
+Resist the urge to skip refactoring.-oprzyj sie pokusie
+When you amass even 20 lines of unrefactored code-zgromwadzic
+put the microtest and the code change into the source code vault.-skarbiec
+the entire codebase is now one little step ahead of where it was-kod bazowy jest o krok do przodu
+Every commit is a guaranteed fallback position, a piton in the rock that you can easily go back to if you slip and fall-awaryjny, hak w skale
+checking the soundness of recent code.-sensownosc
+collaborations in a staggeringly complex runtime environment-chwiac sie, zataczac, oszalamiac
+To do so, you need to roll up your sleeves and start practicing-zakasac rekawy
+TDD is inextricably tied to Evolutionary Design.-nierozerwalnie zwiazany z
+(i.e. the "bells or whistles")-dzwonki i gwizdki
+i have no doubt whatsoever that it was...-nie mam zadnych watpliwosci
+convergence-zbieznosc, schodzenie sie
+throughput-wydajnosc, przepustowosc
+housekeeping-gospodarowanie
+type inference-wnioskowanie typu
+The very act of naming your test will help scope your work.-samo nazwanie pomoze
+You'll likely change the test method name when you later produce the body of the test method.-bedziesz prawdopodobnie zmieniac nazwe metody

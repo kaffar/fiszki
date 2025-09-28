@@ -1,0 +1,71 @@
+suboptimal code-nieoptymalny kod
+when it comes to automated tests, it is common to use exactly the same libraries-w przypadku testów automatycznych często stosuje się dokładnie te same biblioteki
+reducing smoking one of the cornerstones of its bid to improve public health-podstawa; oferta, licytowac
+Since lambda expressions and functional programming are a cornerstone of Java 8-podstawa
+conversation is the cornerstone of BDD-rozmowa jest kamieniem węgielnym bdd
+cornerstone-podstawa, fundament, kamien milowy
+counterexample-kontr przyklads
+I can only give you my endorsement.-Mogę dać ci tylko moje poparcie.
+government supported, backed up, endorsed-poparty przez rzad
+advocacy, endorsement, support, backing-poparcie
+retailers were selected more judiciously-rozwaznie
+judicious-rozsadny
+high level requirements fan out into many more granular low level tests-rozchodzic sie, rozdzielac
+swamp, bog-bagno
+without tests to back you up, you get bogged down-bez testów, które cię podtrzymają, utkniesz w miejscu
+The manager got my back up-kierownik dostal moje wsparcie
+back up-wsparcie, poprzec
+bog down-ugrzasc, wpasc w bagno
+regression-cofanie sie
+incremental and emergent design-projekt przyrostowy i powstajacy/wylaniajacy sie/wschodzacy
+acceptance criteria, criterion to pass-kryterium do przejscia
+if it is agreed at the outset-jesli jest to uzgodnione na poczatku
+GUI work by creating that split right at the outset.-na samym poczatku
+fewer bugs from the outset-mniej błędów od samego początku
+on the downside, TDD is not easy to learn-minusem jest ze...
+With a monolithic application where all the logic for the application is intertwined-spleciony, poplatany
+two techniques are deeply intertwined-dwie techniki są ze sobą ściśle powiązane/splecione
+i'm yet to start-dopiero zaczynam
+use the opportunity, do the tests, while the env is still working-uzyj go dopuki jeszcze dziala
+unofficial, informal, off the record, implicit leader-nieoficjalny lider
+I'm indignant as a consumer!-Jestem oburzony, jako nabywca.
+I'm righteous and indignant.-Jestem sprawiedliwy i oburzony!
+tools that would allow me to maintain the nimble and empowering spirit of the tools that I was used to-zwinny, bystry | wzmacniac, uprawniac
+empower client to do sth-upowaznic klienta do zrobienia czegos
+overpower vs empower-obezwladnic, pokonac vs upowaznic
+once=in=a=lifetime opportunity-jedyna okazja w zyciu
+everything is revolving around the defects-wszystko kręci się wokół wad
+Don’t you think it’s odd that, given the importance of data, the way we develop software often treats data as an afterthought?-Czy nie uważasz, że to dziwne, że biorąc pod uwagę znaczenie
+afterthought-refleksja, pozniejsza mysl
+they added protected in groovy as an afterthought-dodali protected w groovy jako refleksje
+His actions didn't bring about his downfall. Lying about them did-jego czyny nie doprowadzily do jego upadku. Klamanie o nich tak
+Peter blames me for his downfall. -> Peter wini mnie za swój upadek.
+measure of length,, scale, magnitude (centimeter, inch)-miara długości
+units of measurement-jednostka miary
+unavailable, inaccessible, not available;  inaccessibility, unavailability of-niedostepny; niedostepnosc
+of family's torch app on their phone-latarka
+i would question the utility of sun=powered torch-latarka zasilana sloncem
+flashlight, torch-latarka
+fiddle with gui-bawic sie
+Oracle has a tendency to fiddle with the length of the exam-bawic sie z czyms bezmyslnie
+fiddle around, play around-bawic sie czyms
+some ot these patterns were big time overkill-przesada, nadmiar
+overkill,too much,exaggeration, excessive-przesada
+strive strove strive-dazyc do czegos, usilowac
+Always takes up a challenge and strives for success-Zawsze podejmuje wyzwanie i dąży do sukcesu
+Because we strive for Good Things, we turn to Spring.-poniewaz dozymy do dobrego, obracamy sie do springa
+strive for perfection-dążyć do perfekcji
+plot thickens-fabuła się zagęszcza
+opinionated-uparty, zawziety, przy swoim zdaniu
+Never opine short of certainty. -> Nigdy nie wydawaj opinii, nie mając pewności.
+You too will be asked to opine -> Ty też możesz wygłosić opinie.
+opine-wydac opinie, byc zdania, mniemac, sadzic
+give an opinion-opiniowac
+Microservices are no silver bullet, but may be the best way forward for-micorserwisy nie sa zlotym srodkiem ale moga byc najlepsza droga ku temu
+Everything should therefore be done to find the proverbial golden mean.-przyslowiowy zloty srodek
+But maybe we could find a middle ground here.-Ale może znajdziemy tu jakiś złoty środek.
+golden mean-zloty srodek
+you probably came down with/got sick cold-prawdopodobnie zachorowales na przeziebienie
+I think l caught your cold-chyba zlapalem przeziebienie
+tenor-termin platnosci, czas trwania
+lending tenor-okres zapadalnosci pozyczki

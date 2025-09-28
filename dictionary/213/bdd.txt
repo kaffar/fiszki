@@ -1,0 +1,29 @@
+distill important informations-destylować ważne informacje
+polimorphicly dispatch to a appropriate method-wyslac
+﻿dispatcher-Spring przemieszcza żądania pomiędzy serwletem dyspozytora (ang. dispatcher servlet)
+processing power harnessed to accelerate-zaprzac, wykorzystac
+instead of retrofitting client code to the new class/method after creation.-modernizacja
+retrofit legacy application-modernizacja starszej aplikacji
+hamper refactoring-utrudniac refactoring
+Under his responsability free access to the media is being seriously hampered.-Za jego rządów swobodny dostęp do mediów jest poważnie utrudniony.
+propel himself into presidency with huge legislative majorities-popychać się do prezydentury z ogromną większością legislacyjną
+legislative-ligislacyjny, prawodawczny, ustawodawczy
+test fixture for the subsequent actions-oprawa testu
+implement using fixture classes-oprawa, osprzet
+troubleshoot/troubleshooting-rozwiazywac problemy/rozwiazywanie problemow
+resolve blockages-zatory, blokady
+vouch-reczyc, poreczyc, gwarantowac
+coverage doesnt vouch for the quality-pokrycie nie gwarantuje jakosci
+drown person, sink ship-zatonac
+drowning into details-zagłębianie się w szczegóły
+i cannot say from memory/it's hard to say only by ticket number, i have to take a look on it-nie powiem z pamieci tylko po numerku, musze rzucic okiem
+memory lapse-zaniki pamieci
+separate shards of memory-odlamki pamieci
+are we there yet?-daleko jeszcze?
+definitive case of-ostateczny
+definitive-ostateczny, definitywny, konkretny
+continuous deployment contrasts with continuous delivery-kontrastuje, jest w przeciwienstwie do
+how to get the most out of-jak uzyskac jak najwiecej z
+convoluted-zawily, zagmatwany
+complex, convoluted test code-zawily, zagmatwany
+arteries, veins and capillaries-tetnice, zyly i naczynka

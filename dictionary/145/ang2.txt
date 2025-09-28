@@ -1,0 +1,27 @@
+this method name doesn’t adhere to Spring's naming convention-przestrzegac, przylegac
+But you have just dipped your toe into the Spring Data pool-zanurzyles pales w basenie/zbiorniku
+My employment in Nokia is going to finish on 31.10.2017 (end of this month).-Moje zatrudnienie konczy sie z dniem
+Please check and confirm that I have no financial obligations on my corporate credit card.-przesze sprawdzic i potwierdzic ze nie mam finansowych zobowiazan na mojej karcie sluzbiowej
+The Java Persistence API (JPA) emerged out of the rubble of EJB 2’s entity beans-jpa wylonilo sie z gruzow ejb
+The irony is that many blame (or credit) Spring with the demise of EJB.-ironia jest to ze wiele winy albo chwaly jest ze zgonem ejb
+It’s also worth noting that-warto rowniez zauwazyc ze
+ow you can develop a JPA repository without resorting to using Spring-bez uciekania sie do uzycia
+the data source specified through this property takes precedence-ma pierwszenstwo
+the intricate details are hidden-skomplikowany, zawily
+In simple terms, persistence.xml enumerates one or more persistent classes along with any additional configuration-w prostych slowach,... wymieniac/wyliczac
+The application code would become incredibly bloated if it had to define the persistence unit every time it requested-nadety
+compensation, remuneration-odszkodowanie, wynagrodzenie
+I have 7 years of professional experience in software development. This time is mostly related related to java technology stack-mam 7 lat profesjonalnego doswiadczenia w wytwarzniu oprogramowania, wiekszosc tego czasu zwiazany bylem z ze stosem tech java
+excessive, superfluous-nadmierny, zbedny
+avoiding the extraneous else blocks along the way-unikajac zewnetrznych/obcych blokow
+Now that you’ve seen how to store and fetch data from a variety (werajeti) of data sources-roznorodnosc
+systems administrator with an unabashed fondness-nie martwiacy sie krytyka, smiary; czulosc, zamilowanie
+I’ll admit that I have a strong fondness for Neo4j.-mam silna czulosc zamilowanie do Neo4j
+remarkable seizure;conceal-zlapanie;ukryc
+You cannot seize power, Renny.-Nie możesz przejąć władzy, Renny.
+This is your chance to seize the initiative.-To twoja szansa, aby wykorzystać inicjatywy.
+provide methods beyond what comes out of the box.-dostarczy metody ponad to co przychodzi w standardzie
+Spring Data MongoDB seized the opportunity to fill that gap with a handful of annotations-skorzystal z okazji zeby wypelnic luke z garsci annotacji
+the document fields will have the same names as their Java property counterparts. / equivalent-odpowiednik x2
+creating an intermediary interface that declares the custom method(s) | extend the intermediary interface.-posrednik, posredniczacy
+A man named Emlen Anagar... sometimes is used as an intermediary.-Człowiek o imieniu Emlen Anagar... czasem używany jest jako pośrednik.

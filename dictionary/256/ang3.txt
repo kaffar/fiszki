@@ -1,0 +1,43 @@
+message=driven communication is an essential constituent of the reactive ecosystem-jest podstawowym składnikiem reaktywnego ekosystemu
+constituent; depend on the reactive properties of their constituents-skladnik, skladowa
+nonetheless vs nevertheless-niemniej jednak, pomimo to x2
+we have a vacant secretarial position-mamy wolne stanowisko sekretarskie
+the decision has been made to vacant the Silver Forum building by the end of 2018-decyzja została podjęta w sprawie zwolnienia budynku Silver Forum do końca 2018 roku
+I thought this office was vacant.-Myślałam, że ten gabinet jest wolny.
+there were no vacant threads in the thread pool-nie było wolnych wątków w puli wątków
+website crippled, violence in stores-sparaliżowana/okaleczona strona internetowa, przemoc w sklepach
+If the service becomes unavailable, the client is effectively crippled.-kaleki, uposledzony
+unless we want to cripple the L0 allocation performance drastically-chyba że chcemy drastycznie obniżyć wydajność alokacji L0
+a sudden influx of user requests-nagły napływ żądań użytkowników
+influx of people from abroad-naplyw ludnosci
+unusual influx of clients-niezwykły napływ klientów
+give us insight, overview-daj nam wgląd, przegląd
+overview-przeglad
+initial analysis, recon, overview-wstepne rozeznanie
+this overview should shed some light on how they work-ten przegląd powinien rzucić nieco światła na to, jak one działają
+overview, review, insight-przegląd, rewizja, wgląd
+you'll garner an overview of the publisher=subscriber model-zapoznasz sie, uzyskasz przeglad
+we are looking forward to meeting you!-nie możemy się doczekać spotkania z tobą!
+Pretty woman won't you pardon me-wybacz mi, przeprosic
+But pardon me for interrupting you, dear. -> Ale przepraszam, że ci przerwałem.
+I'll just say, pardon me for one hour. -> Powiem tylko Przepraszam na godzinkę.
+i'm looking forward to joining the team-nie moge sie doczekac dolaczenia do zespolu
+they are not state of the art-nie są najnowocześniejsze
+state of the art encryption technology-najnowoczesniejszy
+state of the art-najnowocześniejszy; supernowoczesny
+coarse or fine grained nodes-węzły grubo lub drobnoziarniste
+enter epoch and modify cells-epoka
+it is recommended to run for at least one epoch-epoka
+kafka increments the epoch number-kafka inkrementuje numer epoki
+people tend to rant and rave about every little annoyance-ludzie mają tendencję do narzekania i zachwycania się każdą drobną irytacją
+annoyance-klopot, niezadowolenie, irytacja
+duplicates are an annoyance that is fairly easy to handle-duplikaty są uciążliwością, z którą można sobie dość łatwo poradzić
+young women have been abducted by savages-porwane przez barbazyncow
+And you have not looked like a savage. -> I nie wyglądał pan jak dzikus.
+he went savage-dziki, brutalny
+ferocious-savagely fierce, cruel, or violent
+pretty savage-dosc brutalny
+fuck people become a savage-Pieprzyć ludzi, stać się dzikusem
+be mindful of the available network-zwroc uwage
+But I am also mindful we have a shortage of teachers today. -> Ale jestem też świadomy tego, że mamy dzisiaj mało nauczycieli.
+mindful-swiadomy

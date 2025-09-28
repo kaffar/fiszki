@@ -1,0 +1,41 @@
+fallacy about professionalism-błąd co do profesjonalizmu
+fallacy-bledne przekonanie, blad, mit(nieprawda)
+fallacy of seniority-błąd starszeństwa
+The argument that we are forced to do this by the economic crisis is a fallacy.-Twierdzenie, że zmusza nas do tego kryzys gospodarczy to bzdura.
+thinking about ui upfront-myśląc o interfejsie z góry
+The upfront architectural design considered the few use cases-poczatkowy
+define the requirements completely upfront-zdefiniowac wymagania calkowicie z gory
+spending upfront time-spedzac czas z gory
+cross cutting support-przekrojowy suport
+cross cutting concern-problem przekrojowy
+rely, relay-polegac (na kims), przekazywac (wiadomosci)
+relay those messages between producers and consumers-przekazywac wiadomosci
+handover, pass on, relay-przekazac
+relay-sztafeta
+however in the interest of elf and safety we shall also accept relay teams-jednak w interesie elfa i bezpieczeństwa akceptujemy również zespoły sztafetowe
+The channel has the double duty of relaying messages and determining how those messages will be routed-kanal ma podwojny obowiazek przekazywania wiadomosci i okreslania jak te wiadomosci beda kierowane
+relay appointment service-przekazywanie spotkań
+bailed-zwolniony za kaucją
+release sb on bail-zwolnic za kaucja
+without a huge bailout this company will not get a loan, bail-dofinansowanie, kaucja, poreczenie
+space suit get inflated; inflate-skafander kosmiczny zostaje napompowany, napompowac
+inflate the life jacket/life vest-napomowac kamizelke ratunkowa
+usually i don't allow solicitors in the office-Zazwyczaj nie pozwalam prawnikow w biurze
+main question is in affirmative-twierdzacy
+affirmative-twierdzący
+i vouch for you-gwarantuję za ciebie
+vouch-reczyc, poreczyc, gwarantowac
+coverage doesnt vouch for the quality-pokrycie nie gwarantuje jakosci
+impedance mismatch-niedopasowanie opornosci (electrical engineering term)
+There are plenty of legitimate cases-istnieje wiele uzasadnionych przypadków
+might lead to a simplistic or over=exposed domain model-moze prowadzic do uproszczonego i za bardzo wystawionego modelu domeny
+unable to express or enforce intricate business rules-niezdolność do wyrażania lub egzekwowania skomplikowanych reguł biznesowych
+lack of effective enforcement of the obligations-brak skutecznego egzekfowania zobowiazan
+enforce actions-egzekwowac, narzucac, wymuszac
+feasible, enforceable, viable-wykonalny
+enforceable-wykonalny, egzekwowalny
+compelling-niezaprzeczalne (zalety) + zniewalajacy, zmuszajacy; fascynujacy
+compelling-fascinating glueing
+but I dont see a compelling need to do this with the existing modules-zniewalajacy, nieodparty
+your passion is compelling-zniewalajacy, zmuszajacy
+seems compelling at first-wydaje sie zmuszajacy/zniewalajacy na poczatku

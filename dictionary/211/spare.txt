@@ -1,0 +1,11 @@
+spare-dodatkowy; zapasowy; niepotrzebny; wolny; na zbyciu; oszczędzać (kogoś) 
+sparing them from the implementation details-oszczędzając je od szczegółów implementacji
+you have 8 hour spare-8 godzin wolnego czasu na lotnisku, dodatkowy, zapasowy
+free time, spare time, leisure time-wolny czas x3
+the german manufacturers are likely to have spare production capacity-dodatkowy, zapasowy, oszczedny, skromy, oszczedzac
+spare-oszczedzac, zapasowy
+result cannot be satisfied due to spare supply-oszczdny, skromny
+with contingency time / additional, extra, spare, backup-z zapasem czasu
+Why don't we dismantle him for spare parts.-Dlaczego mielibyśmy go nie zdemontować na części zapasowe.
+singleton are meant to be used sparingly-oszczednie
+Writing JSNI methods is a powerful technique, but should be used sparingly because writing bulletproof JavaScript code is notoriously tricky-oszczednie;notorycznie trudne

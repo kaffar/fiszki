@@ -1,0 +1,20 @@
+The employees map is filled with a mapping of employee names to the Employee objects to which they pertain.-dotyczyc, odnosic sie
+he was known for his relentless stance-bezwgledny, nieustepliwy
+If the entity object is not already managed by the EntityManager a hollow object might be returned-pusty, wydrazony
+How problem can be avoided or effects mitigated before correction is ready-zlagodzony
+Orphan Removal-sierota
+Thanks for investigating, glad this was red herring.-podpucha, cos dla odciagniecia uwagi, temat zastepczny
+cache.evict(MyEntity.class, Long.valueOf(id));-eksmitowac
+ingenuity-skill at inventing new things and ideas
+objective-target you are trying to achieve
+insolent-extremely rude and showing a lack of respect
+genuineness-authenticity, credibility
+brief-give sb instructions what to do, e.g. briefing different staff group
+assets, liabilities and owners equity-zobowiazania i prawo wlasnosic
+securities-papiery wlasnosciowe
+intangible assets-wlasnosci niematerialne i prawne 
+tangible assets-namacalne majatki
+payroll-lista plac
+merchandise-towar
+liquidity-plynnosc finansowa
+interest-odsetki

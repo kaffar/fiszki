@@ -1,0 +1,16 @@
+there is no contention between threads-nie ma rywalizacji miedzy watkami
+this class maintains a set of variables internally to reduce contention over threads-rywalizacja, konkurencja
+It also tries to reduce the contention on the task queue, so can be really good in heavily loaded environments.-twierdzenie, spor, tutaj rywalizacja
+But as for your contention there are no bugs, I disagree.-Ale co do twojego sporu, że nie ma robali, nie zgadzam się.
+bone of contention-kość niezgody
+contention-twierdzenie, spor, rywalizacja, konkurencja
+It also tries to reduce the contention on the task queue, so can be really good in heavily loaded environments.-twierdzenie, spor, tutaj rywalizacja/konkurencja
+renure-kadencja
+tenured space-wynajeta/wydzierzawiona powierzchnia
+miscellaneous-rozne
+miscellaneous revenue-rozne dochody
+sawtooth-piłoksztaltny
+onus on client to call-ciezar na kliencie zeby zadzwonic
+it is doable, but it puts the onus of maintaining this environment on you.-jest to wykonalne, ale nakłada na ciebie obowiązek utrzymania tego środowiska
+it puts the onus of maintaining the environment on you-naklada na ciebie obowiazek utrzymania srodowiska
+onus-ciezar, odpowiedzialnosc, obowiazek

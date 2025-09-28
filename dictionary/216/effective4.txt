@@ -1,0 +1,38 @@
+set off vs head off-wyruszyc x2
+it's important not to set off the alarm-wazne jest zeby nie wlaczyc alarmu
+all who could or wanted to join the meeting are already, so we start-wszyscy ktorzy mogli albo chcieli dolaczyc spotkanie juz sa, wiec zaczynamy
+try to find a common sense here and not to add task on too much granular level-spróbuj znaleźć zdrowy rozsądek i nie dodawać zadania na zbyt szczegółowym poziomie
+successful baiting attacks rely on your curiosity trumping your common sense.-udane ataki przynęty polegają na tym, że ciekawość pobudza zdrowy rozsądek.
+attacks will try to elicit emotions with the hopes of overpowering your common sense-ataki będą próbowały wywoływać emocje z nadzieją na obezwładnienie zdrowego rozsądku
+merely-tylko; wyłącznie; jedynie
+We have a payload to deliver-ladunek
+That’s easy enough for String values but can get more complicated when the message payload is a complex object-ladunek wiadomosci
+former, latter-byly, poprzedni, pierwszy; drugi, ostatni
+expenditure, expense-wydatek, koszt
+extend the hierarchy independently and interoperably-interoperacyjnie
+the implementation of each flavor is allotted its own class-implementacja każdego smaku ma własną klasę
+alloted-przydzielony, przypisany, wyznaczony
+pale, pallid-blady
+a tagged class is just a pallid imitation of a class hierarchy-blady, bezbarwny imitacja
+jumble-mieszanina, gmatwanina; pomieszac, wymieszac
+multiple implementations are jumbled together in a single class-wiele implementacji jest pomieszanych w jednej klasie
+vastly inferior to a class hierarchy-znacznie gorszy od hierarchii klasowej
+fixed point of floating point numbers-stale i zmienno przecinkowe liczby
+can make them much easier to read if used with discretion- jeśli są używane z dyskrecją
+I' leave it to your discretion-zostawiam to twojej ocenie/dyskrecja
+employee pays 20%. The amount of final CS contribution is at manager’s discretion.-pracownik płaci 20%. Wysokość ostatecznego wkładu CS jest według uznania menedżera.
+mapping was completely left to the vendor’s discretion.-dyskrekcja, swoboda, uznanie
+qualify constant names with a class name-kwalifikowac
+if an interface is severely deficient, it may doom the api that contains it-jeśli interfejs jest poważnie wadliwy/niewystarczajacy/niepelny, może skazać API, które go zawiera
+doom-zguba, fatum, sad ostateczny
+Light will spell her doom and death. -> Światło przyniesie jej zgubę i śmierć.
+primarily to facilitate the use of lambdas-przedewszystkim w celu ulatwienia uzycia
+we did that primarily using extract method-przedewszsystkim, glownie
+tacit-milczacy
+tacit understanding that their interfaces would never acquire any new methods-milczące zrozumienie
+securing it for posterity-potomkowie
+posterity-potomkowie, potomnosc
+design interfaces for posterity-dla potomnosci
+you can use it as it stands or subclass it as circumstances warrant-możesz go używać w takiej postaci, w jakiej się znajduje, lub podklasę, jeśli wymagają tego okoliczności
+creche, nursery-zlobek x2
+ordered with respect to other mutually comparable objects-zamówione w odniesieniu do innych wzajemnie porównywalnych przedmiotów

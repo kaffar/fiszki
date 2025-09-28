@@ -1,0 +1,11 @@
+stump-kikut, pniak
+stumped-skołowany, zakłopotany
+We've added commented stubs for the four tests-kikut, pien
+stub your toe-uderzyc w palec
+I strongly believe that mocking is one of the pillars of well written unit tests and I’m always puzzled when I see developers who neglect or loathe mocks and stubs.-Mocno wierzę, że mockowanie jest jednym z filarów dobrze napisanych testów jednostkowych i zawsze jestem zaintrygowany, gdy widzę programistów, którzy zaniedbują lub nienawidzą/niecierpiec mockow
+stubs are essential for the correct functionality of your class under test-istotny, niezbedny
+Matching arguments leniently when a stubbed method is called | lenient vs. strict mocks-dopasowuje argumenty lagodnie kiedy metoda jest wolana | lagodny vs surowy
+Use it only when it adds to the scalability and readability of your Spock test. In simple tests, you might get away with direct stubbing of all argument combinations if their number is manageable.-Używaj go tylko wtedy, gdy zwiększa skalowalność i czytelność testu Spocka. W prostych testach możesz uniknąć bezpośredniego odgałęzienia wszystkich kombinacji argumentów, jeśli ich liczba jest możliwa do opanowania.
+Instructing Spock stubs with canned responses-pusszkowany
+From June they will have to stub out/put out their lit cigarettes-gasic papierosa,gasic ogien papierosa
+stubborn,obstinate-uparty

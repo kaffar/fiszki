@@ -1,0 +1,9 @@
+Client lookup of service address-client wyszukje adres serwisu
+We look upon it as a possibility of percentile increase-Uważamy to za możliwość percentylowego wzrostu
+look up on sb-podziwiac kogos
+client look up all of a service’s individual instances from a service discovery-wyszukac
+You should really look up the word "boring" in a dictionary.-Powinieneś naprawdę sprawdzić znaczenie słowa "nudny" w słowniku...
+This work is done in preparation for having a service client look up a service from your Eureka registry.-praca jest wykonana w ramach przygotowan do
+The main benefit of an ArrayList is that you can look up any element in constant time.-wyszukac
+look up-wyszukac
+using nested lookups-za pomocą zagnieżdżonych wyszukiwan

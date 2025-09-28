@@ -1,0 +1,35 @@
+disclosure, closure-ujawnienie, zamkniecie
+bewilder-dezorientowac, oszalamiac
+baffled by the bewildering network of knotted streets-skonsternowany/zaskoczony/confused przez oszalamiaca/zbyt/confusing skomplikowana siec powiazanych ulic
+they will be completeley bewildered-zdezorientowany, oszolomiony
+dormant-nieaktywny, uspiony, nieczynny
+There's a difference between dormant and patient.-Jest różnica między nieaktywny, a cierpliwy.
+These insects, they have dormant genes... and I was reactivating them.-Te owady miały uśpiony gen, który ja aktywowałam.
+counterparty-kontrahent, strona
+ceiling-sufit, limit
+tenor-termin platnosci, czas trwania
+tenant-dzierzawca
+duration-czas trwania
+stopwatch, timer-stoper
+genesis-geneza, poczatek
+shall,should/this time next week I shall be in Scotland/they shall succeed-powinien
+rely, relay-polegac (na kims), przekazywac (wiadomosci)
+relay those messages between producers and consumers-przekazywac wiadomosci
+unwieldy, cumbersome-nieporeczny, niewygodny
+Since null checks are kinda cumbersome and painful-nieporeczny, uciazliwy
+I've worked out/refined/finished/polished up the forms-dopracowalem formatki
+We've come to finalize the details of the Women's Institute visit.-Przyszłyśmy dopracować szczegóły wizyty Kółka Gospodyń.
+I still haven't worked out the details yet, but...-Jeszcze nie dopracowałem szczegółów, ale...
+bulkUpdate-hurtowo, duza ilosc
+we can interrogate the logs-przesluchiwac
+interrogate data structures to fetch data-przesluchiwac dane zeby pobrac dane
+ingest and process large amount of data-spozyc/polknac i przetworzyc duza ilosc danych
+it makes dead simple to connect different microservices-sprawia, że proste jest łączenie różnych mikroserwisów
+resilient, reliable, robust-elastyczny, niezawodny, silny/solidny
+design that is resilient to change and flexible to new functionality-elastyczny, tutaj odporny
+In my opinion these tests ara unreliable and incomparable/incompatible-nieporownywalne
+timetable was unreliable-nierzetelny
+reliable-niezawodny, solidny
+permanent,constant;  recurrent/recurring,repetitive,repeating-stale x2/powtarzajce sie x3
+some ot these patterns were big time overkill-przesada, nadmiar
+media overkill - natarczywosc mediow

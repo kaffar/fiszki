@@ -1,0 +1,20 @@
+Don’t put off ’til tomorrow what you can do today.-nie odkladaj na jutro to co mozesz zrobic jutro
+won’t have a viable option to use- wykonalny
+Python 3.0 would be a new beginning for the codebase and its users.-kod bazowy
+In this regard, you can look at the first chapter as a design guide-w zwiazku z tym
+you may be interested solely in each item within it.-wylacznie
+Not all sequences need to be loaded in their entirety in advance-w calosci z wyprzedzeniem
+simple way to coerce those sequences-zmusic
+some occasional misuses of internal data structures-niewlasciwe uzycie
+catching exceptions changed to be more explicit, alleviating some common errors.-lagodzic
+exceptions that may crop up from part of it-zbiory, plany, przyciac; tutaj pojawic sie
+condition is too complicated to distill into a single expression-destylowac
+Although any expression that evaluates to true will induce the intended functionality-wywolac
+compelling-zniewalajacy, zmuszajacy
+stellar explosion so vast-gwiezdny
+peripheral case-peryferyjny
+go back and forth-tam i z powrotem
+tests are not inferior and are not disposable-testy nie sa gorsze i nie sa jednorazowe, pozbywalne, do dyspozycji
+stop whining-przestan jeczec
+the logic is unassailable-nienaganna, niepowtarzalna
+production code will descent into legacy morass-zejscie, opadanie, pochodzic w bagno

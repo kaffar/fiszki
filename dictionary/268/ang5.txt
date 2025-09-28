@@ -1,0 +1,43 @@
+also we would recommend to lengthen the retry period for failed calls with some backoff time-zalecamy również wydłużenie okresu ponawiania prób w przypadku nieudanych połączeń z pewnym czasem odczekiwania
+back off-wycofac, odpuscic, cofnac sie
+pomijając problem z logami-apart from the log problem
+In fact, disregarding the SQL String and the line where the statement is created, they’re identical.-w rzeczywistosci, pomijajac/lekcewazyc
+If you're an EJB expert, you can probably get away with probably a quick skim-przejrzec, przeczytac pobieznie
+you should at least skim the-przejrzec, przeczytac pobieznie, odtluszczone mleko
+overlooked or skimmed over requirements-przeoczone lub przejrzane pobieznie wymagania
+briefly, superficially-pobieznie
+you can omit constructor altogether-możesz całkowicie pominąć konstruktora
+altogether vs all together-zupelnie, calkowicie vs wszyscy razem
+The property tax is now abolished altogether.-Podatek od nieruchomości został całkowicie zniesiony/obalony.
+do the user story completely, entirely, fully, altogether-zrobic US calkowicie
+column is dropped from the table altogether-zupelnie, calkowicie
+avoid queries altogether-calkowicie
+it is a shorthand form/abbreviation of this-jest to skrócona forma tego
+time's up, time out, out of time, end of time-koniec czasu
+annoyance-klopot, niezadowolenie, irytacja
+demonstrate my displeasure with long bug list-demonstrowac moje niezadowolenie
+dissatisfaction, discontent, disappointment-niezadowolenie
+#-hash symbol, pound sign, pound (w telefonie), numbersign
+questiontags-is it? ktotkie pytania
+pricetag-metka z cena
+tag-etykieta, metka
+tag-oznaczyc
+but is more compact and just as efficient-ale jest bardziej kompaktowy i tak samo wydajny
+you must manually convert or coerce the value into the right type-musisz ręcznie przekonwertować lub wymusić wartość na właściwy typ
+If you truly want a list that you can add or remove items from, you can coerce one by passing the range object into a new list object-zmusic
+simple way to coerce those sequences-zmusic
+Java coerces the lambda into a RowMapper-zmuszac
+coerce-zmusic
+that’s a conscious choice-to jest świadomy wybór
+rozdawac pieniadze-distribute money, give money away, hand out money
+unprofitable financial conditions-nieoplacalne warunki finansowe
+unprofitable, uneconomic, not cost=effective-nieoplacalny
+in favour of the customer-na korzysc klienta
+blocking of money, money lock-blokada pieniedzy
+drowsy, sleepy-zaspany
+validation of authenticity-walidacja prawdziwosci
+you are risking you life, it is like going near the abyss, going on the thin rope-ryzykujesz życiem, to jak zbliżanie się do przepaści, chodzenie po cienkiej linie
+ashamed, embarrassed,confounded-zawstydzony
+confounded both of them-oboje zmieszani
+we are settled at 8-jestesmy umowieni na 8
+we have an appointment for Saturday, we are settled at 8, are we still on...-jestesmy umowieni na sobote na 8

@@ -1,0 +1,33 @@
+affliction-przypadlosc, zmartwienie
+this is his best movie by far-to zdecydowanie jego najlepszy film
+a threat-zagrozenie
+several of the sockets in the bedroom are loose (power point), which constitutes a safety hazard-kilka gniazdek jest loznych co stanowi zagrozenie bezpieczenstwa
+menace-grozba, zagrozenie, zagrazac
+The countries underestimate/disregard the threat-Państwa lekceważą zagrozenie
+viable sample-wykonalny, realny
+Our sample does not use a specific caching library so our cache store is the simple fallback that uses ConcurrentHashMap-kreacja zastepcza/rezerwowy
+We'll need an original tissue sample for a baseline-Potrzebujemy oryginalnej próbki tkanki jako punktu odniesienia
+Backed by short and simple code samples you'll learn how to use default interface methods-poparty, wspierany przez
+sample-probka; badac, pobierac probke
+Yes. Like a drowning man clutching at a razor blade. -> Jak tonący człowiek chwytający się brzytwy.
+We clutch at anything that even looks like a solution. -> Chwytamy się wszystkiego, co może przypominać rozwiązanie.
+the final/last straw-miarka sie przebrala
+so, discounting the ridiculous strawman use case-więc pomijając absurdalny przypadek użycia stracha na wroble
+strawman, scarecrow-strach na wroble
+ingest vs digest-polknac, spozyc; trawic, strawic
+Yamini/Pawer = clutching at straws a tad but my profile should allow me sufficient to view Loan Closure?-chwytac sie wszelkich sposobow odrobine; sprzeglo, sloma/slomka
+to clutch at straws-chwytac sie wszelkich sposobow
+Tonący brzytwy się chwyta, dziaciaku. -> Desperate times call for desperate measures, kid.
+Well, Sara, first of all, that's a total misnomer. -> Po pierwsze, to błędna nazwa.
+misnomer-bledna/nieprawidlowa nazwa
+sanitize-odkazic, zdezynfekowac
+any data received from clients must always be sanitized-wszelkie dane otrzymywane od klientów muszą być zawsze oczyszczone
+sanity/insanity-zdrowy rozsadek, zdrowie psychiczne/obled
+It's just a small sanity check before release, maybe you'll spot anything that should not end up in prod-To jest po prostu niewielkie sprawdzanie poprawności przed wydaniem, może zauważysz cos, co nie powinno się skończyć w prod
+restrain yourself to only one sanity check-ograniczyc sie do jedneto testu kontroli poprawnosci; powstrzymac sie
+sanity checks-kontrole poprawności działania
+common sense, sanity-zdrowy rozsadek
+but it will still tickle your thinking muscles a bit.-laskotac
+tickle doors in the right way-łaskotać drzwi w odpowiedni sposób
+the baby gurgled with satisfaction when its mother tickled it-dziecko gaworzylo z zadowolenia, gdy matka je łaskotała
+if the backend does not sanitize the comments, a malicious user could write a comment in such a way that it could be interpreted by the browser as a script tag-oczyscic komentarz, zlosiliwy uzytkownik

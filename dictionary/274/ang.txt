@@ -1,0 +1,43 @@
+a client has mandated that data be encrypted before sending it to amazon s3-klient zażądał szyfrowania danych przed wysłaniem ich
+Car companies began to argue that the mandate was too strict.-Przedsiębiorstwa samochodowe zaczęły uzasadniać, że ustawa jest zbyt wymagająca.
+mandated redundancy-obowiazkowa powtarzalnosc
+allows inconsistency, mandates mutability-pozwala na niespójność, wymusza zmienność
+However, adding this property also mandates that-Jednakże, dodanie tej właściwości nakazuje również, aby
+impartial-not favouring one side or the other, bezstronny
+objective, impartial, unbiased-obiektywny
+Newspapers should be impartial/objective/unbiased (now it presents its own sight)-obiektywny
+you are impartial-jesteś bezstronny
+impart-przekazac, nadac
+which characteristic of cloud computing imparts the ability to acquire resources-która cecha chmury obliczeniowej daje możliwość pozyskiwania zasobów
+concierge-dozorca, cecepjonista
+he would go into catering because he had that flair-zaopatrywac w zywnosc, smykalka/dar
+he caters to her every whim-zaspokajac zachcianki
+We cater for a variety of different tastes and styles-zaopatrujemy ludzi o roznych stylach
+cater-for (o dostarczaniu uslug), to (o zaspokajaniu potrzeb)
+cater, appeal, aimed-for (o dostarczaniu uslug), to (o zaspokajaniu potrzeb) | appeal to, have appleal for rzeczownik | at ..ing; for rzeczownik
+aws offers four different support plans to cater to each of its customers-zaopatrywac,zaspokoic
+Known for his relentless fighting style, formidable punching power, stamina and exceptionally durable chin-nieustepliwy | grozny, potezny | trwaly, wytrzymaly, grozny
+instruction manuals for consumer durables I no longer possessed-trwaly, trwaly uzytek
+durable-trwaly, wytrzymaly
+durable database-trwała baza danych
+can help relieve the customer’s operational burden-zmiejszyc obciazenie
+great stress reliever-uwalniacz od stresu
+The security guards will be relieved at the end of the evening-zwolnic z obowiazkow
+lets go over the provisions of the compareto contract-przejrzyjmy postanowienia umowy z porównaniem
+abolition of provisions-uchylenie przepisów
+provisions-postanowienia, przepisy
+provisional-tymczasowy
+provisional budget-tymczasowy
+preserves all five provisions of the equals contract-zachowuje wszystkie pięć postanowień umowy równości
+ets go over the provisions of the compareto contract-przejrzyjmy postanowienia umowy z porównaniem
+Even when provisioning fails completely, the culprit is a few cells and we should not fail the entire plan-winowajca
+provision-przepis, postanowienie
+you may get questions to choose one over the other-mogą pojawić się pytania dotyczące wyboru jednego z nich
+day of reckoning-dzień rozliczenia/rozrachunku
+reckon-uwazac, myslec o kims, liczyc na
+I reckon you could take care of that-liczyc na, myslec, sadzic
+I also have plenty of legacy code to reckon with-liczyc sie z
+you reckon it's more complicated than that, don't you-uwazasz ze to bardziej skomplikowane
+attorney reckoned that-policzyc
+i reckon she realised there are still rules to apply to everyone-sadze/licze ze zdala sobie sprawe ze nadal sa reguly ktore obowiazuja wszystkich
+so what do you reckon-co powiesz, co myslisz?

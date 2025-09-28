@@ -1,0 +1,17 @@
+unneeded overhead-obciazenie, narzut
+adding more overhead for data injection-obciazenie, narzut
+run them using any Python VM with basically no runtime overhead-obciazenie, narzut
+I was overcharged, i demand itemized bill-bylem za duzo obciazony, zadam szczegolowego rachunku
+This property is so cheap because it is heavily encumbered with mortgage-ten dom jest taki tani poniewaz jest powaznie obciazony przez hipoteke
+you can configure a fanout exchange and several queues like this-obciazalnosc wyjsciowa/rozchodzic sie promieniscie
+manage a busy workload-zarzadzac duzym obciazeniem praca
+encumber-obciążać; nakładać ciężar
+this property is encumbered with a mortgage-wlasnosc jest obciazona hipoteka
+overhead compartment/lockers-place to store hand baggage
+constant overhead-staly narzut
+(requests per second at peak when the service is healthy * 99th percentile latency in seconds) + small amount of extra threads for overhead-(liczba żądań na sekundę w szczycie, gdy usługa 
+cannot afford the overhead processing power-gorny, nad glowa
+Trying to use objects at very low levels of granularity is nice, but the overhead may be prohibitive.-narzut może być wygórowany/zaporowy/zakazujacy
+performance overhead-narzut performansowy
+We could copy the object before sending it to another method, but this creates a large overhead that duplicates-ociazenie, narzut
+overhead-obciazenie, koszty ogolne, wydatki, nad glowa

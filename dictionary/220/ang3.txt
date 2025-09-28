@@ -1,0 +1,28 @@
+be wary of the traps mentioned in this item-uwazaj na polapki
+i summon you-wzymam cie
+imposter-oszust
+data remains in cache until it is evicted or cache is invalidated-dane pozostają w pamięci podręcznej, dopóki nie zostaną eksmitowane lub pamięć podręczna zostanie unieważniona
+invalidate cached data and evict it from the cache-uniewaznic zcachowane dane i usunac je z cacha
+invalidate-uniewaznic
+I have a family to feed/maintain-mam rodzine do utrzymania
+moving is not an option (here)-przeprowadzka nie wchodzi w gre
+I found it myself, I did it myself.-znalazlem to sam, zrobilem to sam
+pi definition=the ratio of the circumference of a circle to its diameter-definicja pi = stosunek obwodu koła do jego średnicy
+you are a lifesaver-uratowales mnie
+understand all of their subtleties-zrozumieć wszystkie ich subtelności
+in the parlance of this item-w języku tego przedmiotu
+I'm familiar with the parlance, Jonathan.-zargon
+it is an understatement to call this behavior confusing-niedopowiedzeniem jest nazywanie tego zachowania mylącym
+understatement-niedopowiedzenie; twierdzenie nazbyt umiarkowe w danych okolicznościach; niedomówienie
+"Not good" is a bit of an understatement. -> "Niedobrze" to lekkie niedopowiedzenie.
+eager creation is onerous-uciazliwy
+these restrictions are not terribly onerous because you can always give methods different names instead of overloading them-uciazliwy
+overloading can easily confound these expectations-zawiesc oczekiwania
+modyfying and maintaining system like this can be confounding, confusing-mylacy x2
+confound-zawiesc, zawstydzic, wprawiac w zaklopotanie
+The eyes... they confound me. -> Oczach... wprawiają mnie w zakłopotanie.
+the intent of the program was to discern the type of the parameter-celem programu było rozróżnienie rodzaju parametru
+discern-rozroznic, rozpoznac
+How do I discern my vocation? -> W jaki sposób mogę rozeznać swoje powołanie?
+vocation-powoloanie, zawod
+He chose a vocation that did not choose him. -> Wybrał powołanie, które nie wybrało jego.

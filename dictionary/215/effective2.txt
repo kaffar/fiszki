@@ -1,0 +1,40 @@
+your natural inclination should be to declare every field private final unless there is a good reason to do otherwise-Twoją naturalną skłonnością powinno być ogłaszanie każdego pola prywatnym finałem, chyba że istnieją uzasadnione powody, aby postąpić inaczej
+I incline to agree-sklaniam sie do porozumienia
+he is inclined to make personal calls at work-sklonny do
+herd instinct-natural inclination(nachylenie) to follow others rather than act alone
+incline, inlination-nachylenie, sklonny; nachylenie, sklonnosc
+four basic arithmetic operations: addition, subtraction, multiplication, and division-cztery podstawowe operacje arytmetyczne: dodawanie, odejmowanie, mnożenie i dzielenie
+ensure exclusive access to any mutable components-zapewniać wyłączny dostęp do dowolnych zmiennych elementów
+accessor methods (getters) and mutators (setters)-akcesory i mutatory
+take auxiliary action when a field is accessed-podjac dzialania pomocnicze
+occasionally, you may be tempted to write degenerate classes-czasami możesz mieć ochotę pisać zwyrodniałe klasy
+as much as possible (within reason)-jak najwięcej (w granicach rozsądku)
+access protection afforded by modules-ochrona dostępu zapewniana przez moduły
+two access levels are largely advisory-dwa poziomy dostępu są w większości doradcze
+advisory-doradczy
+The authority shall be advisory in nature and independent. -> Organ ma charakter doradczy i jest niezależny.
+are largely advisory-są w dużej mierze doradcze
+it is far more important to reduce the accessibility of a gratuitously public class-bezinteresownie, gratis
+take a shower/have a shower-brac prysznic
+have a baby-urodzic dziecko/miec dziecko
+have breakfast, have coffee-jesc sniadanie, pic kawe
+have someone; I'm haveing an old friend for dinner-goscic kogos
+have vs have got-czynnosc i miec/posiadac; tylko posiadac
+it is frowned on by some teachers-niektórzy nauczyciele patrzą na to z dezaprobatą
+Do you have a car? Have you got a car? I haven't I don't; Odd and legacy english: I haven't a care, Have you a car?-have vs have got
+she puts her safety at risk in order to aid the community-naraża swoje bezpieczeństwo, aby pomóc społeczności
+toys are our visual aids-pomoce
+Spock’s key tenet is that you don’t write tests for yourself-doktryna, zasada
+encapsulation is a fundamental tenet of software design-doktryna, zasada
+it is fraught with danger from integer overflow-jest obarczony niebezpieczeństwem przepełnienia liczb całkowitych
+fraught-spiety, napiety, pelen czegos
+occasionally you may see-czasami możesz to zobaczyć
+the comparator class has a full complement of construction methods-pełny zestaw metod konstrukcyjnych
+complement-uzupelniac, dopelniac
+type inference-wnioskowanie typu
+inference-wniosek, wnioskowanie
+tertiary key is the line number (after secondary)-trzeciorzedny
+secondary school, high school-szkola srednia, liceum
+secondary-drugorzedny, drugoplanowy
+phone is a secondary feature-drugorzedny
+alphabetized list-lista alfabetyczna

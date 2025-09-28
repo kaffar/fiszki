@@ -1,0 +1,48 @@
+We had an expert appraisal done, just to be on the safe side-mamy zrobiona wycene eksperta, zeby byc bezpiecznym
+appraisal interview-rozmowa oceniajaca, when your employer is assesing your work
+the appraisal of the damage will be carried out by an insurance expert-wycena zniszczen
+appraisal-ocena, wycena
+probation period-okres probny
+probation at my company is 3 months-okres probny
+remittance was finally made-przekaz, przelew
+remittance-przekaz pieniezny
+cannot take anything that does not fall strictly within their remit-nie mogą przyjmować niczego, co nie mieści się ściśle w ich kompetencjach
+remit-kompetencje, zakres obowiązków
+migrants are working abroad to send money to family back at home = remittances-przekazy pieniezne
+ensuring that their staff and other workers within their remit participate in the information security awareness-inni pracownicy w ramach ich kompetencji
+policy axiom (guiding principle)-aksjomat polityki (zasada przewodnia)
+axiom-aksjomat, pewnik
+establish the procedure for determining the necessary competence of person(s) doing work-niezbedne kompetencje
+need, necessity-potrzeba
+readiness, availability-gotowasc
+can't wait for the first task, I am looking forward to the first task-nie moge sie doczekac pierwszego zadania
+data custodians work directly with data owners-opiekunowie danych współpracują bezpośrednio z właścicielami danych
+custodian-kustosz
+choose an extensible ingress controller to allow for customization and implementation of rules-rozszerzalny kontroler ingresu
+choosing an open standard over proprietary solutions is a good practice-wybór otwartego standardu nad rozwiązaniami autorskimi to dobra praktyka
+proprietary framework to interact with the database-wlasnosciowy, zastrzezony, firmowy
+handle crosscutting concerns such as authentication and security-obsługa zagadnień przekrojowych, takich jak uwierzytelnianie i bezpieczeństwo
+2nd upcharge for ebay-doplata
+might have compliance risks for specific customers-może wiązać się z ryzykiem braku zgodności dla konkretnych klientów
+single configuration centre-pojedyncze centrum konfiguracyjne
+this can be approximated by measuring the test code coverage-można to przybliżyć mierząc pokrycie kodu testowego
+we will align to the spring boot “way of things” unless there is a strong case to diverge-będziemy dostosowywać się do "sposobu działania" Spring Boota, chyba że istnieje silny powód do rozbieżności.
+opinionated-uparty, zawziety, przy swoim zdaniu
+a lot of sensible and opinionated design choices-wiele rozsądnych i przemyślanych wyborów projektowych
+interfaces (or output ports) that describes how the application converse with the outside world-konwersowac, konwersacja
+and the other way round,and vice versa, conversely-i odwrotnie/na odwrot
+conversely, if ...-i odwrotnie, jeśli ...
+intrinsic/extrinsic parameters-wew/zewnetrzne parametry
+there is nothing intrinsic to the situation-wrodzony, nieodlaczny
+intrinsic part of the coffee class-nieodlaczny, wewnetrzny
+intrinsically innocent-wewnetrzny, nieodloczny niewiiny
+system component that is intrinsically unique-składnik systemu, który jest z natury wyjątkowy
+domain entities and services that describe the logic intrinsic to a business domain-logikę nierozerwalnie związaną z domeną biznesową
+sole instance-wylaczny, jedyny
+the service must own it’s data store and be solely responsible for it-wylacznie
+at some point it ceases to exist-w pewnym momencie przestaje istniec
+actually it’s ceased to be ‘develop’ and merges go to wrong branch.-wstrzymac, zaprzestac
+It's important that conversion request is approved before any applications requests are submitted; otherwise they will cease and will have to be requested once again-w przeciwnym razie przestaną one obowiązywać i będą musiały zostać poproszone ponownie
+the object that ceased to exist-obiekt krory przestal istniec
+stop, cease-przestac
+we might move into an alternate timeline and cease to exist-możemy przenieść się do alternatywnej linii czasowej i przestać istnieć

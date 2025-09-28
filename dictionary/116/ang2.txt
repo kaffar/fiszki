@@ -1,0 +1,33 @@
+﻿government manifesto with items-manifest
+There is no definite update from RDNET team.-okreslony, konkretny, stanowczy
+we finished the second bottle in resigned silence-skonczylismy druga butelke w zrezygnowanej ciszy
+the pauses were longer correspondingly-odpowiednio
+they burst in and arrested, burst-wpadac, wybuchnac
+suddenly Janet burst into tears/our burst conversation-Janet nagle zaczela plakac
+burst   burst   burst-wybuchac
+unreality seemed to descend-nierealnosc wydawala sie schodzic
+awkwardness and tentativeness crept in-niezrecznosc i wahanie sie wkradly
+uncertainty-niepewnosc
+in actuality, actually-w rzeczywistosci, tak wlasciwie
+we exchanged opening pleasantries-uprzejmosci, grzecznosci
+she was bound to contact the police-ona musiala/byla zmuszona skontaktowac sie z policja
+bounded stack-ograniczony stos
+cross boundary-przekroczyc granice
+bind    bound   bound-przywiazywac
+i mislaid (mislay) my wedding ring once-zapodzialem moja obraczke pewnego razu
+the rising tide frightened me-rosnaca fala przestraszyla/przerazila mnie
+the spices are amazing-przyprawy sa niesamowite
+His actions didn't bring about his downfall. Lying about them did-jego czyny nie doprowadzily do jego upadku. Klamanie o nich tak
+we noticed the stain on the carpet-zauwazylismy plame na dywanie
+he upset my colleagues-on zdenerwowal moich kolegow
+gerund-rzeczownik odslowny
+proxy pattern provides a surrogate or placeholder for another object to control access to it-zastepca/zastepczy
+Review this code and note the placeholder for option in italics-zastepczy, wypelniacz, cos co trzeba zastapic
+it only serves as a placeholder for the real implementation-zastepczy
+no command act as surrogate-zastepca
+create a representative object-przedstawiciel, reprezentant
+there are many variations of the proxy pattern and they typically revolve around the control access-obracac sie, krecic sie; zwykle
+enabling task-task na rozpoczecie
+what prevents us from closure/completion-zamkniecie
+rhino was killed in its enclosure-zagroda, ogrodzenie
+disclosure-ujawnienie

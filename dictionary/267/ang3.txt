@@ -1,0 +1,64 @@
+promise to facilitate development of scalable applications-obiecują ułatwić tworzenie skalowalnych aplikacji
+﻿It should also facilitate/simplify/make easier testing different/specific scenarios.-ulatwiac
+Spring Cloud Stream is used to facilitate this message passing-Spring Cloud Stream służy do ułatwienia przekazywania wiadomości
+It should also facilitate/simplify/make easier testing different/specific scenarios.-ulatwiac
+facilitate team activities-usprawnic
+facilitate-ulatwiac
+good morale facilitates productivity-dobre morale ułatwia produktywność
+brain is more resilient than we think-elastyczny, odporny
+immune, proof, resistant, resilient-odporny
+resilient, reliable, robust-elastyczny, niezawodny, silny/solidny
+suddenly your applications become more scalable and, with forethought, more resilient-aplikacja staje sie bardziej skalowalna i z przezornosia/planowaniem bardziej skalowalna
+It's a very smart, resilient creature.-To bardzo bystry, odporny stwór.
+write application in that way it is resilient to failure-odporny na porazke
+add resilinece with circuit brakers, resilient-dodaj odpornosc z przerywaczem petli
+more resilient muscles-elastyczne miesnie
+resilient; Latex rubber is a very resilient material-sprezysty, elastyczny
+robust design-silny, zdrowy, solidny
+robustness principle-krzepa, sila
+handling errors is what makes data access robust.-silny, zdrowy, solidny
+robust/resilient application-odporna aplikacja
+resilient, reliable, robust-elastyczny, niezawodny, silny/solidny
+robustness-krzepa, sila, solidnosc
+robust debate is part of what makes us Scottish-silny, solidny
+robust api-solidny, silny
+hear how popular objections are debunked-sprzeciwy sa zdemaskowane, obalone
+With hindsight, offering up biscuits was a mistake.-z perspektywy czasu, po fakcie, po szkodzie
+There's only one kind of wisdom... and that's hindsight. -> Jest tylko jeden rodzaj mądrości... wiedza po fakcie.
+hindsight-po fakcie, po szkodzie
+afterwards, in hindsight, after the event/fact-po fakcie
+Maybe not the best choice, in hindsight-Może nie jest to najlepszy wybór, z perspektywy czasu
+clearance rules-zasady rozliczeń
+i'll make the necessary clearance/custom clearance-odprawa celna
+permission, clearance, approval-pozwolenie
+custom clearance-odprawa celna
+The many breaches and discrepancies in information cast doubt upon the election results announced/call into question-poddac w watpliwosc, kwestionowac x2
+call sth into question, cast doubt-poddac w watpliwosc
+migrants are working abroad to send money to family back at home = remittances-przekazy pieniezne
+remittance was finally made-przekaz, przelew
+remittance-przekaz pieniezny
+migrants are working abroad to send money to family back at home = remittances-przekazy pieniezne
+single source of truth-jedno zrodlo prawdy
+crankcase-skrzynia korbowa
+memento-pamiatka, wspomnienie
+im proficient with programming languages-jestem biegły w językach programowania
+are you proficient in IT?-biegly
+fraudsters are not normally as technically proficient as state=sponsored hackers-Oszuści zwykle nie są tak sprawni technicznie jak hakerzy sponsorowani przez państwo
+to take you from proficient to professional.-biegl
+which makes the system coincidentally superfast-co sprawia, że system przypadkowo jest superszybki
+separating your peas from potatoes-oddzielając groszek od ziemniaków
+coconut, peach-kokos, brzoskwinia
+onion soup, green pea, tomato, leek, oxtail soup-zupa cebulowa, zielony groszek, pomidor, por, wołowa/ogonowa zupa
+pea soup-grochowka
+adverse media checks-niekorzystne, negatywne
+adverse impact on the performance-niekorzystny wpływ na wydajność
+Morisson pokonuje przeciwnosci i wygrywa; niekorzystny-morrison overcomes adversity and wins; adverse
+performance should not be adversely affected by this change and will remain at an acceptable level-zmiana ta nie powinna mieć negatywnego wpływu na wydajność i pozostanie na akceptowalnym poziomie
+destructive, detrimental, of adverse impact, harmful, damaging-zly (s)
+averse vs adverse-niechetny, przeciwny vs niekorzystny
+I had to accept adverse/unfavorable conditions-musialem zaakceptowac niekorzystne warunki
+an expert cutter must outwit a dangerous group of mobsters in order to survive a fateful night-doświadczony kuter musi przechytrzyć niebezpieczną grupę gangsterów, aby przetrwać brzemienną w skutki noc
+fateful decision-fatalna decyzja
+Then he made a fateful decision. -> Potem popełnił brzemienną w skutkach decyzję.
+He heard the door bell ring on the fateful evening. -> Uslyszal dzwonek do drzwi w fatalny wieczór.
+outwitted by a game keeper-przechytrzony przez bramkarza

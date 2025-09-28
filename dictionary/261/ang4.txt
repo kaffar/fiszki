@@ -1,0 +1,42 @@
+subsidiary; Simon was trasfered to our newly created subsidiary in Hong Kong-pomocniczy, spolka zalezna;filia
+subsidiary-spolka zalezna
+staff, stuff-personel, rzeczy
+handling all the stuff around this-załatwiając wszystkie sprawy wokół tego
+card will be dispatched soon-karta zostanie wysłana wkrotce
+card dispatched-karta wysłana
+dispatcher (dispatcher servlet)-dyspozytor
+polimorphic dispatch-wysylka
+get it in accordance with-uzyskać ją zgodnie z
+(easy) accessible knowledge/tutorial-przystepna wiedza/tutorial
+affordable-niedrogi, przystepny
+but the workload may be skewed-ale obciążenie pracą może być wypaczone
+skew-krzywy, wypacyc
+If you shoot him, you may skew the results. -> Jeśli go postrzelisz, możesz wypaczyć wyniki
+docker is a great way to spin up any stateless application and scale out in local-docker to swietny sposob na uruchomienie dowolnej bezstanowej aplikacji i skalowanie jej loklanie
+it will never catch up /read all the messages in the topic-nigdy nie dogoni /przeczyta wszystkich wiadomości w temacie
+WebSocket is a protocol providing full duplex communication across a single socket.-podwojna komunikacja przez pojedynczy socket
+herpes duplex-opryszczka dwustronna
+duplex-blizniak, dwupoziomowy
+websocket is a standardized way to enable a fully duplex-2 way communication channel
+catch up-dogonic, pogac, zlapac
+catch up-nadrobic zaleglosci
+catch up with the competition-dogonić konkurencje
+catch up (with work)-nadrobic zaleglosci
+let's catch up after the daily-zlapmy sie/pogadajmy po daily
+Let's catch up later-zlapmy sie pozniej
+we have to use scatter/gather pattern-musimy zastosować wzór rozproszenia/zbierania
+fracture vs fraction vs friction-zlamanie vs ulamek vs tarcie
+fraction-ulamek
+These time differences are only fractions of seconds but for 10k cells it sums up into 3,5h.-roznice w czasie sa na poziomie ulamkow sekund ale dla 10k cellek sumuje sie w 3,5h
+no remarks from me, i wouldn’t write it better myself-bez uwag z mojej strony, sam bym tego lepiej nie napisał
+kitchen sink is blocked-zlew jest zatkany
+drown person, sink ship-zatonac
+do not throw dregs, leaves into the kitchen sink-nie wrzucac fusy z kawy, resztki do zmywka
+accumulated, aggregated-zgromadzone, zagregowane
+hands on tutorial/session - praktyczne zajecia z kodowaniem
+hands on-praktyczny, przekonac sie o czyms z pierwszej reki
+hands on, heads up-praktyczny; info, dac znac
+we will get hands on to test kafka, kafka streams testing hands on-praktyczny kurs
+Thanks for the heads up-dzieki za informacje
+Next time, give me a heads up. -> Następnym razem, daj mi znać.
+heads up-info, dac znac

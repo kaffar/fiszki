@@ -1,0 +1,42 @@
+pastry shop, confectionery, patisserie, bakery, cake shop, candy store, doughnut shop-cukiernia
+fried eggs, soft=boiled eggs, hard boiled eggs, scrambled eggs-jajka sadzone, na mieko, na twardo, jajecznica
+let go, let it go, give up-odpuscic
+otitis, ear inflamation-zapalenie ucha
+I have not received payment for the invoice-nie otrzymalem platnosci za fakture
+Technique for verifying the correctness of program operation-Technika weryfikacji poprawnosci dzialania programu
+feast-uczta, ucztowac
+after certaing allegations were made, the company is being audited-zarzuty, kontrola
+prove or disprove the theory. disprove the allegation-obalic teorie/zarzuty
+allegation-zarzut, oskarzenie
+charge, allegation, accusation, complaint-zarzut
+setup can sound a little tame in its stock form-konfiguracja może brzmieć trochę nieciekawie w swojej podstawowej formie
+tame dragon-oswojony smok
+tame-oswoic, oswojony
+tame werewolf-oswoic wilkolaka
+overall, the whole, entirety-caloksztalt
+rules are less clear=cut than initially thought-zasady są mniej wyraźne niż początkowo sądzono (jasny, oczywisty, jednoznaczny)
+clear(=cut), unambiguous, unique-jednoznaczny
+clear=cut-jasny, oczywisty, jednoznaczny
+Don’t get left behind! It is imperative for your app product to have improved mobility and inter=device compatibility.-nie zostan w tyle, to jest konieczne, rozkazujacy by usprawnic mobilnosc i medzy urzedzeniowa zgodnosc
+It is imperative that the means provided in the joint draft budget be restored.-Konieczne jest przywrócenie środków przewidzianych we wspólnym projekcie budżetu.
+it is imperative that the user manually synchronize on the returned map-konieczne jest aby
+it is an imperative to avoid risk-to jest konieczne, rozkazujacy, tryb rozkazujacy
+imperatively-koniecznie
+imperative-konieczny, niezbedny
+fallacy about professionalism-błąd co do profesjonalizmu
+mow the grass, mowing the lawn-kosic trawe
+tub, bathtub-wanna
+have contingency plan/it works as fallback mechanism-awaryjny x2
+develop contingency plan-opracowac plan awaryjny
+to have any contingency for it-miec na to jakis plan awaryjny
+sciatica-rwa kulszowa
+here is hollow in me now-dziura, pusty
+If the entity object is not already managed by the EntityManager a hollow object might be returned-pusty, wydrazony
+hollow laugh-pusty śmiech
+said hollowly-powiedział pusto
+amplification; The amplification of a sound is achieved thanks to the violin's hollow body-wzmacnianie
+comprehensive election audition, comprehend, comprehension-kompleksowy, zrozumiec, zrozumienie
+comprehensive-wszechstronny
+neigher burglar will have a chance against us-żaden włamywacz nie będzie miał z nami szans
+cryptic method names that don’t describe what’s being tested-tajemniczy, zagadkowy
+this one is a very cryptic one-tajemniczy, zagadkowy

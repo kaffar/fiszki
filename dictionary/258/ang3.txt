@@ -1,0 +1,41 @@
+spice, condiment, seasoning-przyprawa
+seasoning; Add more seasoning for a stronger flavour-przyprawa
+hone; The knife's rather blunt. I think you should hone it-ostrzyc
+And you can hone your skills to the maximum in the game for cooking. -> I można doskonalić swoje umiejętności do maksimum w grze o gotowaniu.
+hone-doskonalic, ostrzyc, oselka
+hone your skills-doskonalic umiejętności
+spike; There are many sharp spikes on the railings in the park-kolec, szpikulec; na poreczach w parku
+railing-barierka, balustrada, ogrodzenie
+grit; They covered the path with grit-grys, zwir
+rivet; The parts of the vehicle were riveted together-nitowac
+It's quite a riveting read.-przykuwac uwage
+crackle; Look at the beautiful crackle in this painting-pajeczynka
+crackle; That old radio crackles all the time-skwierczec, szelescic, trzaskac
+resilient; Latex rubber is a very resilient material-sprezysty, elastyczny
+tablecloth; I inherited a handmade tablecloth from my grandmother-obrus
+identity theft is a modern scourge.-kradzież tożsamości to współczesna plaga.
+scourge-plaga; zmora; utrapienie
+scourge; This scourge was used to beat the suspect on his back-bicz
+marrow; He baked marrows stuffed with minced meat and onion-cukinia, kabaczek
+minced meat-mieso mielone
+she reads in a very soothing voice-kojacy/uspokajajacy glos
+sooty; The cat had sooty fur and one could see only its eyes in the dark-czarny, czarny jak sadza
+hamper refactoring-utrudniac refactoring
+hamper; she wanted to go fast but was hampered by a heavy bag-utrudniac, przeszkadzac
+hamper; Don't forget to take the picnic hamper and the rug-koszyk, kosz (na jedzenie); dywan
+rugged-szorstki, surowy
+ruby; He gave her a ring set with rubies-rubin
+contraption; This contraption is used for pedicures at beauty shops-ustrojstwo
+I can't believe that contraption actually worked. -> Nie do wiary, że to ustrojstwo zadziałało.
+contraption-przyrzad, ustrojstwo, urzadzenie
+hone; He used the hone to sharpen the knife-oselka
+hone-doskonalic, ostrzyc, oselka
+hone your skills-doskonalic umiejętności
+Resilience vs resiliency-sprezystosc, odpornosc; oba znacza to samo, pierwszy jest bardziej popularny
+resilience; This rubber has high resilience and strength-sprezystosc, 
+acidic; The apples aren't fully ripe, so they might taste a bit acidic-kwasny, kwaskowaty; jabłka nie są w pełni dojrzałe
+ripe-dojrzaly
+broil; We broiled some meat on a barbecue-opiekac
+all dogs must be muzzled in public-wszystkie psy musza byc w kagancu publicznie
+muzzle-kaganiec
+muzzle; He was lying on  the floor with the muzzle of the gun touching his head-wylot lufy

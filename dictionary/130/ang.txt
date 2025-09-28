@@ -1,0 +1,32 @@
+﻿Some simple generators can be coded succinctly as expressions using a syntax similar to list comprehensions but with parentheses instead of brackets-zwiezle;listowy;nawiasy
+collections comprehensions-ulatwienia
+tyson, i'm reckless-lekkomyslny
+reckless driving is a very serious offence-lekkomyslna jazda to powazne przestepstwo
+reckless/prudent-lekkomyslny/ostrozny
+modern forensic technology; forensic reports-sadowy, kryminalistyczny
+I refer here to our framework for forensic laboratories.-Odnoszę się tu do ram prawnych dla laboratoriów kryminalistycznych.
+viable sample-wykonalny, realny
+chapter is a viable use of JPA-wykonalny, realny
+it seems to be the only viable solution to our financial problem-wykonalny
+wonĺt have a viable option to use- wykonalny
+equate, equator-rownac sie/rownanie/rownik
+in the vacuum of space-proznia, odkurzacz
+restless-niespokojny
+have contingency plan/it works as fallback mechanism-awaryjny x2
+charity (fundation)-fundacja charytatywna
+we exchanged opening preasantries-uprzejmosci, grzecznosci
+proximate, approximate-przyblizony, najblizszy x2
+each stage of the development was conducted professionally and in a timely manner-na czas
+How we make your business thrive-prosperowac, kwitnac
+micro organism has thrived-prosperowac, kwitnac
+In fact, we strive for design that, in the words of Saul Bass, is “thinking made visual.”-w rzeczywistosci, staramy sie zaprojektowac
+Don’t get left behind! It is imperative for your app product to have improved mobility and inter=device compatibility.-nie zostan w tyle, to jest konieczne, rozkazujacy by usprawnic mobilnosc i medzy urzedzeniowa zgodnosc
+It is imperative that the means provided in the joint draft budget be restored.-Konieczne jest przywrócenie środków przewidzianych we wspólnym projekcie budżetu.
+Dashboard design tailored to your product-dostosowany, krawiec
+providing an implementation of the required resource that is tailored to the test;tailor-dostosowany, krawiec
+Using programmatic security to custom=tailor a method-krawiec, dopasowac
+I seemed to have found the grail of frameworks-wydawalo mi sie ze znalazlem grala frameworkow
+full=blown applications-pelnowartosciowe aplikacje
+My fellow co=workers were able to pick it up and start writing apps-kolega, kumpel
+defining a completely novel experience-nowosc, nowatorski
+This book uses some novel conventions for showing schema examples;novelty-nowatorski;nowosc

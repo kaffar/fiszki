@@ -1,0 +1,43 @@
+tenacity; I got promoted thanks to my tenacity-wytrwalosc, nieustepliwosc
+frippery; this situation is just frippery, you really shouldnt worry about petty problems-blahostka, drobiazg
+among vs amongst-wsrod, st is older/formal version, better not to use it
+creative and adaptive solution-kreatywne i adaptacyjne rozwiązanie
+email has superseded traditional post-zastapic, wypierac
+I must attend the treaty signing.-Muszę wziąć udział w podpisaniu traktatu | uczeszczac, brac udzial, zajac sie
+peace treaty-traktat pokojowy
+jdk 13 has been superseded-jdk 13 został zastąpiony
+there is no distinction-nie ma rozróżnienia, nie ma różnicy
+latency-opoznienie (czas miedzy wyslanie requestu a odpowiedzia)
+it lags behind in some areas-w niektórych obszarach pozostaje w tyle; opoznienie
+latency-czas oczekiwania (czas miedzy wyslanie requestu a odpowiedzia), opoznienie
+lag-opoznienie, pozostawac w tyle
+payment is behind schedule-z opoznieniem
+delay, behind the schedule-opoznienie
+tardiness-spoznienie, opoznienie
+new technologies introduced with delay-nowe technologie z wprowadzone z opoznieniem
+sparked sustainable real estate boom-wywolac (iskra) trwaly i zrownowazony boom
+Not really sustainable for a true shop, but it’s sufficient for illustration purposes.-trwaly, zrownowazony, stabilny
+sustainable, sustain conversation/head injury-trwaly, zrownowazony, stabilny | podtrzymac, poniesc
+sustainable, sustained-trwaly i zrownowazony; znaczny, trwaly
+clue, tip, hint, advice-wskazowka
+We still got to get up and get shit done. -> Ale wstajemy rano i robimy, co musimy.
+But, I mean, you get shit done. -> Ale ty kończysz wszystko, co zacząłeś.
+apt-trafny
+patients are more apt to be involved with decision making process regarding his or her treatment-sklonny, trafny
+JVM intermittently runs what is very aptly called a mark=and=sweep algorithm-JVM sporadycznie dziala cojest trafnie nazywane zaznacz i pozamiataj algorytm
+they were apt to blame him-byli skłonni obwiniać go
+have a knack for attracting the trouble-mają talent do przyciągania kłopotów
+Celeste had a knack for other things too-talent, dryg
+hoop-obręcz, kosz
+serwej-survey (w)
+Please conclude your survey.-prosze podsumowac/zakonczyc ankiete
+surveys showed that the trend is on the increase-ankiedy wykazaly ze trend rosnie
+surveyor-geodeta albo inspektor
+raport jest oparty na badaniu przeprowadzonym wsrod-The report is based on a survey conducted among
+survey the street below-zbadać/przyjrzec sie ulicę poniżej
+assorted books-różne książki
+sizable-spory, pokaźny, sporych rozmiarów
+Right now there are sizable odds that we miss targets for November.-juz teraz mamy spore szanse ze nie spelnimy celow na listopad
+He prefers manageable employees to those with strong backbones-On woli pracownikow ktorymi latwo kierowac, od ludzi majacych wlasne zdanie
+Use it only when it adds to the scalability and readability of your Spock test. In simple tests, you might get away with direct stubbing of all argument combinations if their number is manageable.-Używaj go tylko wtedy, gdy zwiększa skalowalność i czytelność testu Spocka. W prostych testach możesz uniknąć bezpośredniego odgałęzienia wszystkich kombinacji argumentów, jeśli ich liczba jest możliwa do opanowania.
+manageable-wykonalny, do opanowania, pod kontrolą

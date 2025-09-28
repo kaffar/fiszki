@@ -1,0 +1,18 @@
+fusion-polaczenie
+clause-rozdzial, klauzula, zdanie
+relative clauses-powiazane zdania
+cardinality-liczność
+high=cardinality data streams-strumienie danych o wysokiej licznosci
+flawlessly-bezbłędnie
+transform and manipulate them flawlessly-bezblednie
+the dissertation reports in=depth research in the field of reactive streams-rozprawa doktorska przedstawia pogłębione badania w dziedzinie strumieni reaktywnych
+to fulfill that need, the spring team initiated a new project-zeby spelnic te wymagania, zespol zainicjowal nowy projekt
+each processing stage may take significant processing time and stall other executions-wstrzymac inne wykonania
+car conked out/engine stalls-silnik stanac przestac dzialac/stoisko, stragan
+i will stall them-zatrzymam ich
+stop stalling-przestań się przeciągać/zwlekac/grac na zwloke
+they obstruct sightlines. they block the views of some older landmarks-zaslaniac, utrudniac
+obstruct any merger that could create a monopoly-blokowac, tamowac
+construction work was obstructed by environmental groups-blokowac, tamowac
+request should be a non=obstructive execution-request powinien byc wykonany bez przeszkod
+it is inadmissible to drop some-niedopuszczalne jest porzucanie niektórych

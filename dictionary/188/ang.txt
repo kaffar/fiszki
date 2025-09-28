@@ -1,0 +1,175 @@
+crossword, puzzle-krzyzowka, ukladanka slow
+8 across, down, diagonally-8 poziomo, pionowo, ukosnie/po przekatnej
+diagonal-przekatna
+self=assured, confident-pewny siebie
+down=to=earth-praktyczny albo przyziemny
+two=faced, traitor-dwulicowy
+warm=hearted, kind-serdeczny; mily
+self=centered, selfish-egocentryczny, samolubny
+easy=going, laid=back-wyluzowany, spokojny, very relaxed, doesnt care
+open=minded-otwarty
+quick=witted-inteligentny, bystry
+absent=minded-roztargniony
+stand=offish-nieprzystepny, sztywny, unfriendly
+bad=tempered-wybuchowy, o zlym przysposobieniu
+level=headed, sensible-zrownowazony, rozsadny, trzezwo myslacy
+big=headed-przemadrzaly, arogant
+stuck=up, snobbish-snobistyczny, nadety
+fun=loving-sociable, outgoing
+deem=witted-stupid, unintelligent
+two people have stand=off-conflict, trzymac sie zdala
+which of these qualities are the least desirable for you in person-które z tych cech są najmniej pożądane dla ciebie osobiście
+put them in order of most desirable to least desirable-ułożyć je w kolejności najbardziej pożądanej lub najmniej pożądanej
+midwife-polozna
+heir (ee), inheritor, successor-spadkobierca
+presidential succession, successor-dziedziczenie, nastepstwo; nastepca
+heir (ee), inheritor, successor-spadkobierca
+orphanage-sierociniec
+These rows are known as orphans.-sieroty
+little orphaned deer-osierocony
+Since then, he lives like a hermit.-pustelnik, samotnik, sb who lives far away with no contact with other people
+maximum compatible with the predecessor / with the original-maksymalnie zgodny z poprzednikiem/z pierwowzorem/przodkiem
+sidewalk, pavement, pedestrian-chodnik x2
+a lot of pedestrian areas-duzo obszarow dla pieszych
+pedestrian-pieszy
+spinster, bachelor-stara pann, kawaler
+He used to be such a chatterbox.-Zawsze był takim gadułą.
+acquaintance-znajomy
+opponent-przeciwnik
+So we have a stowaway on board after all.-pasażer na gapę
+Everything indicates that there was an accomplice inside the house.-wspolnik, wspolsprawca
+a discount, a concession-znizka x2
+a transport concession for students-ulga na komunikacje dla studentow
+tax discount due to copyright concession-znizka podatkow w zwiazku ze znizka praw autorskich
+making concessions-ustepstwa
+what concession or compromise-ustepstwo
+make concession;make allowance for sb-zrobic ustepstwo;potraktowac kogos ulgowo, byc wyrozumialym dla kogos
+participle clause- ..ing, After cleaning the house she fell asleep
+defining clause, restrictive clause (which, that???)-klauzula rozdzial, zdanie warunkowe
+Oracle formally stipulates that the CONNECT BY clause must have one occurrence-zastrzegac, okreslac
+relative clauses-powiazane zdania
+Whichever way you look at it, ...-Niezależnie od tego, jak na to spojrzeć, ...
+whilst-podczas gdy
+How do you spell it?-jak to sie pisze
+take turns to explain the ideas-na zmianę wyjasniajcie pomysły
+motion picture-film (kinowy, telewizyjny, wideo)
+motion, set in motion-ruch, wprawic w ruch
+motion sickness-choroba lokomocyjna
+Your idea should not wait, let’s set everything in motion.-wprawmy wszystko w ruch
+Despite the appeal of the robots for children, I don't think the idea will be very popular-Pomimo atrakcyjności robotów dla dzieci, nie sądzę, że pomysł ten będzie bardzo popularny
+That idea appeals to me-ten pomysl do mnie przemawia
+stories abounding of drivers making frantic appeals for guidance-obfitowac, goraczkowe odwolania o pomoc
+language classes appeal to the education system because they are “easy to test, quantify, and regiment”-okreslic ilosciowo, pulk/oddzial
+appeal against-odwolac sie od (wyroku, decyzji)
+plea-appeal, wolanie, apel
+plants that appealed to Susan-apel, przemawiac
+it really appeals to me-to przemawia do mnie
+google vows to appeal-slubowoac, przysiegac sie odwolac
+easly navigable and visually appealing-latwy do nawigowania i przemawiajacy wizualnie
+cookery room-pokoj do gotowania; gotowanie, sztuka kulinarna
+good english teachers are hard to come by-dobrych nauczycieli języka angielskiego trudno jest zdobyć
+come by/come over/stop by/drop by-wpasc
+come by-wpasc; zdobyc
+imply; implicate-sugerowac; wplatac, wrobic
+Although the choice you make will have implications for how your data is cached, it will have no bearing on the way you declare caching rules in Spring.-Chociaż dokonany wybór będzie miał wpływ na sposób przechowywania danych, nie będzie miał wpływu na sposób deklarowania reguł buforowania na wiosnę.
+The implication is that clients aren’t resilient to changes in network topology.-odporny na zmiany
+Understanding the implications of agile methodologies on operations-Zrozumienie wpływu zwinnych metodologii na operacje
+make sure that you understand the implications of using them. Use of spies implies that your Java code suffers from design problems-upewnij się, że rozumiesz konsekwencje ich używania. Używanie szpiegów oznacza, że twój kod Java cierpi na problemy z projektowaniem
+usage requirements and their implications-konsekwencje
+there is hidden implication/imply-sugerowac, pociagnac za soba
+the crowd was surging into the hall/surge-wzbierac, naplywac
+there has been a huge surge in demand for Chinese-nastąpił ogromny wzrost popytu na chiński
+draw conclusions about the implications-wyciągać wnioski na temat skutków
+Chinese is fast catching up with 6 mln users-Chińczycy szybko nadrabiają zaległości z 6 milionami użytkowników
+We have a little time to catch up.-Mamy czas, żeby nadrobić zaległości.
+catch up-dogonic, pogac, zlapac
+pork schnitzel, pork chop-schabowy
+Harry chopped all vegetables-posiekac
+chop-siekac, rabac, kotlet
+chop wood-robac drewno
+heading, header-naglowek x2
+chart, graph, diagram-wykres x3
+full form rather than contraction-pełna forma zamiast skroconej
+Another contraction and you can see the baby's head appear.-Znowu skurcz i już widać główkę dziecka.
+contraction-skrot
+cross out incorrect alternative-wykreślić niepoprawną alternatywę
+company's shares plummeted after the arrest of its CEO-gwaltownie spadac, po areszotowaniu
+the cost of living is soaring-koszty zycia rosna
+food prices soared up after embargo was announced-wzrastac
+plummet, soar-spadac (gwaltownie), rosnac (szybowac)
+bounty-hojnosc (natury), dary, nagroda
+There's something I need to follow up on.-Jest coś, co muszę sprawdzić.
+items to be taken from next spring onwards-poczawszy, dalej
+From 2019 January onwards, in case of loss premises, critical staff will be relocated to GWC buildings-Począwszy od 2019 r., W przypadku utraty miejsc, krytyczni pracownicy zostaną przeniesieni do budynków GWC
+next monday, 4th of March, we start 1st sprint-w nastepny poniedzialek, 4tego marca zaczniemy pierwszy sprint
+try to find a common sense here and not to add task on too much granular level-spróbuj znaleźć zdrowy rozsądek i nie dodawać zadania na zbyt szczegółowym poziomie
+Trying to use objects at very low levels of granularity is nice, but the overhead may be prohibitive.-narzut może być wygórowany/zaporowy/zakazujacy
+Use common sense when you structure Spock tests.-Używaj zdrowego rozsądku podczas tworzenia testów Spocka.
+granular-ziarnisty
+irma data can change over time-zmieniać sie z biegiem czasu
+capital letter-wielka litera
+sneak-zakradac sie
+Well, Python is somewhat of a sneaky snake when it comes to imports and managing modules.-python jest troche,nieco podstepnym wezem jesli chodzi o importy i zarzadzanie modulami
+trainers, sneakers; My trainers are in the wardrobe/closet-adidasy
+you can sneak an increase under the radar-mozesz przemycic wzrost pod radarem
+sneaking across the system-skradac sie
+i'm going to give you a sneak peek of my garage-rzucić okiem na mój garaż
+please preemptively clean them up or open a Jira on the owner to fix it;preventive-prevencyjnie;prewencyjny
+preemptive(ly)-prewencyjny, zapobiegawczy
+Some job titles are a bit exaggerated-przesadzony
+exaggerate-wyolbrzymiac, przesadzac
+not to be groundless-żeby nie być gołosłownym
+sow seeds of confusion-zasiac ziarno niepewnosci
+wheat, rape, rice maize, barley-przenica, rzepak, ryz,kukurydza, jeczmien
+where is the entrance-gdzie jest wejscie
+You should go to the secretariat/secretary's office on the ground floor near the main entrance-powinienes pojsc do sekretariatu na parterze
+dairy products are placed next to the entranceway-nabial jest przy wejsciu
+single entrance and single exit-pojedyncze wejscie i pojedyczne wyjscie
+willow-wierzba
+current velocity of the team-aktualna prędkość zespołu
+refer sb other doctor-polecic innego lekarza
+In case of difficulties, they would refer you-w przypadku trudnosci, moga polecic ciebie
+stranger-nieznajomy, obcy
+when you are really disengaged and disconnected-odlaczony, rozlaczony
+Its power couplings were disengaged.-Łączniki zasilania zostały wyłączone.
+Now I've got an engagement in San Francisco and all I'm getting from your people is double=talk.-Mam zobowiązania w San Francisco a wszystko co słyszę od twoich ludzi to sprzeczne informacje. 
+I got engaged-zareczylem sie
+engagement, long term commitment-zaangazowanie
+when you are really disengaged and disconnected-odlaczony, rozlaczony
+Its power couplings were disengaged.-Łączniki zasilania zostały wyłączone.
+I've been  calling Tom on his mobile but it's engaged/busy all the time-Dzwonię do Toma na komórkę, ale jest zajętyprzez cały czas
+rip=off engagement ring in cubic zirconia rather than diamonds-zdzierstwo (szescienny) cyrkonia zamiast diametow
+participate, be involved, be engaged, take part-uczestniczyc
+toys which are tactile help to engage whole person-namacalny, dotykowy
+down the road-na koncu drogi, za jakis czas
+I think the application should be resilient to such exceptions-odporny przeciw exceptionom
+The implication is that clients aren’t resilient to changes in network topology.-odporny na zmiany
+design that is resilient to change and flexible to new functionality-elastyczny, tutaj odporny
+why are you so resistant-odporny, wytrzymaly
+shockproof-odporny na wstrzasy
+It's a very smart, resilient creature.-To bardzo bystry, odporny stwór.
+write application in that way it is resilient to failure-odporny na porazke
+brain is more resilient than we think-elastyczny, odporny
+immune, proof, resistant, resilient-odporny
+entrance, enter, admission-wejście, wchodzić, wstęp
+expose, endanger, risk, compromise, compromise-narazac
+A REST API must not compromise its design by misusing HTTP’s request methods in an effort to accommodate clients with limited HTTP vocabulary.-narazac na szwank, ustepowac, kompromis; dostosowac
+compromised-kompromis/ugoda; ustepstwo; isc na kompromis, kompromitowac, narazac na szwank
+infringement-naruszenie, low crime
+I refuse to answer on the grounds that it might incriminate me.-Odmawiam odpowiedzi na tym polu, to mogłoby mnie obciążyć
+incriminate, incriminating-obciazac, obwiniach; obciazajacy (wina)
+incrimination-obwininie, oskarzenie
+They are notable for the long filaments from their fins.-wlokna
+notable, notably-godny uwagi, znaczny; zwlaszcza, szczegolnie
+marble-marmur
+It's two gigs of memory, extended warranty.-2 giga pamięci, przedłużona gwarancja...
+garanti-guarantee(w), warranty
+extended warranty, warrant, as quickly as the situation warrants, unwarranted panic-przedluzona gwarancja | nakaz, pozwolenie, uzasadnic
+Service demand and resiliency can be managed as quickly as the situation warrants.-Popyt na usługi i elastyczność mogą być zarządzane tak szybko, jak tego wymaga sytuacja.
+I want a warrant to go into his mortuaries immediately.-Chcę dostać nakaz/pozwolenie/uzasadnic na wejście do jego kostnicy.
+justify, argue, warrant-uzasadniac
+These may also warrant appropriate follow=up action in the context of the surveillance of imbalances.-Mogą one również uzasadniać podjęcie odpowiednich działań następczych w kontekście nadzoru nad zaburzeniami równowagi.
+You may contest the rules, but I believe that each one warrants careful consideration.-Możesz kwestionować zasady, ale uważam, że każdy z nich zasługuje na staranne rozważenie.
+respecting ancestry-szanujac pochodzenie, rodowod
+etcetera-etc (w)
+temporary, momentary-tymczasowy, chwilowy

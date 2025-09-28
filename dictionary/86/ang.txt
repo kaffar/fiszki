@@ -1,0 +1,32 @@
+upcoming episode-nadchodzacy epizod
+perpendicular direction-prostopadly kierunek
+he wrote landmark paper-przelomowy dokument
+uml diagrams are preliminary to source code-wstep
+causes module to misbehave-zle sie zachowywac
+sneaking across the system-skradac sie
+smells accumulate over time-gromadza sie w czasie
+direction that oposes the flow of conrtol-sprzeciwiac sie, przeciwstawiac
+robust design-silny, zdrowy, solidny
+viscosity-lepkosc
+reconsile, reconsilation-pogodzic, pojednanie
+facility-latwosc, udogodnienie
+sustainability is primary value of software-zrownowazony rozwoj, trwalosc
+anything you do will be in vain-na prozno
+I tried to sustain the conversation, She sustained a severe head injury-podtrzymywac (przy zyciu, kopule na kolumnach), ponosic (straty, obrazenia)
+tentative-niepewny, probny
+collocation of the responsibilities couples the actors-uklad
+encroaching fragility-ingerowac, wkraczac
+they are going to diverge at same point of time-odbiegac
+exhibit (egzibit) the symptom of fragility-wykazywac
+single responsibility violation-naruszenie
+aweilebyl-available(w)
+that kind of trade off is exactly...-kompromis
+we will talk about those in the upcoming episode-nadchodzacy
+let's stipulate that there is a lot of them-zastrzec, przewidywac
+likewise there is expense report class-rowniez, podobnie
+staggering gorgeous-oszalamiajacy
+behold this marvelous science-ujrzyj cudowna nauke
+it is oblivious to this change-nieswiadomy, niepamietny
+oblivion-zapomnienie
+no mind has to ponder the complications of the change-rozwazac
+reprise-powtorzenie

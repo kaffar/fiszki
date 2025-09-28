@@ -1,0 +1,31 @@
+of the changes in Java 8 revolve around streams-obracac sie, krecic sie
+In a nutshell,...-w skrocie
+Don’t worry if you find the list daunting.-zniechecajacy
+most of the time the interface name is implied-sugerowac, pociagnac za soba
+This is probably why the exam is so fond of method references.-czuly, zamilowanie
+Suppose that you are taking an introductory Java class and receive scores of 90 and 100-wstepny, wprowadzajacy
+How do we express this “we don’t know” or “not applicable” answer in Java?-nie dotyczy
+tenary operator - x?y:z
+It is a third person’s job to stencil the name of the animal on the sign.-wzornik, szablon
+intermediate operations-posredni, przejsciowy, sredniozaawansowany
+A factory typically has a foreman who oversees the work.-przewodniczacy, majster
+Then the foreman sees that there are no more signs left and shuts down the entire enterprise.-przedsiebiorstwo, przedsiewziecie
+The duplicates do not need to be adjacent to be removed-przylegac
+Remember that String::length is shorthand for the lambda-skrot, skrotowe okreslenie
+The most common use for peek() is to output the contents of the stream-zerkac
+This gibberish basically says that it returns a Stream-belkot
+thus-dlatego, a zatem
+advocate to use-popierac, zalecac
+project associated with spring-zwiazany z
+write your code in terms of interfaces-pod wzgledem
+look up-wyszukac
+do you want any of these affiliate systems?/affiliation-przylaczyc/ powiazanie, przynaleznosc
+there is nothing inherently wrong with this-wrodzony, z natury, nieodlaczny
+which is sufficiently expected-wystarczajaco
+let me allude to it now-wspomniec, napomknac
+as we go along during the course-isc wzdluz
+the only real downside of this-wada, minus
+and therefore use it-dlatego, w zwiazku z tym
+there is some fallback mechanism-awaryjny
+component designation-opis, oznaczenie, podpis
+I am happy to share that we are now opening submissions for language classes-zgloszenia do klas jezykowych

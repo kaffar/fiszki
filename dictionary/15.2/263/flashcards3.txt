@@ -1,0 +1,40 @@
+prowess-dzielność; męstwo; odwaga; waleczność
+prowess; His military prowess was quite impressive-sprawnosc, bieglosc
+glossy; There was a pile of glossy magazines on a table in the waiting room-kolorowe magazyny
+quandary; I'm in a real quandary over whether I should accept this offer or not-rozterka, dylemat
+malevolent-wrogi; wrogo nastawiony; nieprzyjazny
+malevolent grin-złowrogi uśmiech
+miscellaneous, malevolent-różne, wrogie
+slated; She was slated to be his successor-spodziewany, planowany
+malevolently; She gazed at me malevolently, so I realised it wasn't a good moment to talk-zlowrogo, wrogo
+jejune; The film gives a jejune picture of the world divided into good and evil-naiwny
+pinchbeck; Dont buy anything at the souvenir shop, as they sell just pinchbeck-imitacja, tandeta
+demurely; I asked her if she wanted anything to drink but she refused demurely-grzecznie, spokojnie
+demure-skromny, powazny
+attempting to manage the resulting configuration manually is intractable-trudny, trudny do rozwiazania
+managing configuration manually is intractable-trudny, trudny do rozwiazania
+intractable; the problem of crime in the city seemed intractable-trudny, nieustepliwy, nieugiety
+intractability; The intractability of the problem overwhelmed us-trudnosc, nieustepliwosc; Trudnosc problemu przytloczyla nas
+unutterable; Her husband's death filled her with unutterable grief-niewypowiedziany
+utter rubbish-kompletne śmieci
+uttered a kind of soft scream-wydał cichy krzyk
+utter-wypowiedziec, oglosic
+statement, utterance, opinion-wypowiedz
+showing utter determination as he always does-zupelny, calkowity, pelny
+torpid; I became torpid and lost consciousness-odretwialy, apatyczny, senny
+alleged, supposed affair-zekomy romans
+dewy=eyed; She gets dewy=eyed whenever she talks about her dead husband-majacy lzy w oczach
+barefaced; You're a barefaced liar. I didn't take that money-bezczelny
+poise; she maintained her poise in the face of the false accusations-opanowanie, rownowaga, stabilnosc
+mannerly; He's a mannerly and well=educated young gentleman-dobrze wychowany
+poise; The movements of ballet dancers are characterised by poise-gracja, wytwornosc
+dexterity; This toy can improve children's manual dexterity-zrecznosc, sprawnosc
+fuggy; Pubs and discotheques are usally fuggy places-duszny, zadymiony
+muckraker; There were many muckrakers that tried to damage the politician's reputation-lowca skandali
+muckracking-szukanie sensacji
+forethought; Not a single person had the forethought to take matches to camp-przezornosc, zapobiegliwosc
+suddenly your applications become more scalable and, with forethought, more resilient-aplikacja staje sie bardziej skalowalna i z przezornosia/planowaniem bardziej skalowalna
+That bull had malice and forethought.-byk mial zlosliwosc/zla wole i przemyslenie
+The previous sections weren’t meant to scare you away from using messaging in your applications. Rather, my goal is to highlight that using messaging in your services requires forethought.-Poprzednie sekcje nie miały na celu odstraszyć cię od używania wiadomości w twoich aplikacjach. Raczej moim celem jest podkreślenie, że używanie wiadomości w twoich usługach wymaga przemyslenia.
+forethought-zapobiegliwosc, przezornosc
+slick; The singer gave a slick performance-zgrabny, sprawny, zreczny

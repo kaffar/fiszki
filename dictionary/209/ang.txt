@@ -1,0 +1,59 @@
+A microservice that’s too coarse or fine grained will have a number of telltale attributes that we’ll discuss shortly.-Mikroserwis, który jest zbyt gruboziarnisty lub drobnoziarnisty, będzie miał wiele charakterystycznych cech, które omówimy wkrótce.
+hallmark-znak rozpoznawczy, cecha charakterystyczna, cechowac
+were the hallmarks of their business philosopy-cechy charakterystyczne
+habitual-zwykly, zwyczajowy, charakterystyczny, notoryczny
+characteristic, distinctive, typical, specific-charakterystyczny
+the changes are implied from ...-zmiany pochodza, sa skutkiem...
+Have (severe) side effects.-maja (surowe/powazne) skutki uboczne
+It’s now an implied and inseparable part of my process for making software-Jest to nieodłączna i nieodłączna część mojego procesu tworzenia oprogramowania | sugerowac, pociagnac za soba, byc skutkiem, pochodzic
+implications-wplyw, skutki
+fallout-skutki, konsekwencje, reperkusje
+fixing implications/consequences rather than causes-naprawiac konwekwencje, zamiast przyczyny
+remnants-pozostalosci, resztki
+Note the remnants of skin tissue and blood under the fingernails. -> Zwróć uwagę na pozostałości tkanki skóry i krew pod paznokciami.
+I was so nervous about flying that i left my bag in the departure lounge-poczekalnia/hol na odloty
+lounge around-wloczyc sie, obijac sie
+lounge-hol
+funeral parlor-zaklad/dom pogrzebowwy
+parlor-salon
+parlor vs ounge-salon vs hol
+fan, fanless-wentylator, bez wentylatora
+he upset my colleagues-on zdenerwowal moich kolegow
+devastated-extremely upset and shocked
+upset-zdenerwowac, zmartwic
+Residents were up in the arms at the council's plan to increase taxes-extremely upset; indignant na plan rady
+joshua the biggest upset-zmartwic, smutek
+I clenched my fists tightly in anger but managed to control myself-Zacisnęłam mocno pięści w gniewie, ale udało mi się opanować
+clench-zaciskac mocno np. piesci, zeby
+for their guidance and support during my tenure at Nokia and my managers-podczas kadencji
+i wholeheartedly thank all of you for the support and guidance during my tenure here.-Z całego serca dziękuję wam wszystkim za wsparcie i wskazówki podczas mojej kadencji tutaj.
+career-kariera
+trade union-zwiazek zawodowy
+professional, pro / occupational-zawodowy
+take care of, look after-opiekowac sie
+crumble under presure-kruszą się pod presją
+Only as your pride slowly crumble... will you get the first glimpse of true humility. -> Dopiero gdy wasza pycha zacznie się powoli rozpadać... zaczniecie dostrzegać prawdziwą pokorę.
+crumble-kruszyc sie, rozpadac
+crumb vs crumble-okruch vs kruszyc
+speak for yourself-mow za siebie
+I would be honored/delighted/pleased-bede zachwycony
+it will be a pleasure-to bedzie przyjemnosc
+my pleasure, it's a pleasure | the pleasure is all mine -to bedzie przyjemnosc | cala przyjemnosc po mojej stronie
+consequences, implications, ramifications, fallout-konsekwencje
+fury fallout over title belt-rezultat, szkody
+fallout-skutki, konsekwencje, reperkusje
+the court's decision had many unforeseen ramifications-negative consequnces of sth
+﻿the court's decision had many unforeseen ramifications-nieprzewidziane consequnces of sth
+This has a couple of important ramifications-konsekwencje
+making snap decisions without considering their implications-podejmowanie szybkich decyzji bez rozważania ich konsekwencji
+With a RedisTemplate in place, it’s a snap to configure a RedisCacheManager, as shown next.-z redisem to bardzo proste
+I didn't mean to snap at you-warknac na kogos, pstryknac, trzasnac
+it makes versioning your application configuration data a snap-sprawia, że tworzenie wersji danych aplikacji jest bardzo proste.
+Spring essentially lets you assemble your code together like a set of Lego bricks that snap together.-Spring zasadniczo pozwala ci zestawić kod razem jak zestaw klocków Lego, które łączą się ze sobą.
+you can find yourself making snap decisions without stopping to fully consider their impact.-możesz podejmować szybkie decyzje bez zatrzymywania się, aby w pełni rozważyć ich wpływ.
+snappy language-zwawy jezyk
+These four reasons aren’t a general indictment of load balancers-oskarzenie
+they were indicted for fraud-oskarzeni o oszustwo
+indict-oskarzac
+compelling-fascinating glueing
+compelling-fascinating

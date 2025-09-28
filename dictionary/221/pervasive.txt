@@ -1,0 +1,8 @@
+RMI, Hessian, Burlap, and the HTTP invoker are great remoting options. But when it comes to ubiquitous remoting, none hold a candle to web services.-wszechobecny, powszechny
+pervasive-wszechobecny, powszechny, rozpowszechniony
+ubiquitous-wszechobecny
+near ubiquitous adoption of json syntax-prawie wszechobecne zaadoptowanie skladni jsona
+ambiguous vs ubiquitous-niejednoznaczny vs wszechobecny
+ubiquitous language to define requirements unambiguously-wszechobecny język do jednoznacznego definiowania wymagań
+comprehensive-wszechstronny
+exhaustive, tiring, tiresome, comprehensive-wyczerpujacy

@@ -1,0 +1,43 @@
+heyday-szczyt, najlepsze czasy
+but even in the heyday of swing and awt, this facility was little used in practice-nawet w szczycie, ten obiekt był mało wykorzystywany w praktyce
+wart-brodawka, narosl
+it can be difficult and leaves visible warts in the source code-brodawka, narosl
+if you must do so, exercise great caution-jeśli musisz to zrobić, zachowaj wielką ostrożność
+American campaigners thwart a government attempt to cut all federal funding for summer activities-dzialacze udaremnili rzadowa probe ciecia rzadowego fundowania letnich aktywnosci
+thwart-udaremnić, pokrzyżować plany
+it is not guaranteed to thwart all attacks-nie ma gwarancji, że udaremni wszystkie ataki
+vestige-slad, pozostalosci po
+both representations retain vestiges of their origins-obie reprezentacje zachowuja slady swojego pochodzenia
+amiss-niewporzadku, nie tak, zle
+deserializer has no indication that anything is amiss-deserializer nie wskazuje, że coś jest nie tak
+that shut down the entire fare collection system for two days-to zamknelo caly system pobierania oplat na 2 dni
+fare is too low-oplata jest zbyt niska
+commission is a reward for the quantity or value of work achieved (a fee paid to someone for executing a trade)-prowizja, zlecenie
+a one=off fee for the language course-jednorazowa oplata
+return fare, round trip-oplata powrotna, podroz w obie strony
+half fare ticket-bilet ulgowy
+proponents believed the benefits outweighed the risks-zwolennicy uważają, że korzyści przewyższają ryzyko
+proponent-zwolennik
+as a corollary, do not rely on thread.yield-jako nastepstwo
+Tight coupling yields brittle, hard to change code.-kruchy
+yield-jako rzeczownik: plon, wydobycie, zysk; jako czasowni: przyniesc, dac
+corollary, As a corollary | Corollary of "people lie" is "people sin."-nastepstwo, naturalne nastepstwo
+The corollary of the preceding list is that-nastepstwo, naturalne nastepstwo, wniosek, wynik
+corollary-(naturalne) nastepstwo, wynik
+program vulnerable to the vagaries of the thread scheduler-program podatny na kaprysy
+vagaries-kaprysy
+consider this perverse reimplementation-rozważ tę przewrotną reimplementację
+perverse-przewrotny, perwersyjny
+severe bugs can result-mogą wystąpić poważne błędy
+severely, immensely, incredibly, significantly-very (s)
+severe-ciezki, powazny
+session data may be inadvertently lost.-niechcacy
+which could inadvertently cause other parts of the application to think...-niechcacy
+inadvertently-nieumyślnie; niechcący; nieświadomie
+inadvertently break test by adding unexpected data into the database-przypadkowo, nieumyslnie, niechcacy
+this prevents you from inadvertently changing its contents-chroni cie przed przypadkowa zmiana
+when a class commits to using a publicly accessible lock-gdy klasa zobowiązuje się do korzystania
+it is imperative that the user manually synchronize on the returned map-konieczne jest aby
+Don’t get left behind! It is imperative for your app product to have improved mobility and inter=device compatibility.-nie zostan w tyle, to jest konieczne, rozkazujacy by usprawnic mobilnosc i medzy urzedzeniowa zgodnosc
+It is imperative that the means provided in the joint draft budget be restored.-Konieczne jest przywrócenie środków przewidzianych we wspólnym projekcie budżetu.
+it is an imperative to avoid risk-to jest konieczne, rozkazujacy, tryb rozkazujacy

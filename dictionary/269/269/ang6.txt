@@ -1,0 +1,44 @@
+a needlessly strict interface, such as runnable-niepotrzebnie rygorystyczny interfejs, taki jak runnable
+common use cases for when you want to opt out of the checked exception mechanism center around 2 situations-typowe przypadki użycia, kiedy chcesz zrezygnować z mechanizmu sprawdzonych wyjątków, skupiają się wokół 2 sytuacji
+this somewhat contentious ability should be used carefully-ta nieco kontrowersyjna umiejętność powinna być używana ostrożnie
+contentious-sporny, kontrowersyjny, kłótliwy
+queen consort/regnant-krolowa malzonka i panujaca
+if u think not required, peel off-jeśli uważasz, że nie jest to konieczne, odklej się
+pack of wolves-stado wilkow
+lone wolf-samotny wilk
+it’s gruesome work to do-to makabryczna praca do wykonania
+gruesome work to do on mars-okropny, straszny, makabryczny
+I knew I'd killed her in some cruel... gruesome way. -> Wiedziałem, że w jakiś okrutny, makabryczny sposób... zabiłem ją.
+Nothing too gruesome, I hope! -> Nic zbyt straszne, mam nadzieję?
+actually, in fact-faktycznie
+From this moment on, I am the de facto commander of this precinct. -> Od tej chwili jestem de facto komendantem tego posterunku.
+it's not profitable enough-to nie jest wystarczajaco dochodowe
+with a heavy emphasis/accent/stress on "something"-z wielkim naciskiem na "cos"
+I’m always baffled by questions in Stack Overflow-zdumiony, zaskoczony, skonsternowany
+surprised-zaskoczony
+bad atmosphere at work-zla atmosfera w pracy
+proximity to customers-bliskość klientów
+each availability zone is discrete data centers-każda strefa dostępności to odrębne centra danych
+the architect breaks the business problem into chunks that represent discrete domains of activity.-architekt rozbija problem biznesowy na kawalki reprezentujące samodzielny/osobny/odrebny domeny aktywności.
+The presence of two discrete data domains is a good indication that multiple microservices are at play.-Obecność dwóch dyskretnych domen danych jest dobrą wskazówką, że wiele mikroserwisów jest w grze.
+chunks that represent discrete domains of activity-kawalki reprezentujace samodzielne/osobne/odrebne domeny aktywnosci
+deploy them as discrete services-samodzielny, osobny, odrebny
+constant flow of discrete events-stały przepływ dyskretnych zdarzeń
+i weep for humanity-oplakuje ludzkosc, placze nad ludzkoscia
+there was one major weepy,weep-placzliwy,plakac
+weeping hagrid-płaczący hagrid
+weep wept wept-płakać
+squid-kalamarnica
+no brainer-latwizna
+this course mixes both theory and hands on-ten kurs łączy w sobie zarówno teorię jak i praktykę
+legacy code that predates the introduction of generics.-poprzedzac
+predate-poprzedzac
+the software has been available since 1992 which long predates the macos as we know today-na długo przed powstaniem
+I notice an intermittent timeout issue while the runners are trying to connect to the k8s cluster-Zauważam przerywany problem z limitem czasu
+JVM intermittently runs what is very aptly called a mark=and=sweep algorithm-JVM sporadycznie dziala cojest trafnie nazywane zaznacz i pozamiataj algorytm
+Visual warning shall be by continuous or intermittent signal.-Sygnał wzrokowy jest ciągły lub przerywany.
+The signal was intermittent, like Morse Code.-Sygnał był przerywany, jak alfabet Morsa.
+Degradation of a service can start out as intermittent and build momentum-degradacja serwisu moze rozpoczac sie w sposob okresowy/nieregulany/przerywany i zbudowac ped/impet/rozped
+Pronto is intermittently accessible-przerywany
+terry crews on intermittent fasting-załogi frotte na przerywany post
+the problem occurs intermittently/sporadically/only sometimes-problem wystepuje okazjonalnie

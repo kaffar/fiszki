@@ -1,0 +1,40 @@
+unused-nieuzywany
+lots more like that. really repetitive-dużo więcej. naprawdę powtarzalne
+you are not prone to seizures-nie masz skłonności do ataków
+seizure-atak, napad
+drool over pizza like an animal-ślinić się nad pizzą jak zwierzę
+drool-slina, slinic sie
+code scaffolding-rusztowanie kodu
+The job of the architect is to provide the scaffolding against which developers will build their code so that all the pieces of the application fit together.-rusztowania
+Builders make changes to buildings by first putting up scaffolding to make their work easier and safer.-rusztowania
+This is like temporarily erecting and then tearing down scaffolding around a building-zbudowac i rozebrac rusztowania
+failover-praca awaryjna
+protection with automatic server failover. -> zabezpieczenie z automatycznym pracy awaryjnej serwera
+let's see failover happening-zobaczmy, jak działa tryb failover
+disaster recovery failover scenario-praca awaryjna
+summarise, sum up, recap; summary-podsumowac; podsumowanie
+collating teams work-zestawiac, porownac, podsumowac
+We�ve just got time to recap some of the vocabulary-podsumowac
+i need a rundown of your clients-Potrzebuję podsumowania twoich klientów
+it sounds legit-brzmi dobrze
+And you're prepared to recognize our legitimate succession, I take it.-Jestes przygotowany by uznac nasze prawowite nastepstwo?
+skipping that cell was legitimate-prawowity, sluszny
+legitimacy-prawowitosc, legalnosc
+get an indication of its legitimacy-uzyskać wskazanie jego zasadności
+programmer excuse for legitimately slacking off-wymówka programisty na legalne obijanie sie
+a second legitimate use of cleaners-drugie uzasadnione użycie środków czyszczących
+There are plenty of legitimate cases-istnieje wiele uzasadnionych przypadków
+legit-legalny, prawdziwy
+Passport office confirms it's legit. -> Biuro potwierdziło, że jest prawdziwy.
+rampage-szalenstwo, atak szalu, zniszczenie, siac zniszczenie
+Study this album to learn the various ways to subdue rampant legacy code.-podporzadkowac szalony legacy code
+volatility invites rampant speculation-bujny, gwaltowny, nieokielznany
+Let's ramp up the pressure...-Zwiększmy presję...
+ramp up-przyspieszyć, gwaltownie wzrosnac
+rampaging rhino-szalejący nosorożec
+volatility invites rampant speculation-bujny, gwaltowny
+we are ramping up the dev stack-zwiekszamy stos developerski
+ingress example-przykład wejścia
+affinity requirements-wymagania dotyczące powinowactwa
+it helps to feel a deep affinity to a language-pomaga odczuwać głębokie pokrewienstwo/podobienstwo/powiazanie do języka
+affinity-powinowactwo, pokrewienstwo

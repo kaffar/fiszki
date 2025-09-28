@@ -1,0 +1,24 @@
+bogus-podrobiony, falszywy
+There is less duplication and the comment has become superfluous.-zbedny
+Some large refactorings can require a sustained effort for days-znaczny, trwaly
+The Hippocratic Oath-przysiega hipokratesa
+This classic admonition applies as well to those of us who are treating programming pathologies.-upomnienie, leczenie schorzen
+The best way to do that is to tread cautiously,-stapac/chodzic ostroznie
+Compilation errors are fixed in a timely manner. -w odpowiednim czasie
+we decided to not bore you with dull pages on this or that refactoring.-zanudzac z nudnymi stronami
+with messy, sprawling, unruly code-zabalaganiony, rozlegly, niesforny kod
+improve code with no collateral damage at all.-dodatkowy, rownolegly, uboczny
+refactoring intimidating code-oniesmielajacy
+Refactoring Strategy: Piecemeal Refactoring-fragmentaryczny
+When faced with a large, unwieldy problem-niewygodny problem
+steps in the midst of what might seem like a large or involved refactoring.-w srodku, po srodku
+embody the principle of piecemeal refactoring-ucielesniac
+crispy popcorn-chrupiacy
+they're just packed in more densely than you see every day-gesciej
+instead of retrofitting client code to the new class/method after creation.-modernizacja
+Map has produced a potent case of the Refused Bequest-silny przypadek
+parenthesis, parentheses, bracket-nawias(y)
+day before yestarday, two day ago-przedwczoraj
+A refactoring rash is a sign that you need to take a different approach, rush-wysypka, pospiech/goraczka
+A good retreat is better than a bad stand (Irish Proverb)-irlandzkie przyslowie
+After many more minutes of struggle and failed attempts to extricate yourself from the situation-wydostac sie

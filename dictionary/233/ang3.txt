@@ -1,0 +1,42 @@
+attendance and punctuality-obecnosc i punktualnosc
+presence and attendance, absence-obecnosc x2, nieobecnosc
+turnout, attendance-frekwencja
+advice, consult, suggest-poradzic komus
+deck-poklad, talia kart
+it also elongates our working time due to food prep-wydłuża również czas pracy dzięki przygotowaniu posiłków
+elongate-wydluzac, wydluzony
+yet, i always considered that in the office i could do more-zawsze jednak uważałem, że w biurze mogę zrobić więcej
+large data volume-duża ilość danych
+One of the problems introduced by microservices is the large volume of services that must invoke other services in the system.-wielkosc, pojemnosc, ilosc
+Total volume in vial equals 1.5 ml.-Całkowita objętość w fiolce wynosi 1, 5 ml.
+volume-wielkosc, pojemnosc, ilosc
+you have no outstanding reviews to attend right now-nie masz obecnie żadnych zaległych recenzji
+prohibit/prevent using them-zabronic ich uzycia
+substitute for normality-namiastka normalnosci
+After a while, I went stir crazy. -> Po krótkim czasie zacząłem wariować.
+I'm starting to go stir crazy already. -> Chyba już zaczynam wariować.
+got stir crazy-zwariowac
+let's look out for each other during this strange time-uważajmy na siebie w tym dziwnym czasie
+look out; look out for-uwazac; troszczyc sie, zajmowac sie kims
+we have to be very vigilant-czujni
+please hold on, deploy put on hold-proszę czekać, wdrażanie wstrzymane
+But our stock supervisor is very knowledgeable.-Ale nasz kierownik magazynu jest świetnie obeznany.
+knowledgeable-kompetentny, dobrze poinformowany, obeznany
+people are very knowledgeable, they learn about sth-kompetentny, dobrze poinformowany, obeznany
+house keeping-prowadzenie domu
+other than that nothing more for now-poza tym nic więcej na razie
+respect/cherish the work-szanowac prace
+By ditching all of the things that Groovy doesn’t need, ContactController is shorter and arguably easier to read.-pozbyc sie, porzucic
+kick over the traces-porzucic konwenanse
+desert, dessert-pustynia, porzucic; deser
+ditch, drop, abandon the tasks-porzucic taski
+defer-odroczyc
+chill out, chilling-wyluzowac; chlodzenie
+greszysli-graciously (w)
+gracefully vs graciously-z gracja, wdziekiem; wspanialomyslnie, laskawie
+school closures-zamknięcia szkol
+closure-zamknac, likwidowac, zakonczyc
+what prevents us from closure/completion-zamkniecie
+This means that companies are being threatened with closure.-Oznacza to, że przedsiębiorstwom grozi likwidacja.
+and now Mr Korwin Mikke, the floor is yours-oddaje Panu glos
+stage is yours-scena jest twoja

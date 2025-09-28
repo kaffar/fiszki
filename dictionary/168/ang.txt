@@ -1,0 +1,73 @@
+potions master-mistrz mikstur
+poltergeist-halasliwy i zlosliwy duch
+tests with lots of test data that spans multiple input variables-test data that obejmuja/rozciagac sie wiele danych wejsciowych
+The functions that span multiple points of an application are called cross=cutting concerns-funkcje ktore obejmuja/rozciagac sie wiele punktow aplikacji sa nazywane przekrojowe/tnacy na ukos troski
+allowing it to scale naturally over the course of the project lifespan-w ciagu okresu zycia projektu
+the span of control of a junior manager should not exceed 3 subordinates-zakres kontroli mlodszego kierownika nie powinien przekroczyc 3 podwladnych
+lifespan of a light bulb/product/people-dlugosc zycia zarowki
+adorable-wspanialy, cudowny
+I’ll also compare the Spock unit test with a JUnit test (if applicable).-majacy zastosowanie, dotyczy
+How do we express this :we dont know or :not applicable answer in Java?-nie dotyczy
+The processing unit is connected to multiple fire sensors and polls them continuously for abnormal readings-Jednostka przetwarzająca jest podłączona do wielu czujników pożarowych i odpytuje je w sposób ciągły w poszukiwaniu nieprawidłowych odczytów.
+recent polls showed that-ankiedy, badania
+polling the server for updates.  (poll)-odpytywanie serwer o aktualizacje
+polling stations-lokale wyborcze
+If one sensor is triggered, the alarm sounds (but this might be a false positive because of a careless smoker who couldn’t resist a cigarette).-falszywy alarm
+value has changed w.r.t previously saved value-with regard to, with reference to
+data retention-zatrzymywanie, przechowywanie
+secondary-drugorzedny, drugoplanowy
+secondary school, high school-szkola srednia, liceum
+phone is a secondary feature-drugorzedny
+Your colleague is a seasoned developer and has clearly marked the three phases by using the empty lines-Twój kolega jest doświadczonym/zaprawiony programistą i wyraźnie zaznaczył trzy fazy, używając pustych linii
+The stimulus phase passes-bodziec, impuls, stymulator
+mvn surefire report:report-niezawodny, pewny
+developers suffer because of inertia and their resistance to changing their testing framework-programiści cierpią z powodu bezwładności i ich odporności na zmianę ram testowych
+What’s the solution if you follow the status quo?-obecny, niezmieniony, staly stan rzeczy
+The recent versions of JUnit advertise support for parameterized tests.-reklamowac wsparcie dla sparametryzowanych testow
+This is a testament to your mother's imagination.-To tylko świadectwo wyobraźni Twojej matki.
+This listing is a true testament to the limitations of JUnit.-swiadectwo, testament
+Tabular data input with Spock-Tabelowe wprowadzanie danych za pomocą Spocka
+that would be hideously wasteful, hideous- ohydne marnotrastwo
+You’ve seen the hideous code of JUnit-Widziałeś ohydny kod JUnit
+I copied verbatim the scenarios of the nuclear reactor monitor from the table-skopiowalem doslownie scenariusze
+That's verbatim to what we heard from nichols.-To dosłownie to, co słyszeliśmy od Nicholsa.
+literally, verbatim, (less virtually)-doslownie
+The icing on the cake is the amount of code.-Wisienką na torcie jest ilość kodu.
+feel free to jump there directly if your enterprise application is plagued by similar JUnit boilerplate code.-aplikacja nekana boilerplatem (plaga)
+The Persians are moving like a plague of locusts.-Persowie zbliżają się liczni jak plaga szarańczy.
+I strongly believe that mocking is one of the pillars of well written unit tests and I’m always puzzled when I see developers who neglect or loathe mocks and stubs.-Mocno wierzę, że mockowanie jest jednym z filarów dobrze napisanych testów jednostkowych i zawsze jestem zaintrygowany, gdy widzę programistów, którzy zaniedbują lub nienawidzą/niecierpiec mockow
+This part contains the principal Spock knowledge. With the foundations out of the way, you’re ready to see the Spock syntax in all its glory-Ta część zawiera główną/podstawowa wiedzę Spocka. Z podstawami na uboczu, jesteś gotowy, aby zobaczyć składnię Spocka w całej okazałości
+principal-glowny, podstawowy, najwazniejszy, dyrektor
+The microservice should never be concerned about the mechanics of how this-Mikroserwis nigdy nie powinien być zaniepokojony mechaniką tego, jak to się dziejehappens
+collate the logs and write them to a central location-zestawic, zebrac / porownac
+We can collate and filter that data for warning signs-Potem możemy zestawiać i filtrować te dane, szukając ostrzeżeń
+using these stocks as collateral for buying more stocks-zabezpieczenie, dodatkowy
+improve code with no collateral damage at all.-dodatkowy, rownolegly, uboczny
+collateral demage, side effect, by=product-dodatkowy/uboczne zniszczenie, efect uboczny, produkt uboczny
+collate expressions-porownywac
+Disposability= Microservices are disposable and can be started and stopped on demand-dostepnosc, jednorazowac, mozliwosc dysponowania
+disposable-bedacy do dyspozycji, jednorazowy, pozbywalny
+at your disposal-do twojej dyspozycji
+waste and rubbish disposal-likwidacja, sprzedaz, wywoz
+From a DevOps perspective, you must address the operational needs of a microservice up front-Z perspektywy DevOps musisz sprostać potrzebom operacyjnym mikroserwisu z góry
+But decomposing the problem domain into small services often leads to premature complexity because microservices devolve into nothing more than fine grained data services.-przeistoczyc sie
+He attempts to devolve into a hermaphrodite... and give birth to offspring on his own.-Stara się przeistoczyć w hermafrodytę... i sam dać życie młodemu.
+offspring-potomstwo
+It’s easy to go overboard when you begin your microservice journey and make everything a microservice.-za burte
+I’ve structured the chapters in this book and the corresponding code examples around the adventures (misadventures)-nieszczesliwe wypadki
+every microservice instance you start for a particular microservice is identical to its brethren-bracia
+it’s much more difficult to debug and trace what the heck is going on within your application and services.-o wiele trudniej jest debugować i śledzić, co się dzieje w twojej aplikacji i usługach.
+How do you compartmentalize these calls so that the misbehavior of one service call doesn’t negatively impact the rest of the application?-rozdzielac
+the concept of microservices revolves around building small services, with limited responsibility, using an HTTP-obracac sie, krecic sie
+there are many variations of the proxy pattern and they typically revolve around the control access-obracac sie, krecic sie; zwykle
+of the changes in Java 8 revolve around streams-obracac sie, krecic sie
+you’re accountable for selecting the technology and building the final solution-jesteś odpowiedzialny za wybór technologii i budowę ostatecznego rozwiązania
+With a monolithic application where all the logic for the application is intertwined-spleciony, poplatany
+We’re at an inflection point in history.-Jesteśmy w punkcie zwrotnym w historii., przegiecie
+While we cover REST later in chapter 2, it’s worthwhile to read Roy Fielding’s PHD dissertation on building REST based applications-warto przeczytać rozprawę doktorską
+It is also worthwhile to mention-Warto również wspomnieć
+What’s amazing about the Spring framework and a testament to its development community is its ability to stay relevant and reinvent itself.-To, co jest niesamowite w ramach Spring Spring i świadectwem dla społeczności programistów, to zdolność do pozostawania istotnym i odkrywania siebie na nowo.
+The J2EE stack, while powerful, was considered by many to be bloatware, with many features that were never used by application development teams.-(oprogramowanie, które posiada niewiele funkcji, ale wymaga nieproporcjonalnie dużo miejsca na dysku i pamięci RAM)
+Spring essentially lets you assemble your code together like a set of Lego bricks that snap together.-Spring zasadniczo pozwala ci zestawić kod razem jak zestaw klocków Lego, które łączą się ze sobą.
+Once the code is compiled, these linkage points can’t be changed.-polaczenie (tutaj punkty polaczen)
+each class often has explicit linkages to other classes-każda klasa ma często wyraźne powiązania z innymi klasami

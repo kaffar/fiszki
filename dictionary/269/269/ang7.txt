@@ -1,0 +1,55 @@
+ghost sb-ignorowac kogos
+ghost a computer-zhackowac
+ghostwriter-ktos kto pisze ksiazke za kogos
+ghost-spadac musze spadac
+ghosted image-polprzeztoczysty, ledwie widoczny obraz (tlo)
+does that work for you?-Czy to działa u ciebie?
+fiber optic internet over cable-internet swiatlowodowy po przewodzie
+Look guys this isn't going to work.-Słuchajcie, nic z tego nie będzie.
+the trip didn't work out-wycieczka nie wypaliła
+she'll be fine-nic jej nie bedzie
+I have him on target-mam go na celowniku
+ingenious solution-genialne rozwiązanie
+creating ingenious cutting=edge-pomyslowy, genialny / najnowoczesniejsze
+ingenious craftsman-genialny rzemieślnik
+when two or more threads attempt to update mutable shared data at the same time-gdy dwa lub więcej wątków próbuje aktualizować zmienne dane współdzielone w tym samym czasie
+baffled by the bewildering network of knotted streets-skonsternowany/zaskoczony/confused przez oszalamiaca/zbyt/confusing skomplikowana siec powiazanych ulic
+I’m always baffled by questions in Stack Overflow-zdumiony, zaskoczony, skonsternowany
+Harry drop a bombshell at Christmas this year-give information that changes the whole situation, drastically and unexpectable
+president dropped a bombshell-prezydent wydal sensacje
+alternatively you can try to fix it-ewentualnie mozesz probowac to naprawic
+one such fallacy of distributed computing is that networks are reliable-jednym z takich błędów w obliczeniach rozproszonych jest to, że sieci są niezawodne
+The argument that we are forced to do this by the economic crisis is a fallacy.-Twierdzenie, że zmusza nas do tego kryzys gospodarczy to bzdura.
+fallacy-bledne przekonanie
+fallacy-bledne przekonanie, blad, mit(nieprawda)
+fallacy of seniority-błąd starszeństwa
+fallacy about professionalism-błąd co do profesjonalizmu
+from revolut’s inception, our engineering team has been encouraged to function as a startup within a startup-od początku istnienia revolut, nasz zespół inżynierów był zachęcany do funkcjonowania jako startup w startupie
+ever since its inception in 2009-od momentu powstania w 2009 roku
+inception-poczatek, powstanie
+with the inception of html5, all modern browsers have a javascript api called eventsource-z początkiem html5
+that's super handy when you want to do failovers-to jest super przydatne, gdy chcesz zrobić failovers
+approach to data access comes in handy in applications, such as reporting applications-podejscie dostepu danych jest przydatne w aplikacjach; przydatny, poreczny, pod reka
+That form of send() comes in handy when you want to programmatically choose a destination-przydaje sie, poreczny, pod reka
+comes in handy-przydaje sie
+handy-poreczny
+This Spock annotation comes in handy and does two things-przydaje sie, poreczny, pod reka
+they might come in handy one day-mogą się przydać pewnego dnia
+handy vs handful-poreczny vs garsc
+css comes in handy when-css przydaje się, gdy
+failover-praca awaryjna
+protection with automatic server failover. -> zabezpieczenie z automatycznym pracy awaryjnej serwera
+let's see failover happening-zobaczmy, jak działa tryb failover
+disaster recovery failover scenario-praca awaryjna
+failovers in membership plans-przełączanie awaryjne w planach członkowskich
+failover scenario-praca awaryjna
+they can be mounted to one instance at a time-jeden na raz
+these servers have this type of particularity-te serwery mają tego typu specyfikę
+particularity-wyjatkowosc, odrebnosc, specyfika
+one at a time-jeden na raz
+quickly acquire and dispose resources as we need-szybkie nabywanie i pozbywanie sie zasobow w razie potrzeby
+dispose a bottle-wyrzucić butelkę
+dispose, disposable-pozbywac sie, wydawac
+dispose a bottle-wyrzucic butelke
+i will dispose ticket in the team somehow-pozbywac sie, wydawac
+dismiss vs dispose-zwolnic, odwolac; pozbyc sie, wydac

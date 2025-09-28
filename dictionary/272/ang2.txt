@@ -1,0 +1,43 @@
+rel, relatable-naturalny, zyciowy, autentyczny, mam tak samo, rozumiem to
+stepfather, godfather-ojczym, ojciec chrzestny
+thanks to this attribute it will be possible to match the query with the answer-dzięki temu atrybutowi możliwe będzie dopasowanie zapytania do odpowiedzi
+berries-jagody
+we need to prototype a new approach so please hold off defining or building anything with engineering-prosimy o wstrzymanie sie
+standy by, standby-czekac, byc w gotowsci; czuwanie, gotowosc
+All medical posts, stand by. -> Wszystkie posterunki medyczne, przygotować się.
+Okay, stand by, Kippie. -> Okay, przygotuj się, Kippie.
+All units... stand by for entry. -> Wszystkie odziały, przygotować się do wejścia
+viable sample-wykonalny, realny
+chapter is a viable use of JPA-wykonalny, realny
+it seems to be the only viable solution to our financial problem-wykonalny
+feasible, viable-wykonalne, realne
+solution we have proposed to roche may not be viable-wykonalne rozwiazanie
+debrief from workshop-podsumowanie warsztatu
+We're going to need a safe house to debrief Tatjana. -> Potrzebujemy bezpiecznego domu, by przesłuchać Tatjanę.
+debrief, debriefing-zdac sprawozdanie, przesluchac; odprawa
+card debrief-strzeszcznie, omowienie, sprawozdanie z kart
+The cardinality of an interaction describes how often a method call is expected.-licznosc
+Instead of manually declaring all other methods with zero cardinality one by one | Using zero as cardinality means that you expect that a method was never called.-licznosc
+cardinality-liczność
+i'm allergic to pollen, it makes me coughing-pylki
+pre=emtive-pierwokupu, pierwszenstwa, wyprzedzajacy
+we are doing a lot of pre=emptive testing-przeprowadzamy wiele testów zapobiegawczych/wyprzedzajacych
+flock of ducks-stado kaczek
+flock of sheep-stado owiec
+a herd of cows-stado krow
+pack of wolves-stado wilkow
+cunt-cipa, pizda
+You will often find instant coffee on the same display as coffee whiteners-kawa rozpuszczalna jest na tej samej wystawie co mleczko do kawy
+stand by mode-tryb gotowosci
+belarus-bialorus
+we can wrap up-mozemy konczyc
+Maybe I can pardon a car with a defective airbag and we can wrap up Michigan. -> Może ułaskawię samochód z zepsutą poduszą powietrzną, to załatwimy też Michigan.
+sour-kwasny
+subacid; The juice itself is subacid so you may add a little sugar-lekko kwasny
+acidic; The apples aren't fully ripe, so they might taste a bit acidic-kwasny, kwaskowaty; jabłka nie są w pełni dojrzałe
+With the web starter’s dependencies also being added transitively to the classpath-przejsciowo, posrednio
+Spring Boot’s web and JDBC starters replaced several of the finergrained (fine grained) dependencies.-starter zastapil kilka drobnoziarnistych zaleznosci
+for starters, you can-na początek możesz
+for starters, imagine how easy life can become-na początek, wyobraź sobie jak łatwe może stać się życie
+starter, appetizer-przekaska, przystawka
+pulley-kolo pasowe

@@ -1,0 +1,19 @@
+tier-poziom, level, rzad
+tilt-nachylenie
+unite your talents-jednoczyc
+flair for communication-talent, spryt
+expenses, expenditures-wydatki, wydatki/naklady
+bloats or tightly couples code-nadymac
+will often be a breeding ground for defects. Irrational actions breed trouble-pozywka, rasa, hodowac, ziemia hodowlana
+vague notion of programming aesthetics-mgliste pojecie estetyki programowania
+debt-dlug
+Or do you make no payments at all, thereby incurring huge, compounding fees?-tym samym zaciagac ogromne zlozone oplaty
+technical debt will invariably appear in your code-niezmiennie
+real world code that is riddled with technical debt-podziurawiony, najezony (cale slowo z ed)
+The company sometimes takes on significant technical debt and then quickly works to pay it down.-zaciagac kredyt i go splacac
+slam those feature in- trzasnac np drzwiami
+tire of grappling with the complexity-borykac sie
+expediently implement-rzetelnie
+Over time, recurring tensions can threaten -z biegiem czasu, powtarzajace sie napiecia moga grozic
+Lost Intent-zgubiony zamiar, cel
+Just as a traffic sign may be obscured by shrubs-zasloniety przez krzewy

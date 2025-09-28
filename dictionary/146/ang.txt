@@ -1,0 +1,31 @@
+it’s wasteful to go through the same channel to fetch it again-to rozrzutny, rozrzutnosc/marnotrastwo zeby isc przez ten sam kanal by wyciagnac to jeszcze raz
+Once you get past the name, which seems to stutter over the word cache-jak przejdziesz nazwe, ktora wydaje sie zajaknieciem na slowie cache
+stammer, stutter-jakas sie
+Although the choice you make will have implications for how your data is cached, it will have no bearing on the way you declare caching rules in Spring.-Chociaż dokonany wybór będzie miał wpływ na sposób przechowywania danych, nie będzie miał wpływu na sposób deklarowania reguł buforowania na wiosnę.
+With a RedisTemplate in place, it’s a snap to configure a RedisCacheManager, as shown next.-z redisem to bardzo proste
+I didn't mean to snap at you-warknac na kogos, pstryknac, trzasnac
+@Cacheable looks for an entry in the cache first, preemption the method invocation if a matching entry is found.-uprzedzajac wywolanie metody
+please preemptively clean them up or open a Jira on the owner to fix it;preventive-prevencyjnie;prewencyjny
+By default it’s cacheManager, which coincides with the <bean> declared at the end of listing-pokrywa sie, zbiega sie
+But security breaches are just as likely to arise from honest mistakes as they are from clever hacking.-Ale naruszenia bezpieczeństwa są tak samo prawdopodobne, że wynikają z uczciwych błędów, jak z powodu sprytnego hakowania.
+You’ll see how Spring Boot takes away the chore of writing much of the boilerplate configuration-spring zabiera cala robote pisania boilerplatu
+i spend more time on domestic chores-obowiazki domowe
+After all, who wouldn’t want some solitude on a beach, blissfully ignorant of the goings on of the outside world?-W końcu, kto by nie chciał samotności na plaży, błogo nieświadomy wydarzeń na zewnątrz?
+Even if you enjoy the peaceful seclusion, it won’t be long before you’ll get hungry, bored, and lonely.-spokojne odosobnienie
+Many applications that you’ll develop are like island castaways-rozbitek,wyrzutek
+you’ll learn how Spring both simplifies and complements these remoting services-dowiesz się, w jaki sposób Spring upraszcza i uzupełnia te usługi zdalne
+The difference is a matter of proximity, with an analogy to human communication.-bliskosc
+proximity to toilets and exits-bliskosc
+If you’re at the proverbial water cooler at work discussing the outcome of the weekend’s football game-przyslowiowy
+The bad news is that if you love writing Java code, this section may be a letdown.-zawiesc, rozczarowac
+I'll admit, I was a little letdown.-Przyznam, że byłem nieco zawiedziony.
+Feeling a sense of déjà vu?-czy masz poczucie dejavu? 
+RMI, Hessian, Burlap, and the HTTP invoker are great remoting options. But when it comes to ubiquitous remoting, none hold a candle to web services.-wszechobecny, powszechny
+The ubiquitous calls to assertXXXSequence are indeed duplicated-wszechobecne
+One of the most hyped TLAs (three letter acronyms) in recent years is SOA-jednym z TLA o ktorym jest glosno w ostatnich latach jest SOA
+Spring comes with some capable support for publishing and consuming SOAP web services-spring z pewnym wsparciem do ...
+we are incapable (inkejpebyl)-nie jestesmy w stanie
+capable, capability-zdolny, zdolnosc
+Don’t you think it’s odd that, given the importance of data, the way we develop software often treats data as an afterthought?-Czy nie uważasz, że to dziwne, że biorąc pod uwagę znaczenie danych, sposób, w jaki tworzymy oprogramowanie, często traktuje dane jako refleksję?
+I’ll wager that this isn’t the first time you’ve heard or read about REST.-zaklad, zalozyc sie
+I'll wager there are ways to enter that town unseen.-Założę się, że można się dostać do miasta niepostrzeżenie.

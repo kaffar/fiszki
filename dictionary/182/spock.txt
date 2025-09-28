@@ -1,0 +1,60 @@
+replicate, examine-replikowac, zbadac
+you also get a clear indication if a bug failed because another precondition (contained in a previous test method) also failed-wyrazne wskanie; warunek wstepny
+This Spock annotation comes in handy and does two things-przydaje sie, poreczny, pod reka
+I’ve barely scratched the surface of all the possible use cases.-ledwo dotkles tematu
+See Jenkins: The Definitive Guide by John Ferguson Smart-okreslony, pewny ale tez ostateczny
+There is no definite update from RDNET team.-okreslony, konkretny, stanowczy
+If 1, wait indefinitely.-czekaj w nieskonczonosc
+definitely-for sure
+Tomcat is launched before functional tests and shuts down afterward(s).-potem, pozniej, nastepnie
+I read several books and subsequently/afterwards decided to go-potem x2 after sth happend
+so we can talk afterwards-więc możemy porozmawiać później
+A bigger code base always amounts to extra complexity-Większa podstawa kodu zawsze oznacza dodatkową złożoność
+Spock has you covered even when your needs are off the beaten path-Spock chroni cię, nawet gdy twoje potrzeby są nietypowe
+I consider them a last=resort solution because they’re not always as readable as simpler data tables-Uważam je za rozwiązanie ostateczne, ponieważ nie zawsze są tak czytelne, jak prostsze tabele danych
+holiday resort-srodek wypoczynkowy, uciekac sie
+Let us not resort to our baser instincts...-uciekac sie do podlejszych instynktow
+I strongly advise you not to use, unless this is your last resort-Zdecydowanie radzę nie używać, chyba że jest to Twoja ostatnia deska ratunku
+This chapter has three distinct parts-Ten rozdział ma trzy odrębne części
+LocalDate represents a distinct date, e.g. 2014.03.11-rozny, wyrazny
+distinct,distinction, distinctive, distinclty-rozny, wyrazny/roznica, wyroznienie/wyrozniajacy/wyraznie
+make sure that you understand the implications of using them. Use of spies implies that your Java code suffers from design problems-upewnij się, że rozumiesz konsekwencje ich używania. Używanie szpiegów oznacza, że twój kod Java cierpi na problemy z projektowaniem
+this video is very useful and complementary | as a complementary info-ten film jest bardzo przydatny i uzupelniajacy/dopelniajacy.
+Spock offers several complementary features-Spock oferuje kilka dodatkowych funkcji
+perform further assertions in order to make the test stricter-surowszy, bardziej rygorystyczny
+This listing further enhances the code of listing-ten przyklad dodaktowo poprawia kod przykladu
+lengthy operation-przydluga operacja
+explanation, justification, reasoning, substantiation-uzasadnienie x4
+explain my reasoning-wyjasnic moje rozumowanie
+The reasoning behind the @Timeout-rozumowanie
+You evidently gave them credence.-Najwyraźniej dałeś im wiarę.
+evident, evidently, evidence-oczywisty, widocznie, dowód
+Spock allows you to knowingly skip one or more tests-Spock pozwala świadomie pominąć jeden lub więcej testów
+integration tests that contact a credit card external service in a staging environment-srodowisko pomostowe, inscenizacja
+preferences-preferencje
+I’ll show you what’s needed for Maven in case that’s your preference.-pokaze ci co jest potrzebne dla mavena w przypadku gdy to preferujesz (preferencja, pierwszenstwo)
+The option to use one or the other annotation comes as a personal preference-Opcja korzystania z jednej lub drugiej adnotacji jest osobista preferencja
+we are going to conclude-konczymy
+Please conclude your survey.-prosze podsumowac/zakonczyc ankiete
+By the time the chapter concludes, you'll have-Zanim skończy się rozdział, otrzymasz
+Each chapter concludes with at least 20 Review Questions-konczyc, wyciagac wniosek
+and stressed the importance of iteration-i podkreslil znaczenie iteracji
+act out-misbehave, especially when unhappy or stressed
+Chapter 4 stressed the importance of the when: block-podkreslic znaczenie
+you can further refine the helper methods-możesz dalej udoskonalić metody pomocnicze
+I've worked out/refined/finished/polished up the forms-dopracowalem formatki
+refinement-udoskonalenie
+refine-oczyscic, rafinowac
+when you feel that the size of the code gets out of hand-kiedy czujesz, że rozmiar kodu wymyka się spod kontroli
+questionable design-watpliwy, dyskusyjny, sporny
+The Java application in question is a security utility that gets video feed from an external camera, and upon detecting intruders, deletes all files of the hard drive (to hide incriminating evidence).- o ktorym mowa; narzedzie bezpieczenstwa;intruzi;ukryc dowody obciazajace
+burglars and other intruders -intruz
+I refuse to answer on the grounds that it might incriminate me.-Odmawiam odpowiedzi na tym polu, to mogłoby mnie obciążyć
+incriminate, incriminating-obciazac, obwiniach; obciazajacy (wina)
+specifically, exactly, namely-konkretnie
+In it, I specifically focus only on Groovy features-konkretnie
+and specifically, what protective measurements do you provide-a konkretnie...
+Then you specifically mock the method that deletes the hard drive-specjalnie, konkretnie
+but in reality; Well=designed code doesn’t ever need spies in the first place-ale w rzeczywistosci; na pierwszym miejscu
+nuke-atomowka (bron nuklerarna), atomowac bronia jadrowa
+The presence of Spock spies usually indicates badly designed production code. Refactoring the code should make spies redundant.-obecnosc; zbedny

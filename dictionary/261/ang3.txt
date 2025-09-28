@@ -1,0 +1,42 @@
+entries-wpisy, pozycje
+the cache should occasionally be cleansed of entries that have fallen into disuse-pamięć podręczna powinna od czasu do czasu zostać wyczyszczona z wpisów, które przestały być używane
+to say the least-delikatnie mowiac
+Your name rings a bell. -> Twoje imię brzmi znajomo.
+That name rings a bell, Dr. Mallard. -> Brzmi znajomo, doktorze Mallard.
+Every logical deduction confirms that people must have immortal souls: -> Każda dedukcja logiczna potwierdza, że ludzie muszą posiadać "softwarowo nieśmiertelną" duszę:
+deduction-odliczenie, potracenie
+failovers in membership plans-przełączanie awaryjne w planach członkowskich
+star cant withstand its own gravity-wytrzymac
+withstand-wytrzymac
+withstand, take, endure-wytrzymac
+interleaved merged sequence-przepleciona scalona sekwencja
+interleaved-przeplatany
+a sequence of operations performing a specific unit of work and are generally interleaved with each other-przeplatany
+it is doable, but it puts the onus of maintaining this environment on you.-jest to wykonalne, ale nakłada na ciebie obowiązek utrzymania tego środowiska
+it puts the onus of maintaining the environment on you-naklada na ciebie obowiazek utrzymania srodowiska
+onus on client to call-ciezar na kliencie zeby zadzwonic
+onus-ciezar, odpowiedzialnosc, obowiazek
+single point of failure as the onus of a transaction falls onto the coordinator-pojedynczy punkt awarii, ponieważ ciężar transakcji spada na koordynatora
+main question is in affirmative-twierdzacy
+affirmative-twierdzący
+if all of the nodes replied in the affirmative, then the controlling node asks them to commit-jeśli wszystkie węzły odpowiedziały twierdząco, to węzeł sterujący prosi je o złożenie zobowiązania
+with the advent of microservices architecture-z nadejściem architektury mikroserwisów
+failover scenario-praca awaryjna
+constant flow of discrete events-stały przepływ dyskretnych zdarzeń
+the architect breaks the business problem into chunks that represent discrete domains of activity.-architekt rozbija problem biznesowy na kawalki reprezentujące samodzielny/osobny/odrebny domeny aktywności.
+The presence of two discrete data domains is a good indication that multiple microservices are at play.-Obecność dwóch dyskretnych domen danych jest dobrą wskazówką, że wiele mikroserwisów jest w grze.
+chunks that represent discrete domains of activity-kawalki reprezentujace samodzielne/osobne/odrebne domeny aktywnosci
+deploy them as discrete services-samodzielny, osobny, odrebny
+may seem to be at odds with each other-może się wydawać, że są ze sobą sprzeczne
+there requirements are contradictory, conflicting, contrary, inconsistent-te wymagania sa sprzeczne
+contrary, the opposite of, antonym-przeiciwienstwo
+contrary, antonym, the opposite-przeciwienstwo
+contrary-przeciwnie (adverb)
+... to popular belief-contrary
+z drugiej strony-in comparison, in contrast, on the contrary, on the other hand
+on the contrary-wrecz przeciwnie
+wireframe-model szkieletowy
+skeleton, frame-szkielet
+vertex-wierzchołek
+this is the first vertex or node in the graph that represents the business requirements-wiercholek lub wezel w grafie
+vertexes and edges-wierzchołki i krawędzie

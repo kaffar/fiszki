@@ -1,0 +1,99 @@
+Not really sustainable for a true shop, but it’s sufficient for illustration purposes.-trwaly, zrownowazony, stabilny
+march through Warsaw streets-marsz ulicami warszawy
+compromised-kompromis/ugoda; ustepstwo; isc na kompromis, kompromitowac, narazac na szwank
+release date is not endangered/threatened/in danger/compromised/jeopardised-realease jest zagrozony
+release is delayed/behind the schedule-release jest opozniony
+generally, basically-ogolnie
+objective, impartial, unbiased-obiektywny
+Didn't want to push any sore spots.-Nie chciałem naciskać żadnych drażliwych punktów.
+I don't want to push you or make any pressure, please just go on cooly with you task at your pace-nie chce cie naciskac czy wywierac presji, poprostu rob spokojnie swoje zadanie w swoim tempie
+I think we should call it a day, Valerie.|Want to call it a day, John?-Myślę że powinniśmy skończyć na dzisiaj, Valerie.|Chcesz skończyć na dzisiaj, John?
+I need to appraise the product before I take it to my employer.-Muszę ocenić/wycenic produkt zanim udam się do mojego pracodawcy.
+We can estimate its approximate completion time.-Myślę, że możemy ocenić przybliżony/zblizony czas zakończenia budowy.
+The medical examiner just established approximate time of death.-Koroner właśnie ustalił przybliżony czas śmierci.
+We will finish it tomorrow approximately/roughly-skonczymy to jutro w przyblizeniu
+corollary, As a corollary | Corollary of "people lie" is "people sin."-nastepstwo, naturalne nastepstwo
+release is always announced as a spectacular success even when any errors or problems occur-release zawsze oglaszany jest jako spektakularny sukces nawet gdy wystapia jakies bledy czy problemy
+knowing life, even if there was no success, release will be announced as a spectacular success-znajac zycie, nawet jesli nie bylo sukcesu to i tak release bedzie ogloszony jako spektakularny sukces
+refute facts, evidences; disparage-obalac, odpierac(zarzuty); dyskredytowac, umniejszac, ublizac
+the comp/app is hung/frozen/blocked/stuck-komputer sie zawiesil
+groundbreaking, breakthrough-przelomowy
+employee pays 20%. The amount of final CS contribution is at manager’s discretion.-pracownik płaci 20%. Wysokość ostatecznego wkładu CS jest według uznania menedżera.
+I' leave it to your discretion-zostawiam to twojej ocenie/dyskrecja
+mapping was completely left to the vendor’s discretion.-dyskrekcja, swoboda, uznanie
+Decommissioned: ... (and crossed out sentences)-wycofany z uzytku: przekreslone zdania
+Why are two of the three numbers crossed out?-Dlaczego dwa z trzech numerów są przekreślone?
+decomissioned military base-zlikwidowany, wycofany z eksloatacji/uzytku
+Thank you for all the hard work. You’ll be sorely missed.-bedzie nam ciebie bardzo brakowalo
+are sorely tempted to use globals or singletons in cases where only one object should exist-bardzo, bolesnie / obolaly, bol
+I spent a lot of time thinking about which of the Groovy features to showcase in this chapter.-zaprezentowac
+The following listing shows a complete Spock test that showcases all Groovy features explained so far.-prezentowac
+showcase of the standard-wizytowka, prezentacja
+contradictory/conflicting informations-sprzeczne informacje
+Please note MPID will become visible in the systems approximately 10 days prior to the effective date of conversion. -Uwaga: MPID stanie się widoczny w systemach na około 10 dni przed datą wejścia w życie konwersji.
+It's important that conversion request is approved before any applications requests are submitted; otherwise they will cease and will have to be requested once again-w przeciwnym razie przestaną one obowiązywać i będą musiały zostać poproszone ponownie
+If in doubt in regard to the setup, please contact me directly, I will be happy to advise.-Jeśli masz wątpliwości dotyczące konfiguracji, skontaktuj się ze mną bezpośrednio, chętnie Ci doradzę.
+sorry for totally last minute notice-przepraszam za całkowicie w ostatniej chwili powiadomienie
+we can use them interchangeably-mozemy ich uzywac wymiennie
+I need to pick up the results of my last week’s (medical) examination from the hospital.-Muszę odebrać wyniki zeszłotygodniowego badania (lekarskiego) ze szpitala.
+examination-badanie, analiza
+Newspapers should be impartial/objective/unbiased (now it presents its own sight)-obiektywny
+casual style/clothes, formal style, dress code-swobodny, formalny styl
+antonym, opposite word-przeciwinstwo
+casual-swobodny, przypadkowy
+casualty, casualties-ranny, ofiara; ofiary wypadku
+Do you dress up often or do you tend to wear casual clothes?-Czy czesto sie stroisz/ubierasz, czy raczej nosisz ubrania codzienne?
+that will allow a casual reader to intuit the kind of program they live inside-swobodny, tymczasowy, przypadkowy
+she gave up/quit smoking/coffee/chocolate-rzucic palenie
+Good timing is essential when working to a deadline-Dobre rozplanowanie czasu jest konieczne jezeli gonia cie terminy
+stubs are essential for the correct functionality of your class under test-istotny, niezbedny
+width, breadth-szerokosc
+weigh (ways), weight-wazyc, waga
+Morrison's mother Diana disclosed that Tommy had "full=blown AIDS" and was "in his final days."-matka ujawnila ze Tommy mial w pelni rozwinieta/pelna para/na calosc chorobe
+problem must be disclosed promptly-problem musi byc ujawniony natychmiastowo
+the information was leaked by undisclosed party;disclosed-nieujawniony;ujawniony
+disclose compromising information-ujawniac kompromitujace informacje
+full=blown applications-pelnowartosciowe aplikacje
+full=fledged; full=featured; full=blown application-dojrzaly, w pelni rozwiniety; pelnowartosiowy; pelnowartosiowy
+pinpoint-sprecyzowac
+it pinpoints cells that are overloaded-namierzyc, wskazac
+a feature so powerful that it has been backported to Groovy itself. You'll learn more in chapter 2 about Power asserts and how they can help you pinpoint the causes of a failing test.-porting software to older version of the same software;namierzyc, wskazac, sprecyzowac
+system sends a reminder email to a customer whenever an invoice isn’t settled on time-faktura nie jest uregulowana na czas
+Under dire circumstances, you can force an actor to hold the boom microphone or the camera-W trudnych okolicznościach można zmusić aktora do trzymania mikrofonu wysięgnika lub aparatu
+The situation here is dire.-Sytuacja tutaj jest dramatyczna/tragiczna/straszna.
+I’ve seen both sides of the spectrum. Some developers don’t use... I’ve also seen excessive mocking of classes that don’t need it. The former situation isn’t desirable because all tests will be slow and complex. The latter situation has its own problems as well-Widziałem obie strony spektrum. Niektórzy deweloperzy nie używają ... Widziałem też nadmierne kpiny z klas, które go nie potrzebują. Ta pierwsza sytuacja nie jest pożądana, ponieważ wszystkie testy będą powolne i złożone. Ta druga sytuacja ma również swoje własne problemy
+former, latter-byly, poprzedni, pierwszy; drugi, ostatni
+As a general rule of thumb, you should mock/stub all collaborator classes that do the following-ogolna/praktyczna zasada, niepisana zasada, oparta na praktyce
+persevere-wytrwac
+Have (severe) side effects.-maja (surowe/powazne) skutki uboczne
+I tried to sustain the conversation, She sustained a severe head injury-podtrzymywac (przy zyciu, kopule na kolumnach), ponosic (straty, obrazenia)
+she suffers from a severe allergy/hay fever and can't be in a smooky room-ona cierpi na ciezka alergie i nie moze przebyc w zadymionym pokoju
+the most severe economic downturn ever experienced-spadek, spowolnienie
+The corollary of the preceding list is that-nastepstwo, naturalne nastepstwo, wniosek, wynik
+baffled by the bewildering network of knotted streets-skonsternowany/zaskoczony/confused przez oszalamiaca/zbyt/confusing skomplikowana siec powiazanych ulic
+I’m always baffled by questions in Stack Overflow-zdumiony, zaskoczony, skonsternowany
+The corollary of the preceding list is that-nastepstwo, wniosek, wynik
+if you care about the order of verifications. Each "then" block will be evaluated in turn.-jeśli zależy ci na kolejności weryfikacji. Każdy blok "następnie" będzie oceniany po kolei.
+this operator hardwires the isEmpty() method to return true regardless of the real implementation-podpinac na sztywno
+Matching arguments leniently when a stubbed method is called | lenient vs. strict mocks-dopasowuje argumenty lagodnie kiedy metoda jest wolana | lagodny vs surowy
+Closures = the Swiss army knife of Groovy-Zamknięcia = szwajcarski scyzoryk Groovy
+what prevents us from closure/completion-zamkniecie
+The Plan provides for the closure of two of the nine production units.-Wspomniany plan przewiduje zamknięcie dwóch z dziewięciu jednostek produkcyjnych
+Damage to the pipeline will by no means mean its closure.-Uszkodzenie rurociągu wcale nie oznacza jego zamknięcie.
+closure-zamknac, likwidowac, zakonczyc
+disclosure, closure-ujawnienie, zamkniecie
+“log” of what methods were called along with their arguments and their responses-"Log" o tym, jakie metody zostały wywołane wraz z ich argumentami i odpowiedziami
+To further complicate things, assume also that the credit card processor wants the current date prepended to the token for logistical reasons. | Because the basket also prepends the token with the date-dodac na poczatek, dodac prefix, poprzedzac
+One common pattern is to prepend all endpoints with a version number. (append)-dodac na poczatek, dodac prefix, poprzedzac
+properly, accordingly, respectively-odpowiednio
+irrespective of the direction-niezaleznie od kierunku
+put the code from the if statements into their respective states-odpowiedni, poszczegolny
+bulk delete do not cascade to related entities irrespective of cascade settings-niezaleznie, bez wzgledu na
+Tarballs produced by the new build plan have versioning aligned with respective release branch (don’t be fooled by the build numbers :) ).-archiwum tar produkowane przez nowy build plan maja versjonowanie zgodne z odpowiadajacym release branchem (nie badz zmylony przez build numbers)
+two separate things that need their own respective tests-dwie osobne rzeczy, które wymagają odpowiednich/wlasciwych testów
+Instead of manually declaring all other methods with zero cardinality one by one | Using zero as cardinality means that you expect that a method was never called.-licznosc
+The cardinality of an interaction describes how often a method call is expected.-licznosc
+Use it only when it adds to the scalability and readability of your Spock test. In simple tests, you might get away with direct stubbing of all argument combinations if their number is manageable.-Używaj go tylko wtedy, gdy zwiększa skalowalność i czytelność testu Spocka. W prostych testach możesz uniknąć bezpośredniego odgałęzienia wszystkich kombinacji argumentów, jeśli ich liczba jest możliwa do opanowania.
+Dont let them get away with it. Stand up for yourself-Nie odpuszcaj im. Walcz o swoje
+If you're an EJB expert, you can probably get away with probably a quick skim-przejrzec, przeczytac pobieznie
+he didnt get away with the crime-nie uniknal kary

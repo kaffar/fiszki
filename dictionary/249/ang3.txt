@@ -1,0 +1,47 @@
+put off a decision to get merried-odłożyć decyzję o ślubie
+for health reasons-ze względów zdrowotnych
+self=reliant-samodzielny
+After publishing a commit, you have to assume that other developers are reliant upon it-zalezny
+better well=being-lepsze samopoczucie
+hikers and skiers-wędrowcy i narciarze
+cross=country skiing-biegi narciarskie
+issue, difficulty, obstacle, situation-problem (s)
+major, servere, significant, substantial-serious (s)
+contagious disease (kontejdzys dizis), infectious disease -choroba zakazna
+tetanus, hepatitis-tezec, zoltaczka
+consultant, doctor, surgeon (serdzyn)-specjalista, lekarz, chirurg
+family doctor/general practitioner GP-lekarz ogolny
+refer sb other doctor-polecic innego lekarza
+referal from a doctor for MRI or x=ray scan-skierowanie od lekarza na tomografie albo przeswietlenie
+clinicians involved in the care of patients with disorders of consciousness-lekarze zajmujący się opieką nad pacjentami z zaburzeniami świadomoś
+society, community-spoleczenstwo
+demise vs decease vs disease-zgon x2 vs choroba
+exorbitant-wygorowany, przesadzony, nadmierny
+student debt is exorbitant, wage growth is subdued and the house prices are unaffordable for many-dług studencki jest wygórowany, wzrost płac jest stonowany, a ceny domów są niedostępne dla wielu
+for their guidance and support during my tenure at Nokia and my managers-podczas kadencji
+i wholeheartedly thank all of you for the support and guidance during my tenure here.-Z całego serca dziękuję wam wszystkim za wsparcie i wskazówki podczas mojej kadencji tutaj.
+tenured space-wynajeta/wydzierzawiona powierzchnia
+tom has a great aptitude for maths-talent do matematyki
+aptitude-zdolnosc, talent
+cognitive aptitude; take the criteria cognitive aptitude test-zdolności poznawcze
+run short vs run out-Time's running short = There isn't much time time left. | Time's running out = There's almost no time left. | Ex: I am running short of bottle water; I better get to the store and buy more before I completely run out of it.
+pivotal-kluczowy, przelomowy
+That was a very pivotal time in my life. -> To był bardzo kluczowy okres w moim życiu.
+First: It is not a pivotal project in your career. -> Po pierwsze: to nie jest kluczowy projekt w twojej karierze.
+set fire, put out fire-podpalic, ugasic ogien
+she seems confined and self assured in her abilities-pewny siebie x2
+a few first request are staggered-zdumiony, oszolomiony, rozlozony na czynniki pierwsze
+Marciano staggered after the short right punch-Marciano zachwiał się po krótkim prawym uderzeniu
+our lunch brakes are staggered to prevent wasting time-nasze przerwy na lunch są rozłożone w czasie, aby zapobiec marnowaniu czasu
+i would like to draw your attention to/pay attention-chcialby zwrocic twoja uwage na; zwroc uwage, uwazaj
+i would like to draw your attention to these instructions-chcialbym zwrocic twoja uwage
+All of the heap memory that is not occupied by marked objects is reclaimed.-pamiec ktora nie jest zajest jest odzyskiwana
+no space is reclaimed from an unused column.-odzyskac
+below is a simple room class demonstrating the facility. lets assume that rooms must be cleaned before they are reclaimed-klasa pokoju pokazująca ten obiekt. pokoje muszą zostać oczyszczone przed ich odzyskaniem
+all of the heap memory that is not occupied by marked objects is reclaimed ; reclaim-odzyskac
+To understand the AMQP messaging model, it may help to briefly recall the JMS messaging model-przypomniec, zwrocic (do fabryki)
+Batch number 232 is being recalled to the factory-partia towaru 323 zostala zwrocona do fabryki;odwolywac, przywolywac, przypominac sobie
+before your old device is reclaimed-zanim twoje stare urządzenie zostanie odzyskane
+decomissioned military base-zlikwidowany, wycofany z eksloatacji/uzytku
+decomissioned old env-zlikwidowano stare środowisko
+commission vs decomission-prowizja, zlecic a likwidacja

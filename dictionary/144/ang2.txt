@@ -1,0 +1,26 @@
+it distinctly says-wyraznie
+distinctive black cabs (cabbies) is no mean feat-wyrozniajace sie czarne taksowki (taksowkarze) to nie lada wyczyn (an impressive achievement)
+distinct, distinctiveness-rozny, wyrazisty, odrebny, osobny/odrebnosc
+LocalDate represents a distinct date, e.g. 2014.03.11-rozny, wyrazny, odrebny, osobny
+distinct,distinction, distinctive, distinclty-rozny, wyrazny. odrebny, osobny/roznica, wyroznienie/wyrozniajacy/wyraznie
+it’s easy to see how this Java configuration parallels the XML equivalent.-latwo widziec jak java config odpowiada/podobienstwo xmlelowemu odpowiednikowi
+pooled data source-polaczone/zbiorcze zrodlo danych
+Unlike BasicDataSource, the connections provided by DriverManagerDataSource aren’t pooled.-polaczenia nie sa w pooli dostepnych polaczen
+The maximum number of connections that can be idle in the pool without extras being released.-nadmiarowy, dodatkowy
+additional/extra attribute-nadmiarowy atrybut
+we are not going to meet the deadline without extra staff-dodatkowy/nadmiarowy
+we did that primarily using extract method-przedewszsystkim, glownie
+extra dip of ice cream for me-zanurzyc, chyba galka lodow
+avoiding the extraneous else blocks along the way-zbedny
+minEvictableIdleTimeMillis  How long a connection can remain idle in the pool before it’s eligible for eviction.-eksmisja
+If 1, wait indefinitely.-czekaj w nieskonczonosc
+Such combinations can be continued indefinitely.-w nieskonczonosc
+contrary, the opposite of, antonym-przeiciwienstwo
+downturn;breakdown;breakthrough-zalamanie, spadek;zalamanie, awaria, struktura podzial;przelom, odkrycie
+The following table provides a breakdown of this book's exam coverage-zalamanie, tutaj struktura
+He had a breakdown after my mother died. emotional breakdown-Miał załamanie po tym jak umarła moja matka.
+A breakdown on the second program, fix it at once.-Awaria na programie drugim, natychmiast naprawić.
+it was one of the most important breakthroughs of the year-odkrycie, przelom
+breakthrough-przelom
+come by/come over/stop by/drop by-wpasc
+get by-przetrwac, przezyc

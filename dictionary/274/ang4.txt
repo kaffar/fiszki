@@ -1,0 +1,27 @@
+gated community-osiedle strzezone
+barrier-szlaban
+lodger-lokator
+lodge a complaint-złożyć skargę
+I could lodge an appeal on your behalf. -> Mógłbym złożyć apelacje w Twojej sprawie.
+tenant, landlord-lokator/najemca; wynajmujacy
+you can rent an apartment out to tenants or if you have an extra room you can rent it out to a lodger-Możesz wynająć mieszkanie najemcom lub, jeśli masz dodatkowy pokój, możesz wynająć go lokatorowi
+landlord, landlady-właściciel, właścicielka mieszkania
+the rent and utilities-czynsz i media
+house=sit-opiekowac sie domem
+pasture-pastwisko
+the house was in the middle of nowhere, with no neighbours whatsoever-dom był na odludziu, bez żadnych sąsiadów
+bunk beds-lozka pietrowe
+staircase-klatka schodowa
+stroller-wozek spacerowy
+hallway-korytarz (w bloku, hotelu)
+coat closet, wardrobe-szafa
+wardrobe, closet-szfa schowek
+Others stick you in a closet with lots of people talking around you.-gabinet, szafka
+walk=in closet-garderoba
+make yourself at home-rozgosc sie
+feel at home-czuj sie jak u siebie
+It's the third entrance from the left-trzecia klatka/wejscie od lewej
+there is a small balcony overlooking an old cemetery-znajduje się mały balkon z widokiem na stary cmentarz
+cemetery, graveyard-cmentarz
+disarray-nielad, zamet, nieporzadek
+ou find us in only a mild disarray. -> Zastał nas pan tylko w łagodnym nieładzie.

@@ -1,0 +1,43 @@
+data sovereignty-suwerennosc, niezaleznosc, niepodleglosc danych
+appraisals-oceny
+break down the requirements-podzielenie wymagań
+break down-rozbic, rozlozyc
+stored in auxiliary table-przechowywany w tabeli pomocniczej
+take auxiliary action when a field is accessed-podjac dzialania pomocnicze
+ouksilaryi-auxiliary (w); pomocniczy
+I gave you rundown of the system-Dałem ci przegląd systemu
+i need a rundown of your clients-Potrzebuję podsumowania twoich klientów
+he lived in a rundown cottage-mieszkał w zapuszczonym domku
+rundown-podsumowanie, przeglad
+team meets/sits/gathers together and plans-team spotyka sie razem i planuje
+deprecation-dezaprobata, deprecjonowanie, dezaktywacja
+I will show you in a bit-Pokażę ci za chwilę
+keep my/yours fingers crossed-trzymac kciuki
+I must have overlooked this information-musialem przeoczyc ta informacje
+Please refrain using SIT db for development purpose going forward.-proszę zrezygnować z korzystania z sit db do celów rozwojowych.
+refrain from-powstrzymać się od
+please refrain from accepting invites-powstrzymaj sie od akceptacji zaproszen
+if that's not enough of assurance, you can observe the hello, world! response as well-jeśli to nie jest wystarczające zapewnienie, możesz obserwować odpowiedź hello, world!
+quality assurance experts-eksperci do spraw jakosci
+assurance policy for my childer-zapewnienie, polisa ubezpieczeniowa
+for the sake of brevity, the simplified diagram should do-dla zwięzłości, uproszczony schemat powinien wystarczyć
+design deficiency;insufficient-niedobor, niewystarczajacy
+code example has a subtle deficiency-przykładowy kod ma subtelny brak
+deficiency-niedobor
+shortage, deficiency, shortfall-niedobor
+exploring deficiencies when enabling external access through kubernetes services-badanie brakow
+never take your mistress on an annual guys' getaway, especially one devoted to hunting-nigdy nie zabieraj swojej kochanki na coroczny wypad dla facetów, zwłaszcza na polowanie
+mistress-kochanka, pani, zona, kazdy rodzaj kobiety
+would there be an adverse effect if two different versions of my application are running in parallel?-czy wystąpiłby niekorzystny efekt
+services are indispensable objects without which communication between pods would be hard and volatile-usługi są niezbędnymi obiektam; niestabilny
+dispense a gumball-rozdawac, pozbyc sie kulke
+dispense cigarette lighter=sized hard drives-rozdawac, pozbyc sie
+dispense-zrezygnowac, pozbyc sie, obyc sie bez, rozdawac
+dispense with him-zrezygnowac z niego
+cache object intances and dispense them repeatedly-buforuj intencje obiektu i rozdawaj je wielokrotnie
+suppose that you want to write an identity function dispenser-dozownik
+cash dispenser-bankomat
+then it may be appropriate to dispense with defensive copying-wtedy może być właściwe zrezygnowanie z defensywnego kopiowania
+atm dispenses cash-bankomat wydaje gotówkę
+paramount-najwyzszy, glowny
+understanding container schedulers are paramount-zrozumienie harmonogramów kontenerowych jest najważniejsze

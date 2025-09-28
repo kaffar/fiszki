@@ -1,0 +1,27 @@
+Natively, the main interface for working with Hibernate is org.hibernate.Session.-natywnie
+Spring’s JDBC framework will clean up your JDBC code by shouldering the burden of resource management and exception handling.-dzwigajac ciezar
+values are bound to named parameters in SQL-wartosci sa ograniczone do 
+she was bound to contact the police-ona musiala/byla zmuszona skontaktowac sie z policja
+outbound/inbound fligt-odlot/lot powrotny
+stories abounding of drivers making frantic appeals for guidance-obfitowac, goraczkowe odwolania o pomoc
+bounded stack-ograniczony stos
+cross boundary-przekroczyc granice
+bind    bound   bound-przywiazywac
+In fact, disregarding the SQL String and the line where the statement is created, they’re identical.-w rzeczywistosci, pomijajac/lekcewazyc 
+approach to data access comes in handy in applications, such as reporting applications-podejscie dostepu danych jest przydatne w aplikacjach; przydatny, poreczny, pod reka
+Java coerces the lambda into a RowMapper-zmuszac
+exception handling code cluttering up the chief purpose of the method.-code zasmiecajacy glowny cel metody
+reduce the clutter in my apartment-zmiejszyc balagan w mieszkaniu
+Some of the data centric among you may even contend that data is the-twierdzic ze
+there are few contenders-jest kilka pretendentow
+robust design-silny, zdrowy, solidny
+The downside of this approach is that-wada/minusem tego podejscia jest
+handling errors is what makes data access robust.-silny, zdrowy, solidny
+facility;facilitate-latwosc, udogodnienie; ulatwiac
+this is my private matter-to moja prywatna sprawa
+compensation, remuneration-odszkodowanie; wynagrodzenie
+obtain compensation for harm i have suffered-otrzymac odszkodowanie za szkode
+judge the case, award compensation, dismiss the case-sedziowac, przyznac odszkodowanie, oddalic sprawe
+cell outage compensation-awaria, przerwa | odszkodowanie
+Aside from presenting a troubling code duplication situation-oprocz...
+aside from, except, besides-oprocz x3

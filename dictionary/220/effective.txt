@@ -1,0 +1,41 @@
+the refactoring may be ruled out on performance grounds-refaktoryzacja może być wykluczona ze względu na wydajność
+as a litmus test, ask yourself how the programmer will handle the exception-test lakmusow
+parse the string representation of an exception to ferret out additional information-przeanalizować ciąg reprezentujący wyjątek, aby wyodrębnić dodatkowe informacje
+you don't have time to parse your friend's marital problems-nie masz czasu analizowac problemow malzenskich przyjaciela
+parse-analizowac
+ferret-fretka
+distinguished value-wyróżniona wartość
+what kinds of tests can you distinguish-wyroznic
+prominent, outstanding, distinguished-wybitny x3
+vary, differentiate, distinguish between-rozroznic miedzy
+there is also a strong precedent for following this naming convention-precedens/poprzednik
+there are plenty of performance myths floating around that turn out to be half=truths or outright lies-krąży wiele mitów o wydajności, które okazują się półprawdami lub wręcz kłamstwami
+it is a very bad idea to warp an api to achieve good performance-wypaczanie interfaceu
+floo(s)-flaw(s) (w)
+pervasive as it seems to be, this genre of workplace crises was little covered by scholarly research-wszechobecny/powszechny, jak się wydaje, ten rodzaj/gatunek kryzysów w miejscu pracy był niewiele objęty badaniami naukowymi
+pervasive-wszechobecny, powszechny, rozpowszechniony
+pervasive architectural flaws that limit performance can be impossible to fix-powszechne wady architektoniczne
+good programs embody the principle of-dobre programy ucieleśniają zasadę
+in that time, work continued apace on native libraries-szybko, zwawo, w szybkim tempie
+it is rarely advisable to-rzadko jest to wskazane
+hence it's advisable to..-dlatego wskazane jest, aby ..
+it’s not advisable to tether for long=term use as it can quickly drain your mobile data allowance-nie jest wskazane stosowanie go do długotrwałego użytkowania, ponieważ może szybko obniżyć limit danych mobilnych
+the set is indistinguishable from any other set instance-nie do odroznienia
+you can obtain many of the benefits of reflection while incurring few of its costs-ponoszac kilka kosztow
+The biggest challenge will be to bring execution down an order of magnitude without incurring a significant penalty in memory usage. -najwieksze wyzwanie jest sprowadzic czas wykonania w dol o rzad wielkosci bez zaciagania znacznej kary w uzyciu pamieci
+One day you will be fired for your incurable tardiness-Pewnego dnia zostaniesz zwolniony za swoje nieuleczalne spoznialstwo
+Or do you make no payments at all, thereby incurring huge, compounding fees?-tym samym zaciagac ogromne zlozone oplaty
+The costs incurred by manufacturers are likely to be passed on to users through price rises.-poniesc, wywolac
+this power, however, comes at a price-ta moc ma jednak swoją cenę
+these three cases are not meant to be exhaustive but merely to convey the flavor of situations-te trzy przypadki nie mają być wyczerpujące, lecz jedynie oddać smak sytuacji
+get in the habit of typing this:-nabądź zwyczaju pisania tego:
+the method performs abysmally if the number of items is large-fatalnie
+forgery-falszerstwo
+We'll talk more about costs and benefits as we forge into our fake=less solution. forge-posunac sie/ falszowac
+forge-falszowac, podrobic
+gain illicit access to the other client’s data-nielegalny
+it pays to keep abreast of these additions-opłaca się być na bieżąco z tymi dodatkami
+multitude of issues which have been presented since yesterday morning-mnogosc, wielka ilosc
+A multitude of forms-Mnogość form
+multitude-mnogosc, mnostwo
+such code is more easily readable, maintainable, and reusable by the multitude of developers-mnogosc, mnostwo

@@ -1,0 +1,45 @@
+applications have ample resources for occasional (and short=lived) bursts of additional memory consumption-aplikacje mają wystarczające zasoby na okazjonalne (i krótkotrwałe) wybuchy dodatkowego zużycia pamięci
+There is a very ample variety of formats to choose from. -> Wybór formatów jest naprawdę bardzo duży.
+I have ample reason to ask such a question. -> Miałem obszerny powód zadając takie pytanie.
+ample, amply-duzy, obszerny; obficie, obszernie
+burst burst burst-wybuchac
+also we would recommend to lengthen the retry period for failed calls with some backoff time-zalecamy również wydłużenie okresu ponawiania prób w przypadku nieudanych połączeń z pewnym czasem odczekiwania
+back off-wycofac, odpuscic, cofnac sie
+the container was restarted eight times with the reason backoff-kontener został ponownie uruchomiony osiem razy z powodu wycofania
+and so on, and so forth-i tak dalej, i tak dalej
+i advise against such a decision. we're using heapster only because it's readily available as a minikube addon-odradzam taką decyzję, jest łatwo dostępny
+improve application performance by avoiding the database altogether if the data needed is readily available-dane sa latwo, szybko, chetnie dostepne
+and make them readily testable.-latwo, szybko, chetnie
+page is readily accessed-latwo, chetnie
+and make them readily testable.-latwo, szybko
+criminals can use readily available tools to create wi=fi hotspots to which your device automatically connects-szybko, latwo, chetnie; latwo dostepne narzedzia
+that it’s readily available when needed-jest łatwo dostępny w razie potrzeby
+it enters the pending state waiting until resources on one of the nodes are freed-przechodzi w stan oczekiwania, czekając, aż zasoby na jednym z węzłów zostaną zwolnione
+guards our resources from being overtaken by a single rouge container-chroni nasze zasoby przed przejeciem przed jednym zbuntowany kontenerem
+if you do not already know what it is, consider this a teaser meant to build serves as teaser-jeśli jeszcze nie wiesz, co to jest, uznaj to za zapowiedź, która ma budować napięcie
+puzzle, riddle, brain teaser-zagadka, lamiglowka
+serves as teaser-zagwozdka, zwiastun
+puzzle, riddle, brain teaser-zagadka, lamiglowka
+suspense-napięcie, niepewność
+kubernetes was carrying out its tasks in a very myopic fashion-kubernetes wykonywał swoje zadania w bardzo krótkowzroczny sposób
+derivatives classes-klasy pochodne
+create derivative works-pochodne
+music is derivative-muzyka jest pochodna
+variation or derivative of the resource-odmiana/roznica lub pochodna zasobu
+derivative-pochodny
+since john is not around, we'll do some role playing and impersonate him-skoro Johna nie ma w pobliżu, będziemy odgrywać rolę i podszywać się pod niego
+impersonate-udawac, nasladowac
+impersonate the user-podszywać się pod użytkownika
+it passes through admission controllers-przechodzi przez kontrolery dopuszczenia
+And will fall on principles feet, and beg for admission.-Padniemy do stóp i ponownie poprosimy o przyjęcie.
+If he doesn't reach on time, his admission will lapse.-Jeśli on nie dotrze na czas, jego przyjęcie przepadnie.
+Will get admission in some college at least.-Przynajmniej, dostaniesz wstęp do jakiejś uczelni.
+admission, admissible-przyjecie, wstep | dopuszczalny
+entrance, enter, admission-wejście, wchodzić, wstęp
+admit-admission
+admission of guilty-przyznanie się do winy
+more often than not, this will not be the case-najczęściej tak nie będzie
+you are the judge, the jury, and the executioner-Ty jesteś sędzią, ławą przysięgłych i katem.
+before we dive into kubernetes, it might be worthwhile going through some history-zanim zagłębimy się w kubernetes, może warto przejść przez trochę historii
+worthwhile-wart, wart zachodu
+the hard work has been made worthwhile-oplacalny,warty zachod

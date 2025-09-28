@@ -1,0 +1,43 @@
+junction, intersection (US)-skrzyzowanie x2
+I was hit by a car while I was passing a crossing-zostalem uderzony gdy przejezdzalem skrzyzowanie
+use in conjunction-używać w połączeniu
+It used often in conjunction with the singleton pattern.-w polaczeniu z
+indisputable, undisputable-niezaprzeczalny, niewatpliwy
+it is indisputable that logging is something that all applications have to do-niezaprzeczalny
+your roommate recently bought a canary for the room-twój współlokator niedawno kupił kanarek do pokoju
+canary-kanarek, kanarkowy kolor
+opt out form-formularz rezygnacji
+opt for a more expensive ticket-zdecydowac sie, wybrac, optowac
+co=opt-wybrac, optowac
+opt=in-zrezygnować, zdecydować
+reiterate-powtorzyc
+to begin with, i would like to reiterate that hystrix is enabled-na wstępie chciałbym powtórzyć, że hystrix jest włączony
+netflix hystrix circuit breaker-przerywacz obwodu/petli
+porcupine, hystrix-jezozwierz
+hystrix configured for some reasonable waiting time-skonfigurowany do jakiegos sensownego czasu oczekiwania
+process the percentile data-procentowe dane
+the latency percentiles over the last minute-percentyle latencji w ciągu ostatniej minuty
+I tripped over the step-potknalem sie o stopien
+lot less stumbling-potknac sie, popelniac bledy
+stumble, trip over the step-potknac sie x2
+stumble into the kitchen-potknac sie
+circuit tripped-zadziałał obwód
+zone avoidance-omijanie strefy
+there often comes a point where avoidance is no longer an option-często pojawia się moment, w którym unikanie nie jest już opcją
+avoidance-unikanie
+frying pan, pan-patelnia
+fry, roast-smazyc
+And will fall on principles feet, and beg for admission.-Padniemy do stóp i ponownie poprosimy o przyjęcie.
+If he doesn't reach on time, his admission will lapse.-Jeśli on nie dotrze na czas, jego przyjęcie przepadnie.
+Will get admission in some college at least.-Przynajmniej, dostaniesz wstęp do jakiejś uczelni.
+admission, admissible-przyjecie, wstep | dopuszczalny
+cheated, deceived, fooled | mislead, deceive, delude-zostalem oszukany przez szefa (oszukac|zwodzic)
+delude-zwodzić; wprowadzać w błąd
+perimeter of the rectangle-obwod
+perimeter; Calculate the perimeter of this triangle-obwod
+profiteer; The company decided to profiteer in the forthcoming months-spekulowac
+profiteer; He's savvy profiteer and he makes big money just by selling rationed goods-spekulant
+People that are not computer savvy might not exactly know what the numbers in this illustration mean. -> Osoby, które nie są bystry komputer może nie dokładnie wiem, jakie numery w tej ilustracji myśli.
+He's not savvy enough to manipulate the system like that. -> Nie jest dość kumaty żeby tak manipulować systemem.
+savvy-bystry, kumaty, lebski
+linux savvy-doświadczony w systemie Linux

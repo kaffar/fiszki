@@ -1,0 +1,37 @@
+It is necessary to develop a culture of reciprocal confidence involving all stakeholders. -> Konieczne jest rozwinięcie kultury wzajemnego zaufania wśród wszystkich zainteresowanych stron.
+reciprocal-wzajemny, odwrotnosc
+I know how to argue the merits of the petition, Hayes.-Wiem jak argumentować zasadność wniosku, Hayes.
+argue for sth that-argumentowac cos ze
+they're trying to throw the responsibility on us/blame us-oni staraja sie zrzucic odpowiedzialnosc na nas
+triaged,untriaged-skoordynowany, przyporzadkowany; niezarzadzany
+triage (call)-selekcja rannych
+deficient implementation-niepelny, niewystarczajacy
+suppose that you want to write an identity function dispenser-dozownik
+cash dispenser-bankomat
+ailment that homeopathic remedy failed to treat-dolegliwosc ktora lekarstwo homeopatycznne nie uleczylo
+blame him for all of that ails-pain, distress, bolec, dolega
+ailing-dolegliwosc, choroba
+be on the dole-byc na zasilku
+It is my job to dole out advice. -> A moim zadaniem jest udzielanie ci rad.
+They dole out corn feed and pocket the rest. -> Wydzielają jedzenie i zgarniają resztę dla siebie.
+You must be pretty perfect to dole out that kind of advice. -> Musisz być idealna, by udzielać rad takiego typu.
+static factory method to repeatedly dole out the object for each requested type parameterization-udzielac w sensie dawac cos komus
+on occasion, you will need to-czasami będziesz musiał
+consider this deficient method-niepelny, niewystarczajacy
+but you can normally gauge by using your own judgement-zmierzyc, oszacowac, wskaznik
+gauge-kontrolka, wskaznik
+i will follow up on mails in the evening-wieczorem sprawdzę maile
+the foregoing example may appear to contradict item 28-powyższy przykład może wydawać się sprzeczny z punktem 28
+this makes some programmers sufficiently queasy that they opt for the second technique-przewrażliwiony; nadmiernie skrupulatny, aby wybrać drugą technikę
+She says it makes her queasy. -> Mówi, że potem ją mdli.
+queasy-mdły; mdlący; przewrażliwiony; nadmiernie skrupulatny
+both techniques for eliminating the generic array creation have their adherents-mają swoich zwolenników
+adherent-zwolennik, przylegajacy
+adhere to naming convention-przestrzegac, przylegac
+the first solution directly circumvents the prohibition on generic array creation-omija zakaz
+you might say that one way to circumvent all that hassle from this issue is to make the method static-można powiedzieć, że jedynym sposobem na obejście wszystkich kłopotów z tego problemu jest uczynienie tej metody statyczną
+We can't circumvent procedure. -> Nie możemy omijać procedur.
+circumvent-obejsc, omijac, przechytrzyc
+this version is a tad more verbose, and perhaps a tad slower, but it's worth it for the peace of mind-ta wersja jest nieco bardziej szczegółowa i może nieco wolniejsza, ale warto dla spokoju
+This looks a tad more comfortable.-Ten mi wygląda na nieco bardziej wygodny.
+Stress levels are a tad elevated right now.-Właśnie nieco wzrósł mi poziom stresu.

@@ -1,0 +1,33 @@
+get rid of ugly comment is superfluous (superflues)-byzbyc sie brzydkiego komentarza bo jest zbedny
+logical but unsubstantiated-nieuzasadnione
+refinement-udoskonalenie
+that will require some meditations-rozwazanie
+that's infeasible-to niewykonalne
+make significant or subtle changes-duze lub male zmiany
+discipline does not preclude thought-dyscyplina nie wyklucza myslenia
+small decoupling design changes-oddzielny, niezalezny/ oddzielac, uniezalezniac
+bulk of legacy code-wiekszosc legacy kodu; objetosc, hurtowo
+the important volatile bits are tested-ulotny
+fiddle with gui-bawic sie
+explain my reasoning-wyjasnic moje rozumowanie
+make complementary errors-zrobic uzupelniajace bledy; uzupelniac
+diligence-pracowitosc, pilnosc
+we barely scratched the surface-ledwo zarysowalismy powierzchnie
+a whole banch of stuff ahead of us-cala masa rzeczy przed nami
+periphery-obrzeze, peryferie
+cross boundary-przekroczyc granice
+horrid disease of framework-straszna choroba
+he found sth profound-cos glebokiego
+moving forward with constant velocity-ze stala predkoscia
+what they found was startling-zaskakujace
+how confounding this was-mylacy
+majsiklel, siklel-w. mysql, sql
+you are looking at this blueprints of the building-plany budynku
+postpone, deferring decisions-odroczyc decyzje
+decoupled of the rest of the application-odzielony, uniezalezniony
+it should barely mention web-ledwo wspomniec
+that's likely the situation here-prawdopodobnie
+data associated with the use case-dane zwiazane z use casem
+as agnostic as possible-agnostyka, nie da sie czegos udowodnic, poznac
+on the contrary-wrecz przeciwnie
+you are trying to (presumably accidentally)-prawdopodobnie

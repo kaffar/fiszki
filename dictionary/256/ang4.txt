@@ -1,0 +1,42 @@
+staff, stuff-personel, rzeczy
+check whether the topic exists, and if it does not, create it on the spot-sprawdzić, czy temat istnieje, a jeśli nie, utworzyć go na miejscu
+on the fly, on the spot-w locie, na miejscu
+i delete it on the spot-na miejscu
+on site, in place, on the spot-na miejscu
+she swayed on the spot-zakołysała się na miejscu
+I can offer 1 week per month on the spot/on site and the rest remotely-Mogę zaoferować 1 tydzień na miesiąc na miejscu, a resztę zdalnie
+Coordinated position: tbd on the spot.-na miejscu | Skoordynowane stanowisko: do ustalenia na miejscu w razie potrzeby.
+exactly once semantics-dokładnie raz semantyka
+only once-tylko raz
+luggage rack-polka na bagaz
+rack-stojak, wieszak, stelaz, polka
+fugitive-zbieg, uciekinier
+reasonable sensible-rozsadny x2
+unreasonable, unwise, not reasonable-nierozsadny
+some have implications on the performance-niektóre z nich mają wpływ na wydajność
+fixing implications/consequences rather than causes-naprawiac konwekwencje, zamiast przyczyny
+consequences, implications, ramifications, fallout-konsekwencje
+implications-wplyw, skutki
+varying-rozny, zmienny, zroznicowany
+implement applications with varying requirements-wdrażać aplikacje o zróżnicowanych wymaganiach
+As the futile attempts by the police to catch the notorious Taxi Killer-daremne proby
+which makes the compression futile-co czyni kompresję daremną
+encrypted messages do not compress well, if at all, which makes the compression futile-zaszyfrowane wiadomości nie kompresują się dobrze, jeśli w ogóle, co sprawia, że kompresja jest bezcelowa
+but the workload may be skewed-ale obciążenie pracą może być wypaczone
+but the workload may be skewed, so a single key may have disproportionately large workload-obciążenie może być wypaczone
+network rountrip-wysylanie requestu tam i spowrotem
+sever, severence (pay)-uciac np. toel, odciecie, odprawa
+excess baggage-nadbagaz
+excessive, superfluous-nadmierny, zbedny
+folks rack up excess minutes by talking too much-nibijac, nazbierac
+it will result in excessive contention-spowoduje nadmierną rywalizację
+sales in excess-nadmiar
+grow in excess of seven trillion messages-wzrosła do ponad siedmiu trylionów wiadomości
+slow processing or a burst in traffic-powolne przetwarzanie lub gwałtowny wzrost ruchu
+they burst in and arrested, burst-wpadac, wybuchnac
+burst burst burst-wybuchac
+inconclusive-niejednoznaczny, nierozstrzygający
+consecutive fights-kolejne walki
+AtomicLong can be used to consecutively add values to a number-kolejno
+consecutively-kolejno
+Eureka requires three consecutive heartbeat pings from the service spaced 10 seconds apart before it will say the service is ready for use.-3 kolejne uderzenia serca

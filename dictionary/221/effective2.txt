@@ -1,0 +1,42 @@
+wakeup-fałszywe budzenie
+a new instance will be created, leading, in the case of our example, to spurious elvis sightings-w naszym przykładzie doprowadzi do fałszywych obserwacji elvisa
+spurious sightings-falszywe obserwacje
+classes expose themselves to this sort of mischief-psoty
+countdown latches are single=use barriers-zatrzaski odliczające są barierami jednorazowego użytku
+latch-zatrzask, zasuwa
+assuming they are appropriate for the task at hand-zakładając, że są odpowiednie do danego zadania
+allow you to focus on the problem at hand, there need to be some trade=offs along the way-pod reka, w zasiegu reki, kompromisy
+approach to data access comes in handy in applications, such as reporting applications-podejscie dostepu danych jest przydatne w aplikacjach; przydatny, poreczny, pod reka
+That form of send() comes in handy when you want to programmatically choose a destination-przydaje sie, poreczny, pod reka
+This Spock annotation comes in handy and does two things-przydaje sie, poreczny, pod reka
+I hope this book will be useful to programmers of all stripes-programisci wszelkiej masci
+yellow mustang with black stripes-zolty mustang z czarnymi paskami
+stringbuffer was supplanted by stringbuilder-został zastąpiony przez
+the cost of synchronization has plummeted since the early days of java-koszt synchronizacji gwałtownie spadł od pierwszych dni java
+company's shares plummeted after the arrest of its CEO-gwaltownie spadac, po areszotowaniu
+plummet, soar-spadac (gwaltownie), rosnac (szybowac)
+notice that there is no explicit synchronization whatsoever-zauważ, że nie ma żadnej wyraźnej synchronizacji
+i have no idea whatsoever actually-nie mam pojecia wogole
+In this area my knowledge is very poor, I haven't got any experience whatsoever-w tym obszarze moja wiedza jest bardzo mala/ nie mam wogole doswiadczenia
+I have no idea whatsoever-wogole, cokolwiek
+i have no doubt whatsoever that it was...-nie mam zadnych watpliwosci
+the performance of copyonwritearraylist would be atrocious-okropny
+its atrocious because it ensures that every object has the same hash code-jest to okropne
+atrocious-okropny, straszny
+to avoid liveness and safety failures, never cede control to-aby uniknąć żywotności i błędów bezpieczeństwa, nigdy nie rezygnuj z kontroli
+mutual, mutable-wspolny; zmienny/niestaly
+mutable immutable-zmienny, niezmienny
+share mutable data-udostępniać zmienne dane
+merely letting an exception propagate outward can at least cause the program to fail swiftly-samo zezwolenie, propagowac na zewnatrz, zfailowac szybko
+prior to the commencement of the training-przed rozpoczeciem
+By the way, when will 3rd and 4th carrier tests commence again?-rozpoczac
+before object modification commences-rozpoczac
+it is rare (although not inconceivable)-to jest rzadkie (choć nie niemożliwe)
+inconceivable-niepojete, niewyobrazalne
+The time and energy required for microtesting against every conceivable error, conceive-wyobrazalny, pojac
+although they could conceivably be much more complex.-choc nie wykluczone moga byc, wyobrazalny, pojac
+which must be intelligible to end users-które muszą być zrozumiałe dla użytkowników końcowych
+intelligible-zrozumialy
+the information can be gleaned by reading the documentation and source code-informacje moga byc uzyskane przez
+Since functions are objects like any others, there are several things that your code can glean from them-zbierac, gromadzic
+glean grain - zbierac poklosie

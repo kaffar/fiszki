@@ -1,0 +1,48 @@
+sledgehammer-młot kowalski
+use sledge hammer-mlot kowalski obureczny
+sledge, sleigh-jezdzic na sankach
+sledge-sanie, sanki
+sley-zabic, zgladzic
+I will slay you, dragon, and save the princess. -> Zgładzę cię, smoku, i uratuję księżniczkę.
+normally i dont condone leaving early-zwykle nie toleruję wychodzenia wcześniej
+I cannot personally condone it-Nie mogę tego osobiście zaakceptować
+patterns that have gained prominence of late is the event sourcing pattern-Wzory, które zyskały na znaczeniu ostatnio, to wzór pozyskiwania zdarzeń
+I try to avoid terms such as REST service, RESTful web service, and anything similar that incorrectly gives prominence to actions.-znaczenie/waga dzialaniom
+She rose to prominence starring as Emily Fields in the Freeform-znaczenie, waga
+strangling a monolith with axon server-duszenie monolitu
+So that you may strangle your clients with a rope. -> Tak, że można udusić klientów z liny.
+i might strangle you-mógłbym cię udusić
+strangled cheer-zduszony okrzyk
+this object doesnt exist either-ten obiekt też nie istnieje
+dormant-nieaktywny, uspiony, nieczynny
+There's a difference between dormant and patient.-Jest różnica między nieaktywny, a cierpliwy.
+Doctors told us many victims are forced to return to their tormentors-meczyc, dreczyciel
+torment-dręczyć; torturować; męczyć
+the 'command gateway' is a convenience approach towards dispatching commands-wygodne podejscie do wysylania komend
+I wrote a few convenience classes and methods-wygoda
+don’t go overboard in providing convenience methods-za burte
+convenience-wygoda, komfort, udogodnienie
+moon exerts (egzerts) on a kilogram of water-wywierac
+exert-wywierac
+the rationale for this is that-uzasadnienie tego jest takie
+When talking about the rationale behind this approach; rationality, soundness-racjonalnosc
+record the rationale for your decision to suppress the warning in a comment-zanotuj uzasadnienie swojej decyzji o pominięciu ostrzeżenia w komentarzu
+rationale-(racjonalne) uzasadnienie
+post code, postal code, zipcode-kod pocztowy
+fast lane axon framework online training-szybka linia
+nobody wanted to live up that lane-droga, droga polna
+lane-pas ruchu, droga, uliczka, droga polna
+traffic was diverted to some country lane-ruch został skierowany na jakiś pas wiejski
+I'd love to get involved.-z checia bym sie zaangazowal
+proctored exam-nadzorowany egzamin
+oversee floor movement-nadzorowac
+Agency blames the way the illegal trade is policed-nadzorowany
+oversee-nadzorowac
+supervision, surveillance, scrutiny-nadzor
+majestic beast-majestatyczna bestia
+discrepancy-rozbieznosc
+what words or phrases do you most overuse-naduzywac
+presume on sth-naduzywac czegos, przypuszczac
+i presume that the issue will be found-Zakładam, że problem zostanie znaleziony
+presume on sth-naduzywac czegos, przypuszczac
+I wouldn't presume on our friendship. -> Nie chcę nadużywać przyjaźni.

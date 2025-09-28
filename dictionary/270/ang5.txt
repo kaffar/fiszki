@@ -1,0 +1,44 @@
+it is worrying him-to go martwi
+we can rejoice in replacing four files with one-możemy cieszyć się z zastąpienia czterech plików jednym
+rejoice-cieszyć się, radować
+dizni, presli-disney, presley (w)
+they are the most basic and, arguably, the essential building block in kubernetes-są one najbardziej podstawowym i, prawdopodobnie, kluczowym elementem budulcowym kubernetes
+claw-pazur, szpon
+it depletes local resources-wyczerpac
+when the sun depletes its energy-wyczerpac
+psychological factor-czynnik psychologiczny
+dispose, disposable-pozbywac sie, wydawac
+contentious-sporny, kontrowersyjny, kłótliwy
+The signal was intermittent, like Morse Code.-Sygnał był przerywany, jak alfabet Morsa.
+This is your chance to seize the initiative.-To twoja szansa, aby wykorzystać inicjatywy.
+take this/the opportunity, take advantage of the opportunity, seize the opportunity-skorzystac z okazji
+America abandoned expendable rackets and switched to space shuttles-Ameryka porzuciła jednorazowe rakiety i przerzuciła się na wahadłowce kosmiczne
+kuznia vs mennica-forge vs mint
+after this digression to docker, let's return to kubernetes-po tej dygresji na temat dockera, wróćmy do kubernetes
+but to hone your kubernetes skills-ale aby doskonalić swoje umiejętności w zakresie kubernetes
+hone-doskonalic, ostrzyc, oselka
+hone your skills-doskonalic umiejętności
+in this regard, a service is akin to a load balancer-w tym względzie usługa jest podobna do load balancera
+akin-pokrewny, zblizony
+A document resource is a singular concept that is akin to an object instance or database record.-pokrewny, zblizony
+Melissa had been akin to a force of nature.-zblizony, podobny
+some of the items below might be slightly delayed but you should get them eventually-niektóre z poniższych pozycji mogą być nieco opóźnione, ale w końcu powinieneś je otrzymać
+he lost eventually his freedom-ostatecznie
+eventually, finally-docelowo
+as we can see, the test will eventually time out and await() will return false-jak widzimy, test w końcu wygaśnie i await() zwróci false
+I copied verbatim the scenarios of the nuclear reactor monitor from the table-skopiowalem doslownie scenariusze
+That's verbatim to what we heard from nichols.-To dosłownie to, co słyszeliśmy od Nicholsa.
+literally, verbatim, (less virtually)-doslownie
+can be copied verbatim into any class-doslownie
+markdown text is not formatted but just displayed verbatim-tekst przeceny nie jest sformatowany, ale wyświetlany dosłownie
+pivotal-kluczowy, przelomowy
+That was a very pivotal time in my life. -> To był bardzo kluczowy okres w moim życiu.
+First: It is not a pivotal project in your career. -> Po pierwsze: to nie jest kluczowy projekt w twojej karierze.
+You have to be ready to pivot and move in an entirely new direction. -> Musisz być gotowy na obrót i ruch w całkiem nowym kierunku.
+pivot-obrot
+pivot-change direction
+give credit to aws for listening to their customers-Należy docenić aws za to, że słucha swoich klientów
+discrete vs distinct-samodzielny osobny, odrebny vs wyrazny
+the decision which one it will be is anything but random-decyzja, który to będzie, nie jest przypadkowa
+docker appeared only a few years ago, and everyone is already using it for a myriad of scenarios-uzywaja go do niezliczonych scenariuszy
+the same concept could be represented in myriad ways-na wiele sposobow, ogromna liczba

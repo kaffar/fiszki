@@ -1,0 +1,33 @@
+﻿Method Resolution Order/conflict resolution; to make a resolution-rozwiązywanie konfliktów/metod; uczynić postanowienie
+This may seem like a philosophical detail, but it has real ramifications in code as well.-konsekwencje
+the court's decision had many unforeseen ramifications-negative consequnces of sth
+there is some fallback mechanism; it works as a fallback- awaryjny
+which cover only those things that are pertinent/relevant/important to all contacts-istotny x3
+there’s a considerable amount of power behind them that you can leverage-jest znaczna ilosc energii ktora mozesz wykorzystac
+it permeates nearly every aspect of python-przenikac, przesiakac
+docstrings included right alongside the code itself-obok, jak rowniez
+optimize performance alongside overall company performance-jak rowniez, obok
+it's very aligned with our philosophy-to jest bardzo zgodne z nasza filozofia
+Accessibility to doctors who are well trained and at the cutting edge of their specialty-byc na biezaco/najnowszy ze swoja specjalnoscia
+corner=cutting-doing things badly and cheaply
+creating ingenious cutting=edge-pomyslowy, genialny / najnowoczesniejsze
+It’s really just a foundation type that underpins the entire system, as everything else inherits from it.-fundament;podpierac, podbudowac
+they are the foundations from which fancier fakes evolve-fundament, podstawa / bardziej wyszukane
+It strips out whitespace both before and after the documentation-rozbierac
+so Python stripped out the first four, leaving the rest intact.-rozbierac/nietkniety
+on the regular basis/on the basis of black box-na biezaco/na zasadzie czarnej skrzynki
+what would you say if you had 100% test coverage of your module?-co bys powiedzial gdybys mial sto procent pokrycia twojego modulu
+For me, proposal is an organized, formal suggestion, often written. Proposition is just a suggestion, can be informal (and can also have sexual connotations...)-proposal vs proposition
+his second comment is entirely off=topic-poza tematem
+presumably-przypuszczalnie
+ja mianuje go na mojego zastepce-i appoint/nominate him my deputy
+very/highly anticipated event-bardzo oczekiwane wydarzenie
+watch someone, have your eyes on them-przypilnowac
+substantially-znacznie, poważnie, istotnie, zasadniczo
+prominent, outstanding, distinguished-wybitny x3
+breadth and depth-szerokosc i glebokosc
+wide, broad-szeroki
+szerokosc-width, breadth
+prominent, outstanding, remarkable-wybitny x3
+watch sb/have my eyes on sb-pilnowac kogos
+Because of this, it starts at the most generic class, object, and continues outward from there-zewnetrzny; na zewnątrz, w kierunku zewnętrznym

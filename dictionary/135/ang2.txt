@@ -1,0 +1,33 @@
+﻿This is the prescription which is being given consistently to every patient.-recepta
+Domain Driven Design is a methodology and process prescription for the development of complex systems whose focus is mapping activities, tasks, events-recepta
+DamselRescuingKnight; RescueDamselQuest-rycerz ratujacy niewiasty/panny/panienki; misja ratowania niewiasty
+free, free of charge, complimentary-darmowy x3
+I complimented her on her English-komplementowalem jej angielski
+complimentary,compliment-pochlebny/bezplatny; komplement
+you'll find a free test case class, with our compliments...-komplement, tutaj: z wyrazami uszanowania
+potential for weather forecasting-potencjal przwidywania pogody
+result, outcome-rezultat
+Increasing need of-rosnaca potrzeba czegos
+ensure, insure-zapewnic; ubezpieczac,zabezpieczyc
+insure sales expenditures-ubezpieczyc,zagwarantowac naklady/wydatki
+celebrity insured buttocks-posladki
+insured her waistline against the expansion-talia
+Energy consumption is still rising up/keeps growing especially in the cities. Therefore, it became reasonable to produce energy directly in cities.-zuzycie energii nadal rosnie/ciagle rosnie szczegolnie w miastach. Dlatego stalo sie rozsadne produkowac energie bezposrednio w miastach
+numbers in hashcode should be distributed evenly....-liczby w hashcode powinny byc rozprogagowane evenly
+when use immutable object you are ensured/assured/guaranteed-kiedy uzywasz immutable jestes zapewniony
+safety, security, protection-bezpieczenstow x3
+necessity, need/extreme-koniecznosc/ostatecznosc
+o go/to drive sb to extremes-doprowadzic kogos do ostateczności
+Python handles those gritty details behind the scenes-piaszczysty, zwirowaty
+Therefore, __del__() can be executed in a predictable manner, even when multiple objects are deleted within a short span-dlatego del moze byc wykonane w przewidywalny sposob nawet kiedy wiele obiektow jest usuwanych w krotka rozpietosc/okres
+Rather than guess, Python sidesteps it by simply leaving the objects in memory.-zamiast zgadywac. python omija/obchodzić szerokim łukiem/krok w bok to poprzez proste zostawianie obiektow w pamieci
+customize an object’s teardown-dostosowac rozbiorke obiektu
+careful, cautios-ostrozny
+drawback, setback, shortage-wada, niepowodzenie, niedobor
+renew the injury-odnowic kontuzje
+(prawniczy) misadventure, unfortunate accident-nieszczesliwy wypadek
+The first pull request is to mimic the update and removal of CoverageCapacity_Huawei.py-imitowac, udawac
+entities mimicking tables-imitowac, udawac
+there is a lot of magic numbers and obscurely named variables (like f3, g4, g4, g5)-zaciemniac, zaslaniac
+Just as a traffic sign may be obscured by shrubs-zasloniety przez krzewy
+Good code should be descriptive. Comments should be used as necessity/absolute need-dobry kod powinien byc opisowy, komentarze powinny byc uzyte jako koniecznosc

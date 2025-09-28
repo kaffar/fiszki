@@ -1,0 +1,42 @@
+as the current solution is not exclusive to javascript, we may connect with other clients-obecne rozwiązanie nie jest wyłączne dla
+exclusive story-historia na wylacznosc
+These two aren’t mutually exclusive-nie wykluczaja sie wzajemnie
+ensure exclusive access to any mutable components-zapewniać wyłączny dostęp do dowolnych zmiennych elementów
+class that’s used exclusively for unit tests-wylacznie
+any attempt would certainly be contrived.-wymyslony, wydumany
+All the examples are contrived.-Wszystkie przykłady są wymyślne.
+as a slightly contrived example-jako nieco wymyślony przykład
+it is a requirement to have a random generator (2) to contrive temperatures with some random intervals-aby wymyślać temperatury z pewnymi losowymi odstępami czasu
+on par with those in the java platform libraries-na równi z bibliotekami platformy Java
+on par-na równi
+stay on par with the competition-utrzymac sie na rowni z konkurencja
+on par with websocket, sse is used a lot in this book-na rowni
+ever since its inception in 2009-od momentu powstania w 2009 roku
+inception-poczatek, powstanie
+with the inception of html5, all modern browsers have a javascript api called eventsource-z początkiem html5
+conciseness-zwiezlosc
+for the sake of conciseness, we are implementing only a simple web application-dla zachowania zwięzłości
+concomitant; the move to a foreign country and other concomitant changes depressed her a lot-towarzyszacy, wspolwystepujacy
+starting with spring framework 4.2, this implementation and concomitant api was extended-i towarzyszące jej api 
+adorable-wspanialy, cudowny
+plenty of adorable libraries-mnóstwo uroczych bibliotek
+prominent, outstanding, distinguished-wybitny x3
+prominent, outstanding, remarkable-wybitny x3
+prominent candidate for such a role-wybitny kandydat do takiej roli
+standpoint-punkt widzenia
+It just makes sense from a business standpoint. -> Tylko to ma sens z biznesowego punktu widzenia.
+this might be costly from the business perspective or critical from the application standpoint-może to być kosztowne z punktu widzenia biznesowego lub krytyczne z punktu widzenia aplikacji
+allocation of an additional thread might be wasteful-marnotrastwo
+it’s wasteful to go through the same channel to fetch it again-to rozrzutny, rozrzutnosc/marnotrastwo zeby isc przez ten sam kanal by wyciagnac to jeszcze raz
+that would be hideously wasteful, hideous- ohydne marnotrastwo
+it would merely encourage wasteful copying-zachęcałoby to tylko do marnotrawstwa kopiowania
+waste, wasteful-marnotrastwo, odpady
+all of these things can be so easily attained.-osiagnac
+attain-osiagnac, zdobyc, dopiac swego
+dream impossible to attain-sen niemożliwy do osiągnięcia
+in order to attain this goal-aby osiągnąć ten cel
+used to attain a reactive system-wykorzystywane do osiągnięcia systemu reaktywnego
+surfeit; He couldn't do without a surfeit of food and now he's overweight-nadmiar
+admission, admissible-przyjecie, wstep | dopuszczalny
+aberrant-odmieniec, nieprawidlowy
+incipient; The signs of incipient madness were becoming more and more pronounced-w stadium poczatkowym

@@ -1,0 +1,50 @@
+equal sized heap regions, each a contiguous range of virtual memory-przylegly, ciagly
+the memory for stack needs not to be contiguous-pamięć stosu nie musi być ciągła
+contiguous-przylegly, zwarty, sasiedni, ciagly
+even if garbage collection is compulsory in heap area-obowiazkowy
+compulsory redundancies are always a touchy subject-obowiazkowe zwolnienia to dotkliwy temat
+school shouldn't be compulsory-szkola nie powinna byc obowiazkowa
+mandatory, obligatory, compulsory school-obowiazkowa szkola
+compulsory drug test, compulsive overeating-obowiazkowy test, przymusowe/nalogowe objadanie sie
+touchy-drazliwy
+often we will end up amidst things that are not managed by jvm-wsrod
+you don’t need to bother with problems like destroying objects, all credits to the garbage collector-cale uznanie/zaslugi dla GC
+The irony is that many blame (or credit) Spring with the demise of EJB.-ironia jest to ze wiele winy albo chwaly jest ze zgonem ejb
+What he will have is credit for the initial design.|I just get credit for not selling it.-uznanie za, zasluga
+it never crossed my mind to get credit for we do-nigdy nie przyszło mi do głowy, żeby zdobyć uznanie za to co robimy
+ripe-dojrzaly
+the quality control revealed the shortcomings in the production process-niedociagniecia, braki
+goals of a test framework and the shortcomings of current test frameworks-braki, niedociagniecia, wady
+The current EdenNET architecture has some shortcomings and technical debt that create a lot of problems-niedociagniecia braki i dlug techniczny
+shortcomings of current test frameworks-braki, niedociagniecia
+check out other options too-sprawdź też inne opcje
+check out your mailbox-sprawdz skrzyne pocztowa
+no lines, no checkouts, no registers-brak kolejek, brak kas, brak rejestrow
+The store is about to close. Please proceed to the checkout-sklep bedzie zamkniety, prosze udac sie do kasy
+checkout girl-kasjerka
+Below activity is completed. Please perform application checkouts-sprawdzic, kontrola, kasa, wymeldowac sie
+checkout review activity-read what people have been saying in the review
+checkout, audit-kontrola, sprawdzic x2
+checkout our website for directions-sprawdz nasza strone o kierunki
+checkout lines-linie kasowe
+'four big things' that Chinese families would crave.-pragnac, pozadac
+craven-tchorz
+crave sth (m5)-bardzo czegos pragnac
+afire-w ogniu
+And you suffocate in my kiss-dusic sie
+UK who drink far more than that and get intoxicated-odurzony
+seep-saczyc, przesiakac
+stew-gulasz, dusic potrawke
+fang-kiel
+nettles-pokrzywy
+cloakroom-szatnia
+cloak-plaszcz, peleryna
+rummage-grzebać; szperać; szukać; przetrząsać
+I was washing up while she was drying the dishes-Zmywałam, podczas gdy ona suszała naczynia
+drought; draught-susza; przeciag
+the room is extremaly draughty; draught-pelen przeciagow, przeciag
+He winked at me-mrugnac
+wink-mrugac, puszczac oczko
+quivering hand-drżąca ręka
+lips curled into a sneer-usta wykrzywiły się w szyderstwie
+curl-zwijac, lok, kulic sie

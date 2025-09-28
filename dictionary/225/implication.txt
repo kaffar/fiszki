@@ -1,0 +1,12 @@
+Although the choice you make will have implications for how your data is cached, it will have no bearing on the way you declare caching rules in Spring.-Chociaż dokonany wybór będzie miał wpływ na sposób przechowywania danych, nie będzie miał wpływu na sposób deklarowania reguł buforowania na wiosnę.
+The implication is that clients aren’t resilient to changes in network topology.-odporny na zmiany
+Understanding the implications of agile methodologies on operations-Zrozumienie wpływu zwinnych metodologii na operacje
+make sure that you understand the implications of using them. Use of spies implies that your Java code suffers from design problems-upewnij się, że rozumiesz konsekwencje ich używania. Używanie szpiegów oznacza, że twój kod Java cierpi na problemy z projektowaniem
+usage requirements and their implications-konsekwencje
+there is hidden implication/imply-sugerowac, pociagnac za soba
+draw conclusions about the implications-wyciągać wnioski na temat skutków
+implications-wplyw, skutki
+fixing implications/consequences rather than causes-naprawiac konwekwencje, zamiast przyczyny
+consequences, implications, ramifications, fallout-konsekwencje
+making snap decisions without considering their implications-podejmowanie szybkich decyzji bez rozważania ich konsekwencji
+although webflux has some significant implications for the underlying mechanisms-konsekwencje, wplyw, skutki

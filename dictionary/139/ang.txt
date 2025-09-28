@@ -1,0 +1,25 @@
+The project aims to provide a unified, high=throughput, low=latency platform for handling real=time data feeds.-Celem projektu jest dostarczenie jednolitej, wysokiej przepustowości, platformy o małym opóźnieniu do obsługi kanałów danych w czasie rzeczywistym.
+an internal inquiry will be held to clarify this matter-wewnetrzne dochodzenie; wyjasnic sprawe
+engagement, long term commitment-zaangazowanie
+be inline with, current adherence to-zgodny, zgnodnosc
+contribute-przyczyniac sie, wniesc wklad
+content, contend,....-zadowolony,zawartosc | twierdzic(claim), walczyc, zmagac sie
+take measures, take steps-podjac srodki, podjac kroki
+what it is and how to make most out of BigDecimal?-co to jest i jak najlepiej wykorzystac BigDecimal
+The most basic way is to write data to the file system, but that can quickly become a slow and unwieldy way to solve the problem.-niewygodny sposob
+With great grief I am forced to announce that the demo will be postponed. Apologises for any inconvenience caused.-z wielkim smutkiem jestem zmuszony oglosic ze demo bedzie przelozone. przeprosiny za niedogodnosc spowodowana
+but that’s a little like using a tractor trailer to go on grocery runs-to jest troche jak uzyz przyczepy rolniczej zeby isc na zakupy spozywcze
+BigDecimal is for arbitrary=precision fixed=point numbers-BigDecimal jest dla dowolnej precyzji liczb
+objects can contain arbitrary amount of any data-losowy, dowolny
+We can use arbitrary interfaces as lambda expressions as long as the interface only contains one abstract method.-dowolny, losowy
+constant overhead-staly narzut
+unnneeded overhead-obciazenie, narzut
+adding more overhead for data injection-obciazenie, narzut
+run them using any Python VM with basically no runtime overhead-obciazenie, narzut
+it will not work out-to sie nie uda
+give me a notice-daj mi znac
+litter, trash, rubbish-smieci x3
+I'm writitng to you with regard to/in connection to/in order to communicate to/with the reference to phone conversation we had yesterday-pisze do pana w zwiazku z x3/ w nawiazaniu do rozmowy telefonicznej ktora mielismy wczoraj
+Following our telephone conversation earlier on today I'm writing to provide you with the information you have asked me for-po naszej wczesniejszej rozmowie telefonicznej pisze zeby dostarczyc informacje o ktore mnie prosiles
+post office-poczta
+wear & tear | No wear and tear, no scars. Just a little wear and tear-zuzycie na wskotek uzytkowania

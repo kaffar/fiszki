@@ -1,0 +1,35 @@
+﻿Could you list a few names of design patterns distiguished by their purpose, i mean creational, structural and behavioural? Could you give a few examples of each of them?- czy mozesz wymienic kilka nazw wzorcow projektowych wyroznionych po celu
+what kinds of tests can you distinguish-wyroznic
+´╗┐distinguish, stand out, stick out-wyrozniac sie x2, wystawac
+prominent, outstanding, distinguished-wybitny x3
+some ot these patterns were big time overkill-przesada, nadmiar
+media overkill - natarczywosc mediow
+The operations are "almost" the same, but using synchronized methods in a single thread is overkill.-przesada, nadmiar
+The ApplicationContext interface is the focal point of the Context module.-glowny/ogniskowy punkt
+It will be one of the focal points, one of the priorities of our Presidency.-Będzie to jeden z głównych punktów, jeden z priorytetów naszej prezydencji.
+The functions that span multiple points of an application are called cross=cutting concerns-funkcje ktore obejmuja/rozciagac sie wiele punktow aplikacji sa nazywane przekrojowe/tnacy na ukos troski
+allowing it to scale naturally over the course of the project lifespan-w ciagu okresu zycia projektu
+(SON) solution employs a service=oriented architecture (SOA) design whereby components communicate to each other via HTTP calls with data serialized in JSON format-son wykorzystuje soa design za pomoca ktorego komponenty komunikuja sie ze soba
+process whereby interested parties/wherein-za pomoca ktorego, po ktorym/w ktorym
+feature, characteristic-cecha
+Batch number 232 is being recalled to the factory-partia towaru 323 zostala zwrocona do fabryki;odwolywac, przywolywac, przypominac sobie
+reminds, resembles, recall-przypomina
+In conclusion, Parliament recalls the discussion on collective redress.-Podsumowując, Parlament przypomina dyskusję na temat roszczeń zbiorowych.
+I would like to refer for a while to collective redress, which is very important.-Chcialabym odniesc sie na chwile do roszczen zbiorowych, co jest bardzo wazne.
+with no redress-zadoscuczynienie, rekompensata
+what do we need to redress this situation?-co potrzebujemy do naprawienia tej sytuacji
+internal mail-poczta wewnetrzna
+we are satisfied with the execution of the contract and we would like to prolong our cooperation further-jestesmy zadowoleni z realizacji kontraktu i chcielibysmy przedluzyc nasza wspolprace
+to what extent do you agree?-w jakim stopniu sie zgadzasz?
+Globalisation, however, affects all human activity to a greater or lesser extent.-Lecz globalizacja ma mniejszy lub większy wpływ na wszystkie działania człowieka.
+Unless we proceed to some extent by the book, then things will get out of hand.-Jeśli nie będziemy przestrzegać procedur, sprawy wymkną się nam spod kontroli.
+extent-stopien, rozmiar
+we would like to draw your attention to the fact-chcielibysmy zwrocic twoja uwage na fakt
+we must comply with these regulations-dostosowac sie, zgodny
+doctor should absolutely refuse to comply., comply with-dostosowac sie; zgodny
+we must all unite to eliminate bribery-musimy sie zjednoczyc zeby wyeliminowac lapowkarstwo
+One of the most predominant problems in Latin America is social inequality.-Jednym z glownych/dominujacy, przewazajacy problemow w Ameryce lacinej jest nierownosc spoleczna.
+Licit cultivation would add to illicit cultivation, not replace it.-Legalna produkcja istniałaby obok nielegalnej, natomiast nie zastąpiłaby jej.
+practice of offering money in order to gain an illicit advantage-praktyka oferowania pieniędzy w celu uzyskania nielegalnej przewagi
+these include predominantly rich countries such as Iceland-przewaznie, glownie, w przewazajacej wiekszosci
+arms and defence industry-przemysl zbrojeniowy i obrony

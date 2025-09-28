@@ -1,0 +1,34 @@
+develop contingency plan-opracowac plan awaryjny
+contingency-ewentualnosc, mozliwosc, a possibility of happening sth unpredicted
+indirectly, indirect, implicity, transitively-posrednio
+transitional/temporal solution-przejsciowe rozwiazanie
+But even if somebody wanted to use it they wouldn't be able to figure out how to. It's incomprehensible/incomprehensive/.-niepojety, niezrozumialy, zrozumiec
+comprehensive election audition, comprehend, comprehension-kompleksowy, zrozumiec, zrozumienie
+comprehensive-wszechstronny
+But what if you want to return some result from your background task?-przeszlosc, glowny task
+Well, CompletableFuture.supplyAsync() is your companion.-towarzysz
+I did not go there to elicit any response.-Nie poszedłem po to, by uzyskać jakąkolwiek odpowiedź.
+Anything that stimulates that part of the brain Can elicit those feelings.-Cokolwiek, co stymuluje tę część mózgu, może wywołać te uczucia.
+LL Programme are eliciting requirements and will provide a HLBRD.-wywolac, uzyskac
+callback method, e.g. callback method to the CompletableFuture-oddzwonic
+all employees must undergo compulsory drug tests-wszyscy pracownicy musza przejsc obowiazkowy test narkotykowy
+Learning a foreign language was not compulsory-obowiazkowy jezyk obcy
+compulsory redundancies are always a touchy subject-obowiazkowe zwolnienia to dotkliwy temat
+comma, dot, dash, colon- przecinek, kropka, myślnik, dwukropek
+Controller will invoke handlers for an event serially even when using the AsyncEventBus.-seryjnie, jeden po drugim
+A very powerful feature of the EventBus is that you can make your handlers as course or fine grained as needed.-w miare potrzeb, tak dokladny
+obsolete/out of date/outdated/antiquated/stale comments are worse than their lack.-przestarzaly
+loan origination-udzelanie pozyczke, powstanie, tworzenie
+Thanks everyone for sticking with this throughout. -Dziękuję wszystkim za trzymanie się tego przez cały czas.
+Understanding the implications of agile methodologies on operations-Zrozumienie wpływu zwinnych metodologii na operacje
+In short: you should not only pay attention to the unicity of your cache keys, but also to the size of the actual cache key being generated.-jednolitosc, jedynosc
+Well, most of the cultural spread that goes on is not brilliant, new, out of the box thinking.-nie jest genialnym, nowym, nieszablonowym mysleniem.
+provide methods beyond what comes out of the box.-dostarczy metody ponad to co przychodzi w standardzie
+cross cutting support-przekrojowy suport
+out of the box thinking-niestandardowe, nieszablonowe myslenie
+Okay, come on, team huddle time!-Ok, czas na naradę drużyny!
+huddling for solutions-naradzac sie o rozwiazanie
+Some have kept warm by huddling together.-Niektóre utrzymywały ciepło trzymając się razem.
+When the rest of the world was huddling in caves, this stood.-Kiedy reszta świata chowała się w jaskiniach, ona stała.
+overkill,too much,exaggeration, excessive-przesada
+I met sales targets for every month and exceeded annual objectives by 20%-Osiągnąłem cele sprzedaży dla każdego miesiąca i przekroczyłem cele roczne o 20%

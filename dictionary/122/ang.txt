@@ -1,0 +1,36 @@
+guidebook, guideline-przewodnik/wytyczne, wskazowki
+types of tests-rodzaje testow
+instead of/rather than-zamiast
+we have virtually mountains of memory-mamy praktycznie gory pamieci
+memory used to be frightfully expensive, be frightfully tired-strasznie
+in the vast majority of the program you cannot...-w zdecydowanej wiekszosci, duzy, rozlegly
+The store is about to close. Please proceed to the checkout-sklep bedzie zamkniety, prosze udac sie do kasy 
+advaise how to proceed-radzic jak postepowac
+be more deliberate in the attempts-byc bardziej celowy/rozmyslny w probach
+temptation-pokusa
+Letĺs attempt some mind reading-sprobujmy czytac w myslach
+As the futile attempts by the police to catch the notorious Taxi Killer-daremne
+tempting work, work trials, trial period-okres probny
+After many more minutes of struggle and failed attempts to extricate yourself from the situation-wydostac sie
+Itĺs tempting to play the odds in this situation-szanse (chyba miec nadzieje na)
+I'm by no means trying to create a Python bias to this book-w zadnym razie nie staram sie; przychylnosc/stronniczosc
+this paper is bias towards/in favour of that party-ta gazeta wspiera ta partie
+you can easly infer what the program does / type is infer(ed) from-wywnioskowac z
+type inference-wnioskowanie typu
+tests are not inferior and are not disposable-testy nie sa gorsze i nie sa jednorazowe, pozbywalne, do dyspozycji
+function has a side effect = assignment statement-efekt uboczny
+polimorphicly dispatch to a appropriate method-wyslac
+we don't go through all that code in gory detail here-krwawe, brutalne, intymne
+I presume you are here because...-przypuszczam
+seldom-rzadko
+create objects on the fly-w locie, bez przygotowania
+matchmaking in objectville-swatanie
+for instance, if we have....-na przyklad
+reduce computation or network latency-opoznienie, czas oczekiwania
+latency-opoznienie (czas miedzy wyslanie requestu a odpowiedzia)
+put the code from the if statements into their respective states-odpowiedni, poszczegolny
+irrespective of the direction-niezaleznie od kierunku
+CopyOnWriteArrayList is habitat seen in the vicinty of the java 5-siedlisko, srodowisko / okolica, sasiedztwo
+but there could be a sign in each animal habitat-siedlisko, srodowisko
+even software developers were in vogue-moda, byc w modzie
+what are the odds;odd-jakie sa szanse, dziwny

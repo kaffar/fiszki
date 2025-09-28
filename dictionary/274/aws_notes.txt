@@ -1,0 +1,51 @@
+AWS Budgets - custom budgets and alerts
+AWS Cost Explorer - visualise my costs over time
+AWS Cost & Usage Report - the most comprehensive set of costs
+AWS Pricing Calculator - estimate costs before ordering
+AWS Trusted Advisor - provide guidance to provision resources optimally
+AWS Health Dashboard - provides alerts and remedial guidance
+AWS GuardDuty - threat detection against your aws account
+AWS Knowledge Center - most frequest Q&A
+AWS Marketplace - parnters can sell/buy software
+AWS Support Center - to create tickets for support
+Penetration testing - security asssessment of infrastructure and services
+Amason Inspector -  security assessment of my stuff
+AWS Macie - machinelearning to protect sensitive data in aws
+AWS Step Functions - allows to create workflows of other services
+Amazon Lightsail - simplified servers for e.g. website
+AWS Elastic Beanstalk - automatically handles deployment, autosacalling, it is not serverless
+Amazon Sagemaker - machine learning services
+Amazon Cognito - allows to login and create account (sing in, sing up) via Facebook...
+AWS Key Management Service - allows to create and manage keys
+AWS Artifact - security and compliance reports like SOC, PCI
+AWS Systems Manager - gives visiblity and control of infrastructure
+AWS Device Farm - allows to test an app on different mobile devices
+Amazon Aurora - relational databases
+AWS Shield Standard - ddos attacks enabled by default for free
+VPN - secure connection between on=premises and cloud
+VPC - private isolated part of cloud = resources and network
+AWS CloudFormation - file with config
+coding - AWS CodeCommit => CodePipeline => CodeDeploy
+Amazon ElastiCache - cache and im=memory database
+Amazon RDS - amazons proprietary relational db
+Amazon DynamoDB - NoSQL = key=value and document
+Amazon Athena - analyse data in S3 using SQL, serverless, pay by query
+Amazon Redshift - data warehouse with access by sql
+AWS Fargate - serverless engine for containers, other solutions are Amazon Elastic Container Service and Amazon Elastic Kubernetes Service
+Amazon Kendra - machine learning to search into files
+Amazon Personalize - machine learning for personalized adds
+Amazon Comprehend - natural language process + files
+Amazon Lex - conversational interfaces using voice and text
+Amazon Cloudwatch - logs
+AWS CloudTrail - auditing aws account
+Amazon EFS - available for EC2 for many regions, vpc, AZ
+AWS Direct Connect - connection from on=premises to aws
+AWS Transit Gateway -like direct connect but through a central hub which makes it easier
+Amazon API Gateway - front door
+Amazon CloudFront - global content delivery, speed up
+AWS Web Application Firewall - filter/block http/https requests to Gateway, CloudFront or Load Balancer
+Amazon Rekognition - images
+Automatically enabled encryption - S3, AWS Storage Gateway
+Regional services - lambda, rekognition
+High availability - dynamoDB, EFS = multiple AZ by default
+Support plans - Developer, Business, Enterprise On=Ramp, Enterprise

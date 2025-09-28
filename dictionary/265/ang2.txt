@@ -1,0 +1,22 @@
+but if you want to have a say in where a pod should be scheduled-ale jeśli chcesz mieć wpływ na to, gdzie powinien być zaplanowany strąk
+objects can contain arbitrary amount of any data-losowy, dowolny
+We can use arbitrary interfaces as lambda expressions as long as the interface only contains one abstract method.-dowolny, losowy
+is an arbitrary client name, which is used to create a Ribbon load balancer-przypadkowy
+Understand, none of this was arbitrary.-Zrozum, to nie było przypadkowe.
+arbitrary-arbitralny, dowolny, przypadkowy, samowolny
+you end up with a big, incomprehensible mess-kończysz z wielkim, niezrozumiałym bałaganem
+your roommate recently bought a canary for the room-twój współlokator niedawno kupił kanarek do pokoju
+canary-kanarek, kanarkowy kolor
+do they represent a single whole or are they independent components-czy stanowią one jedną całość, czy też są niezależnymi komponentami
+consequently, communication between pods is always simple-dzięki temu komunikacja między strąkami jest zawsze prosta
+Health contributes to productivity, employment and consequently to economic growth.-w konsekwencji, w rezultacie
+consequently, it is prohibited for it to call onnext() after oncomplete() or onerror()-w konsekwencji, w rezultacie
+no other processes are running alongside it-nie są uruchomione żadne inne procesy obok niego
+The human will have no memory of what it transpire. -> Człowiek nie będzie nic pamiętał, z tego, co się jej przytrafiło.
+to help you visualize what transpired, look at figure 2.6-Aby ułatwić sobie wizualizację tego, co się wydarzyło, spójrz na rysunek 2.6.
+if you have a keen eye, you may have noticed that-jeśli masz bystre oko, być może zauważyłeś, że
+keen-chetny, zapalony, bystry
+As you are keen swimmer, I can refer you-ponieważ jesteś zapalonym pływakiem, mogę ci polecic
+keen, what type of music are you keen ...-keen on
+impedance mismatch-niedopasowanie opornosci (electrical engineering term)
+If I don't have additional topics/If I am not disturbed by extra topic-jesli nie bede mial dodatkowych strzalow z boku

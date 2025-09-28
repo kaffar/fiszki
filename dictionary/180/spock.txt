@@ -1,0 +1,23 @@
+how Spock fits the existing paradigm and practices-jak Spock pasuje do istniejącego paradygmatu (model, przyjęty sposób widzenia rzeczywistości w danej dziedzinie)
+Or perform crash tests with dummies, which is much more fun.-Lub wykonaj testy zderzeniowe z manekinami, co jest o wiele przyjemniejsze.
+it would also be foolish to release a car without testing it as a whole on the road-glupi
+different requirements and need different accommodations in the software lifecycle of a project-zakwaterowanie, nocle, dostosowanie, przystosowanie
+commercial load balancers also have restrictive licensing models geared toward a fixed capacity rather than a more variable model.-komercyjne load balancery mają również restrykcyjne modele licencjonowania nastawione na stałą moc, a nie na bardziej zmienny model.
+Table 7.1 is intended as a rough guide and is geared toward large enterprise projects-nastawiony na
+testing pyramid that shows the percentage of tests from each category that compose your whole testing suite-apartament, zestaw/komplet
+Breakdown of total test count for each test category in a large enterprise application-Podział całkowitej liczby testów dla każdej kategorii testowej w dużej aplikacji korporacyjnej
+downturn;breakdown;breakthrough-zalamanie, spadek;zalamanie, awaria, struktura podzial;przelom, odkrycie
+The following table provides a breakdown of this book's exam coverage-zalamanie, tutaj struktura
+He had a breakdown after my mother died. emotional breakdown-Miał załamanie po tym jak umarła moja matka.
+A breakdown on the second program, fix it at once.-Awaria na programie drugim, natychmiast naprawić.
+The projects were created strictly for illustration purposes, so take notice of the Spock tests instead of the “production” code-zwrocic uwage
+The selection of examples in this chapter is indicative of Spock capabilities-Wybór przykładów w tym rozdziale wskazuje na możliwości Spocka; wskazujacy, orientacyjny
+All the examples are contrived.-Wszystkie przykłady są wymyślne.
+I know this is extremely contrived, but here after you call otherMethod()-wymyslony, wydumany
+Of course, this dessert=eating example is contrived to illustrate how autowiring can run into trouble with ambiguity-oczywiscie, ten przyklad jest wymyslony/wydumany zeby zilustrowac jak autowiring moze wpasc w klopoty z dwuznacznoscia
+tests with lots of test data that spans multiple input variables-test data that obejmuja/rozciagac sie wiele danych wejsciowych
+An integration test spans multiple Java classes and examines the communication among them-Test integracji obejmuje wiele klas Java i analizuje/bada komunikację między nimi
+Spring test facilities-udogodnienia/urzadzenia
+facility;facilitate-latwosc, udogodnienie; ulatwiac
+The takeaway of this section is that-Na wynos z tej sekcji jest to
+against the mentality of writing Spock tests-mentalnosc

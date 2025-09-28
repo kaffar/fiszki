@@ -1,0 +1,40 @@
+can lead to insidious bugs and security holes-może prowadzić do podstępnych błędów i dziur bezpieczeństwa
+What’s insidious about problems caused by poorly performing remote services is that they’re not only difficult to detect, but can trigger a cascading effect that can ripple throughout an entire application ecosystem.-podstepny, fala/falowac
+insidious-podstepny, zdradziecki (od naznaczony)
+One way is to narrow the change footprint-slad (stopy)
+increases memory footprint-zwiększa powierzchnię pamięci
+this item should not be misconstrued to imply that object creation is expensive and should be avoided-zle interpretowany
+misconstrued-zle interpretowany, zle zrozumiany
+advocacy, endorsement, support, backing-poparcie
+financial backing-wsparcie finansowe
+they give financial backing in the form of grants-wsparcie finansowe
+adapter has backing object-obiekt podkładowy
+not only is the performance improved, but arguably, so is clarity-wydajność jest nie tylko ulepszona, ale prawdopodobnie także jasność
+it is wishful thinking to assume that a single dictionary will suffice for all time-pobożnym życzeniem jest założenie, że jeden słownik wystarczy na zawsze
+wishful thinking-pobozne zyczenie
+Quite often, such simple fakes suffice for handling awkward collaborations-wystarczyc
+the constructor is provided expressly so that it cannot be invoked-konstruktor został udostępniony wyraźnie, aby nie można go było wywołać
+provides an ironclad guarantee against multiple instantiation-pancernik, murowana
+take care of the elvis impersonator-naśladowca, sobowtór
+a new instance will be created, leading, in the case of our example, to spurious elvis sightings-w naszym przykładzie doprowadzi do fałszywych obserwacji elvisa
+spurious sightings-falszywe obserwacje
+system component that is intrinsically unique-składnik systemu, który jest z natury wyjątkowy
+intrinsic/extrinsic parameters-wew/zewnetrzne parametry
+there is nothing intrinsic to the situation-wrodzony, nieodlaczny
+intrinsic part of the coffee class-nieodlaczny, wewnetrzny
+intrinsically innocent-wewnetrzny, nieodloczny niewinny
+obsolete constructors or static factories will stick out like a sore thumb-przestarzałe konstruktorzy lub statyczne fabryki wystają jak obolały kciuk
+heart attack, sore throat, lung cancer-zawal serca, bol gardlo, rak pluc
+Didn't want to push any sore spots.-Nie chciałem naciskać żadnych drażliwych punktów.
+Thank you for all the hard work. You’ll be sorely missed.-bedzie nam ciebie bardzo brakowalo
+are sorely tempted to use globals or singletons in cases where only one object should exist-bardzo, bolesnie / obolaly, bol
+no i think just typical soreness after workout-bol po treningu
+sore note can ruin it-falszywa nuta moze wszystko popsuc
+i have a sore throat-boli mnie gardlo
+allows inconsistency, mandates mutability-pozwala na niespójność, wymusza zmienność
+javabean may be in an inconsistent state partway through its construction-javabean może być w niespójnym stanie w połowie/czeswiowo swojej budowy
+check invariants involving multiple parameters-niezmienniki
+a class is able to maintain certain invariants about its internal data-niezmienniki
+the javabeans pattern precludes the possibility of making a class immutable-wyklucza możliwość uczynienia klasy niezmienną
+preclude, exclude, rule out,eschew-wykluczyc x4
+discipline does not preclude thought-dyscyplina nie wyklucza myslenia

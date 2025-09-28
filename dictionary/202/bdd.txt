@@ -1,0 +1,39 @@
+why are you building software in the first place-po pierwsze, wogole, przedewszystkim
+We shouldn't have landed here in the first place.-po pierwsze
+her father skimmed across the paper-przejrzec
+skimmed; semi=skimmed-odluszczone, pol=tluste
+If you're an EJB expert, you can probably get away with probably a quick skim-przejrzec, przeczytac pobieznie
+skim, go through, review the specification/code-przejrzec kod
+price skimming and similar practices must be strategically justified-przejrzec, przeczytac pobierznie, odtdlusczone mleko
+you should at least skim the-przejrzec, przeczytac pobieznie, odtluszczone mleko
+According to Spring’s critics, Spring is all about configuration. Certainly there’s an XML file or Java configuration class we’ve overlooked.-przeoczyc
+There's just some things you can't overlook.-Pewnych rzeczy nie da się przeoczyć.
+overlooked or skimmed over requirements-przeoczone lub przejrzane pobieznie wymagania
+Although the choice you make will have implications for how your data is cached, it will have no bearing on the way you declare caching rules in Spring.-Chociaż dokonany wybór będzie miał wpływ na sposób przechowywania danych, nie będzie miał wpływu na sposób deklarowania reguł buforowania na wiosnę.
+it will have little or no bearing on the original business objectives-będzie to miało niewielki lub żaden wpływ na pierwotne cele biznesowe
+bearing-wplyw
+folk, folks-ludowy; ludzie
+folks rack up excess minutes by talking too much-nibijac, nazbierac
+she managed to sleep contentedly-z zadowoleniem
+they aren't contented-nie są zadowoleni
+Dev/prod parity-rownosc, rownorzednosc
+vendor parity-rownosc, rownorzednosc
+equity, equality, parity-kapital wlasny; rownosc x2
+parity-rownosc, rownorzednosc
+The work is not glamorous, but at least I was working in one of the most beautiful places on Earth-praca nie jest urocza/bajeczna ale przynajmniej pracuje w jednym z najpiekniejszych miejsc na ziemi
+open stores in glamorous locations-uroczy, bajeczny
+predicament; You have put me in some kind of a predicament, gentlemen.-tarapaty, trudna sytuacja
+You are in predicament, You are faced with a dilemma-trudna sytuacja, tarapaty
+How did we get ourselves into this predicament?-Jak znaleźliśmy się w tej trudnej sytuacji?
+reduce lost revenue from lapsed memberships; be reminded of lapsing membership-zmniejszyć utracone dochody z utraconych członkostwa; przypominać o wygaśnięciu członkostwa
+there is no standard or canonical format that you must use-kanoniczny; klasyczny (zwykły lub standardowy stan lub zachowanie czegoś)
+may be enough to entice you to rewrite all your JUnit tests in Spock-naklonic, zachecic
+enticed-zwabiony/kusic
+entice-kusic, zwabiac
+entice,temp-kusic x2
+entice clients into renewing their memberships-naklonic/zachęcić klientów do przedłużenia członkostwa
+this is my bread and butter-to moj chleb powszedni
+User stories are bread and butter of Agile projects-chleb powszedni
+When writing computer programs of even moderate complexity-programy o umiarkowanym stopniu zlozonosci;lagodzic, oslabiac
+moderate drinking doesn't impact health-umiarkowane picie nie wpływa na zdrowie
+Those guys build a mediocre piece of software-mierny, przecietny kawalek softu

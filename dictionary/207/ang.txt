@@ -1,0 +1,57 @@
+volatile-zmienny, ulotny, niestaly, czesto zmieniajacy sie, niestabilny
+volatility-zmiennosc
+Study this album to learn the various ways to subdue rampant legacy code.-podporzadkowac szalony legacy code
+volatility invites rampant speculation-bujny, gwaltowny, nieokielznany
+test never should be a hindance- przeszkoda
+this is thankless, uproductive work-niewdzieczna, bezproduktywna praca
+session data may be inadvertently lost.-niechcacy
+which could inadvertently cause other parts of the application to think...-niechcacy
+inadvertently-nieumyślnie; niechcący; nieświadomie
+inadvertently break test by adding unexpected data into the database-przypadkowo, nieumyslnie, niechcacy
+this situation leads to complacency-samozadowolenie
+we need to lay the groundwork-musimy położyć podwaliny, podstawy, prace przygotowawcze
+the cost overweighs the value-koszt przewyższa wartość
+this leads to vicious circle-bledne kolo
+sustainable, sustain conversation/head injury-trwaly, zrownowazony, stabilny | podtrzymac, poniesc
+sustainable, sustained-trwaly i zrownowazony; znaczny, trwaly
+rock=solid automated acceptance tests-solidny, twardy jak skala
+this chapter will be of more interest to testers-ten rozdział będzie bardziej interesujący dla testerów
+onset of dementia-poczatek (wystapienie, pojawienie sie)
+if they are not written well from the onset-jeśli nie są dobrze napisane od samego początku
+Never opine short of certainty. -> Nigdy nie wydawaj opinii, nie mając pewności.
+You too will be asked to opine -> Ty też możesz wygłosić opinie.
+opine-wydac opinie, byc zdania, mniemac, sadzic
+Wait times vary by specialty and region-czasy oczekiwania roznia sie przez specjalnosc i region
+Accessibility to doctors who are well trained and at the cutting edge of their specialty-byc na biezaco/najnowszy ze swoja specjalnoscia
+but the specialty of the library is-specjalnosc
+compromised-kompromis/ugoda; ustepstwo; isc na kompromis, kompromitowac, narazac na szwank
+test outcome is already compromised-wynik testu jest juz spalony, skompromitowany
+how willing they are to learn new things-jak chętni są do nauki nowych rzeczy
+I'll be willing to take the offer that suits me the most-wezme oferte ktora bedzie pasowala do mnie najbardziej
+The workers have threatened to strike. Both sides are willing to discuss productivity and benefits-Pracownicy grozili strajkiem. Obie strony chcą omówić wydajność i korzyści
+The hallmark of the great human experiment... is the willingness to recognize one's mistakes. -> "Cechą charakterystyczną wielkich ludzkich eksperymentów"jest gotowość uczyć się na błędach.
+company stresses its willingness to-firma podkresla swoja gotowosc
+conductor of an orchestra-dyrygent/koordynator orkiestry
+email communication is conducted-komunikacja mailowa jest prowadzona
+each stage of the development was conducted professionally and in a timely manner-na czas
+conductor-a person who directs an orchiestra
+conduct requisite research-wymagany, rekwizyt
+corollary, As a corollary | Corollary of "people lie" is "people sin."-nastepstwo, naturalne nastepstwo
+The corollary of the preceding list is that-nastepstwo, naturalne nastepstwo, wniosek, wynik
+corollary-(naturalne) nastepstwo, wynik
+this is where step definitions come into play-tutaj definicje krokow wchodza do gry
+So even with that caveat, I knew that someone would buy the naming rights.-sprzeciw, zastrzezenie
+One little caveat. I... don't... believe you. -> Jedno małe zastrzeżenie, nie wierzę wam.
+I had to add a caveat in writing to her deal memo. -> Musiałam dodać zastrzeżenie do jej umowy.
+for the purists, this isn't strictly accurate-dla purystów nie jest to scisle/do końca dokładne; przesadna dbałość o czystość i poprawność językową
+deputy, replacement-zastepca
+but awakens to a message telling all personnel not to commute in and to stand by for an update-ale budzi się komunikat informujący wszystkich pracowników, aby nie dojeżdżali do pracy i czekali na aktualizację
+awaken-obudzic
+He is fussy and hard to manage-jest wybredny i trudny w zarzadzaniu
+dont be fussy-nie badz wybredny
+choosy, picky, fussy-wybredny x3
+this implementation requires intimate knowledge of threads and thread management-intymny, bliski; ta implementacja wymaga intymnej znajomości wątków i zarządzania wątkami
+Inappropriate Intimacy: Don't Stand So Close To Me | Sometimes classes become far too intimate-intymnosc, bliskosc
+intimate-intymny, bliski
+it should be intimately familiar-to powinno byc dobrze znane; intymnie, blisko
+its very intimate issue-to bardzo intymny problem

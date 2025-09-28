@@ -1,0 +1,38 @@
+simplistic implementation-uproszczona implementacja
+simplistic-uproszczony
+arrays are deficient-tablice są niewystarczające
+prefer lists to arrays-preferuj listy od tablic
+record the rationale for your decision to suppress the warning in a comment-zanotuj uzasadnienie swojej decyzji o pominięciu ostrzeżenia w komentarzu
+suppress exception-tlumic, zniesc blad
+When talking about the rationale behind this approach; rationality, soundness-racjonalnosc
+rationale-(racjonalne) uzasadnienie
+exceptions that may crop up from part of it-zbiory, plany, przyciac; tutaj pojawic sie
+you will not notice when a new warning crops up that represents a real problem-pojawic sie
+when you get warnings that require some thought, persevere!-kiedy otrzymacie ostrzeżenia wymagające przemyślenia, wytrwajcie!
+persevere-wytrwac
+perseverence-wyrwalosc
+kompilator wyliczy wówczas właściwy typ rzeczywisty - zastoskowac, domyslec sie
+you can then make the indicated correction-następnie możesz wprowadzić wskazaną korektę
+opt for a more expensive ticket-zdecydowac sie, wybrac, optowac
+legacy code that predates the introduction of generics.-poprzedzac
+predate-poprzedzac
+not to belabor the point, but the wildcard type is safe and the raw type isnt-nie wspominajac o tym
+belabor-roztrzasac
+Wysoką sądzie, nie chcę tego dalej roztrząsać.-Your Honors, I don't wish to belabor this any longer.
+column is dropped from the table altogether-zupelnie, calkowicie
+avoid queries altogether-calkowicie
+altogether vs all together-zupelnie, calkowicie vs wszyscy razem
+Type erasure allows your code to be compatible with older versions of Java that do not contain generics.-skasowanie
+erasur-skasowanie, usuniecie
+collectively-zbiorowo, wspolnie
+generic classes and interfaces are collectively known as generic types-zbiorowo, wspolnie
+if the classes are subservient to another class-jeśli klasy są podporządkowane innej klasie
+subservient-służalczy, ulegly, podpozadkowany
+utensils-przybory, naczynia
+kitchen utensils-przybory kuchenne
+if the class in question is ...-jeśli dana klasa to ...
+doubly-podwojnie
+it is doubly important to choose correctly between-podwojnie
+The pledge made by the Commission has been honoured. -> Obietnica złożona przez Komisję została dotrzymana.
+pledge-zastaw; przyrzeczenie; zobowiązanie
+pledge vs plead- zastaw; przyrzeczenie; zobowiązanie VS błagać, tłumaczyć się (czymś), bronić się w sprawie

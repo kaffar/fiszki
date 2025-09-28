@@ -1,0 +1,47 @@
+and soon become adept hunters themselves-i wkrótce sami stają się biegłymi łowcami
+adept-biegly, expert, zreczny
+the combination of these two items allows teams to become extremely adept at applying this architecture-połączenie tych dwóch elementów pozwala zespołom osiągnąć niezwykłą biegłość w stosowaniu tej architektury
+its likely that if a team brings on a new member the new member will be intimately familiar with the general architecture of their system again lowering on ramp up costs-jest prawdopodobne, że jeśli zespół zatrudni nowego członka, będzie on doskonale znał ogólną architekturę systemu, co ponownie obniży koszty wdrożenia.
+this implementation requires intimate knowledge of threads and thread management-intymny, bliski; ta implementacja wymaga intymnej znajomości wątków i zarządzania wątkami
+Inappropriate Intimacy: Don't Stand So Close To Me | Sometimes classes become far too intimate-intymnosc, bliskosc
+intimate-intymny, bliski
+it should be intimately familiar-to powinno byc dobrze znane; intymnie, blisko
+its very intimate issue-to bardzo intymny problem
+rampage-szalenstwo, atak szalu, zniszczenie, siac zniszczenie
+Study this album to learn the various ways to subdue rampant legacy code.-podporzadkowac szalony legacy code
+volatility invites rampant speculation-bujny, gwaltowny, nieokielznany
+Let's ramp up the pressure...-Zwiększmy presję...
+ramp up-przyspieszyć, gwaltownie wzrosnac
+rampaging rhino-szalejący nosorożec
+volatility invites rampant speculation-bujny, gwaltowny
+we are ramping up the dev stack-zwiekszamy stos developerski
+we are about to ramp down "old" stage application-wylaczyc
+the former contains only queries while the latter only executes commands-pierwszy zawiera tylko zapytania, a drugi tylko wykonywanie poleceń
+separate shards of memory-odlamki pamieci
+shard-odlamek, kawalek
+i.e. divides the data into shards-dzieli dane na kawalki
+concurrenthashmap uses a database shards logic-kawalki, fragmenty
+piece, shard, part-fragment
+shards of glass-odłamki szkła
+scalable command processing is accomplished with the idea of sharding-skalowalne procesowanie komend jest osiagniete z idea dzielenia na kawalki
+taking into account the events stored thus far-biorąc pod uwagę dotychczasowe wydarzenia
+thus far, we have discussed returning optionals-jak dotad, do tej pory
+mesh-siatka
+cqrs meshes well with the event sourcing idea-cqrs dobrze współgra z ideą pozyskiwania informacji o wydarzeniach
+he main novelty here is the use of a table-główną nowością jest użycie tablicy
+novel (idea), novelty-nowy, nowatorski; nowosc
+rehash; In her new novel she simply rehashed the story taken from the previous one-przerabiac
+tackle it in novel ways-zajac sie w nowatorski sposob
+the biggest novelty is the agreement-nowosc
+tackle it in novel ways-zajac sie w nowatorski sposob/borykac sie
+novel way to create and measure it-nowy sposob na stworzenie i zmierzenie go
+using a novel reactive approach that combines cqrs with ddd principles-uzywajac nowatorskiego reaktywnego podejscia
+He's rather untrustwhorthy (anczrastwerdi), in that he conveniently forgets that he owes you money-on jest raczej niezaufany, w taki sposob ze wygodnie zapomina ze jest winien pieniadze
+I owe a lot to-Wiele zawdzięczam
+oweniweluszenryi-of an evolutionary (w)
+Poza tym, jestem twoim dłużnikiem. -> Besides, I owe you one. I am in your debt
+owen-oven (w)
+I will buy you a beer/ I owe you a beer-postawic piwo
+owe-zawdzięczać, być winnym
+Kind of owe it to you and my dad. -> Poniekąd zawdzięczam to tobie i mojemu tacie.
+cloud technologies, owing to their capability for dynamic on=demand provisioning of computing resources-technologie chmurowe, dzięki możliwości dynamicznego udostępniania zasobów obliczeniowych na żądanie

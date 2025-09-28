@@ -1,0 +1,75 @@
+objectively asses/evaluate-obiektywnie oceniac
+business stakeholder-interesariusz/zainteresowana strona
+vertical axis represents-oś pionowa reprezentuje
+Teenagers are renowned for enjoying lengthy lie-slawa, slynny
+lengthy operation-przydluga/dluga operacja
+lengthy period of manual testing-długi okres testowania ręcznego
+chew-zuc
+stew-gulasz, dusic potrawke
+at least you dont get bored-przynajmniej sie nie nudzisz
+let's do quick and efficient meeting-zrobmy szybki i efektywny meeting
+additionally, as you are working on it, prepeare the demo presentation on monday-przy okazji przygotuj demo, przy okazji testowania przygotuj demo na poniedzialek
+we should act on it straightaway/rightaway-powinnismy dzialac od razu
+if nothing unexpected occurs, we should finish the sprint content on time-jeśli nie nastąpi nic nieoczekiwanego, powinniśmy zakończyć zawartość sprintu na czas
+subtract vs detract-odjąć vs umniejszyć
+Even many of EJB’s most rabid detractors would concede that MDBs were an elegant way of handling messages-nawet najbardziej wsciekli/zaciekli krytycy przyznaliby/ustapic ze MDB byly eleganckim sposobem obslugi wiadomosci
+briefing from CEO on their new expandable wheather station;brief-odprawa;na straty;krotki
+brief-give sb instructions what to do, e.g. briefing different staff group
+To understand the AMQP messaging model, it may help to briefly recall the JMS messaging model-przypomniec, zwrocic (do fabryki)
+briefing session-instruktaz
+find an unconventional solutions, think out of the box, be influenced and get ideas from another fields-znalesc niekonwencjonalne rozwiazania, myslec nieszablonowo, byc natknietym i czerpac pomysly z innych dzidzin
+elicit vs illicit-wywolac, uzyskac vs nielegalny
+I did not go there to elicit any response.-Nie poszedłem po to, by uzyskać jakąkolwiek odpowiedź.
+Anything that stimulates that part of the brain Can elicit those feelings.-Cokolwiek, co stymuluje tę część mózgu, może wywołać te uczucia.
+LL Programme are eliciting requirements and will provide a HLBRD.-wywolac, uzyskac
+Licit cultivation would add to illicit cultivation, not replace it.-Legalna produkcja istniałaby obok nielegalnej, natomiast nie zastąpiłaby jej.
+practice of offering money in order to gain an illicit advantage-praktyka oferowania pieniędzy w celu uzyskania nielegalnej przewagi
+come down with, fall (fell fallen) sick, get sick-zachorowac x3
+you probably came down with/got sick cold-prawdopodobnie zachorowales na przeziebienie
+It's at the tip of my tongue-Mam go na końcu języka
+broaden your horizons-poszerzac horyzonty
+it slows us down-to nas spowalnia
+in spite of the aforementioned precautions-wyzej wymieniony
+the alarm sounds and the operator is notified that a shutdown is needed (as a precautionary measure)-odezwie się alarm i operator zostanie powiadomiony, że konieczne jest wyłączenie (jako środek zapobiegawczy)
+it's just a precaution-to tylko środek ostrożności
+precautionary (as a precautionary measure)-zapobiegawczy
+precautionary-zapobiegawczy
+preoccupation-zainteresowanie, troska
+I understand your preoccupation, but, Jesse, I am running a business.-Rozumiem twoją troskę, ale prowadzę tu interes.
+Why this preoccupation with time?-Skąd to zainteresowanie czasem?
+preoccupation vs precaution-zainteresowanie, troska vs srodek ostroznosci
+her father skimmed across the paper-przejrzec
+skim milk-odtluszczone mleko
+If you're an EJB expert, you can probably get away with probably a quick skim-przejrzec, przeczytac pobieznie
+skim, go through, review the specification/code-przejrzec kod
+skimmed; semi=skimmed-odluszczone, pol=tluste
+price skimming and similar practices must be strategically justified-przejrzec, przeczytac pobierznie, odtdlusczone mleko
+you should at least skim the-przejrzec, przeczytac pobieznie, odtluszczone mleko
+evoke positive connotation-wywolac pozytywne skojarzenie
+Idle thread steals "in quotation marks" tasks from queue of other busy thread.-bezczynny watek kradnie w cudzyslowiu taski z kolejki innego zajetego watku
+We must face up to this problem and solve it.-Musimy zmierzyć się z tym problemem i ten problem rozwiązać.| stawiac czolo
+face up vs stand up to vs put up with-stawiac czolo vs sprzeciwic sie vs znosic
+I just didn't want to oppose you.-Po prostu nie chciałem ci się sprzeciwić.
+did you object the idea introduced at a work meeting openly-sprzeciwic sie otwarcie pomyslowi zgloszonemu na spoktaniu
+new prime minister has opposed the sale of airport-sprzeciwic sie
+defy (defied, w difaj)-przeciwstawiac sie, sprzeciwiac, ignorowac
+I might be wrong to defy the King. -> Może nie powinienem sprzeciwiać się królowi.
+oppose, object, go against, defy-sprzeiciwic sie
+we are heading towards finishing it according to the plan-zmierzamy do jego zakończenia zgodnie z planem
+I am happy to share that we are now opening submissions for language classes-zgloszenia do klas jezykowych
+The submission of an appeal shall not cause implementation of the disputed decision to be suspended. -> Złożenie odwołania nie powoduje wstrzymania wykonania zaskarżonej decyzji.
+submission-zlozenie; poddanie, uleglosc
+looking for submission-szukac poddania
+Genuine "limitlessness" must transcend even human conceptualization. -> Rzeczywista "nieskończoność" musi przekroczyć nawet ludzkie konceptualizacje na ten temat.
+But if you're lucky, you can transcend it. -> Ale, jeżeli jesteś szczęśliwy, możesz przewyższyć to.
+transcend-przewyzszyc, przekraczac
+strive for perfection-dążyć do perfekcji
+strive strove strive-dazyc do czegos, usilowac
+There’s a third approach, and that’s the one you should strive for-dazyc
+strive to make your system open for ...-starac sie
+strive	strove	striven-dążyć do czegoś, usiłować, krzątać
+there is hollow in me now-dziura, pusty
+If the entity object is not already managed by the EntityManager a hollow object might be returned-pusty, wydrazony
+The money laundering operation of the Armenian mob.-To operacja prania pieniędzy w armeńskiej mafii.
+mobster-gangster, mafiozo
+mobs tentacles-macki mafii

@@ -1,0 +1,27 @@
+frolic; The children are frolicking in the garden-figlowac, dokazywac, hasac
+putter; I enjoy puttering around in my garage-krzatac sie, paletac sie
+juggle; One of the performers was juggling with five balls-zonglowac
+swipe; She took a swipe at the ball but missed-zamachniecie sie, zamierzenie sie
+You just have to swipe in here and just go through;zamiatac-przesunac;zamiatac
+grab; I think you should grab some sleep before the exam-uciac (drzemke)
+default; The boxer won the game by default, because his opponent didn't show up-walkower
+forfeit-stracic, walkower, grzywna
+test waits five seconds before declaring forfeit-test czeka pięć sekund przed ogłoszeniem walkoweru
+you won by withdrawal/by forfeit/by default-wygrales przez walkower
+whitewash; The home team whitewashed the visitors 2=0-pokonywac, gromic
+whitewash; He 0=2 whitewash was a shock for the team's followers-przegrana do zera
+revelry; The sounds of revelry from upstairs kept her awake all night-hulanka
+rook; The rook can move any number of squares parallel to the sides of the chessboard-wieza (w szachach)
+shindy; I couldn't fall asleep because fo the shindy next door-wielkie przyjecie
+dotted line; Write your name on this dotted line-kropkowana linia
+domain; At that time the royal domain extended to 10,000 hectares-domena, posiadlosc ziemska
+sprawl; The suburbs sprawled to the horizon-rozciagac sie, ciagnac sie
+server/container sprawl-rozrastanie się serwera / kontenera
+with messy, sprawling, unruly code-zabalaganiony, rozlegly, niesforny kod
+sprawl-rozwalac sie, rozlesc sie
+sprawling-rozlegly
+sprawled-rozlozony, rozwalony
+sprawled on the damp ground-rozciągnięty na wilgotnej ziemi
+sprawl; sprawled-rozwalac sie, rozlesc sie; rozlozony, rozwalony
+sprawl; We've been driving through the sprawl of the city for hours-bezladne skupisko
+rustic; She liked the village's rustic charm-wiejski, rustykalny, sielski

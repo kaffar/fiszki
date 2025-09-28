@@ -1,0 +1,42 @@
+the lateral g=force measures the (sideways) left and right force of the vehicle.-g=siła boczna mierzy siłę (boczną) z lewej i prawej strony pojazdu.
+g=force values (two lateral and two longitudinal)-g=wartości siły (dwie poprzeczne i dwie wzdłużne)
+clock chime-kukulka
+Many web applications give the user an opportunity to chime in and send data back to the server.-dac uzytkownikowi okazje do zadzwonienia i wyslania danych spowrotem na serwer
+clock chimed midnight-zegar wybił północ
+five seconds after a single chime has sounded-pięć sekund po usłyszeniu pojedynczego gongu
+do not place anything on the steering wheel that insulates against heat-nie umieszczać na kierownicy żadnych przedmiotów izolujących od ciepła
+One way Spring helps you insulate your data access tier from the rest of your application-odizolowac data access tier od reszty aplikacji
+insulate-izolowac, odizolowac
+even in a safe language, you aren’t insulated from other classes without some effort on your part-nie jestes odizolowany
+insulate and seal up house-zaizolować i uszczelnić dom
+insulate-ocieplic, izolowac
+keep the driver and front passenger cooler in higher ambient temperatures-w wyższych temperaturach otoczenia
+ambient-otoczenie, otaczajacy
+ambient chillout lounge relaxing music-otaczajacy luzujacy hol relaksujaca muzyka
+pfa is the request/ response content for your perusal-do wgladu
+i'm enclosing ... for your perusal-lektura, uwazne przeczytanie
+separating resources in a multi=tenant environment-wielu wynajmujacych
+tenant, landlord-najemca, wynajmujacy
+tenant, landlord-lokator/najemca; wynajmujacy
+some models have outside mirrors that are hinged. the hinge allows the mirror to pivot forward and rearward to resist damage-Niektóre modele są wyposażone w lusterka zewnętrzne na zawiasach. zawias umożliwia obracanie lusterka do przodu i do tyłu w celu uniknięcia uszkodzenia.
+hinge-zawias
+pivotal-kluczowy, przelomowy
+That was a very pivotal time in my life. -> To był bardzo kluczowy okres w moim życiu.
+First: It is not a pivotal project in your career. -> Po pierwsze: to nie jest kluczowy projekt w twojej karierze.
+You have to be ready to pivot and move in an entirely new direction. -> Musisz być gotowy na obrót i ruch w całkiem nowym kierunku.
+srt vehicles equipped with the 6.2l supercharged engine comes with three key fobs-pojazdy srt wyposażone w silnik 6,2 l z doładowaniem są dostarczane z trzema breloczkami
+key fob-brelok, pilot
+you can inadvertently remove system resources-możesz nieumyślnie usunąć zasoby systemowe
+reasonable/sensible/viable solution-sensowne rozwiazanie
+I think the same-uwazam tak samo
+keep/comply/abide/stick to the acid principle-trzymac sie zasady
+in compliance with the law-z zachowaniem zasad prawa
+credentials-referencje, poswiadczenia
+overdue/back/arrears of/outstanding payments-zalegle wyplaty
+this way, processes cannot hog resources reserved for other processes-w ten sposób procesy nie mogą zawłaszczać zasobów zarezerwowanych dla innych procesów
+this method would hog the borrowed connection while waiting for the response-zajac, zablokowac, okupowac
+buck-dolar
+quid-funt
+grand-tysiac
+fiver, tener-piatak, dziesiatek
+1 cent, 5 centow, 10 centow, 25 centow-penny, nickel, dime, quarter

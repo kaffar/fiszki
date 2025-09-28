@@ -1,0 +1,97 @@
+I dont want to be picky but-czepialski, wybredny
+get stuck, is stuck-utknac
+Goose liver got stuck in her throat, poor thing.-Gęś utknęła mu w gardle, smutna sprawa.
+stuck of pending command objects-utknac, zablokowany przez oczekujace komendy
+stick   stuck   stuck-przyklejac
+I can't do anything because my computer hung. The skype is frozen. It freezes very often-nie moge nic zrobic bo moj komputer sie zawiesil. Skype sie zawiesil. On zawiesza sie bardzo czesto
+Is it doing anything apart from that/except that it exists?-czy to cos robi oprocz tego ze istnieje?
+Does anyone know what is happening to him?, I don't know what's happening to him...-Czy ktos wie co sie z nim dzieje?
+deceive, deception-oszukać, oszustwo
+doctor should absolutely refuse to comply., comply with-dostosowac sie; zgodny
+should be compatible with, consistent with, in compliance with, in accordance with, in line with-powinien byc zgodny z x5
+we must comply with these regulations-dostosowac sie, zgodny
+be inline with, current adherence to-zgodny, zgnodnosc
+adjust, comply, adhere, inline to | inline with, compliant, coherent | adherence, compliance-dostosowac, zgodny, zgodnosc
+compliance-dostosowac, zgodny, zgodnosc
+in compliance with plan-zgodny z planem
+contract of employment, permanent employee, contractor-umowa o prace
+class has an API that's too cumbersome to use on its own. Fortunately, Spring provides MimeMessageHelper to lend a hand.-klasa ma API ktore jest zbyt nieporeczne do uzycia samemu. Naszczescie Spring dostarczac klase zeby podac pomocna dlon
+unwieldy, cumbersome-nieporeczny, niewygodny
+invert method-odwracac metode
+undo, redo, revert-cofnac
+collect call, reverse charge-rozmowa na koszt odbiorcy
+Easy. I just have to figure out a reversal spell.-Spokojnie, musze wymyslec zaklecie odwracajace.
+Allows reversal (undo) of operations.-odwrocenie operacji
+clip, paperclip-spinacz
+we have virtually mountains of memory-mamy praktycznie gory pamieci
+literally, verbatim, (less virtually)-doslownie
+the recession hit virtually all countries-praktycznie
+cayenne pepper, jalapenos-papryczka chili
+You can't refute facts, evidences-obalac, odpierac(zarzuty)
+Time=wise... you stumbled a bit.-Czas to pieniądz... trochę się chyba obijałeś.
+Time=wise it's possible, but we don't know.-Jeśli chodzi o czas możliwe, ale nie jesteśmy pewni.
+How we doing time=wise?-Jak nam idzie z czasem?
+wise guy, wise man-madrala, madry czlowiek
+timewise, foodwise-finansowo, zywieniowo, jesli chodzi o...
+smash(ed), mash(ed)-sluc, tluczony
+the investigation will seriously/much/firmly impeded/hindered/hampered without access to the logs-inwestygacja bedz mocno utrudniona bez dostepu do logow
+lack of effective enforcement of the obligations-brak skutecznego egzekfowania zobowiazan
+extended warranty, warrant, as quickly as the situation warrants, unwarranted panic-przedluzona gwarancja | nakaz, pozwolenie, uzasadnic
+You may contest the rules, but I believe that each one warrants careful consideration.-Mozesz kwestionowac zasady, ale uwazam, ze kazdy z nich zasluguje na staranne rozwazenie.
+In the year 2000, after the Web's scalability crisis was averted-uniknac, zapobiegac, odwracac
+ while his glance is averted.-odwracac
+superior, superb, supreme-przelozony, wyzszy, lepszy; wspanialy, znakomity; najwyzszy
+amplify, amplifier-wzmaniac, wzmacniacz
+seeker-poszukiwacz, petent
+arrange some issues/errands in a city council/office-zalatwiac sprawy w urzedzie
+training, practise, workout-trening
+exhaustive, tiring, tiresome, comprehensive-wyczerpujacy
+superset-nadzbior
+warehouse, storehouse-magazyn
+assess, evaluate, rate, judge, estimate-ocenic
+classify-klasyfikowac
+This could be a stepping stone, you know.-kamien milowy, odskocznia
+maximally-maksymalnie
+It'll be two months at most.-To zajmie mi maksymalnie/conajwyzej dwa miesiące.
+revolving door-drzwi obrotowe
+when you feel fatigue-kiedy czujesz zmęczenie
+Dizziness, fatigue, vision problems.-Zawroty głowy, zmęczenie i problemy z widzeniem.
+in parallel or in serial way-równolegle lub w sposób szeregowy
+subsidise, finance, fund, grant-dofinansowac
+disparage-dyskredytowac, ublizac, umniejszac szacunek, range
+avoid succumbing to difficulties-unikac uleganie/poddawnie sie trudnosciom
+we're naturally drawn to people who remind us of ourselves; inclined to do sth-w naturalny sposób przyciągają nas ludzie, którzy przypominają nam o sobie (rysowac, ciagnac)
+Your friends might be seeking reassurance about a project's value or expect some support on a proposal they've put forth-szukac wsparcia/otucha/zapewnienia w sprawie wartosci projektu i wsparcia propozycji ktora zlozyli
+entrench, entrenched/reinforced-ukorzenic, wzmacniac/ umocniony, wzmocniony
+pervasive as it seems to be, this genre of workplace crises was little covered by scholarly research-wszechobecny/powszechny, jak się wydaje, ten rodzaj/gatunek kryzysów w miejscu pracy był niewiele objęty badaniami naukowymi
+It is even more troublesome in a class hierarchy-Jest jeszcze bardziej kłopotliwy w hierarchii klasowej
+The current EdenNET architecture has some shortcomings and technical debt that create a lot of problems-niedociagniecia braki i dlug techniczny
+shortcomings of current test frameworks-braki, niedociagniecia
+The drawback of LongAdder is higher memory consumption-wada
+drawback, setback, shortage-wada, niepowodzenie, niedobor
+three major facets of Spock-trzy główne aspekty Spocka
+application for tracking daily intake of calories-aplikacja do śledzenia dziennego spożycia/pobranie kalorii
+To test a single class in a controlled environment and isolate it from the other classes it depends on (collaborators)-wspolpracownik
+A dedicated Spock plugin for IntelliJ IDEA adds extra optional goodies, such as syntax highlighting for Spock labels-slodycze, smakolyki, gadzety
+software that tracks trajectories of nuclear missiles in order to launch countermeasures (as teased in chapter 1)-oprogramowanie, które śledzi trajektorie pocisków nuklearnych, aby uruchomić środki zaradcze (zgodnie z opisem w rozdziale 1)
+two separate things that need their own respective tests-dwie osobne rzeczy, które wymagają odpowiednich/wlasciwych testów
+it might improve or worsen the expressiveness of a Spock test-to może poprawić lub pogorszyć ekspresyjność testu Spocka
+Spock blocks embody the low level mechanics of unit tests.-ucielesnia, uosabia
+I’ve used this technique since the first chapter and consider it a groundbreaking (breakthrough) feature of Spock, compared to the status quo-przelomowy, pionierski (przelom)
+What's the solution if you follow the status quo?-obecny, niezmieniony, staly stan rzeczy
+status quo-obecny stan rzeczy
+Notice that for brevity/conciseness I omit the @Title and @Narrative annotations-dla zwiezlosci ominolem...
+The old() method of Spock is a cool trick, but I’ve yet to find a real example that makes it worthwhile-nie znalazlem jeszcze prawdziwego przykladu ktory zrobilby to oplacalny
+It is also worthwhile to mention-Warto rowniez wspomniec
+putting this tender forward was a worthwhile venture-oferta, przetarg/ryzyko, przedsiewziecie
+worthwhile-wart, wart zachodu
+read a unit test to deduce the expected behavior of the code.-dedykukowac, wnioskowac
+Use common sense when you structure Spock tests.-Używaj zdrowego rozsądku podczas tworzenia testów Spocka.
+Perhaps some of these limitations will be lifted in future versions of Spock, but for the time being, you have to live with them.-Być może niektóre z tych ograniczeń zostaną zniesione w przyszłych wersjach Spocka, ale na razie musisz z nimi żyć.
+If another scenario is needed, you can add it on the spot, run the test again, and verify the correctness of the system.-na miejscu, z miejsca, odrazu
+where: block in a parameterized test “spawns” multiple test runs (as many of its lines)-inicjuje wiele wykonan nestwo (tyle ile ma lini)
+I consider them a last=resort solution because they’re not always as readable as simpler data tables-Uważam je za rozwiązanie ostateczne, ponieważ nie zawsze są tak czytelne, jak prostsze tabele danych
+holiday resort-srodek wypoczynkowy, uciekac sie
+sympathise, resort to, emerge-wspolczuc, uciekac sie do, pojawic sie
+Let us not resort to our baser instincts...-uciekac sie do podlejszych instynktow
+without resorting to contortions like passing in a class object-wygibas

@@ -1,0 +1,38 @@
+invalidate cached data and evict it from the cache-uniewaznic zcachowane dane i usunac je z cacha
+The previous sections weren’t meant to scare you away from using messaging in your applications. Rather, my goal is to highlight that using messaging in your services requires forethought.-Poprzednie sekcje nie miały na celu odstraszyć cię od używania wiadomości w twoich aplikacjach. Raczej moim celem jest podkreślenie, że używanie wiadomości w twoich usługach wymaga przemyslenia.
+suddenly your applications become more scalable and, with forethought, more resilient-aplikacja staje sie bardziej skalowalna i z przezornosia/planowaniem bardziej skalowalna
+That bull had malice and forethought.-byk mial zlosliwosc/zla wole i przemyslenie
+forethought-zapobiegliwosc, przezornosc
+through the lens of two services communicating via messaging-przez soczewki/obiektyw
+Spring Cloud Stream is used to facilitate this message passing-Spring Cloud Stream służy do ułatwienia przekazywania wiadomości
+It should also facilitate/simplify/make easier testing different/specific scenarios.-ulatwiac
+facility;facilitate-latwosc, udogodnienie; ulatwiac
+facilitate team activities-usprawnic
+facilitate-ulatwiac
+The configuration in listing 8.3 looks dense, but it’s straightforward.-Konfiguracja na liście 8.3 wygląda na gęsty, ale jest prosta.
+Bringing it all together-laczac wszystko razem
+accessible, available-dostepny
+maybe i will repeat myself/say again but-moze sie powtorze ale
+These insects, they have dormant genes... and I was reactivating them.-Te owady mialy uapiony gen, ktory ja aktywowalam.
+dormant-nieaktywny, uspiony, nieczynny
+and in the whirlwind of day=to=day activity they can easily forget to...-w wirze codziennych prac, moga latwo zapomnie o...
+key requirement for complying with government regulations-kluczowy wymóg zgodności z przepisami rządowymi
+must comply with these regulations-dostosowac sie, zgodny
+Pulling it all together-dojsc do siebie, wspolpracowac, zebrac w jednym miejscu
+service gateway pull apart the URL being called-rozerwac URL
+I will take IT steer on this one-sterowac, kierowac
+the features can be delivered with a high degree of velocity-ficzery moga byc dostarczone z duza predkoscia
+velocity-predkosc
+moving forward with constant velocity-ze stala predkoscia
+students revised their assessed learning styles-studenci przejrzeli (powtarzac, poprawiac) swoje ocenione (oszacowac) style uczenia
+Peter is revising his biology exam tomorrow-poprawic, przejrzec
+have contingency plan-miec plan awaryjny (ewentualnosc)
+have contingency plan/it works as fallback mechanism-awaryjny x2
+elaborate plan for emergency situation/emergency plan/contingency/fallback plan-opracowac pran na awaryjne sytuacje
+contingency-ewentualnosc, mozliwosc, a possibility of happening sth unpredicted
+Those estimates require contingency. The estimates need to revised by me and then I will share to wider audience-te estymaty wymagaja nieprzewidziane okolicznosci. Estymaty musza zostac przejrzane/poprawione przeze mnie i wtedy podziele sie z nimi z szersza publicznoscia
+Typing is not a special skill.-Pisanie na kompie to nie jest specjalna umiejętność.
+August-sierpien
+podkreślać (underline doslownie)-highlight, emphasize, point out
+bother-meczyc kogos
+put pressure-wywierac nacisk

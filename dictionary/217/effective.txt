@@ -1,0 +1,44 @@
+sort of shorthand which reinforces prejudices-skrot wzmacniajacy uprzedzenia
+Coverage (usually a shorthand term for statement coverage)-'skrotowe okreslenie'
+Remember that String::length is shorthand for the lambda-skrot, skrotowe okreslenie
+consider providing a 'shorthand' only if it will be used often-skrot
+It’s easy to go overboard when you begin your microservice journey and make everything a microservice.-za burte
+don’t go overboard in providing convenience methods-za burte
+outline the problem-opisac problem
+abide by all of the rules outlined in the book-przestrzegać wszystkich zasad opisanych w książce
+an outline of the theory of evolution-zarys
+documentation outlining the client’s responsibility-opisywac
+outline-zarys, opisac
+Trying to use objects at very low levels of granularity is nice, but the overhead may be prohibitive.-narzut może być wygórowany/zaporowy/zakazujacy
+cost of the copy would be prohibitive-koszt moze byc wygórowany/zaporowy/zakazujacy
+this would give the attacker free rein over all instances-dałoby to atakującemu swobodę nad wszystkimi instancjami
+And then we shall have to give politics free rein once more. -> I wtedy powinniśmy ponownie dać politykom wolną rękę.
+You have free rein, full creative control. -> Masz wolną rękę, pełną twórczą kontrolę.
+rein-wodza, poskromic, trzymac w ryzach, trzymac za lejce
+I had some minor jobs before this period but those jobs weren't permanent jobs. I'm not sure how is it called in English = casual work contract, job order contract? I concluded they weren't worth to put into my cv. For example I developed web pages in php. 'empoyed on a casual work contract'-about my cv gap (umowa zlecenie)
+casual work contract, job order contract; commission contract-umowa zlecenie x2, umowa o dzielo
+Master of Engineering (M.Eng.), Master of Science (M.Sc.)-magister inzynier
+I worked through an intermediary company-pracowalem przez firme posredniczaca
+creating an intermediary interface that declares the custom method(s) | extend the intermediary interface.-posrednik, posredniczacy
+A man named Emlen Anagar... sometimes is used as an intermediary.-Człowiek o imieniu Emlen Anagar... czasem używany jest jako pośrednik.
+intermediary-posrednik
+intermediary, broker, middleman; mintermediate-posrenik, posredni
+you know, i won't pay my mortgage using gratitude-nie oplace hipoteke wdziecznoscia
+gratitude-wdziecznosc
+gratitude, appreciation-wdziecznosc
+putting this tender forward was a worthwhile venture-oferta, przetarg/ryzyko, przedsiewziecie
+venture capitalist-inwestor;przedsiewziecie, zaryzykowac
+Nothing ventured, nothing gained-kto nie ryzykuje ten nie pija szampana;przedsiewziecie,ryzyko, zaryzykowac
+venture capitalists/business angels-they invest in sb ideas
+proposed venture would be unprofitable-przedsiewziecie
+intermediate/indirect result sets-posrednie zbiory wynikowe
+intermediate and terminal operations-operacje pośrednie i konczace
+intermediate operations-posredni, przejsciowy, sredniozaawansowany
+work with either class uniformly, thereby removing duplicated client code.-jednolicie, pracowac z kazda klasa jednakowo
+access to either of them-dostep do jednego/ktoregokolwiek z nich
+access to each one of them/any of them-dostep do kazdego z nich
+each of them, each one is appropriate/suitable-kazdy z nich jest odpowiedni
+either of them is good?-ktorys/jeden z nich jest dobry
+every single one, each one of them, each of them-kazdy jeden
+intermediate/indirect result sets-posrednie zbiory wynikowe
+intermediate and terminal operations-operacje pośrednie i konczace

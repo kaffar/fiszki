@@ -1,0 +1,94 @@
+robert is doing second shift today and will be online since 13:00 CET-robert robi dzisiaj druga zmiane
+exposure skin to the sun-narazenie, wystawienie
+companies have to be careful to avoid overexposure-expozycja, wystawienie
+Below activity is completed. Please perform application checkouts-sprawdzic, kontrola, kasa, wymeldowac sie
+checkout review activity-read what people have been saying in the review
+test should be amended to reflect changes in the logic-test powinien zostać zmieniony, aby odzwierciedlić zmiany w logice
+i took a look on the specification-przejrzalem specyfikacje
+try to not fall over this cord-spróbuj nie przewrócić się przez ten sznur
+event sourcing,per se-jako taki, zamo przez sie
+before microservices came along-zanim pojawily sie microservicy
+i heard some questions prompting me to clarify a few things-usłyszałem kilka pytań, które skłoniły mnie do wyjaśnienia kilku rzeczy
+impediments are collected here-utrudnienie, przeszkoda
+You are also welcome to cover any other aspects that you would like to highlight including impediments you foresee; impede, impeded-przeszkoda, przeszkadzac, utrudnienie
+tasks division-podzial zadan
+we have division/separation on layers and components-mamy podzial na warstwy i komponenty
+I drew up proposals for a new e=commerce division-przygotowalem propozycje dla dzialu handlowego (sporzadzic, opracowac)
+division-dzial
+as a complementary info, shotdown of the services seems to have been issued today at 14:00 CET-jako informacja uzupelniajaca, wylaczenie serwisow bedzie wykonane dzisiaj
+hence it's advisable to..-dlatego wskazane jest, aby ..
+flip flops are mandatory-klapki
+check out your mailbox-sprawdz skrzyne pocztowa
+Function is just a plain functional interface-prosty, rowny, zwykly
+preclude, exclude, rule out,eschew-wykluczyc x4
+Dev/prod parity-rownosc, rownorzednosc
+vendor parity-rownosc, rownorzednosc
+cohesive vision-spojna wizja
+Microservices in the cloud seem deceptively simple.-Mikrousługa w chmurze wydają się pozornie proste.(zwodniczo albo zaskakujaco)
+YOU KNOW, GRANDMA IS DECEPTIVELY QUICK.-Babcia jest zaskakująco szybka.
+a new year resolution-noworoczne postanowienie
+I think I have a possible resolution.-Myślę, że mam możliwe rozwiązanie.
+This model implies that-Ten model to oznacza
+imply-oznaczac, implikowac, sugerowac
+a sudden influx of user requests-nagły napływ żądań użytkowników
+influx of people from abroad-naplyw ludnosci
+Spring Actuator exposes information about the operational health of the service along with information about the services runtime.-ujawnic/odslonic informacje razem z...
+to expose the truth-ujawnic prawde
+Service demand and resiliency can be managed as quickly as the situation warrants.-Popyt na usługi i elastyczność mogą być zarządzane tak szybko, jak tego wymaga sytuacja.
+However, we must not become hysterical or incite unwarranted panic.-Nie mozemy jednak stac sie histerykami czy tez rozniecac niczym nie uzasadnionej paniki.
+I want a warrant to go into his mortuaries immediately.-Chcę dostać nakaz/pozwolenie/uzasadnic na wejście do jego kostnicy.
+It's two gigs of memory, extended warranty.-2 giga pamięci, przedłużona gwarancja...
+garanti-guarantee(w), warranty
+With a high number of geographically dispersed services-Z dużą liczbą geograficznie rozproszonych usług
+disperse-rozproszyc, rozejsc sie
+Gather your belongings and disperse in an orderly fashion.-Proszę zebrać swoje rzeczy i spokojnie się rozejść.
+provide an audit trail of who last changed the configuration-podaj ścieżkę audytu, kto ostatnio zmienił konfigurację
+trail-sciezka, slad, slady
+audit-kontrola, kontrolowac
+Service assembly: packaging and deploying your microservices-montaz, zgromadzenie, zebranie
+Excessive corrosion which affects the rigidity of the assembly. corrosive-Nadmierna korozja majaca wplyw na sztywnosc konstrukcji.
+assemble, compile-zebrac, montowac / opracowac, zebrac
+Spock combines these facets into a single convenient package offering a holistic approach to software testing.-calosciowy
+it gives you holistic understanding how it works-calosciowy
+A bug/issue that reaches production code can have a profound effect-bugi moga miec gleboki wplyw
+profoundly affect behaviour-gleboko wplywa na zachowanie
+profound/profoundly affect behaviour-gleboki/gleboko
+some teenagers have profound distrust of adults-gleboka nieufnosc
+say sth profound-powiedziec cos glebokiego
+persistent and profound-trwaly i gleboki
+he found sth profound-cos glebokiego
+Software problems (more commonly known as bugs) have a detrimental effect on the reliability of an application. -szkodliwy wplyw na niezawodnosc aplikacji
+focus on dont wants to the detriments of their real desires-koncentorwac sie na nie chcianych rzecach ze szkoda/niekorzysc dla ich prawdziwych pragnien
+indexes, its usage is detrimental-szkodliwy
+We’ve reached the point where computers are so commonplace that-Doszliśmy do punktu, w którym komputery są tak powszechne
+The medieval torture and execution of women, even pregnant women, and children is commonplace.-sredniowieczne tortury i egzekucje kobiet, nawet kobiet w ciazy i dzieci, sa na porzadku dziennym/powszechny.
+Chapter 3 acts as a hub for the rest of the book, as you can see which facet of Spock interests you for your own application.-centrum
+logistics hubs with good access to rail and road networks-centra! logistyczne z dostepem do sieci kolejowych i drogowych
+By the end of this chapter, you’ll be fully primed for reading and writing the Spock Groovy syntax.-Pod koniec tego rozdziału będziesz w pełni przygotowany do czytania i pisania składni Spock Groovy.
+In it, I specifically focus only on Groovy features-konkretnie
+To make sure that we are on the same page in the most gradual way-w stopniowy sposob
+goals of a test framework and the shortcomings of current test frameworks-braki, niedociagniecia, wady
+allowing you to decide on the breadth of the testing context-decydować o szerokim zakresie kontekstu testowania (szerokosc)
+Run your tests in parallel or in a serial way-uruchom testy rownolegle lub sekwencyjnie (seryjnie)
+It's a serial kidnapper and murderer Who uses cake.-To seryjny porywacz i morderca, który używa ciastek.
+Spock allows you to write your own extensions to cater to your specific needs.-zaspokajac konktrente potrzeby
+cater-zaopatrywac, zaspokoic
+Testing software manually becomes more cumbersome as the application code base grows.-nieporeczny, niewygodny
+unwieldy, cumbersome-nieporeczny, niewygodny
+Since null checks are kinda cumbersome and painful-nieporeczny, uciazliwy
+total discount of 35%, far below the profit margin of the company-znacznie poniżej marży zysku firmy
+development progress comes to a crawl-czolgac sie, pelzac
+The framework is tireless, meticulous, and precise.-skrupulatny, drobiazgowy, dokladny
+after it’s in place, the gains outperform the time it takes to write the test scripts.-po jego wprowadzeniu zystki przewyzszaja
+a feature so powerful that it has been backported to Groovy itself. You’ll learn more in chapter 2 about Power asserts and how they can help you pinpoint the causes of a failing test.-porting software to older version of the same software;namierzyc, wskazac, sprecyzowac
+One of the big highlights of Spock code is the lack of assert statements compared to JUnit-Jedną z najważniejszych cech kodu Spocka
+I spent a lot of time thinking about which of the Groovy features to showcase in this chapter.-zaprezentowac
+showcase of the standard-wizytowka, prezentacja
+The following listing shows a complete Spock test that showcases all Groovy features explained so far.-prezentowac
+Several things that Java considers essential are simply discarded by Groovy, freeing the programmer from boilerplate-odrzucone przez grooviego
+get completely out of the Java mindset-sposob myslenia, nastawienie
+The Groovy GDK augments the existing JDK with several new methods-zwiekszac
+But with Groovy, you can dynamically create an object that mimics this service, as shown in the following listing.-imitowac, udawac, nasladowac
+You can find all the details in the Groovy specification if you feel adventurous-jesli czujesz sie zadny przygod
+I'm independent, forceful, brilliant and adventurous.-Jestem niezależna, silna, błyskotliwa i odważna.
+adventurous-smialy, odwazny, zadny przygod

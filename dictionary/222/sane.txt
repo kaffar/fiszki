@@ -1,0 +1,12 @@
+sanity/insanity-zdrowy rozsadek, zdrowie psychiczne/obled
+always favor using an auto=spec, as it helps keep your tests sane for future changes; This logic seems sane-rozsadny, przy zdrowych zmyslach
+Of course, withing reason, but generally we should omit static/module functions, global variables and so on.-w granicach rozsadku
+Energy consumption is still rising up/keeps growing especially in the cities. Therefore, it became reasonable to produce energy directly in cities.-zuzycie energii nadal rosnie/ciagle rosnie szczegolnie w miastach. Dlatego stalo sie rozsadne produkowac energie bezposrednio w miastach
+Sensible error handling-rozsadna obsluga bledow
+sane-rozsadny, trzezwo myslacy
+pragmatic-oparty na faktach. czlowiek pragmatyczny kieruje sie faktami i zdrowym rozsadkiem w przeciwienstwie do ludzi kierujacych sie uczuciami
+when fallback can be another Hystrix protected call, static data or a sane empty value-rozsadna pusta wartosc
+where possible and withing reason people should be made to clear up their own mess-rozsadnie
+i'm prepared to work overtime but within reason-z rozsadkiem
+level=headed, sensible-zrownowazony, rozsadny, trzezwo myslacy
+judicious-rozsadny

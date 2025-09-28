@@ -1,0 +1,33 @@
+it only serves as a placeholder for the real implementation-zastepczy
+Since lambda expressions and functional programming are a cornerstone of Java 8-podstawa
+Conversely, if a class marked with the @FunctionalInterface-odwrotnie
+and the gist of it is as follows:-istota, esencja, streszczenie
+If you’re a bit out of practice with generics, don’t worry.-nie miec praktyki
+primate-ssak naczelny
+it is possible to reclaim access to the variable age-odzyskac
+For the sake of brevity, we sometimes present classes with-dla zwiezlosci
+a class is able to maintain certain invariants about its internal data-niezmienniki
+An illustrative example may shed some light on this concept.-dobry przyklad moze rzucic troche swiatla na ta koncepcje
+In actuality, this is still worlds better than allowing direct-w rzeczywistosci
+since the manner in which the name field is accessed has changed-sposob
+cuddle tiger-przytulac
+and so forth.-i tak dalej
+As shown in the preceding code-poprzedni
+idea pitch-boisko do pomyslow
+We could copy the object before sending it to another method, but this creates a large overhead that duplicates-ociazenie, narzut
+Since the state of an immutable object never changes, they are inherently thread safe/inherent-wrodzony, nieodlaczny, tutaj z natury
+The second and third rules are straightforward, as they stem from proper encapsulation.-trzon, rdzen, pochodzic
+if not specified explicitly-jesli nie wyspecyfikowany jawnie
+indicate-wskazaæ
+required-wymagany
+in compliance with plan-zgodny z planem
+developers implement a series of successive changes without considering..-szereg kolejnych zmian
+by design-celowo
+The current EdenNET architecture has some shortcomings and technical debt that create a lot of problems-niedociagniecia braki i dlug techniczny
+The emphasis in EdenNET product development has traditionally been on adding new modules for users at the expense of core improvements, emphasise-nacisk na rozwoj produktu, kosztem podstawowych usprawnien; podkreslac
+developers are frustrated with incessant bug reports, and product management is frustrated with irate customers-nieustanne raporty z bugami, podirytowani, wkurwieni
+or exhorting developers to write better code-nawolywac
+core services (CM, PM, etc.) are scarcely changed since then;scarce, scarcely-rzadki;ledwo
+lack of resources and technical oversight services were often coupled to each other-nadzor, kontra; przeoczenie, niedopatrzenie
+thus the expedient hack solution was often chosen over the properly designed solution-celowy
+Unwieldy and complex modules-nieporeczny

@@ -1,0 +1,80 @@
+thankless, ungreatful-niewdzieczny x2
+hindrance-przeszkoda, utrudnienie
+jumped to the bandwagon-woz dla orkiestry; just to follow
+so there is not much time left to jump on this bandwagon-popular trend that attracts growing support, woz dla orkiestry
+bandwagon-popular trend that attracts growing support, woz dla orkiestry
+STOMP frames are comprised of a command, one or more headers, and a payload-Ramki STOMP składają się z polecenia, jednego lub więcej nagłówków i ładunku
+great britain is comprised of-skladac sie z
+component is comprised of many classes-komponent sklada sie z wielu klas
+comprise-skladac sie z, obejmowac, zawierac
+And besides your birthday, it's also Halloween. -> Poza tym, że masz dziś urodziny, jest również Halloween.
+self=sustaining, self=sufficient-samowystarczalny
+team should be independent, autonomous and self=sustaining-zespół powinien być niezależny, autonomiczny i samowystarczalny
+An unauthorized wiretap's a felony. -> Wariactwo. Nieupoważniony podsłuch to przestępstwo.
+felony-przestepstwo
+this is a good argument/point-to jest dobry argument
+plea-appeal, wolanie, apel
+plead guilty-przyznać się do winy
+plead- błagać, tłumaczyć się (czymś), bronić się w sprawie
+They didn't even plead for mercy. -> Nawet nie mogli błagać o litość.
+Instead, you can lean on Spring to handle the-mozesz polegac na springu zeby zalatwic to
+settle-zalatwic, rozstrzygnac, uregulowac
+i have to arrange some errands, some private stuff, it involves going to several places during the working hours so it's better to take day off-musze zalatwic jakies sprawy, wiaze sie to z lazeniem po kilku miejscach wiec lepiej jest wziasc dzien wolny
+work out vs sort out vs figure out-rozpracowac, rozwiazac, udac sie, zrozumiec; zalatwic, rozwiazac, uporzadkowac; domyslac sie
+get (sth) done, settle the matter, handle sth-zalatwic sprawe
+There are two features of JNDI needing further scrutiny.-uwaga, nadzor, kontrola
+all exceptions will come under increased scrutiny and require significant justification-wszystkie wyjątki będą podlegały wzmożonej kontroli i będą wymagać znacznego uzasadnienia
+downright-absolutnie, kompletnie, calkowicie; wrecz; szczery
+heavy workload-obciazenie
+decisions, resolutions-postanowienia
+definitely, certainly, by far, decidedly, absolutly-zdecydowanie, napewno
+This would be by far the best option-Byłaby to zdecydowanie najlepsza opcja
+You're the best choice... by far. -> To byłby najlepszy wybór... zdecydowanie.
+the exam was decidedly easier than year ago-egzamin był zdecydowanie łatwiejszy niż rok temu
+should not differ from one notch-nie powinien różnić się od jednego wycięcia
+notch-karb, naciecie, wyciecie
+Peter, if I could just get a word in edgeways! -> Peter, gdybym mogła dojśc do słowa!
+not get in a word edgeways-być przez kogoś zagadanym
+delivery imminent-dostawa blisko, niedaleko w czasie
+it is not an imminent risk-to nie jest bezpośrednie ryzyko
+imminent-nieuchronny, bliski, niedaleki w czasie, nieunikniony
+I have reason to believe an attack is imminent. -> Uważam, że atak jest nieunikniony.
+it occurs periodically, in constant periods of time-wystepuje cyklicznie
+Matching arguments leniently when a stubbed method is called | lenient vs. strict mocks-dopasowuje argumenty lagodnie kiedy metoda jest wolana | lagodny vs surowy
+Java objects are continuously created without being released. This is usually caused by latent object references.-obiekty sa ciagle tworzone bez zwalniania. to jest zwykle spowodowane przez utajony/ukryty referencje.
+lenient vs latent-łagodny vs utajony
+the apprentice and the master-uczen i mistrz
+apprenticeship, practice-praktyka, doctors do it after study
+apprenticeship, internship, practice-praktyka, staz, praktyka
+intern, trainee, apprentice-stazysta, stazysta, praktykant
+acquaintant, acquaintance-znajomy; znajomy, znajomosc
+A friend of yours stole sth-Twój znajomy ukradł coś
+acquaintance-znajomy
+So rather than dwell on the topic any further, ...-zamiest rozwodzic sie, rozpamietywac, drazyc temad dalej
+we wanted to predict if a dwelling is a house or an apartment-mieszkanie
+It's one of many older dwellings demolished-mieszkanie
+dweller-mieszkaniec
+dwell dwelt dwelt-mieszkac
+JVM intermittently runs what is very aptly called a mark=and=sweep algorithm-JVM sporadycznie dziala cojest trafnie nazywane zaznacz i pozamiataj algorytm
+Visual warning shall be by continuous or intermittent signal.-Sygnał wzrokowy jest ciągły lub przerywany.
+The signal was intermittent, like Morse Code.-Sygnał był przerywany, jak alfabet Morsa.
+Degradation of a service can start out as intermittent and build momentum-degradacja serwisu moze rozpoczac sie w sposob okresowy/nieregulany/przerywany i zbudowac ped/impet/rozped
+Pronto is intermittently accessible-przerywany
+type checking is bolted on to python-zaryglowany, sruby
+which is bolted to the wall in the corner-rygiel, sruba
+bolt cutters-sruba,piorun,rygiel,zasuwa
+bolt-sruba
+wanderlust,lust-zamilowanie do podrozy, rzadza
+stomp-tupac, ciezko isc tupiac
+chortle-rechot
+in spite of the aforementioned precautions-wyzej wymieniony
+in spite of the fact, despite the fact-pomimo
+You will just rot in that chair to spite us all. -> Zgniłbyś w tym wózku, na złość nam wszystkim.
+Maybe it was just to spite father. -> Może zrobiłam to na przekór tacie.
+spite-zlosc, zlosliwosc
+choir, glee club, chorus-chor
+glee-radosc
+I cannot show her my baby glee. -> Nie mogę okazywać przy niej mojej radości.
+I can barely contain my glee. -> Ledwie się mogę powstrzymać z radości.
+bring home the bacon-zarabiac na rodzine
+rasher of bacon-solid piece of bacon (zraz, plaster)

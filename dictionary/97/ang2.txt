@@ -1,0 +1,20 @@
+Type erasure allows your code to be compatible with older versions of Java that do not contain generics.-skasowanie
+without resorting to contortions like passing in a class object-wygibas
+indirection-wskazanie posrednie
+it is easy to get lulled into a false sense of security.-dac sie zwiesc
+irrefutable, unassailable-nizbity
+everything that you need to know to ace the exam questions-zostac asem
+Coincidentally, B is also the name of a class. It isn’t a coincidence. It’s an evil trick.-przypadkowo, zbieg okolicznosci
+Figure 3.2 shows how you can envision a List .-wyobrazic sobie
+The main benefit of an ArrayList is that you can look up any element in constant time.-wyszukac
+proof, prove-dowod, dowiesc
+at least, the least, at last, the last-conajmniej, najmniej, w koncu, ostatni
+You can rewrite five lines of code using a funky syntax into one line in a different funky syntax!-modny, ostry
+whereas the anonymous inner class always feels strange.-podczas gdy
+Breathe you in till my face numb, Numbs me like novocain-zdretwialy; odretwia mnie jak nowokaina
+And you suffocate in my kiss-dusic sie
+wherever, whenever-gdziekolwiek, kiedykolwiek
+You're my pretty little vixen-lisica
+And when we touch, I'm shivering-mam dreszcze
+Remember that the type is optional. Java will infer it by what is needed in that spot in the code.;inference-wynioskowac, na miejscu, pryszcz, dostrzec
+funky-modny, odjechany

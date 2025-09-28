@@ -1,0 +1,37 @@
+﻿the court's decision had many unforeseen ramifications-nieprzewidziane consequnces of sth 
+This may seem like a philosophical detail, but it has real ramifications in code as well.-konsekwencje
+This has a couple of important ramifications-konsekwencje
+the garbage collector reclaims the underlying memory and reuses it for future object-GC odzyskuje 
+I have to admit honestly/frankly/sincerely that I haven't had to use such tools (memory leaks tracking tools) so far-Przyznam sie szczerze ze nie musialem korzystac do tej pory z narzedzi do analizy memory leaks
+As a fallback, before the memory fills up-jako rozwiazanie zastepcze, zanim pamiec sie zapelni
+for their guidance and support during my tenure at Nokia and my managers-podczas kadencji
+JVM intermittently runs what is very aptly called a mark=and=sweep algorithm-JVM sporadycznie dziala cojest trafnie nazywane zaznacz i pozamiataj algorytm
+squash commits into one commit-zgniesc
+I will not hide that also finansion motivation is one of the reasons. END-Nie bede ukrywal ze jednym z powodow jest rowniez motyw finansowy
+Memory leakage occurs when GC desnt cope/manage/deal well with memory cleaning-Wyciek pamieci wystepuje gdy GC radzi sobie z odsmiecaniem pamieci.
+Regarding our patient, the dominant mother... and frequent absences of the father gave rise to latent homosexuality.-Co się tyczy pacjenta, dominująca matka... i częsta nieobecność ojca przyniosły w efekcie utajony homoseksualizm.
+Java objects are continuously created without being released. This is usually caused by latent object references.-obiekty sa ciagle tworzone bez zwalniania. to jest zwykle spowodowane przez utajony/ukryty referencje.
+backlog-zaleglosci
+please pertain to a backlog JIRA if this is was a new requirement-dotyczyc, odnosic sie
+Chodźmy, mamy zaległości z ostatniej nocy.-Come on, we've got a backlog from last night.
+Brakuje nam personelu, mamy zaległości.-We're running short on staff today, there's a backlog.
+Wyeliminowanie zaległości w płaceniu podatków i składek na ubezpieczenie społeczne.-Eliminate the backlog of payment arrears of taxes and social security contributions.
+The project was behind the schedule-projekt mial zaleglosci
+Sprawozdawca chce również zmniejszyć poziom zaległości poprzez zwiększenie płatności.-The report also seeks to reduce the amount of arrears by increasing payments.
+demo ended up with success-demo zakonczylo sie sukcesem
+No cóż, niechętnie to mówię, ale Zelenka nie jest nieomylny.-Look, as much as I hate to say it, Zelenka's not infallible.
+It's not that you can always predict and forese all possible problems and hurdles-nie zawsze sie da przewidziec wszystkie mozliwe problemy
+accident was setback to her career-niepowodzenie
+setback of economic reform-niepowodzenie
+is caused by obstacles/hurdles and mistakes-byc spowolnionym przez przeszkody lub bledy
+Nobody is infallible, faultless.-nikt nie jest nieomylny
+There's no obligations, no strings.-Zero zobowiązań, nic was nie łączy.
+After that period I'll be asked to prolong the contract or i can quit and change the company. I have no obligations to stay.-po tym okresie bede poproszony o przedluzenie umowy albo moge odejsc i zmienic firme. Nie mam zobowiazan zeby zostac
+But seriously...-powaznie
+characteristics, qualities, attributes-cechy czlowieka
+Idle thread steals "in quotation marks" tasks from queue of other busy thread.-bezczynny watek kradnie w cudzyslowiu taski z kolejki innego zajetego watku
+Subsequent requests by the client are permissible-kolejne requesty klienta sa dopuszczalne/dozwolone
+I have to think about it and consider. I still have another parallel/concurrent recruitment process. I will reply you within next few days.-Musze to przemyslec i rozwazyc. Mam jeszcze inna rownolegle prowadzony proces rekrutacji. Dam odpowiedz w ciagu kilku najblizszych dni
+in paraller, concurrently-współbieżnie
+expropriation of threads-wywlaszczanie watkow
+I decided to try once again. If this time i dont succeed, then I will give up and stay with my current company.-Postanowilem sprobowac jeszcze raz. Jesli tym razem sie nie uda to dam sobie spokoj i zotane przy mojej obecnej pracy.

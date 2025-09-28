@@ -1,0 +1,8 @@
+perk-bonus, profit, dodatkowa korzysc
+That's a perk of being a star.-To jest bonus z bycia gwiazdą.
+It's a perk for special clients.-To jest bonus dla wyjątkowych klientów.
+A perk of working in exchange at a bank.-Profit z pracy w programie wymiany walut.
+perks and perquisites are benefits on top of basic salary-bonusy x2 sa korzysciami dodatkowymi do pensji
+unusual perk like on=site child care-niezwykly bonus jak opieka nad dzieckiem na miejscu
+perks (e.g. insurance, tickets, lunch)-benefits
+it’s good to get all the perks of webflux when we write a new service from scratch-dobrze jest korzystać ze wszystkich zalet webflux, pisząc nową usługę od zera

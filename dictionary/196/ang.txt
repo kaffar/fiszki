@@ -1,0 +1,64 @@
+exaggerate, overdo, overstate, overreact-przesadzac
+What's new? How are the things? What else to hear from the US?-co slychac? co jeszcze slychac ze stanow?
+The refurbishment of power stations currently in operation may also be of key significance.-Kluczowe znaczenie może mieć prowadzona obecnie modernizacja elektrowni.
+The club is closed for major refurbishment-klub zamknięto z powodu generalnego remontu
+The Java Persistence specification gave a complete overhaul to entity beans.-remont
+repair, renovation, overhaul, refurbishment, refit-remont
+deal with exigency-nagla potrzeba, koniecznosc
+afford the necessities-pozwolic na koniecznosci/potrzeby
+necessity, need/extreme-koniecznosc/ostatecznosc
+indicted, accused, charged-oskarzony
+indicted for fraud-oskarzony o oszustwo
+the government has be accused of doing-rzad byl oskarzony o
+if you still the money, you will be prosecuted-jesli ukradniesz pieniadze bedziesz oskarzony
+accused teacher-oskarzony nauczyciel
+indicted for fraud-oskarzony o oszustwo
+charged for murder-oskarzony o
+allowable vs available vs accesible-dopuszczalne i dostępne vs dostępne
+poke, nudge-szturchnac
+application for tracking daily intake of calories-aplikacja do śledzenia dziennego spożycia/pobranie kalorii
+intake-wlot, spozycie
+entertainment, fun, diversion-rozrywka
+I don't know why Helen has such a grudge against Len-nie wiem dlaczego Helen ma taka uraze/niechec przeciwko Len
+We can criticize each other (constructive critics only please). We can argue sometimes (but no grudge. We forget quickly our fights)-klocic sie ale bez urazy
+grudge vs resentment-niechec, uraza
+In addition, the Cooleaf team in Atlanta was working relentlessly on sales-dodatkowo, pracowal nieustannie nad sprzedaza
+reckless; restless; relentless; relentlessly; ruthless-lekkomyslny; niespokojny; bezwzgledny,nieustepliwy; nieustannie; bezlitosny,bezwgledny
+Spring AMQP offers message driven POJO support that’s reminiscent of the same feature in Spring JMS-przypomina, przypominajacy ficzer
+Today's Russia is reminiscent in some ways of the old USSR.-Dzisiejsza Rosja pod pewnymi względami przypomina stary ZSRR.
+mathematics is taught with methods reminiscent of 1950s-przypomina, przypominajacy
+ensemble, resemble, reminiscent-zespol, przypominajacy x2
+arbiter, referee , score judge-arbiter, sedzia punktowy
+worsen, get worse, aggravate, deteriorate, degrade-pogorszyc
+deteriorated/decrease/decreased-pogorszyc np performance
+degraded system calls so that the calls fail fast and prevent resource exhaustion.-degradacja, pogorszyc, powodowac degradacje
+expel vs exile-wyrzucic, wypedzic, wydalic; wygnac, wygnanie
+malignant-zlosliwy
+at full tilt; At full throttle/speed-na pełnym gazie
+momentum-ped
+Degradation of a service can start out as intermittent and build momentum-degradacja serwisu moze rozpoczac sie w sposob okresowy/nieregulany/przerywany i zbudowac ped/impet/rozped
+I hope we can keep this momentum going.-Mam nadzieję, że możemy utrzymać to tempo.
+tilt-nachylenie, przechylic
+michael jackson shows up in public with black scarf and tilted hat-czarny szalik i kapelusz z rondem
+if you tilt your head to the side-przechylic
+how to inspire and immerse | He loved to immerse himself in a culture.-Uwielbiał zanurzać się w kulturze.;zanurzac
+immerse, immersive-zanurzac; wciagajacy
+helpful, useful, supportive-pomocny
+burglar, intruder, robber-wlamywacz
+The Java application in question is a security utility that gets video feed from an external camera, and upon detecting intruders, deletes all files of the hard drive (to hide incriminating evidence).- o ktorym mowa; narzedzie bezpieczenstwa;intruzi;ukryc dowody obciazajace
+burglars and other intruders -intruz
+confident vs confidential-pewny siebie vs poufny
+reward, rewarding-nagroda, satysfakcjonujacy
+one of the most rewarding pastimes-rozrywka
+rewarding-satysfakcjonujacy, a feeling of satisfaction and pleasure
+my apologies for the slot chosen-przepraszam (wazne!) za wybrany slot (czasowy)
+fabled punch-legendarny cios
+ominous-zlowieszczy
+flask-piesiowka, flaszka
+I'll just save everyone the trouble and I'll plead guilty.-Oszczędzę im kłopotów i sam się przyznam sie do winy.
+plead guilty-przyznać się do winy
+plead- błagać, tłumaczyć się (czymś), bronić się w sprawie
+They didn't even plead for mercy. -> Nawet nie mogli błagać o litość.
+it immerse you-to cię zanurza
+issue in structure, descendant of bug-potomek
+descend-schodzic, pochodzic

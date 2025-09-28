@@ -1,0 +1,19 @@
+We struggle hardest to untangle code when it has many conditionals-rozplatac
+two flavors: blatant, subtle-krzykliwy
+overly generic code-nadmiernie
+easier to read and comprehend-zrozumiec
+taught me-nauczyl mnie
+Scattered Code Avoidance-rozproszony
+take on too many responsibilities, credit-brac na siebie
+their size usually inhibits good hierarchy design-hamowac, utrudniac
+Large classes perpetuate poor design-uwiecznic
+overwhelms any sense of programmer intent-przytlaczac
+To handle new or different combinations of data or behavior, an over=abundance of classes are produced.-nadmiar
+work with either class uniformly, thereby removing duplicated client code.-jednolicie
+Inappropriate Intimacy: Don't Stand So Close To Me | Sometimes classes become far too intimate-intymnosc, bliskosc
+Tight coupling yields brittle, hard to change code.-kruchy
+Indecent Exposure: Hello, I Love You-niemoralny
+Solution Sprawl (w sproul): Across The Universe-rozprzestrzeniac sie, rozciagac sie
+to best accommodate the feature; accommodation-dostosowac sie, nocleg
+When a method diverges from its primary purpose-roznic sie
+refused bequest-testament, zapis

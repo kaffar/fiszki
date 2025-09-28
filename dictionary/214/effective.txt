@@ -1,0 +1,38 @@
+Without it, our people will perish in less than one generation.-(umierac, ginac) Bez tego, nasi ludzie zginą w przeciągu następnego pokolenia.
+But she may perish with the shame of having such a mother.-(umierac, ginac)Może umrze ze wstydu, że ma taka matkę?
+architecture will perish-architektura zginie
+intervention in the current UI-ingerencja w obency ui
+left hand side is not getting loaded-lewa strona się nie ładuje
+advocate-popierac, zalecac, byc zwolennikiem
+they�re struggling to woo women-zalecac sie, uwiesc
+advocate to use-popierac, zalecac
+Olek does not recommend testing this case because it is not a correct/valid scenario.-Olek nie zaleca testowanie tego przypadku poniewaz nie jest to poprawny scenariusz
+purge the heretics-oczyść heretyków
+# examine EACH instance in purgatory and remove when REALLY dead-czysciec
+inquisition-inkwizycja
+you've reached the peak of the architect's knowledge-osiagnales szczyt wiedzy architekta
+paramount-najwyzszy, najwazniejszy
+safety is paramount-bezpieczenstwo jest najwazniejsze
+This is a strategy which will backfire. -> Strategia ta będzie miała skutek odwrotny do zamierzonego.
+ignoring org setup backfires in architecture-przyniesc odwrotny skutek, obrocic sie przeciwko, spalic na panewce
+appearances notwithstanding, it really isnt very complicated-pomimo pozorów, to naprawdę nie jest bardzo skomplikowane
+you may well find that your program behaves erratically or crashes-program zachowuje sie nieprawidlowo
+When you start practicing TDD, the green step will likely feel the most erratic and unpredictable.-nieregularny
+pretty erratic at first-niekonsekwentny
+the central heating system in the flat is erratic-CO jest nieobliczalny, nieregularny, nierowny
+as a slightly contrived example-jako nieco wymyślony przykład
+I know this is extremely contrived, but here after you call otherMethod()-wymyslony, wydumany
+All the examples are contrived.-Wszystkie przykłady są wymyślne.
+handle exceptions without sullying your code with another layer of nesting-obsługiwać wyjątki bez ograniczania kodu inną warstwą zagnieżdżenia
+sully-szargać; brukać (o reputacji), brudzic
+under these circumstances, the second exception completely obliterates the first one-w tych okolicznościach drugi wyjątek całkowicie zaciera pierwszy
+Put another way: this obliterates all uncommitted change-innymi slowy:wymazuje, zaciera
+obliterate-wymazac, zniszczyc
+code example has a subtle deficiency-przykładowy kod ma subtelny brak
+design deficiency;insufficient-niedobor, niewystarczajacy
+even good programmers got this wrong most of the time-nawet dobrzy programiści najczęściej mylili się
+beware the indeterminacy and performance consequences-strzeż się konsekwencji nieokreśloności i wydajności
+nested class, enclosing class-klasa zagnieżdżona,  klasę obejmująca
+number of junk piles in this room-liczba stosów śmieci w tym pokoju
+give us insight, overview-daj nam wgląd, przegląd
+overview-przeglad

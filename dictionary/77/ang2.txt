@@ -1,0 +1,23 @@
+Write an assert statement prior to writing any other test code.-przed napisaniem
+Simple design eludes most of us.-umykac, wymykac sie
+simplistic-uproszczony
+they downplay the importance of refactoring-bagatelizowac
+Similarly, in TDD, you don't want to stray too far from the Green Bar, stray, stray dog-oddalac sie, bezpanski, zblakany
+A sales person gets a bonus only when they sell more than their quota.-norma, udzial
+their commission percentage-prowizja, np. od sprzedazy
+you'll find a free test case class, with our compliments...-komplement, tutaj: z wyrazami uszanowania
+fiddle with all the nonsense associated with getting a new project set up-bawic sie z
+You see that big feller on the right? That's Big Bill.-koles
+He's part cowboy, part business mogul.-magnat, potentat
+folks rack up excess minutes by talking too much-nibijac, nazbierac
+and make them readily testable.-latwo, szybko
+This dialog is simple at first blush-na pierwszy rzut oka
+And every rendered datum in the dialog is mapped onto a a getter on the model.-punkt odniesienia
+mouse and key strokes-uderzenia klawiszy
+There are many fewer tests required, which is nice.-mniej
+GUI work by creating that split right at the outset.-na samym poczatku
+Setting aside formality for a minute, what do we mean by design, anyway?-odstawiajac formalnosci na minute
+The Stepwise Premise-stopniowy
+The upfront architectural design considered the few use cases-poczatkowy
+and were finishing their iterations in a timely fashion.- w sposob terminowy
+usage requirements and their implications-konsekwencje

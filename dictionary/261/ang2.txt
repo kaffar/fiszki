@@ -1,0 +1,42 @@
+fallback-awaryjny (mechanism, option, plan
+fallback e.g. plan-awaryjny
+have contingency plan/it works as fallback mechanism-awaryjny x2
+failover-praca awaryjna
+protection with automatic server failover. -> zabezpieczenie z automatycznym pracy awaryjnej serwera
+let's see failover happening-zobaczmy, jak działa tryb failover
+disaster recovery failover scenario-praca awaryjna
+brain is more resilient than we think-elastyczny, odporny
+immune, proof, resistant, resilient-odporny
+resilience; This rubber has high resilience and strength-sprezystosc,
+resilience-odpornosc, sprezystosc, wytrzymalosc
+migrants are working abroad to send money to family back at home = remittances-przekazy pieniezne
+remittance was finally made-przekaz, przelew
+remittance-przekaz pieniezny
+the bottom line is that if they don't react, they risk loosing sales-chodzi o to ze jak nie zareaguja to ryzykuja utrate sprzedazy
+I think the bottom line is... that she doesn't want to be here.-(chodzi o to, najwazniejsze jest to ze)Chyba chodzi o to, zee ona po prostu nie chce tu byc.
+it's dead easy-to jest bardzo proste
+tombstone-nagrobek
+tomb-grob, grobowiec
+grave, tomb-grob
+it fits, it suits-to pasuje x2
+mitigate, alleviate, ease-lagodzic
+sanitize-odkazic, zdezynfekowac
+Use common sense when you structure Spock tests.-Używaj zdrowego rozsądku podczas tworzenia testów Spocka.
+try to find a common sense here and not to add task on too much granular level-spróbuj znaleźć zdrowy rozsądek i nie dodawać zadania na zbyt szczegółowym poziomie
+common sense, sanity-zdrowy rozsadek
+sanity/insanity-zdrowy rozsadek, zdrowie psychiczne/obled
+It's just a small sanity check before release, maybe you'll spot anything that should not end up in prod-To jest po prostu niewielkie sprawdzanie poprawności przed wydaniem, może zauważysz cos, co nie powinno się skończyć w prod
+restrain yourself to only one sanity check-ograniczyc sie do jedneto testu kontroli poprawnosci; powstrzymac sie
+sanity checks-kontrole poprawności działania
+we wanted to salvage them and take advantage-chcieliśmy je uratować i wykorzystać
+salvage supercar rebuild project-uratowac supercar project
+what can be salvaged-co mozna uratowac
+salvage ferrari-uratowac ferrari
+salvage-uratowac, ocalic
+BigDecimal is for arbitrary=precision fixed=point numbers-BigDecimal jest dla dowolnej precyzji liczb
+objects can contain arbitrary amount of any data-losowy, dowolny
+We can use arbitrary interfaces as lambda expressions as long as the interface only contains one abstract method.-dowolny, losowy
+is an arbitrary client name, which is used to create a Ribbon load balancer-przypadkowy
+Understand, none of this was arbitrary.-Zrozum, to nie było przypadkowe.
+reactive programming streams are instead designed to have some arbitrary input source-zaprojektowane by miec dowolne zrodlo wejsciowe
+arbitrary person-arbitralna osoba

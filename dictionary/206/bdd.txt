@@ -1,0 +1,52 @@
+analysts still cite Gucci as an example-analitycy ciagle cytuja Gucci'ego jako przyklad
+robust design-silny, zdrowy, solidny
+handling errors is what makes data access robust.-silny, zdrowy, solidny
+two solid blocks of wood dovetailed together-zazebiac, dopasowac, laczyc
+develop content that is technically sound-solidny, pewny, mocny
+get a solid shared understanding-uzyskać solidne wspólne zrozumienie
+It's all wonderfully recursive and groovy-super, swietny
+permanent or recurrent action-stala lub powtarzajaca sie czynnosc
+permanent,constant; recurrent/recurring,repetitive,repeating-stale x2/powtarzajce sie x3
+Over time, recurring tensions can threaten -z biegiem czasu, powtarzajace sie napiecia moga grozic
+common patterns and structures that recur-powtarzac sie
+commission is a reward for the quantity or value of work achieved (a fee paid to someone for executing a trade)-prowizja, zlecenie
+most rewarding thing of all is all these things are designed by engineers-najbardziej satysfakcjonujące jest to, że wszystkie te rzeczy zostały zaprojektowane przez inżynierów
+ultimately, the reward comes from-ostatecznie nagroda przychodzi z
+reward, rewarding-nagroda, satysfakcjonujacy
+one of the most rewarding pastimes-rozrywka
+rewarding-satysfakcjonujacy, a feeling of satisfaction and pleasure
+a lot of us are rewarded for our misdeeds which is why God took your wife...-nagrodzeni za wystepki
+reward members-nagradzać członków
+reward; rewarding-nagroda, nagradzac; satysfakcjonujacy
+complement the scenario with the description-uzupełnij scenariusz opisem
+you’ll learn how Spring both simplifies and complements these remoting services-dowiesz się, w jaki sposób Spring upraszcza i uzupełnia te usługi zdalne
+complementary capabilities and expertise-uzupełniające możliwości i wiedza specjalistyczna
+as a complementary info, shotdown of the services seems to have been issued today at 14:00 CET-jako informacja uzupelniajaca, wylaczenie serwisow bedzie wykonane dzisiaj
+this video is very useful and complementary | as a complementary info-ten film jest bardzo przydatny i uzupelniajacy/dopelniajacy.
+Spock offers several complementary features-Spock oferuje kilka dodatkowych funkcji
+The combination of Spock tests and Serenity is a perfect match, as Spock describes its tests in full English text and complements Serenity well.-idealne polaczenie; uzupelnia
+complement your application form-uzupelniac
+make complementary errors-zrobic uzupelniajace bledy; uzupelniac
+components should be used with moderation-komponenty powinny być używane z umiarem
+When writing computer programs of even moderate complexity-programy o umiarkowanym stopniu zlozonosci;lagodzic, oslabiac
+moderate drinking doesn't impact health-umiarkowane picie nie wpływa na zdrowie
+facilitator-(osoba ułatwiająca wykonanie czegoś)koordynator; pośrednik; mediator
+outlast-przetrwac, przezyc dluzej
+beetroot, ginger, garlic, hot pepper (peper)-burak, imbir, czosnek, ostra papryczka
+cayenne pepper, jalapenos-papryczka chili
+overly wordy scenario peppered with duplicated text-nadmiernie rozwlekly scenariusz pełen powielonego tekstu (popiwerzony, usiany)
+we cant use it outright because they have different interface-wprost, wrecz
+Outright failures of a service (for example, the server crashes) are easy to detect and deal with.-w calosci; wyrazny, oczywisty; outright
+information ranges from poor to outright wrong-wrecz, wprost
+neither of them has enough points to buy the tickets outright-żadne z nich nie ma wystarczającej liczby punktów, aby kupić bilety wprost
+boundary conditions and edge cases-warunki brzegowe i przypadki brzegowe
+I know I am not alone in this regard-Wiem, że nie jestem sam w tym zakresie/wzgledzie
+in this regard, it's fine to take a few shortcuts-pod tym wzgledem, jest ok zrobic kilka skrotow
+famed for its innovative mothods-znany za
+nitty=gritty-gwozdz, sedno
+But before we get to the nitty=gritty, I think we should chat about your deal. -> Tak, mam wieści, ale zanim przejdziemy do sedna, powinniśmy porozmawiać o waszej ugodzie.
+provide all the nitty=gritty details-dostarczyc wszystkie drobiazgowe szczegóły
+flesh out the minimum set of features-uzupelnic/uksztaltowac minimalny zestaw funkcjia
+scenarios that flesh out how the feature behaves-scenariusze wyjaśniające, jak zachowuje się ta funkcja
+so we can talk afterwards-więc możemy porozmawiać później
+execute and clean up afterwards-wykonać i oczyścić później

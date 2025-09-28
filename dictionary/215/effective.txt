@@ -1,0 +1,40 @@
+recursion can cause StackOverflowError-rekurencja moze spowodowac wysypanie stosu
+disclaimer-zastrzezenie, wyparcie sie odpowiedzialnosci
+the timestamp class has a disclaimer cautioning programmers against mixing dates and timestamps	-zastrzezenie ostrzegajace programistow przed
+you must commit to them for the life of the class-musisz zobowiązać się do nich na całe życie klasy
+After publishing a commit, you have to assume that other developers are reliant upon it-zalezny
+make commitment to-zobowiazac sie do
+we need to commit ourselves fully to the fight against obesity and the sedentary (sedentri) lifestyle/work-powinnismy sie zaangazowac w pelni w walke z otyloscia i siedzacym stylem zycia/praca
+after the first buyer signed up, a frenzy of commits followed.-po tym jak pierwszy kupiec podpisal, szal komitow nastapil
+augment the functinality-zwiększyć funkcjonalność
+augmentation,alteration-powiekszenia, zmiana
+The Groovy GDK augments the existing JDK with several new methods-zwiekszac
+The INSERT statement can be augmented with a number of clauses-zwiekszac
+you should feel no compunction about prohibiting subclassing-nie powinieneś czuć skruchy z powodu zakazu podklasowania
+compunction-skrupuly, wyrzuty sumienia
+either approach is acceptable-oba podejścia są dopuszczalne
+conversely, if ...-i odwrotnie, jeśli ...
+But there is one glaring omission, Father. -> Jest jednak jedno rażące zaniedbanie, ojcze.
+omit a crucial protected member = omission-pominiecie, zaniechanie
+missing protected member can render a class practically unusable for inheritance-sprawic, uczynic
+But there’s more to a response than the payload. There are headers and status codes that can also provide useful information about the response to the client. | the payload will be rendered into the response body just as if the method were annotated with @ResponseBody-odwzorowac
+render-uczynic, odwzorowac
+the best you can do is to think hard, take your best guess-najlepsze co mozesz zrobic to dobrze przemyslec i wybrac najlepszy pomysl
+this method is of no interest to end users-ta metoda nie jest interesująca dla użytkowników końcowych
+this violate the dictum that good api documentation should describe-narusza to zasadę (powiedzeni, opinia sedziego)
+twitch; hitch; hatch-tik, skurcz; haczyk, problem; wlaz, luk, wylegac/wykluwac sie
+fickle, feeble, fiddle-kapryśny, zmienny, niestały; slaby, kiepski; bawic sie
+does the class that you contemplate extending have any flaws in its api?-rozwazac rozszezyc; wady
+conteplate-rozwazac
+Love is the greatest flaw of humans-milosc to najwieksza wada/skaza ludzi
+flaw-wada, skaza
+at the very least, it can lead to confusing semantics-co najmniej; minimalnie; w najgorszym razie
+callbacks elude the wrapper-wywołania zwrotne wymykają się z opakowania
+elude-wymykac sie, umykac, unikac
+Nobel Prize eluded him-wymknac, umykac
+Simple design eludes most of us.-wymykac sie, umykac
+Unfortunately, the thief managed to elude me.-Niestety złodziejowi udało się wymknąć.
+prelude-preludium; wstęp; początek
+delude-zwodzić; wprowadzać w błąd
+a subclass must evolve in tandem with its superclass-podklasa musi ewoluować wraz z nadklasą
+in tandem with-w parze z

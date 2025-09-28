@@ -1,0 +1,15 @@
+My company was forced to go into liquidation and officially filed for bankruptcy last week-moja firma byl zmuszona do liwkidacji i oficjalnie zlozyla wniosek o likwidacje w zeszlym tygodniu
+We had an expert appraisal done, just to be on the safe side-mamy ocene/wycene eksperta, tak dla bezpieczenstwa
+This land is held on perpetual lease-ta ziemia jest w wieczystej dzierzawie
+The contract is legally binding-kontrakt jest wiazacy prawnie
+Luckily, the contract ensures our exeption from liability in such cases-na szczescie umowa zapewnia nam zwolnienie z odpowiedzialnosci w takich przypadkach
+She submitted a claim for sexual harassment-wniosla oskarzenie o seksualne molestowanie
+Cutting the middleman out will lower the retail price of the product-wyeliminowanie posrednikow obnizy cene detaliczna produktu
+My secretary will type up minutes of todays meeting and will you each give a copy-moja sekretarka spisze proktol z dzisiejszego spotkania i da wam wszystkim kopie
+An internal inquiry will be held to clarify this matter-wewnetrzne dochodzenie bedzie przeprowadzone zeby wyjasnic ta sprawe
+lenghty consultation-dlugi, dlugotrwale konsultacje
+We had an expert appraisal done, just to be on the safe side-mamy zrobiona wycene eksperta, zeby byc bezpiecznym
+embezzlement-defraudacja, sprzemierzewienie
+This property is so cheap because it is heavily encumbered with mortgage-ten dom jest taki tani poniewaz jest powaznie obciazony przez hipoteke
+The company was taken to court for causing environmental damage-firma zostala pozwana za spowodowanie zniszczen srodowiska
+@CacheEvict, cache.evict(MyEntity.class, Long.valueOf(id));-eksmitowac

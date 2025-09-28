@@ -1,0 +1,24 @@
+Refactoring Strategy: Nesting-gniazdo, zagniezdzac
+Builders make changes to buildings by first putting up scaffolding to make their work easier and safer.-rusztowania
+remedy-lekarstwo, naprawic
+One way is to narrow the change footprint-slad (stopy)
+This is like temporarily erecting and then tearing down scaffolding around a building-zbudowac i rozebrac rusztowania
+we did that primarily using extract method-przedewszsystkim, glownie
+celebrity endorsement-poparcie
+half fare ticket-bilet ulgowy
+travel agent-bioro podrozy
+luggage rack-polka na bagaz
+departure time-czas odlotu
+get on/get off-wsiadac/wysiadac
+lagrzuries-luxurious(w)
+package tour-wycieczka z biora podrozy
+custom clearance-odprawa celna
+check=in-odprawa paszportowa
+custom officer-celnik
+smagyl-smugle(w)
+collect duty-pobrac clo
+sun stroke-udar, porazenie sloneczne
+amber-bursztyn
+to admire the sun rise/sun set-podziwiac wschod/zachod slonca
+torch-latarka
+he was frisk at the airport-przeszukac

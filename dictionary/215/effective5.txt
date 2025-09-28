@@ -1,0 +1,19 @@
+alias, nickname-przezwisko, pseudonim
+exemplary or code example - wzorcowy vs przykladowy kod
+exemplary-przykladowy, wzorowy
+he did exemplary job-zrobił wzorową pracę
+architectural, architecture-architektoniczny
+mam ochote roztrzaskac go o  sciane-I want to smash it against the wall
+entice,tempt-kusic x2
+jest jakies przeciwskazanie do tego?-is there any contraindication to this?
+contraindication-przeciwwskazanie
+generate false positives and provide a false sense of security-generować fałszywe alarmy i zapewniać fałszywe poczucie bezpieczeństwa
+simplistic phonenumber class-uproszczona klasa numeru telefonu
+simplistic-uproszczony
+polygon's edges and vertice-skrawędzie i wierzchołki wielokątu
+there is no standard or canonical format that you must use-kanoniczny; klasyczny (zwykły lub standardowy stan lub zachowanie czegoś)
+canonical form-klasyczna, standardowa forma
+penultimate, second to last, one before last-przedostatni
+skype is connected/linked/synchronised with mail box-skype jest sprzezony z poczta
+synchronised, synced, in sync (out of sync)-zsynchronizowany
+I think/believe it's not a bug (but) it's a feature-wydaje mi sie ze to nie bug tylko ficzer

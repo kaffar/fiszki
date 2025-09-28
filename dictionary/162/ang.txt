@@ -1,0 +1,68 @@
+inbound/outbound message channel-kanał wiadomości przychodzących / wychodzących
+logs without having to have extensive infrastructure in place-logi bez konieczności posiadania rozbudowanej infrastruktury
+extensive-rozlegly, obszerny
+You should know the burns are extensive.-Powinna pani wiedzieć, że oparzenia są bardzo rozległe.
+the time you spend learning will pay huge dividends-czas spędzony na uczeniu się przyniesie ogromne zyski.
+information is invaluable in detecting and identifying network latency issues.-informacje są nieocenione w wykrywaniu i identyfikowaniu problemów z opóźnieniami sieci.
+reduce computation or network latency-opoznienie, czas oczekiwania
+latency-opoznienie (czas miedzy wyslanie requestu a odpowiedzia)
+The project aims to provide a unified, high=throughput, low=latency platform for handling real=time data feeds.-Celem projektu jest dostarczenie jednolitej, wysokiej przepustowosci, platformy o malym opoznieniu do obslugi kanalow danych w czasie rzeczywistym.
+They have a full paper trail to prove they bought this oil from a licensed company in Dublin that supplies oil.- Ma ono pełną dokumentację potwierdzającą, że kupiło ten olej od koncesjonowanej firmy w Dublinie, która dostarcza olej.
+trail-sciezka, szlak/slad/wlec sie, ciagnac
+dispose, disposable-pozbywac sie, wydawac
+dispose a bottle-wyrzucic butelke
+decommissioning-likwidacja
+you are welcome-nie ma za co
+intermediate/indirect result sets-posrednie zbiory wynikowe
+Cessna 47 Fox requesting immediate takeoff.-Cessna 47 Fox prosi o pozwolenie na natychmiastowy start.
+please preemptively clean them up or open a Jira on the owner to fix it;preventive-prevencyjnie;prewencyjny
+As you can see from the preceding example-poprzedzajacy przyklad
+precedent-precedens
+The domain event usually has a partition key so that it ends up in the same partition with related messages.-podzial, przegroda
+While others were mourning India's bloody partition.-podczas gdy inni opłakiwali krwawy podział Indii.
+main partition between; partitioning-podzial
+importance, relevance, significance-znaczenie x3
+important, relevant, considerable, significant-istotny
+let me know/ping me when you are at work so i could give you some introduction to tasks-daj mi znac jak bedziesz to dam ci wprowadzenie do zadan
+Zanim wyjedzie, muszę z nim wyjaśnić parę spraw.-Before he leaves, I need to clear up some things with him.
+explain, clarify, clear up, make clear-wyjasnic
+call the service to invalidate its cache-wywołaj usługę, aby unieważnić jego pamięć podręczną
+The coupling has introduced brittleness between the services.-Laczenie wprowadziło kruchość między usługami.
+server being decommissioned-wycofac z eksploatacji, likwidowac
+logical product, multiplication-iloczyn logiczny
+you have priority/take precedence-masz pierwszenstwo
+The interest of Europe as a whole must take precedence over partial viewpoints.-Dobro Europy jako całości musi mieć pierwszeństwo przed partykularnymi poglądami.
+primacy-nadrzednosc, pierwszenstwo
+as alluded to in the section on message visibility-jak wspomniano w rozdziale o widoczności wiadomości
+the previous section alluded to the fact-wspomniec, napomknac
+it can involve wading through the logs of several different services-to moze obejmowac brodzenie w  logach
+miedzy innymi-inter alia, among other things
+Those fundamental rights include, inter alia, the right to take industrial action.-Prawa podstawowe obejmują między innymi prawo do strajku.
+We have introduced, among other things, a mechanism to identify vulnerable persons.-Wprowadziliśmy między innymi mechanizm identyfikacji osób szczególnie narażonych.
+from the logs it almost looks like they were deliberately shut down-celowo wylaczone/zamkniete
+demise, premise, despise-zgon, przeslanka, gardzic
+The irony is that many blame (or credit) Spring with the demise of EJB.-ironia jest to ze wiele winy albo chwaly jest ze zgonem ejb
+linker's demise-zgon
+i would like to request you to do sth-chcialbym poprosic cie o zrobienie czegos
+independently-niezaleznie
+that's pretty much all-to mniej wiecej wszystko
+enrich entity with new attributes-wzbogacic encje o nowe atrybuty
+necessity-koniecznosc
+The new CEO is set to start rectifying relations between management and the employees immediately-Nowy dyrektor niezwlocznie zacznie od poprawiania stosunkow miedzy kierownictwem a pracownikami
+Note that if you rectify the exception problem the output will be dependent on the location-naprawic
+rectify-sprostowac, naprawic
+to rectify the lack of standards around OAuth2 tokens, new standard is emerging-Aby poprawić brak standardów związanych z tokenami
+Please do not fix anything that was deferred. Only critical items for go live.-Nie naprawiaj niczego, co zostało odroczone. Tylko krytyczne rzeczy do uruchomienia.
+deferring integration until they're at a convenient break point.-odroczyc
+postpone, deferring decisions-odroczyc decyzje
+It's just a small sanity check before release, maybe you'll spot anything that should not end up in prod-To jest po prostu niewielkie sprawdzanie poprawności przed wydaniem, może zauważysz cos, co nie powinno się skończyć w prod
+restrain yourself to only one sanity check-ograniczyc sie do jedneto testu kontroli poprawnosci
+sanity/insanity-zdrowy rozsadek, zdrowie psychiczne/obled
+it slipped my mind-zapomniało mi się
+Falling into few, slip into the ruse-wpasc w pulapke/podstep
+It must slip out of my mind-to musialo wypasc mi z glowy
+it slipped through our testing-to przeslizgnelo sie przez testy
+Since it's my 18th birthday again, please treat yourself with a piece of home made cake-Ponieważ znowu są moje 18 urodziny, proszę czestujcie sie domowym ciastem
+issue in structure, descendant of bug-potomek
+you have no outstanding reviews to attend right now-nie masz obecnie żadnych zaległych recenzji
+analyst(s), analitic(s)-analitycy | analityczny, analiza

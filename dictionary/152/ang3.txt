@@ -1,0 +1,34 @@
+the management endpoints are the most immediately useful and interesting features of the Actuator-to sa najbardziej natychmiastowe i uzyteczne cechy
+I’ll show you what’s needed for Maven in case that’s your preference.-pokaze ci co jest potrzebne dla mavena w przypadku gdy to preferujesz (preferencja, pierwszenstwo)
+tweaking the recipe-uszczypnac, podkrecac, podrasowac przepis
+we would support them and tweak algorithms or fix issues on short notice-Moglibysmy ich wspierac i poprawiac algorytmy lub rozwiazac problemy w krotkim czasie.
+there is always sth to fix and tweak-uszczypnac, tutaj: podrasowac, podrecic
+You must make one small tweak to the SpringTemplateEngine bean, however.-ulepszyc, podrasowac
+it shall be sufficient evidence of the facts therein contained-jest wystarczającym dowodem na zawarte w nim fakty (w nim, w tym)
+So the victim just needs to ingest it?-Więc ofiara musi to połknąć?
+ingest large amount of data-połknąc, spozyc
+digest-trawic, strawic
+potential exception in retrieving individual/singular deals are ignored-pojedynczy
+Ma szczególne predyspozycje, których za pieniądze się nie kupi-She has a special quality that money can't buy.
+Jednakże dla garstki wybranych, którzy posiadają predyspozycje-However, for those select few... who possess the predisposition...
+I have no (inferiority) complexes regarding my english-nie mam kompleksow mniejszosci na tle mojego ang
+dash-myslnik
+I decided to add logger as a history trace for us just in case in the future-zdecydowalem dodac loger jako slad history na wszelski wypadek
+Hopefully trace can tell us something.-Miejmy nadzieję, że ten ślad coś nam powie
+Ale inwencja twórcza jest jego.-But this one, the creativeness is his.
+Inwencja twórcza płynie ze środka.-You know creativity comes from within.
+Certainly, SOAP can be overkill for many applications, and REST brings a simpler alternative.-przesada, nadmiar
+that one bean has been discarded-odrzucony
+I expect the change data will be discarded overtime?-odrzucone z biegiem czasu/nadgodziny
+Chciałabym zawsze iść po najmniejszej linii oporu.-I wish I could just do the bare minimum.
+Wciąż idą po najmniejszej linii oporu.-They always take the easy way.
+Nigdy po najmniejszej linii oporu.-Always the hard way.
+anticipating questions-uprzedzając pytania
+This amendment seeks to close potential loopholes.-Niniejsza poprawka ma na celu uniknięcie potencjalnych luk prawnych.
+amendment-poprawka, zmiana
+This means that companies are being threatened with closure.-Oznacza to, że przedsiębiorstwom grozi likwidacja.
+The Plan provides for the closure of two of the nine production units.-Wspomniany plan przewiduje zamknięcie dwóch z dziewięciu jednostek produkcyjnych
+Damage to the pipeline will by no means mean its closure.-Uszkodzenie rurociągu wcale nie oznacza jego zamknięcie.
+closure-zamknac, likwidowac, zakonczyc
+rhino was killed in its enclosure-zagroda, ogrodzenie
+what prevents us from closure/completion-zamkniecie
