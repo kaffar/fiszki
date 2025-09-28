@@ -1,0 +1,20 @@
+hello - cześć
+good morning - dzień dobry
+good night - dobranoc
+thank you - dziękuję
+please - proszę
+sorry - przepraszam
+yes - tak
+no - nie
+maybe - może
+I don't understand - nie rozumiem
+How much is it? - ile to kosztuje?
+Where is the toilet? - gdzie jest toaleta?
+help - pomoc
+friend - przyjaciel
+family - rodzina
+food - jedzenie
+water - woda
+house - dom
+car - samochód
+book - książka

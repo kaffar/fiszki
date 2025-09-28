@@ -1,0 +1,20 @@
+airport - lotnisko
+train station - dworzec kolejowy
+ticket - bilet
+platform - peron
+departure - odlot
+arrival - przylot
+luggage - bagaż
+reservation - rezerwacja
+hotel - hotel
+room - pokój
+passport - paszport
+customs - odprawa celna
+bus stop - przystanek autobusowy
+city center - centrum miasta
+map - mapa
+guide - przewodnik
+restaurant - restauracja
+bill - rachunek
+tip - napiwek
+water still - woda niegazowana

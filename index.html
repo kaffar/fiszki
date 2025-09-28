@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Fiszki EN↔PL</title>
+  <meta name="theme-color" content="#0a0a0a" />
+  <style>
+    :root { color-scheme: dark; }
+    body{margin:0;background:#0a0a0a;color:#e5e5e5;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Inter,sans-serif}
+    .wrap{max-width:720px;margin:0 auto;padding:16px 16px 120px}
+    .card{border:1px solid #262626;background:#0f0f0f;border-radius:16px;padding:12px}
+    .row{display:flex;gap:12px}
+    .btn{padding:10px 16px;border-radius:12px;border:1px solid #262626;background:#171717;color:#e5e5e5;font-weight:600;cursor:pointer}
+    .btn.primary{background:#fff;color:#0a0a0a;border-color:#fff}
+    .btn.success{border-color:#14532d;background:#14532d33;color:#bbf7d0;font-weight:800}
+    .btn.danger{border-color:#7f1d1d;background:#7f1d1d33;color:#fecaca;font-weight:800}
+    .grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+    .progress{height:8px;background:#262626;border-radius:999px;overflow:hidden}
+    .bar{height:8px;background:#fff;width:0%}
+    .footer{position:fixed;bottom:0;left:0;right:0;padding:10px 16px;border-top:1px solid #171717;background:rgba(10,10,10,.9);text-align:center;color:#737373;font-size:12px}
+    .big{font-size:clamp(20px,10vw,38px);font-weight:700}
+    .medium{font-size:clamp(18px,9vw,30px)}
+    .muted{color:#a3a3a3;font-size:13px}
+    .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace}
+    details{color:#fecaca}
+    summary{cursor:pointer}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1 style="font-size:24px;font-weight:800;margin:16px 0 8px">Fiszki EN↔PL</h1>
+    <p class="muted">Wgraj pliki <code>.txt</code> (format linii: <span class="mono">angielski - polski</span>) lub po prostu umieść je w <code>/data</code> w repo – rozpoznamy je automatycznie.</p>
+
+    <div class="card" id="filesCard">
+      <div class="row" style="justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap">
+        <div>
+          <div style="color:#d4d4d4;font-size:14px">Załadowane zestawy</div>
+          <ul id="filesList" class="muted" style="margin:6px 0 0 18px"></ul>
+        </div>
+        <div class="row" style="gap:8px">
+          <input id="fileInput" type="file" accept=".txt,.csv,.tsv,.md,.text" multiple style="display:none" />
+          <button class="btn primary" id="pickBtn">Wgraj pliki</button>
+          <button class="btn" id="resetBtn">Reset progresu</button>
+        </div>
+      </div>
+      <details id="errorsBox" style="margin-top:8px;display:none">
+        <summary>Pominięte linie: <span id="errorsCount">0</span></summary>
+        <ul id="errorsList" class="mono" style="max-height:160px;overflow:auto;margin-top:6px"></ul>
+      </details>
+    </div>
+
+    <div class="card" style="margin-top:12px">
+      <div class="row" style="gap:8px">
+        <button class="btn" id="dirEnPl">EN → PL</button>
+        <button class="btn" id="dirPlEn">PL → EN</button>
+      </div>
+    </div>
+
+    <div class="card" style="margin-top:12px" id="questionCard">
+      <div id="emptyState" style="display:none;text-align:center">
+        <div style="font-size:18px;font-weight:700">🎉 Wszystko odhaczone!</div>
+        <div class="muted" style="margin-top:4px">Wgraj więcej plików albo kliknij „Reset progresu”.</div>
+      </div>
+      <div id="qaWrap">
+        <div class="big" id="prompt"></div>
+        <div style="margin-top:12px">
+          <button class="btn" id="showBtn">Pokaż tłumaczenie</button>
+          <div class="medium" id="answer" style="display:none"></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="grid2" style="margin-top:12px">
+      <button class="btn danger" id="badBtn">BAD</button>
+      <button class="btn success" id="goodBtn">GOOD</button>
+    </div>
+
+    <div class="card" style="margin-top:12px">
+      <div class="row" style="justify-content:space-between">
+        <div style="color:#d4d4d4;font-size:14px">Postęp</div>
+        <div id="stats" style="font-variant-tabular-nums:tabular-nums">0/0 zaliczone • 0 w puli</div>
+      </div>
+      <div class="progress" style="margin-top:8px"><div class="bar" id="bar"></div></div>
+    </div>
+
+    <p class="muted" style="text-align:center;margin:12px 0">Tip: puste linie i linie bez myślnika są pomijane. Linie zaczynające się od <code>#</code> to komentarze.</p>
+  </div>
+
+  <div class="footer">Zapis progresu: lokalnie w przeglądarce.</div>
+  <script src="./app.js"></script>
+</body>
+</html>
+
