@@ -22,6 +22,10 @@ thank you - dziękuję
     active: [],
     idx: null,
     show: false,
+    // źródła
+    availableFiles: [], // [{name, url, content?}]
+    selectedFile: null, // name
+    sessionTouched: false, // czy użytkownik zaczął rozwiązywać
   };
 
   function save(){
@@ -76,6 +80,21 @@ thank you - dziękuję
     $('emptyState').style.display = empty ? '' : 'none';
     $('qaWrap').style.display = empty ? 'none' : '';
 
+    // lista plików
+    const ul = $('filesList'); ul.innerHTML = '';
+    state.availableFiles.forEach(f => {
+      const li = document.createElement('li');
+      const a = document.createElement('span');
+      a.textContent = f.name;
+      a.className = 'fileitem' + (state.selectedFile === f.name ? ' active' : '');
+      a.setAttribute('role','button');
+      a.tabIndex = 0;
+      a.addEventListener('click', ()=> onSelectFile(f.name));
+      a.addEventListener('keydown', (e)=>{ if(e.key==='Enter' || e.key===' ') { e.preventDefault(); onSelectFile(f.name); }});
+      li.appendChild(a);
+      ul.appendChild(li);
+    });
+
     if(!empty){
       const card = state.active[state.idx];
       const prompt = state.dir==='EN->PL' ? card.en : card.pl;
@@ -83,20 +102,56 @@ thank you - dziękuję
       $('prompt').textContent = prompt;
       $('answer').textContent = answer;
       $('answer').style.display = state.show ? '' : 'none';
-      $('showBtn').style.display = state.show ? 'none' : '';
     }
   }
 
-  // ==== AUTO-ROZPOZNAWANIE PLIKÓW Z /data (bez index.json) ====
-  // Działa na GitHub Pages: próbuje branchy main -> master -> gh-pages
-  async function autoLoadFromGithubData(){
+  // ====== PRZEŁĄCZANIE ZESTAWU (klik w liście) ======
+  async function onSelectFile(name){
+    if (name === state.selectedFile) return;
+    // jeśli sesja zaczęta i są jeszcze karty w puli, zapytaj
+    const remaining = state.active.length;
+    const total = state.cards.length;
+    const midSession = state.sessionTouched && remaining > 0 && total > 0;
+    if (midSession) {
+      const ok = confirm('Trwa sesja z bieżącym zestawem. Przełączyć na "'+name+'"?');
+      if (!ok) return;
+    }
+    await loadSingleFileByName(name);
+  }
+
+  async function loadSingleFileByName(name){
+    const f = state.availableFiles.find(x=>x.name===name);
+    if (!f) return;
+    let text = f.content;
+    if (text == null && f.url) {
+      const r = await fetch(f.url, { cache: 'no-store' });
+      if (!r.ok) return;
+      text = await r.text();
+    }
+    if (text == null) return;
+    const parsed = parse(text, name);
+    setCards(parsed.cards);
+    state.selectedFile = name;
+    state.sessionTouched = false;
+    render();
+  }
+
+  // ====== AUTO-ROZPOZNAWANIE PLIKÓW Z /data ======
+  async function autoDetectFilesFromGithub(){
     if (!/\.github\.io$/.test(location.hostname)) return false;
     const ctx = detectGithubContext();
     if (!ctx) return false;
     const branches = ['main','master','gh-pages'];
     for (const branch of branches) {
-      const ok = await tryBranch(ctx.owner, ctx.repo, branch);
-      if (ok) return true;
+      const files = await listFilesFromBranch(ctx.owner, ctx.repo, branch);
+      if (files && files.length) {
+        state.availableFiles = files;
+        state.selectedFile = files[0]?.name || null;
+        render();
+        // od razu wczytaj pierwszy
+        await loadSingleFileByName(state.selectedFile);
+        return true;
+      }
     }
     return false;
   }
@@ -112,112 +167,45 @@ thank you - dziękuję
     return { owner, repo };
   }
 
-  async function tryBranch(owner, repo, branch){
+  async function listFilesFromBranch(owner, repo, branch){
     try {
       const api = `https://api.github.com/repos/${owner}/${repo}/contents/data?ref=${branch}`;
       const res = await fetch(api, { headers: { 'Accept': 'application/vnd.github+json' } });
-      if (!res.ok) return false;
+      if (!res.ok) return null;
       const list = await res.json();
       const names = (Array.isArray(list) ? list : [])
         .filter(it => it.type === 'file' && /\.txt$/i.test(it.name))
         .map(it => it.name);
-      if (!names.length) return false;
       const rawBase = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/data/`;
-      return await fetchAndUseData(names, (n)=> rawBase + encodeURIComponent(n));
-    } catch { return false; }
+      return names.map(n => ({ name: n, url: rawBase + encodeURIComponent(n) }));
+    } catch { return null; }
   }
 
-  async function fetchAndUseData(names, toUrl){
-    const allCards=[]; const allErrors=[];
-    for (const name of names) {
-      try {
-        const r = await fetch(toUrl(name), { cache: 'no-store' });
-        if (!r.ok) continue;
-        const txt = await r.text();
-        const parsed = parse(txt, name);
-        allCards.push(...parsed.cards);
-        allErrors.push(...parsed.errors);
-      } catch {}
-    }
-    if (!allCards.length) return false;
-    const map=new Map();
-    allCards.forEach(c=>{ if(!map.has(c.key)) map.set(c.key,c); });
-    setCards(Array.from(map.values()));
-    // lista plików
-    const list = $('filesList'); list.innerHTML='';
-    names.forEach(n=>{ const li=document.createElement('li'); li.textContent = n; list.appendChild(li); });
-    // błędy (opcjonalnie)
-    const errBox=$('errorsBox');
-    $('errorsCount').textContent = String(allErrors.length);
-    if(allErrors.length){
-      errBox.style.display='';
-      const ul=$('errorsList'); ul.innerHTML='';
-      allErrors.slice(0,200).forEach(er=>{
-        const li=document.createElement('li');
-        li.textContent = `${er.file}:${er.line}: ${er.value}`;
-        ul.appendChild(li);
-      });
-    } else {
-      errBox.style.display='none';
-    }
-    return true;
-  }
-
-  // ==== RĘCZNE WGRYWANIE ====
+  // ====== RĘCZNE WGRYWANIE (Document Picker w przeglądarce) ======
   async function handleFiles(fileList){
     const files = Array.from(fileList);
-    const allCards=[]; const infos=[]; const errors=[];
-
+    const fileEntries = [];
     for(const f of files){
       const text = await f.text();
-      const name = f.name || 'plik.txt';
-      const parsed = parse(text, name);
-      allCards.push(...parsed.cards);
-      infos.push({name, count: parsed.cards.length});
-      errors.push(...parsed.errors);
+      fileEntries.push({ name: f.name || 'plik.txt', content: text });
     }
-
-    const map=new Map();
-    allCards.forEach(c=>{ if(!map.has(c.key)) map.set(c.key,c); });
-    setCards(Array.from(map.values()));
-
-    const list = $('filesList');
-    list.innerHTML='';
-    if(infos.length===0){
-      list.innerHTML = '<li>Na start załadowano plik „przykład.txt”.</li>';
-    } else {
-      for(const fi of infos){
-        const li=document.createElement('li');
-        li.textContent = `${fi.name} — ${fi.count} fiszek`;
-        list.appendChild(li);
-      }
-    }
-
-    const errBox=$('errorsBox');
-    $('errorsCount').textContent = String(errors.length);
-    if(errors.length){
-      errBox.style.display='';
-      const ul=$('errorsList'); ul.innerHTML='';
-      errors.slice(0,200).forEach(er=>{
-        const li=document.createElement('li');
-        li.textContent = `${er.file}:${er.line}: ${er.value}`;
-        ul.appendChild(li);
-      });
-    } else {
-      errBox.style.display='none';
+    state.availableFiles = fileEntries;
+    state.selectedFile = fileEntries[0]?.name || null;
+    render();
+    if (state.selectedFile) {
+      await loadSingleFileByName(state.selectedFile);
     }
   }
 
-  // ==== START ====
+  // ====== START ======
   (async function init(){
-    const loaded = await autoLoadFromGithubData();
+    const loaded = await autoDetectFilesFromGithub();
     if (!loaded) {
-      // fallback: przykładowe fiszki + wpis na listę
-      const parsed = parse(sample, 'przykład.txt');
-      setCards(parsed.cards);
-      const li=document.createElement('li');
-      li.textContent = 'przykład.txt — ' + parsed.cards.length + ' fiszek';
-      $('filesList').appendChild(li);
+      // fallback: jeden plik demo
+      state.availableFiles = [{ name: 'przykład.txt', content: sample }];
+      state.selectedFile = 'przykład.txt';
+      render();
+      await loadSingleFileByName('przykład.txt');
     }
   })();
 
@@ -228,12 +216,34 @@ thank you - dziękuję
   $('dirEnPl').addEventListener('click', ()=>{ state.dir='EN->PL'; save(); render(); });
   $('dirPlEn').addEventListener('click', ()=>{ state.dir='PL->EN'; save(); render(); });
 
-  $('showBtn').addEventListener('click', ()=>{ state.show=true; render(); });
-  $('goodBtn').addEventListener('click', ()=>{
-    if(state.active.length===0) return; const k=state.active[state.idx].key;
-    state.learned.add(k); save(); recompute();
-  });
-  $('badBtn').addEventListener('click', ()=>{ if(state.active.length===0) return; state.idx=Math.floor(Math.random()*state.active.length); state.show=false; render(); });
+  // BAD/GOOD: pierwsze kliknięcie = pokaż tłumaczenie, drugie = oceniaj
+  $('goodBtn').addEventListener('click', ()=> onAnswer('good'));
+  $('badBtn').addEventListener('click', ()=> onAnswer('bad'));
+
+  function onAnswer(type){
+    if (state.active.length===0) return;
+    state.sessionTouched = true;
+    if (!state.show) { // najpierw pokaż tłumaczenie
+      state.show = true;
+      render();
+      return;
+    }
+    if (type === 'good') {
+      const k = state.active[state.idx].key;
+      state.learned.add(k); save();
+    }
+    // dla 'bad' nic nie zapisujemy
+    // losuj kolejną
+    state.show = false;
+    state.idx = Math.floor(Math.random()*state.active.length);
+    // ale uwzględnij, że po GOOD active może się zmienić
+    state.active = state.cards.filter(c=>!state.learned.has(c.key));
+    if (state.active.length===0) {
+      render();
+      return;
+    }
+    render();
+  }
 
   $('resetBtn').addEventListener('click', ()=>{ state.learned=new Set(); save(); recompute(); });
 })();

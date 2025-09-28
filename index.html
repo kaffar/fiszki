@@ -25,17 +25,21 @@
     .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace}
     details{color:#fecaca}
     summary{cursor:pointer}
+    /* interaktywna lista plików */
+    .fileitem{cursor:pointer; padding:4px 8px; border-radius:8px; display:inline-block}
+    .fileitem:hover{background:#1a1a1a}
+    .fileitem.active{background:#ffffff; color:#0a0a0a; font-weight:700}
   </style>
 </head>
 <body>
   <div class="wrap">
     <h1 style="font-size:24px;font-weight:800;margin:16px 0 8px">Fiszki EN↔PL</h1>
-    <p class="muted">Wgraj pliki <code>.txt</code> (format linii: <span class="mono">angielski - polski</span>) lub po prostu umieść je w <code>/data</code> w repo – rozpoznamy je automatycznie.</p>
+    <p class="muted">Wgraj pliki <code>.txt</code> (format linii: <span class="mono">angielski - polski</span>) lub umieść je w <code>/data</code> w repo – rozpoznamy je automatycznie.</p>
 
     <div class="card" id="filesCard">
       <div class="row" style="justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap">
         <div>
-          <div style="color:#d4d4d4;font-size:14px">Załadowane zestawy</div>
+          <div style="color:#d4d4d4;font-size:14px">Załadowane zestawy (kliknij, aby przełączyć)</div>
           <ul id="filesList" class="muted" style="margin:6px 0 0 18px"></ul>
         </div>
         <div class="row" style="gap:8px">
@@ -64,10 +68,7 @@
       </div>
       <div id="qaWrap">
         <div class="big" id="prompt"></div>
-        <div style="margin-top:12px">
-          <button class="btn" id="showBtn">Pokaż tłumaczenie</button>
-          <div class="medium" id="answer" style="display:none"></div>
-        </div>
+        <div class="medium" id="answer" style="display:none;margin-top:12px"></div>
       </div>
     </div>
 
