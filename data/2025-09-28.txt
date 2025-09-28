@@ -1,0 +1,129 @@
+there are 2 hunks left unprocessed-zostały 2 fragmenty (zmian) nieprzetworzone
+hunk-przystojniak
+
+what sorcery is this???-co to za czary???
+
+security for us is not an "afterthought" or an "overhead". it is part of our culture.-bezpieczeństwo nie jest dla nas „późniejszą myślą” ani „zbędnym narzutem”. To część naszej kultury.
+afterthought-refleksja, pozniejsza mysl
+overhead-obciazenie, koszty ogolne, wydatki, nad glowa
+
+bespoke-szyty na miarę, na zamówienie
+Example: We deliver bespoke solutions for niche clients.-Oferujemy rozwiązania szyte na miarę dla niszowych klientów.
+bespoke software development-tworzenie oprogramowania na zamówienie/na miare/ad hoc
+bespoke, behold-na miare, na zamowienie, ad hoc
+we create world class bespoke software solutions-tworzymy światowej klasy rozwiązania na zamówienie
+
+sorcery-czary, magia
+Example: What sorcery keeps this ancient clock still running?-Jakie czary utrzymują ten stary zegar w ruchu?
+
+seller refurbished-odnowiony przez sprzedawcę
+Example: I bought a seller refurbished laptop with a fresh warranty.-Kupiłem odnowionego przez sprzedawcę laptopa z nową gwarancją.
+The club is closed for major refurbishment-klub zamknięto z powodu generalnego remontu
+repair, renovation, overhaul, refurbishment, refit-remont
+refurbish-odnawiac, wyremontowac
+
+subsidies for ai run out-dotacje na AI się kończą
+Example: The startup will close once subsidies for AI run out.-Startup zamknie się, gdy skończą się dotacje na AI.
+EU chose to subsidize Poland's agriculture-dotowac polskie rolnictwo
+subsidy, grants, subsidies-dotacja(e)
+We must not subsidise old technologies that are on their way out.-Nie możemy dotować starych technologii, które wychodzą z użycia.
+
+great news! pasibus has received your order. get ready to tuck in!-Świetna wiadomość! Pasibus otrzymał Twoje zamówienie. Szykuj się do zajadania!
+
+detrimental-szkodliwy
+Example: Excessive stress is detrimental to your health.-Nadmierny stres jest szkodliwy dla zdrowia.
+Software problems (more commonly known as bugs) have a detrimental effect on the reliability of an application. -szkodliwy wpływ na niezawodnosc aplikacji
+indexes, its usage is detrimental-szkodliwy
+detrimental, harmfull-szkodliwy
+
+creating and modifying a scorecard is detrimental to the assessment of supplier’s performance-tworzenie i modyfikowanie karty wyników szkodzi ocenie wyników dostawcy.
+Software problems (more commonly known as bugs) have a detrimental effect on the reliability of an application. -szkodliwy wpływ na niezawodnosc aplikacji
+indexes, its usage is detrimental-szkodliwy
+
+as this would cripple regular server use-bo sparaliżowałoby to zwykłe korzystanie z serwera
+If the service becomes unavailable, the client is effectively crippled.-kaleki, uposledzony
+unless we want to cripple the L0 allocation performance drastically-chyba że chcemy drastycznie obniżyć wydajność alokacji L0
+website crippled, violence in stores-sparaliżowana/okaleczona strona internetowa, przemoc w sklepach
+
+event is clogged up-wydarzenie jest zapchane/przeciążone
+clog-zatkac, zatykac
+clog; all the roads leading to the concert hall were clogged hours before the event-blokowac, utrudniac, przeszkadzac
+clog; we have a clog of hair in the drain, I'm going to borrow a plunger-zapchanie; przepychacz
+
+castaway-rozbitek, wyrzutek
+Example: He felt like a castaway on a deserted island.-Czuł się jak rozbitek na bezludnej wyspie.
+Many applications that you’ll develop are like island castaways-rozbitek,wyrzutek
+outcast vs castaway-wygnaniec, banita, wyrzutek; rozbitek, wyrzutek
+
+pronounce-wymawiać
+Example: How do you pronounce this surname?-Jak wymawiasz to nazwisko?
+how do you spell it? how do you pronounce it?-Jak to się pisze?, Jak to się pisze?
+
+i would like all changes introduced vetted in the team call.-Chciałbym, aby wszystkie wprowadzone zmiany zostały omówione i zatwierdzone na rozmowie zespołu.
+
+let us know, so we can quickly expedite-Daj znać, żebyśmy mogli szybko przyspieszyć działania.
+expedite the negotiations-przyspieszyć negocjacje
+Request you to please expedite the fix for this.-przyspieszyc
+i hope you could expedite it while i’m away-mam nadzieję, że możesz to przyspieszyć, kiedy mnie nie ma
+
+nikhita would you oblige pls?-Nikhita, czy mogłabyś wyświadczyć przysługę?
+happy to oblige-chętnie się zobowiązuję
+the seller is obliged to address all justified concerns of the buyer-usprawiedliwione obawy
+oblige people-zobowiazac
+
+indicative solution-rozwiazanie poglądowe/orientacyjne
+Example: They proposed an indicative solution pending further analysis.-Zaproponowali orientacyjne rozwiązanie do czasu dalszej analizy.
+The selection of examples in this chapter is indicative of Spock capabilities-Wybór przykładów w tym rozdziale wskazuje na możliwości Spocka; wskazujacy, orientacyjny
+
+main entrance-główne wejście
+You should go to the secretariat/secretary's office on the ground floor near the main entrance-powinienes pojsc do sekretariatu na parterze
+
+flashback-retrospekcja, wspomnienie
+Example: The movie uses flashbacks to explain the hero's past.-Film wykorzystuje retrospekcje, by wyjaśnić przeszłość bohatera.
+flashback to iterator-retrospekcja, wspomnienie
+
+lock down-zamknąć, zablokować szczelnie
+Example: They lock down the building every evening.-Zamykają budynek na głucho każdego wieczoru.
+A load balancer can lock down inbound (ingress) and outbound (egress) port access to all the servers sitting behind it.-load balancer moze zablokowac wczodzace i wychodzace porty do serwerow znajdujacych sie za nimi
+
+security group is locked down to a region-grupa zabezpieczeń jest ograniczona do jednego regionu
+A load balancer can lock down inbound (ingress) and outbound (egress) port access to all the servers sitting behind it.-load balancer moze zablokowac wczodzace i wychodzace porty do serwerow znajdujacych sie za nimi
+
+forbid, forbade, forbidden-zakazywać (odmiana czasownika)
+forbid       forbade forbidden-zakazywać
+prohibit, forbid, disallow, ban-zakazac
+
+quick debrief on next steps pls-szybkie podsumowanie kolejnych kroków, proszę
+debrief, debriefing-zdac sprawozdanie, przesluchac; odprawa
+We're going to need a safe house to debrief Tatjana. -> Potrzebujemy bezpiecznego domu, by przesłuchać Tatjanę.
+debrief from workshop-podsumowanie warsztatu
+
+debrief-krótkie omówienie po zadaniu/odprawa
+Example: Let's debrief after the presentation to collect feedback.-Omówmy po prezentacji, by zebrać opinie.
+debrief, debriefing-zdac sprawozdanie, przesluchac; odprawa
+We're going to need a safe house to debrief Tatjana. -> Potrzebujemy bezpiecznego domu, by przesłuchać Tatjanę.
+
+kondycja-fitness, forma
+Example: Muszę poprawić kondycję przed biegiem.-I need to improve my fitness before the run.
+I'm out of shape-nie mam kondycji
+at a low ebb-w kiepskiej kondycji
+Our company is ailing, I suggest you look for a new job, just in case it goes under-chory,w trudnej sytuacji; Nasza firma jest w bardzo zlej kondycji, sugeruje ci szukac nowej pracy na wypadek gdyby upadla/zbankrutowala
+
+so we have a point of reference-abyśmy mieli punkt odniesienia
+
+i deem it so-uznaję, że tak jest
+The notice shall be deemed delivered when the data is transmitted correctly via an email-zawiadomienie uznaje sie za doreczone
+deem-uznac
+deems it necessary, deems it relevant for its particular use case-uznac za konieczne
+
+deem-uznać
+Example: The committee may deem the proposal unnecessary.-Komisja może uznać tę propozycję za zbędną.
+deem-uznac
+deems it necessary, deems it relevant for its particular use case-uznac za konieczne
+deem/consider/recognize it as not working-uznać, że to nie działa
+
+procurement-zaopatrzenie, zamówienia
+Example: She works in procurement for a manufacturing company.-Pracuje w dziale zaopatrzenia w firmie produkcyjnej.
+open procurement api;head of procurement-otwarte api zamowien,szef zamowien, dostarczanie
+procurement position-zamownie (pozycja zamowienia), zaopatrzenie
+asset procurement process-proces zakupu aktywów
