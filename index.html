@@ -34,34 +34,8 @@
 <body>
   <div class="wrap">
     <h1 style="font-size:24px;font-weight:800;margin:16px 0 8px">Fiszki EN↔PL</h1>
-    <p class="muted">Wgraj pliki <code>.txt</code> (format linii: <span class="mono">angielski - polski</span>) lub umieść je w <code>/data</code> w repo – rozpoznamy je automatycznie.</p>
 
-    <div class="card" id="filesCard">
-      <div class="row" style="justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap">
-        <div>
-          <div style="color:#d4d4d4;font-size:14px">Załadowane zestawy (kliknij, aby przełączyć)</div>
-          <ul id="filesList" class="muted" style="margin:6px 0 0 18px"></ul>
-        </div>
-        <div class="row" style="gap:8px">
-          <input id="fileInput" type="file" accept=".txt,.csv,.tsv,.md,.text" multiple style="display:none" />
-          <button class="btn primary" id="pickBtn">Wgraj pliki</button>
-          <button class="btn" id="resetBtn">Reset progresu</button>
-        </div>
-      </div>
-      <details id="errorsBox" style="margin-top:8px;display:none">
-        <summary>Pominięte linie: <span id="errorsCount">0</span></summary>
-        <ul id="errorsList" class="mono" style="max-height:160px;overflow:auto;margin-top:6px"></ul>
-      </details>
-    </div>
-
-    <div class="card" style="margin-top:12px">
-      <div class="row" style="gap:8px">
-        <button class="btn" id="dirEnPl">EN → PL</button>
-        <button class="btn" id="dirPlEn">PL → EN</button>
-      </div>
-    </div>
-
-    <div class="card" style="margin-top:12px" id="questionCard">
+    <div class="card" id="questionCard">
       <div id="emptyState" style="display:none;text-align:center">
         <div style="font-size:18px;font-weight:700">🎉 Wszystko odhaczone!</div>
         <div class="muted" style="margin-top:4px">Wgraj więcej plików albo kliknij „Reset progresu”.</div>
@@ -85,7 +59,30 @@
       <div class="progress" style="margin-top:8px"><div class="bar" id="bar"></div></div>
     </div>
 
-    <p class="muted" style="text-align:center;margin:12px 0">Tip: puste linie i linie bez myślnika są pomijane. Linie zaczynające się od <code>#</code> to komentarze.</p>
+    <div class="card" style="margin-top:24px" id="filesCard">
+      <div class="row" style="justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap">
+        <div>
+          <div style="color:#d4d4d4;font-size:14px">Załadowane zestawy (kliknij, aby przełączyć)</div>
+          <ul id="filesList" class="muted" style="margin:6px 0 0 18px"></ul>
+        </div>
+        <div class="row" style="gap:8px">
+          <input id="fileInput" type="file" accept=".txt,.csv,.tsv,.md,.text" multiple style="display:none" />
+          <button class="btn primary" id="pickBtn">Wgraj pliki</button>
+          <button class="btn" id="resetBtn">Reset progresu</button>
+        </div>
+      </div>
+      <details id="errorsBox" style="margin-top:8px;display:none">
+        <summary>Pominięte linie: <span id="errorsCount">0</span></summary>
+        <ul id="errorsList" class="mono" style="max-height:160px;overflow:auto;margin-top:6px"></ul>
+      </details>
+    </div>
+
+    <div class="card" style="margin-top:12px">
+      <div class="row" style="gap:8px">
+        <button class="btn" id="dirEnPl">EN → PL</button>
+        <button class="btn" id="dirPlEn">PL → EN</button>
+      </div>
+    </div>
   </div>
 
   <div class="footer">Zapis progresu: lokalnie w przeglądarce.</div>
