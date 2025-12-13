@@ -1,6 +1,7 @@
 (function(){
   const LS_LEARNED = 'web_fiszki_learned_v1';
   const LS_DIR = 'web_fiszki_direction_v1';
+  const LS_REMOVED = 'web_fiszki_removed_v1';
 
   const sample = `hello - cześć
 apple - jabłko
@@ -18,10 +19,12 @@ thank you - dziękuję
   const state = {
     cards: [],
     learned: new Set(JSON.parse(localStorage.getItem(LS_LEARNED) || '[]')),
+    removed: new Set(JSON.parse(localStorage.getItem(LS_REMOVED) || '[]')),
     dir: localStorage.getItem(LS_DIR) || 'EN->PL',
-    active: [],
+    queue: [],
     idx: null,
     show: false,
+    history: [],
     // źródła
     availableFiles: [], // [{name, url, content?}]
     selectedFile: null, // name
@@ -31,6 +34,7 @@ thank you - dziękuję
   function save(){
     localStorage.setItem(LS_DIR, state.dir);
     localStorage.setItem(LS_LEARNED, JSON.stringify(Array.from(state.learned)));
+    localStorage.setItem(LS_REMOVED, JSON.stringify(Array.from(state.removed)));
   }
 
   function splitOnce(line){
@@ -58,27 +62,107 @@ thank you - dziękuję
   }
 
   function recompute(){
-    state.active = state.cards.filter(c=>!state.learned.has(c.key));
-    if(state.active.length===0){ state.idx=null; render(); return; }
-    state.idx = Math.floor(Math.random()*state.active.length);
+    state.queue = shuffle(activeCards());
+    state.idx = pickFirstIndex();
+    state.history = [];
     state.show = false;
     render();
   }
 
+  function activeCards(){
+    return state.cards.filter(c=>!state.learned.has(c.key) && !state.removed.has(c.key));
+  }
+
+  function shuffle(arr){
+    for(let i=arr.length-1;i>0;i--){
+      const j = Math.floor(Math.random()*(i+1));
+      [arr[i],arr[j]] = [arr[j],arr[i]];
+    }
+    return arr;
+  }
+
+  function pickFirstIndex(){
+    for(let i=0;i<state.queue.length;i++){
+      if(!state.learned.has(state.queue[i].key) && !state.removed.has(state.queue[i].key)) return i;
+    }
+    return null;
+  }
+
+  function currentCard(){
+    if (state.idx == null) return null;
+    return state.queue[state.idx] || null;
+  }
+
+  function findNextIndex(startIdx){
+    for(let i=startIdx+1;i<state.queue.length;i++){
+      const card = state.queue[i];
+      if(!state.learned.has(card.key) && !state.removed.has(card.key)) return i;
+    }
+    return null;
+  }
+
+  function moveToNext(){
+    const nextIdx = findNextIndex(state.idx == null ? -1 : state.idx);
+    state.show = false;
+    state.idx = nextIdx;
+    // jeżeli skończyliśmy, upewnij się że kolejka jest spójna
+    if (state.idx == null && activeCards().length > 0) {
+      state.idx = pickFirstIndex();
+    }
+    render();
+  }
+
+  function scheduleBad(card){
+    // wstaw kartę ponownie za 3 inne (czyli na pozycji +4)
+    const insertAt = Math.min(state.queue.length, (state.idx ?? -1) + 4);
+    state.queue.splice(insertAt, 0, card);
+  }
+
+  function onRevert(){
+    if (!state.history.length) return;
+    const prevIdx = state.history.pop();
+    state.idx = prevIdx;
+    state.show = true;
+    render();
+  }
+
+  function removeCurrentCard(){
+    const card = currentCard();
+    if (!card) return;
+    state.sessionTouched = true;
+    state.removed.add(card.key);
+    state.learned.delete(card.key);
+    save();
+    state.queue = state.queue.filter(c => !state.removed.has(c.key));
+    state.history = [];
+    state.idx = pickFirstIndex();
+    state.show = false;
+    render();
+  }
+
+  function resetRemoved(){
+    if (!state.removed.size) return;
+    state.removed = new Set();
+    save();
+    recompute();
+  }
+
   function render(){
-    const remaining = state.active.length;
-    const total = state.cards.length;
+    const remaining = activeCards().length;
+    const total = state.cards.length - state.removed.size;
     const learned = Math.max(0, total - remaining);
 
     $('stats').textContent = `${learned}/${total} zaliczone • ${remaining} w puli`;
+    $('removedInfo').textContent = `${state.removed.size} usunięte`;
     $('bar').style.width = total ? ((learned/total)*100)+'%' : '0%';
 
     $('dirEnPl').className = 'btn' + (state.dir==='EN->PL'?' primary':'');
     $('dirPlEn').className = 'btn' + (state.dir==='PL->EN'?' primary':'');
 
-    const empty = remaining===0;
-    $('emptyState').style.display = empty ? '' : 'none';
-    $('qaWrap').style.display = empty ? 'none' : '';
+    const card = currentCard();
+    const hasCard = !!card;
+    $('emptyState').style.display = hasCard ? 'none' : '';
+    $('qaWrap').style.display = hasCard ? '' : 'none';
 
     // lista plików
     const ul = $('filesList'); ul.innerHTML = '';
@@ -95,8 +179,7 @@ thank you - dziękuję
       ul.appendChild(li);
     });
 
-    if(!empty){
-      const card = state.active[state.idx];
+    if(hasCard && card){
       const prompt = state.dir==='EN->PL' ? card.en : card.pl;
       const answer = state.dir==='EN->PL' ? card.pl : card.en;
       $('prompt').textContent = prompt;
@@ -109,8 +192,8 @@ thank you - dziękuję
   async function onSelectFile(name){
     if (name === state.selectedFile) return;
     // jeśli sesja zaczęta i są jeszcze karty w puli, zapytaj
-    const remaining = state.active.length;
-    const total = state.cards.length;
+    const remaining = activeCards().length;
+    const total = state.cards.length - state.removed.size;
     const midSession = state.sessionTouched && remaining > 0 && total > 0;
     if (midSession) {
       const ok = confirm('Trwa sesja z bieżącym zestawem. Przełączyć na "'+name+'"?');
@@ -219,30 +302,30 @@ thank you - dziękuję
   // BAD/GOOD: pierwsze kliknięcie = pokaż tłumaczenie, drugie = oceniaj
   $('goodBtn').addEventListener('click', ()=> onAnswer('good'));
   $('badBtn').addEventListener('click', ()=> onAnswer('bad'));
+  $('revertBtn').addEventListener('click', onRevert);
+  $('removeBtn').addEventListener('click', removeCurrentCard);
+  $('restoreRemovedBtn').addEventListener('click', resetRemoved);
 
   function onAnswer(type){
-    if (state.active.length===0) return;
+    const card = currentCard();
+    if (!card) return;
     state.sessionTouched = true;
     if (!state.show) { // najpierw pokaż tłumaczenie
       state.show = true;
       render();
       return;
     }
+
     if (type === 'good') {
-      const k = state.active[state.idx].key;
-      state.learned.add(k); save();
+      state.learned.add(card.key);
+    } else {
+      state.learned.delete(card.key);
+      scheduleBad(card);
     }
-    // dla 'bad' nic nie zapisujemy
-    // losuj kolejną
-    state.show = false;
-    state.idx = Math.floor(Math.random()*state.active.length);
-    // ale uwzględnij, że po GOOD active może się zmienić
-    state.active = state.cards.filter(c=>!state.learned.has(c.key));
-    if (state.active.length===0) {
-      render();
-      return;
-    }
-    render();
+
+    save();
+    state.history.push(state.idx);
+    moveToNext();
   }
 
   $('resetBtn').addEventListener('click', ()=>{ state.learned=new Set(); save(); recompute(); });
