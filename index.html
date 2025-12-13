@@ -47,14 +47,22 @@
     </div>
 
     <div class="grid2" style="margin-top:12px">
-      <button class="btn danger" id="badBtn">BAD</button>
       <button class="btn success" id="goodBtn">GOOD</button>
+      <button class="btn danger" id="badBtn">BAD</button>
+    </div>
+    <div class="row" style="gap:8px;margin-top:8px;flex-wrap:wrap">
+      <button class="btn" id="revertBtn">⟲ Revert</button>
+      <button class="btn" id="removeBtn">Usuń słowo</button>
+      <button class="btn" id="restoreRemovedBtn">Przywróć usunięte</button>
     </div>
 
     <div class="card" style="margin-top:12px">
-      <div class="row" style="justify-content:space-between">
+      <div class="row" style="justify-content:space-between;flex-wrap:wrap;gap:8px">
         <div style="color:#d4d4d4;font-size:14px">Postęp</div>
-        <div id="stats" style="font-variant-tabular-nums:tabular-nums">0/0 zaliczone • 0 w puli</div>
+        <div class="row" style="gap:8px;align-items:center;flex-wrap:wrap">
+          <div id="stats" style="font-variant-tabular-nums:tabular-nums">0/0 zaliczone • 0 w puli</div>
+          <div class="muted" id="removedInfo">0 usunięte</div>
+        </div>
       </div>
       <div class="progress" style="margin-top:8px"><div class="bar" id="bar"></div></div>
     </div>
