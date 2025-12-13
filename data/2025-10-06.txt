@@ -1,0 +1,96 @@
+Jedis uses commons-pool2 for pooled connections-Jedis używa commons-pool2 do połączeń z puli
+intermediate option-opcja pośrednia
+middle option-opcja środkowa
+You asked to pivot to aggregates-Poprosiłeś o przejście na agregaty
+ScheduledDdoIndexingProcessor-ScheduledDdoIndexingProcessor
+No, we need to solidify that. I want a generic Bank Account request object, and a generic Response because-Nie, musimy to ugruntować. Chcę ogólny obiekt żądania konta bankowego i ogólną odpowiedź, ponieważ
+Have a QQ, are you there / available?-Mam szybkie pytanie, jesteś? / dostępny?
+I concur, it’s a genuine tragedy-Zgadzam się, to prawdziwa tragedia
+That’s slanderous talk-To oszczercza gadka
+Not the foul hand of a bottom-feeder-Nie plugawa ręka padlinożercy / człowieka z dna
+I don’t have enough time. I’m too ancient.-Nie mam dość czasu. Jestem zbyt stary.
+non-stop writing binge-nieprzerwane pisarskie szaleństwo / pisać bez przerwy
+He pitched it to producers-przedstawił to producentom / zaproponował projekt
+producer-producent (filmowy)
+writing binge-intensywne, niekontrolowane pisanie
+to pitch an idea-zaprezentować pomysł (np. filmowy)
+preemptively-zapobiegawczo / z wyprzedzeniem
+skyfall-upadek z nieba / (tytuł filmu)
+What was your first hustle?-Jaki był twój pierwszy przekręt / pierwszy sposób na zarobek
+hustle-przekręt / zarobkowy interes / kombinowanie
+you couldn't hit it with a 12-gauge shotgun-nie trafiłbyś w to nawet z dwunastki (kaliber strzelby)
+12-gauge shotgun-strzelba kaliber 12
+your business is shuttered-twój interes jest zamknięty / skończony
+I was contracted by them-zostałem przez nich wynajęty / miałem z nimi kontrakt
+Not compromising-bez kompromisów / nieustępliwy
+It's admirable-to godne podziwu
+He’ll come at you with deception-podejdzie cię podstępem
+Quiet Ray wants me to turn on you-Quiet Ray chce, żebym się na ciebie odwrócił
+No goofing-żadnego wygłupiania się / bez błaznowania
+there’s no racket-nie ma przekrętu / nie ma machlojek
+So, you're not impressed with the revelation bit-więc nie zrobiło na tobie wrażenia to objawienie
+Outsourcing, stepping over dollars to pick up pennies-outsourcing, omijać dolary, żeby podnieść grosze
+Curiosity is the lust of the mind-ciekawość to pożądanie umysłu
+What can I say?-co mogę powiedzieć? / cóż, tak już jest
+I ain't snitching on shit-nic nikomu nie wygadam / nikogo nie sypnę
+I'll overlook the trespassing and the damages-przymknę oko na wtargnięcie i szkody
+Take this duly emotional young lady home-odprowadź tę nadmiernie emocjonalną pannę do domu
+It's a fucking racket-to cholerny przekręt / przeklęty układ
+We're just watching. It's recon.-tylko obserwujemy. to zwiad
+to get into something nefarious-wplątać się w coś niegodziwego / szemranego
+That's a deterrent-to odstraszacz / czynnik odstraszający
+We'll take a stack-weźmiemy pakiet / stertę / trochę kasy
+brushed aluminum dumpster you have us in-szczotkowany aluminiowy śmietnik, w którym nas trzymasz
+ergo, I'm number two-ergo, jestem numerem dwa
+like you're leaving money on the damn dresser-jakbyś zostawiał pieniądze na cholernej szafce (po akcie)
+Why do you need me for this lightweight ordeal?-czemu potrzebujesz mnie do tej błahostki / drobnej sprawy
+A vindictive federal agent-mściwy agent federalny
+Dwight is playing chess, and you're playing checkers-Dwight gra w szachy, a ty w warcaby
+We're biding time-przeczekujemy / gramy na czas
+Man, put that on your tombstone-stary, napisz to sobie na nagrobku
+We should pick a fight with them Dunmire bitches-powinniśmy zaczepić te suki z Dunmire
+I am obligated-jestem zobowiązany
+You have sway in Oklahoma-masz wpływy w Oklahomie
+given your intrusion-biorąc pod uwagę twoje wtargnięcie
+Your kin should have taught you manners-twoja rodzina powinna nauczyć cię manier
+it is tedious-to żmudne / nużące
+driveshaft-wał napędowy
+pulley-koło pasowe
+supercharger pulley pinned-koło pasowe kompresora zabezpieczone kołkiem
+crank-wał korbowy
+WireMock gives you multiple hooks-WireMock daje wiele haków / punktów zaczepienia
+here’s a crisp “Solution” write-up-oto zwięzły opis rozwiązania
+travel perks-korzyści podróżnicze
+I decided to change it preemptively-zdecydowałem się zmienić to zapobiegawczo
+Have a QQ-Mam szybkie pytanie
+rouge-róż (kosmetyk) / czerwień
+app gone rogue-zbuntowana aplikacja / „zagubiona” aplikacja
+To generate a human readable validation summary we will use the power of generative AI-Aby wygenerować zrozumiałe dla człowieka podsumowanie walidacji, użyjemy mocy generatywnej AI
+aggregate-agregat / uogólnienie
+are you there / are you available-jesteś? / dostępny?
+bank account request-żądanie dotyczące konta bankowego
+bank account response-odpowiedź dotycząca konta bankowego
+crisp solution-konkretnie opisane rozwiązanie
+rouge app-zbuntowana / „zagubiona” aplikacja
+dynamic extensions-rozszerzenia dynamiczne
+fog light-światło przeciwmgielne
+follow-up-kontynuacja / dopytanie
+get pinned (pulley pinned)-zabezpieczone kołkiem
+group by-grupowanie
+hook (in WireMock)-hak / punkt zaczepienia
+human-readable summary-zrozumiałe przez człowieka podsumowanie
+linear actuator-siłownik liniowy
+lost app / rogue app-zbuntowana / działająca niepoprawnie aplikacja
+merge lists-łączenie list
+meter (metric)-miernik
+option-opcja
+ordered by / order by-sortowane według
+response object-obiekt odpowiedzi
+rogue-zbuntowany / działający poza kontrolą
+scheduled processor-zaplanowany procesor
+sentinel key-klucz wartownika
+solution write-up-opis rozwiązania
+transformer-transformator / przekształtnik logiczny
+update / update data-aktualizować
+use case-przypadek użycia
+with clause (SQL)-klauzula WITH
