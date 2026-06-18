@@ -163,6 +163,7 @@ thank you - dziękuję
     const hasCard = !!card;
     $('emptyState').style.display = hasCard ? 'none' : '';
     $('qaWrap').style.display = hasCard ? '' : 'none';
+    $('answerZones').style.display = hasCard ? 'grid' : 'none';
 
     // lista plików
     const ul = $('filesList'); ul.innerHTML = '';
@@ -302,6 +303,8 @@ thank you - dziękuję
   // BAD/GOOD: pierwsze kliknięcie = pokaż tłumaczenie, drugie = oceniaj
   $('goodBtn').addEventListener('click', ()=> onAnswer('good'));
   $('badBtn').addEventListener('click', ()=> onAnswer('bad'));
+  $('goodZone').addEventListener('click', ()=> onAnswer('good'));
+  $('badZone').addEventListener('click', ()=> onAnswer('bad'));
   $('revertBtn').addEventListener('click', onRevert);
   $('removeBtn').addEventListener('click', removeCurrentCard);
   $('restoreRemovedBtn').addEventListener('click', resetRemoved);
@@ -330,4 +333,3 @@ thank you - dziękuję
 
   $('resetBtn').addEventListener('click', ()=>{ state.learned=new Set(); save(); recompute(); });
 })();
-

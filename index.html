@@ -10,6 +10,10 @@
     body{margin:0;background:#0a0a0a;color:#e5e5e5;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Inter,sans-serif}
     .wrap{max-width:720px;margin:0 auto;padding:16px 16px 120px}
     .card{border:1px solid #262626;background:#0f0f0f;border-radius:16px;padding:12px}
+    .question-card{position:relative;overflow:hidden}
+    .answer-zones{position:absolute;inset:0;display:grid;grid-template-columns:1fr 1fr;z-index:1}
+    .answer-zone{border:0;background:transparent;color:transparent;cursor:pointer;padding:0;outline:none}
+    .secondary-actions{margin-top:32px}
     .row{display:flex;gap:12px}
     .btn{padding:10px 16px;border-radius:12px;border:1px solid #262626;background:#171717;color:#e5e5e5;font-weight:600;cursor:pointer}
     .btn.primary{background:#fff;color:#0a0a0a;border-color:#fff}
@@ -35,7 +39,7 @@
   <div class="wrap">
     <h1 style="font-size:24px;font-weight:800;margin:16px 0 8px">Fiszki EN↔PL</h1>
 
-    <div class="card" id="questionCard">
+    <div class="card question-card" id="questionCard">
       <div id="emptyState" style="display:none;text-align:center">
         <div style="font-size:18px;font-weight:700">🎉 Wszystko odhaczone!</div>
         <div class="muted" style="margin-top:4px">Wgraj więcej plików albo kliknij „Reset progresu”.</div>
@@ -44,13 +48,17 @@
         <div class="big" id="prompt"></div>
         <div class="medium" id="answer" style="display:none;margin-top:12px"></div>
       </div>
+      <div class="answer-zones" id="answerZones">
+        <div class="answer-zone" id="goodZone" aria-hidden="true"></div>
+        <div class="answer-zone" id="badZone" aria-hidden="true"></div>
+      </div>
     </div>
 
     <div class="grid2" style="margin-top:12px">
       <button class="btn success" id="goodBtn">GOOD</button>
       <button class="btn danger" id="badBtn">BAD</button>
     </div>
-    <div class="row" style="gap:8px;margin-top:8px;flex-wrap:wrap">
+    <div class="row secondary-actions" style="gap:8px;flex-wrap:wrap">
       <button class="btn" id="revertBtn">⟲ Revert</button>
       <button class="btn" id="removeBtn">Usuń słowo</button>
       <button class="btn" id="restoreRemovedBtn">Przywróć usunięte</button>
@@ -97,4 +105,3 @@
   <script src="./app.js"></script>
 </body>
 </html>
-
