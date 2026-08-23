@@ -1,0 +1,53 @@
+fallout - skutki, następstwa, konsekwencje
+Thanks for the update on what happened while I was away. - Dzięki za informacje o tym, co się działo, kiedy mnie nie było.
+So the above doesn't get misused. - Żeby powyższe nie zostało niewłaściwie wykorzystane.
+First name, last name, and email can be anything. - Imię, nazwisko i e=mail mogą być dowolne.
+The operation is gated to the SM_API_ONLY security role, declared as x=permissions: ["SM_API_ONLY"] - Operacja jest ograniczona do roli bezpieczeństwa SM_API_ONLY, zadeklarowanej jako x=permissions: ["SM_API_ONLY"].
+against all odds - wbrew wszelkim przeciwnościom / mimo wszystko
+odds - szanse / prawdopodobieństwo
+the odds are against you - szanse są przeciwko tobie / masz małe szanse
+What are the odds? - Jakie są szanse?
+no fluff - bez zbędnego gadania / bez lania wody / same konkrety
+(which is billed in arrears) - (które jest rozliczane z dołu / po zakończeniu okresu rozliczeniowego)
+Do we still need some safeguards / alerting to control the cost? - Czy nadal potrzebujemy jakichś zabezpieczeń / alertów, żeby kontrolować koszty?
+Bedrock bills the same inference in arrears on the existing AWS account - Bedrock rozlicza to samo wnioskowanie z dołu na istniejącym koncie AWS.
+arrears - zaległości / płatność z dołu
+in arrears - z dołu / po fakcie / po zakończeniu okresu
+billed in arrears - rozliczany z dołu
+in advance - z góry
+billed in advance - rozliczany z góry
+consumption is not visible on any bill we already reconcile - zużycie nie jest widoczne na żadnej fakturze, którą już uzgadniamy / rozliczamy
+reconcile - uzgadniać / porównywać i sprawdzać zgodność
+reconcile a bill - uzgodnić / zweryfikować fakturę
+reconcile accounts - uzgodnić konta / sprawdzić zgodność rozliczeń
+bedrock - podłoże skalne / fundament skalny
+AWS Bedrock - nazwa usługi AWS do tworzenia i uruchamiania rozwiązań opartych na generatywnej AI
+phone chimes, vibrates - telefon wydaje dźwięk powiadomienia i wibruje
+chime - dzwonić / wydawać krótki, melodyjny dźwięk
+a chime - dźwięk / gong / sygnał dźwiękowy
+The phone chimed. - Telefon wydał dźwięk powiadomienia.
+Do you got any intel, an... an address or anything? - Masz jakieś informacje, jakiś... jakiś adres albo cokolwiek?
+You might be the least perceptive person I've ever met. - Możliwe, że jesteś najmniej spostrzegawczą osobą, jaką kiedykolwiek spotkałem.
+A crisp $100 bill you can tell me one true thing about me. - Nowiutki banknot 100 dolarów, jeśli powiesz mi jedną prawdziwą rzecz o mnie.
+Pass. - Pasuję.
+No. It's the stance. - Nie. Chodzi o postawę.
+Homicide or Vice. - Wydział zabójstw albo obyczajówka.
+Your little candy affectation. - Ta twoja mała słabość do słodyczy.
+But we can't just yet. - Ale jeszcze nie możemy.
+Of course she fucking implied that. She's scared. She wants to rattle you. - Oczywiście, że kurwa to zasugerowała. Boi się. Chce wyprowadzić cię z równowagi.
+I'm not as stealthy as I thought. - Nie jestem tak dyskretny, jak myślałem.
+and I thought we could just, like, you know, vibe out. - i pomyślałem, że moglibyśmy po prostu, no wiesz, wyluzować i miło spędzić czas.
+Three of Lazaar's top guys got pinched a few years ago. - Trzech najważniejszych ludzi Lazaara zgarnęła policja kilka lat temu.
+Lambert is a meticulous motherfucker. - Lambert to cholernie skrupulatny gość.
+I'll be right outside. - Będę tuż na zewnątrz.
+and, well, our guest has besmirched my good name - i cóż, nasz gość zszargał moje dobre imię
+and I come running with the syringe. - a ja przybiegam ze strzykawką.
+You started your career siphoning money from your affluent parents' bank accounts. - Zacząłeś swoją karierę od wyprowadzania pieniędzy z kont bankowych swoich zamożnych rodziców.
+Hedge funds came next, then private offshore accounts - Potem przyszły fundusze hedgingowe, a następnie prywatne konta zagraniczne.
+about your stunted intellect? - o twoim ograniczonym intelekcie?
+How long did the money last, you weak, disloyal inebriate? - Na jak długo starczyły ci te pieniądze, ty słaby, nielojalny pijaku?
+Former Army medic drummed out of service for shooting up Uncle Sam's morphine. - Były sanitariusz wojskowy wyrzucony ze służby za ćpanie wojskowej morfiny.
+And instead of removing a bullet, you nicked an artery - I zamiast wyjąć kulę, uszkodziłeś tętnicę.
+I barely grazed you. Now give me your gun so I can patch you up. - Ledwo cię drasnąłem. Teraz daj mi broń, żebym mógł cię opatrzyć.
+A deal's a deal. - Umowa to umowa.
+Still gullible at your age, you fuckin' freak? - Nadal jesteś taki naiwny w tym wieku, ty pieprzony dziwaku?
