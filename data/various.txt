@@ -1,0 +1,35 @@
+This is abysmal timing. - To fatalny moment.
+I'm pondering this huge move for you. And this happens. - Rozważam dla ciebie ten ogromny krok. I nagle dzieje się coś takiego.
+Oh, my God. - O mój Boże.
+She's a relic. - Ona jest jak z innej epoki.
+I am currently editing a memoir. - Obecnie redaguję pamiętnik.
+Just to back up, you can hire us. - Tak tylko dla wyjaśnienia, możesz nas zatrudnić.
+Your complete abandonment of your principles means a lot. - Twoje całkowite porzucenie swoich zasad wiele dla mnie znaczy.
+An insider's book about Miranda could be huge. - Książka o Mirandzie napisana przez kogoś z jej otoczenia mogłaby odnieść ogromny sukces.
+that causes you to trudge. - przez co musisz mozolnie brnąć dalej.
+we need to appease an important advertiser. - musimy udobruchać ważnego reklamodawcę.
+I mean, what a shambles. - No naprawdę, co za bałagan.
+I've had to unruffle so many feathers because as you know, - Musiałem załagodzić tyle konfliktów, bo jak wiesz,
+is predicated on your sterling reputation. - opiera się na twojej nieskazitelnej reputacji.
+Momentary lapse. - Chwilowe potknięcie.
+Well, please help yourself to standards galore, - No cóż, częstuj się całą masą standardów,
+I think as a consequence of your lapse in judgment, - Myślę, że w konsekwencji twojego błędu w ocenie,
+It's five, with brand mentions in all captions. - Jest pięć, ze wzmiankami o marce we wszystkich podpisach.
+You are a CEO's latest whim. - Jesteś najnowszym kaprysem prezesa.
+I don't mind that blazer. - Nie przeszkadza mi ta marynarka.
+Is it... - Czy to...
+The winding road that brings us back to me, - Kręta droga, która prowadzi nas z powrotem do mnie,
+I don't have a firm date yet - Nie mam jeszcze konkretnego terminu.
+rate limiting - ograniczanie liczby żądań
+budget caps - limity budżetowe
+ok, noted - okej, przyjąłem / zanotowałem
+found along the way - znaleziony przy okazji
+found incidentally - znaleziony przypadkiem / przy okazji
+came across it while doing something else - natknąłem się na to przy okazji robienia czegoś innego
+This is not directly related to the HM=55070 feature, but I spotted it while working in this area. - Nie jest to bezpośrednio związane z funkcjonalnością HM=55070, ale zauważyłem to przy okazji pracy w tym obszarze.
+with dogged persistence - z uporem maniaka
+stubbornly - uparcie / z uporem
+relentlessly - nieustępliwie / uparcie, bez odpuszczania
+nationalIdType and nationalId are coupled — both must be sent together or not at all - nationalIdType i nationalId są ze sobą powiązane = oba muszą być przesłane razem albo żadne z nich.
+the if condition passed vacuously - warunek if przechodził automatycznie, bo nie było przypadku, który mógłby go obalić
+vacuously true - prawdziwy w sposób pusty / formalnie prawdziwy z powodu braku elementów do sprawdzenia
