@@ -1,0 +1,117 @@
+There’s no chance. - Nie ma szans.
+time lapse - upływ czasu / nagranie poklatkowe
+depend on abstractions, not concretions - zależeć od abstrakcji, a nie od konkretnych implementacji
+tenured objects - obiekty długowieczne / obiekty w starej generacji pamięci JVM
+tenure - okres pełnienia funkcji / staż / przeniesienie obiektu do starej generacji JVM
+I can start work on November 1st. - Mogę zacząć pracę od 1 listopada.
+I have experience working for two banks, Credit Suisse and Witty (a Dubai startup), and I’m an experienced developer. - Mam doświadczenie w pracy dla dwóch banków, Credit Suisse i Witty (startup z Dubaju), i jestem doświadczonym programistą.
+intentional data duplication - celowe duplikowanie danych
+lip smack - cmoknięcie / mlaskanie ustami
+clear your throat - odchrząknąć
+pivot transaction - transakcja przełomowa / transakcja stanowiąca punkt bez odwrotu w procesie Saga
+pivot - punkt zwrotny / oś obrotu / zmiana strategii
+pivotal - kluczowy / przełomowy / decydujący
+This was a pivotal moment in the project. - To był przełomowy moment w projekcie.
+We need to pivot our strategy. - Musimy zmienić naszą strategię.
+The pivot transaction is the point of no return in a Saga. - Transakcja pivot jest punktem, po którym nie ma już odwrotu w procesie Saga.
+reconciliation - uzgadnianie / uzgodnienie danych / rozliczenie rozbieżności / pojednanie
+data reconciliation - uzgadnianie danych między systemami
+reconciliation process - proces wykrywania i korygowania rozbieżności
+bank reconciliation - uzgadnianie salda bankowego z zapisami księgowymi
+We use reconciliation to detect inconsistencies between services. - Używamy uzgadniania danych, aby wykrywać niespójności między serwisami.
+reliable event publishing - niezawodna publikacja zdarzeń
+superfluous - zbędny / niepotrzebny / nadmiarowy
+This check is superfluous. - To sprawdzenie jest zbędne.
+superfluous code - zbędny kod
+converge - zbiegać się / osiągać zgodność
+The two systems will eventually converge. - Oba systemy ostatecznie osiągną spójność.
+The results converge over time. - Wyniki z czasem stają się coraz bardziej zbieżne.
+eventual convergence - ostateczne osiągnięcie spójności
+bulkhead - gródź / przegroda / mechanizm izolacji awarii
+bulkhead pattern - wzorzec izolacji awarii
+The bulkhead pattern prevents failures from spreading across services. - Wzorzec Bulkhead zapobiega rozprzestrzenianiu się awarii pomiędzy serwisami.
+overwhelm - przytłaczać / przeciążać / obezwładniać
+The server is overwhelmed by requests. - Serwer jest przeciążony żądaniami.
+I feel overwhelmed. - Czuję się przytłoczony.
+Don’t overwhelm the system with too many requests. - Nie przeciążaj systemu zbyt dużą liczbą żądań.
+backpressure - mechanizm kontroli przeciążenia / regulowanie tempa napływu danych
+Backpressure prevents consumers from being overwhelmed by producers. - Backpressure zapobiega przeciążeniu konsumentów przez producentów danych.
+The system applies backpressure when the consumer cannot keep up. - System stosuje mechanizm kontroli przeciążenia, gdy konsument nie nadąża z przetwarzaniem danych.
+affinity - powinowactwo / podobieństwo / przywiązanie / preferencja
+CPU affinity - przypisanie procesu lub wątku do określonych rdzeni procesora
+session affinity - przypisanie sesji użytkownika do konkretnego serwera
+I have an affinity for programming. - Mam naturalne zamiłowanie do programowania.
+Pod affinity determines which pods should run together. - Pod affinity określa, które pody powinny być uruchamiane razem.
+pristine - nieskazitelny / nienaruszony / idealnie czysty
+The car is in pristine condition. - Samochód jest w idealnym stanie.
+We need a pristine environment for testing. - Potrzebujemy czystego, niezmodyfikowanego środowiska do testowania.
+The data must remain pristine. - Dane muszą pozostać nienaruszone.
+churn - ciągła rotacja / powtarzające się zmiany / bezproduktywne powtarzanie operacji
+retry churn - nieustanne, bezproduktywne ponawianie prób
+A message that repeatedly fails processing and can block or churn retries without DLQ/error handling. - Wiadomość, której przetwarzanie wielokrotnie kończy się niepowodzeniem i która bez obsługi błędów lub kolejki DLQ może blokować przetwarzanie albo powodować niekończące się ponawianie prób.
+customer churn - odpływ klientów
+employee churn - rotacja pracowników
+ferocious - zaciekły / zawzięty / brutalny / niezwykle agresywny
+one of the most thrilling and ferocious boxers of all time - jeden z najbardziej ekscytujących i zaciekłych bokserów wszech czasów
+brilliance - geniusz / wybitny talent / błyskotliwość
+But his brilliance in the ring was often compromised by reckless behaviour. - Jednak jego niezwykły talent na ringu często był zaprzepaszczany przez lekkomyślne zachowanie.
+proceedings - postępowanie / czynności prawne
+criminal proceedings - postępowanie karne
+Years of hard partying, violent fights and criminal proceedings took their toll. - Lata intensywnego imprezowania, brutalnych bójek i postępowań karnych zebrały swoje żniwo.
+punch line - puenta żartu / pointa dowcipu
+the punch line to a thousand bad late=night jokes - puenta tysiąca kiepskich nocnych dowcipów
+chronicles - opisuje / przedstawia / dokumentuje wydarzenia
+Tyson chronicles his tumultuous highs and lows. - Tyson opisuje burzliwe wzloty i upadki swojego życia.
+straightforward - bezpośredni / szczery / prostolinijny
+in the same sincere, straightforward manner - w ten sam szczery i bezpośredni sposób
+notoriety - zła sława / niesława / rozgłos z negatywnych powodów
+A singular journey from Brooklyn’s ghettos to worldwide fame then notoriety. - Niezwykła droga od gett Brooklynu do światowej sławy, a następnie niesławy.
+tranquil - spokojny / pełen spokoju / niezmącony
+A singular journey from Brooklyn’s ghettos to worldwide fame, then notoriety and, finally, to a tranquil wisdom. - Niezwykła droga od gett Brooklynu do światowej sławy, następnie niesławy, a w końcu do spokojnej, dojrzałej mądrości.
+memoir - wspomnienia / pamiętnik / autobiografia
+Undisputed Truth is not only a great sporting memoir but also an autobiography for the ages. - Undisputed Truth to nie tylko znakomite wspomnienia sportowe, ale także ponadczasowa autobiografia.
+mesmerized - zahipnotyzowany / oczarowany / urzeczony
+Everyone who has ever been mesmerized. - Każdy, kto kiedykolwiek został zahipnotyzowany lub oczarowany.
+tranquilized - uspokojony środkami farmakologicznymi / otumaniony
+Everyone who has ever been marginalized, tranquilized, beaten down. - Każdy, kto kiedykolwiek został zepchnięty na margines, otumaniony środkami uspokajającymi lub psychicznie złamany.
+romancing - romansowanie / uwodzenie / nawiązywanie romantycznych relacji
+I was traveling around the country romancing all of my various women. - Podróżowałem po kraju, romansując z różnymi kobietami.
+fend off - odpierać / odganiać / bronić się przed kimś
+I was fending off all the women who propositioned me. - Odpierałem zaloty wszystkich kobiet, które składały mi propozycje seksualne.
+indignantly - z oburzeniem / z poczuciem urażonej godności
+I’d strike back indignantly with a rude response. - Odpowiadałem z oburzeniem, reagując w niegrzeczny sposób.
+stronghold - bastion / twierdza / miejsce silnych wpływów
+Indianapolis, Indiana, historically one of the strongholds of the Ku Klux Klan. - Indianapolis w stanie Indiana, historycznie jeden z bastionów Ku Klux Klanu.
+impetuous - porywczy / impulsywny / gwałtowny
+My style was impetuous, my defenses were impregnable, and I was ferocious. - Mój styl był gwałtowny, moja obrona nie do przebicia, a ja byłem zaciekły.
+impregnable - nie do przebicia / nie do pokonania / niezdobyty
+My defenses were impregnable. - Moja obrona była nie do przebicia.
+delusions of grandeur - urojenia wielkościowe / przesadne poczucie własnej ważności
+It’s amazing how a low self=esteem and a huge ego can give you delusions of grandeur. - To niesamowite, jak niska samoocena i ogromne ego mogą prowadzić do urojeń wielkościowych.
+grandeur - wielkość / wspaniałość / majestat
+divine intervention - boska interwencja / ingerencja sił wyższych
+But first I tried some divine intervention. - Ale najpierw spróbowałem skorzystać z pomocy sił wyższych.
+thoughtful - refleksyjny / rozważny / troskliwy
+a sensitive and thoughtful young man - wrażliwy i refleksyjny młody człowiek
+deterrent - środek odstraszający / czynnik zniechęcający / prewencyjny
+I would strongly recommend that other options with both deterrent and treatment potential be considered. - Zdecydowanie zalecałbym rozważenie innych rozwiązań, które mają zarówno potencjał odstraszający, jak i terapeutyczny.
+beseech - błagać / usilnie prosić / zaklinać
+I beseech you to spare him incarceration. - Błagam pana, aby oszczędził mu kary więzienia.
+profanity - wulgaryzmy / przekleństwa / nieprzyzwoity język
+He no longer uses profanity or vulgarity. - Nie używa już przekleństw ani wulgarnego języka.
+vigilante - samozwańczy stróż prawa / osoba wymierzająca sprawiedliwość na własną rękę
+He became a vigilante and started hunting down criminals. - Stał się samozwańczym stróżem prawa i zaczął ścigać przestępców.
+heartfelt - szczery / płynący prosto z serca / pełen uczuć
+Don’s personal heartfelt letter to the judge. - Osobisty, szczery list Dona do sędziego, napisany prosto z serca.
+recounted - opowiedział / przytoczył / zrelacjonował
+He recounted the time we met with Simon Wiesenthal. - Opowiedział o tym, jak spotkaliśmy się z Simonem Wiesenthalem.
+scumbag - śmieć / kanalia / łajdak / podły człowiek
+Mike Tyson is not a scumbag. - Mike Tyson nie jest kanalią.
+infirm - niedołężny / schorowany / słaby fizycznie
+taking care of the weak and the infirm - opiekowanie się słabymi i niedołężnymi
+doom - zagłada / zguba / nieuchronny tragiczny los
+be doomed - być skazanym na porażkę lub zagładę
+The project is doomed to fail. - Projekt jest skazany na porażkę.
+We’re all doomed. - Wszyscy jesteśmy zgubieni.
+airfare - koszt biletu lotniczego / opłata za przelot
+We had paid for his airfare. - Zapłaciliśmy za jego przelot.
