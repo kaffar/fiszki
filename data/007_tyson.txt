@@ -1,0 +1,129 @@
+Load shedding - celowe odrzucanie części żądań w celu ochrony systemu przed przeciążeniem
+Backpressure - ograniczanie tempa napływania żądań, gdy system nie nadąża z ich przetwarzaniem
+Shed - pozbywać się, zrzucać, zrzucać z siebie, tracić (zależnie od kontekstu)
+Shed light on something - rzucić światło na coś, wyjaśnić coś
+Shed tears - ronić łzy
+Shed weight - zrzucić wagę
+Shed jobs - redukować miejsca pracy
+Shed load - odrzucać obciążenie
+Cammed Scat Pack - Scat Pack ze zmodyfikowanym wałkiem rozrządu
+Be truthful - Mów prawdę, bądź szczery, bądź prawdomówny
+Truthful - szczery, prawdomówny, zgodny z prawdą
+Reclaimable space - przestrzeń możliwa do odzyskania, miejsce, które można zwolnić (np. na dysku)
+Reclaim - odzyskać, przywrócić, odzyskiwać coś utraconego lub zajętego
+Reclaim disk space - odzyskać miejsce na dysku
+Engineering marvels - cuda inżynierii, niezwykłe osiągnięcia techniki
+Marvel - cud, coś niezwykłego, coś budzącego podziw
+Aspire - aspirować, dążyć do czegoś, mieć ambicję osiągnięcia czegoś
+Ordinary executive sedan - zwykły sedan klasy biznesowej, przeciętna limuzyna klasy wyższej
+Ordinary - zwykły, przeciętny, niczym się niewyróżniający
+Executive sedan - sedan klasy biznesowej / wyższej, np. BMW serii 5, Mercedes klasy E
+Interleaving - przeplatanie, przeplatanie się, wykonywanie czegoś naprzemiennie
+Thread interleaving - przeplatanie wykonywania wątków
+Interleaving operations - przeplatanie operacji
+Interleave - przeplatać, wykonywać naprzemiennie
+Bask in - rozkoszować się czymś, pławić się w czymś
+Adulation - uwielbienie, bezgraniczny podziw, przesadny zachwyt
+Cut me in - dał mi udział, dopuścił mnie do podziału zysków
+Condemned - przeznaczony do rozbiórki, uznany za niezdatny do użytkowania
+Smearing - rozmazując, rozsmarowując, brudząc
+Urged - namawiał, ponaglał, usilnie zachęcał
+Whooping - wiwatowanie, wznoszenie radosnych okrzyków
+Applauding - oklaskiwanie, bicie braw
+Skipping - podskakiwanie, wykonywanie lekkich podskoków
+To no avail - bezskutecznie, na próżno
+Bats - kije baseballowe, pałki
+Exact revenge - dokonać zemsty, wziąć odwet
+Pummeling - okładanie pięściami, zasypywanie ciosami, brutalne bicie
+Brazen - bezczelny, zuchwały, bezwstydny
+Tenement - kamienica czynszowa, budynek z mieszkaniami na wynajem, często o niskim standardzie
+Welfare checks - zasiłki socjalne wypłacane w formie czeków
+Nerve - tupet, czelność, bezczelna odwaga
+Compassion - współczucie, empatia, litość
+Hustling on the side - dorabianie na boku, często w nielegalny lub nieuczciwy sposób
+Hustlers - kombinatorzy, cwaniacy, ludzie zarabiający pieniądze dzięki sprytowi, często nielegalnie
+Square - sztywniak, nudziarz, ktoś zbyt porządny lub przestrzegający zasad
+Jailbird - kryminalista, recydywista, osoba często trafiająca do więzienia
+Sleazy - obleśny, szemrany, podejrzany, moralnie odrażający
+Screech - pisk, zgrzyt, przenikliwy dźwięk
+Rafters - krokwie, belki konstrukcji dachowej
+Drawn - wyciągnięty, dobyty (np. broń)
+Busting my balls - wkurzanie mnie, zawracanie mi głowy, dawanie mi w kość (wulgarnie)
+Ten=foot jump - skok na odległość dziesięciu stóp (około 3 metrów)
+Intimate contact - bliski, bezpośredni kontakt
+Block - przecznica, kwartał zabudowy, okolica
+Precinct - komisariat policji, rewir policyjny
+Proceeded - następnie coś zrobił, przystąpił do czegoś
+Minor - osoba niepełnoletnia, nieletni
+Jostling - przepychanie się, potrącanie
+Glance - zerknąć, rzucić okiem
+Dice - kości do gry
+Brawling - bić się, uczestniczyć w bójce
+Commotion - zamieszanie, wrzawa, poruszenie
+Smacked - uderzył, walnął, spoliczkował
+Curled up - skulić się, zwinąć się w kłębek, przyjąć skuloną pozycję
+Grasp - zrozumieć, pojąć, przyswoić
+Court=mandated - nakazany przez sąd, obowiązkowy na mocy decyzji sądu
+Special ed - edukacja specjalna, szkolnictwo specjalne
+Snatched - wyrwał, gwałtownie zabrał, ukradł
+Paraded - prowadzili na pokaz, ostentacyjnie przeprowadzili
+Juvenile - nieletni, młodociany
+Clobbered - pobity, mocno poturbowany, zlany
+Assembly - zgromadzenie, zebranie, apel
+Sewer rat - szczur kanałowy; przenośnie ktoś podły, odrażający
+Infancy - niemowlęctwo, wczesne dzieciństwo
+Correctional system - system resocjalizacji, system penitencjarny
+Hustle - kombinowanie, nielegalne zarabianie pieniędzy
+Facilitator - osoba, która coś ułatwia lub umożliwia
+Perpetrator - sprawca, winowajca
+Ominous - złowieszczy, niepokojący, zwiastujący coś złego
+Vicinity - okolica, pobliże
+Upstate - północna część stanu, poza głównym obszarem metropolitalnym
+Juvenile offenders - nieletni przestępcy, młodociani sprawcy przestępstw
+Cottages - domki, niewielkie budynki mieszkalne
+Tugging on - szarpać, ciągnąć za coś
+Lockdown - odosobnienie, zamknięcie pod ścisłym nadzorem
+Incorrigible - niepoprawny, niereformowalny
+Redneck - pogardliwie: prostak, wieśniak (szczególnie biały Amerykanin z prowincji)
+Growled - warknął, burknął groźnie
+Scholastics - nauka szkolna, wyniki w nauce
+Jacked up - mocno poturbowany, poobijany, w opłakanym stanie
+Counselors - wychowawcy, opiekunowie (w ośrodku poprawczym)
+Suck up to me - podlizywać mi się, przymilać się do mnie
+Flailing - wymachiwanie rękami na oślep, chaotyczne zadawanie ciosów
+Slugging - mocne uderzanie, okładanie pięściami
+Barked - warknął, rzucił szorstko (rozkaz)
+Supremely - niezwykle, wyjątkowo, w najwyższym stopniu
+Stout - krępy, tęgi, mocno zbudowany
+Maple - klon (drzewo)
+Splendid - wspaniały, znakomity, doskonały
+Clippings - wycinki prasowe
+Towering - wysoki, strzelisty, górujący nad otoczeniem
+Converted - przekształcony, zaadaptowany
+Envision - wyobrażać sobie
+Pleaded - błagał, usilnie prosił
+Lap - kolana, podołek (gdy siedzimy)
+Downtime - czas wolny, czas odpoczynku
+Lounged - wylegiwali się, leniuchowali, odpoczywali w wygodnej pozycji
+Exquisite - przepiękny, zachwycający, wyjątkowo piękny, wyrafinowany
+Objective - cel, zamierzenie
+Adrenal glands - nadnercza (gruczoły produkujące m.in. adrenalinę)
+Fatigue - zmęczenie, wyczerpanie
+Credit - przypisywać komuś umiejętności lub zasługi
+Dissipated - rozwiał się, rozproszył się, zniknął
+Archery - łucznictwo
+Afar - z daleka, z oddali, z dystansu
+Perpetual - nieustanny, ciągły, wieczny
+Osmosis - osmoza; przenośnie: przyswajanie czegoś bez wysiłku
+Confided in - zwierzył się komuś, powiedział coś komuś w zaufaniu
+Paroled - zwolniony warunkowo (z więzienia lub zakładu poprawczego)
+Destitute - skrajnie biedny, pozbawiony środków do życia
+Blank chalkboard - czysta tablica; ktoś, kogo można ukształtować
+Embrace - zaakceptować, przyjąć, pogodzić się z czymś
+Shortcomings - wady, słabości, niedoskonałości
+Upbringing - wychowanie, środowisko, w którym ktoś dorastał
+Inferior - gorszy, mniej wartościowy, niższy rangą
+Hard=boiled - twardy, nieustępliwy, zahartowany
+Apart from that one case, everything looks correct. - Oprócz tego jednego przypadku wszystko się zgadza
+Except for that one case, everything is correct. - Poza tym jednym przypadkiem wszystko jest poprawne
+Everything checks out except for that one case. - Wszystko się zgadza poza tym jednym przypadkiem
